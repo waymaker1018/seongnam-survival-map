@@ -89,7 +89,8 @@ npm run daily    # 크롤링 + 알림 한 번에 실행</pre>
 <h2>서울시 버전 (2026-06-12 추가)</h2>
 <ul>
 <li><strong>웹</strong>: <code>/seoul/</code> 경로 — 상단 성남↔서울 전환 버튼. 같은 app.js를 지역 설정(REGION_CONFIG)으로 재사용</li>
-<li><strong>학교 데이터</strong> (<code>data/seoul_schools.json</code>): OSM Overpass(이름·좌표) + NEIS 학교명 개별조회(주소·전화·홈페이지) + Nominatim 역지오코딩(동). 재구축: <code>node scripts/fetch_seoul_schools_v2.mjs</code></li>
+<li><strong>학교 데이터</strong> (<code>data/seoul_schools.json</code>): <strong>578개교</strong> (25개 구, 동 보유 574) — OSM Overpass(이름·좌표) + NEIS 학교명 개별조회(주소·전화·홈페이지) + Nominatim 역지오코딩(동). 재구축: <code>node scripts/fetch_seoul_schools_v2.mjs</code>. 서울 전체는 약 600개교 — OSM 미수록 20여 곳은 수동 추가 권장</li>
+<li><strong>구 경계선</strong>: <code>boundaries_seongnam.json</code>(3구)·<code>boundaries_seoul.json</code>(25구) GeoJSON — 파란 경계 표시, 경계 클릭으로 구 진입</li>
 <li>⚠️ NEIS는 키 없이 <strong>호출당 5행 제한</strong> + <code>accept</code> 헤더 보내면 500 오류 — 학교명 개별조회로 우회</li>
 <li><strong>채용 크롤러</strong> (<code>monitor_seoul_jobs.mjs</code>): 서울 11개 교육지원청 구인 게시판(<code>{청}.sen.go.kr/FUS/JO/JOL11.do</code>) — 초등+키워드 필터, 마감 지난 공고 제외. 청 코드: dbedu 동부 / sbedu 서부 / nbedu 남부 / bbedu 북부 / jbedu 중부 / gdspedu 강동송파 / gsycedu 강서양천 / gnscedu 강남서초 / dgedu 동작관악 / sdgjedu 성동광진 / sbgbedu 성북강북</li>
 <li>서울은 지원청 게시판이 중앙화되어 있어 학교 홈페이지 개별 크롤링은 하지 않음. work.sen.go.kr(일자리포털)은 JS 앱이라 직접 크롤링 불가</li>
