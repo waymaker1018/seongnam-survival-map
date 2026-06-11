@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>생존앱 — 성남 초등학교 채용공고 알림 시스템</title>
+<style>
+  body { font-family: "Pretendard", "Malgun Gothic", sans-serif; max-width: 860px; margin: 0 auto; padding: 32px 24px 64px; color: #1c2433; line-height: 1.7; background: #f8fafc; }
+  h1 { border-bottom: 3px solid #2563eb; padding-bottom: 10px; }
+  h2 { margin-top: 36px; color: #1d4ed8; }
+  blockquote { color: #65718a; border-left: 4px solid #dde3f0; margin: 0; padding: 4px 16px; }
+  table { border-collapse: collapse; width: 100%; font-size: 14px; }
+  th, td { border: 1px solid #dde3f0; padding: 8px 12px; text-align: left; }
+  th { background: #eef2ff; }
+  pre { background: #0f172a; color: #e2e8f0; padding: 16px; border-radius: 10px; overflow-x: auto; font-size: 13px; }
+  code { background: #e4edff; padding: 1px 6px; border-radius: 4px; font-size: 0.92em; }
+  pre code { background: none; padding: 0; }
+  .ok { color: #059669; font-weight: 700; }
+  ol li, ul li { margin: 4px 0; }
+</style>
+</head>
+<body>
+<h1>생존앱 — 성남 초등학교 채용공고 알림 시스템</h1>
+<blockquote>작성: 2026-06-11 · 기반: C:\GPT\seongnam-after-school-map (Codex 구버전) 재활용</blockquote>
+
+<h2>목표</h2>
+<p>성남시 모든 초등학교(74개교)의 채용 공고를 <strong>매일 자동으로 점검</strong>하고,
+늘봄·방과후학교 강사·디지털튜터 관련 새 공고가 뜨면 <strong>텔레그램과 메일로 즉시 알림</strong>.
+지도에서 <strong>구 → 동 → 학교</strong> 순서로 탐색하는 위치 기반 인터페이스 제공.</p>
+
+<h2>시스템 구성</h2>
+<pre>[매일 09:00 / 15:00 — Windows 작업 스케줄러]
+        │
+        ▼
+run_daily.cmd
+  ├─ ① monitor_seongnam_school_sites.mjs
+  │     · 74개 학교 홈페이지 게시판 스캔 (공지사항·채용·방과후·늘봄 등)
+  │     · 성남교육지원청 구인 게시판 스캔 (초등 관련만 필터)
+  │     · 키워드 매칭: 늘봄·방과후·강사·디지털튜터·코딩·AI·SW 등 33종
+  │     · 중복 제거 + 이미 본 공고 제외 (school_notice_state.json)
+  │     → data/school_notice_new.json (새 공고만)
+  │
+  └─ ② notify.py
+        · 텔레그램 봇 발송 (최대 25건 + 요약)
+        · Gmail SMTP 메일 발송
+        → logs/notify_YYYYMM.log</pre>
+
+<h2>지도 앱 실행</h2>
+<pre>cd C:\claude\projects\생존앱_성남채용알림_20260611
+npm run serve        # → http://localhost:4173</pre>
+<ul>
+<li>초기 화면: 성남시 3개 구 마커 (학교 수 표시)</li>
+<li>구 클릭 → 동별 마커 / 동 클릭 → 학교 마커 / 학교 클릭 → 상세 패널</li>
+<li>상세 패널: 주소·전화·홈페이지·네이버/카카오맵 링크 + 최근 공고 + 모집 이력(2024~2026)</li>
+<li>상단 검색창: 학교명/동 이름으로 바로 이동</li>
+</ul>
+
+<h2>데이터 파일</h2>
+<table>
+<tr><th>파일</th><th>내용</th><th>갱신</th></tr>
+<tr><td><code>data/schools.json</code></td><td>74개교 기본정보 + 좌표 + 동</td><td>수동 (연 1회 권장)</td></tr>
+<tr><td><code>data/geocode_cache.json</code></td><td>지오코딩 캐시</td><td>자동</td></tr>
+<tr><td><code>data/recruitments.json</code></td><td>모집 이력 1,286건 (2024~2026)</td><td><code>npm run fetch:data</code></td></tr>
+<tr><td><code>data/school_notice_hits.json</code></td><td>최근 매칭 공고 전체</td><td>매일 자동</td></tr>
+<tr><td><code>data/school_notice_new.json</code></td><td>직전 실행에서 새로 발견된 공고</td><td>매일 자동</td></tr>
+<tr><td><code>data/school_notice_state.json</code></td><td>이미 알림 보낸 공고 ID</td><td>매일 자동</td></tr>
+</table>
+
+<h2>⚙️ 남은 설정 (사용자 직접 — 약 10분)</h2>
+<h3>1. 텔레그램 봇 만들기</h3>
+<ol>
+<li>텔레그램에서 <strong>@BotFather</strong> 검색 → <code>/newbot</code> → 이름 입력 → <strong>봇 토큰</strong> 복사</li>
+<li>만든 봇과 대화 시작 (<code>/start</code> 한 번 보내기)</li>
+<li>브라우저에서 <code>https://api.telegram.org/bot&lt;토큰&gt;/getUpdates</code> 열기 → <code>"chat":{"id":123456789</code> 의 숫자가 <strong>chatId</strong></li>
+</ol>
+<h3>2. Gmail 앱 비밀번호</h3>
+<ol>
+<li>Google 계정 → 보안 → <strong>2단계 인증</strong> 켜기</li>
+<li><a href="https://myaccount.google.com/apppasswords">앱 비밀번호</a> 생성 → 16자리 복사</li>
+</ol>
+<h3>3. 설정 파일 작성</h3>
+<pre>cd C:\claude\projects\생존앱_성남채용알림_20260611\config
+copy notify_config.example.json notify_config.json
+notepad notify_config.json    # 토큰·chatId·메일주소·앱비밀번호 입력</pre>
+<h3>4. 테스트</h3>
+<pre>cd C:\claude\projects\생존앱_성남채용알림_20260611
+npm run daily    # 크롤링 + 알림 한 번에 실행</pre>
+
+<h2>자동 실행 현황</h2>
+<p><span class="ok">✅ Windows 작업 스케줄러에 <code>성남채용알림_일일점검</code> 등록 완료</span> — 매일 <strong>09:00, 15:00</strong> 실행.</p>
+<pre>Get-ScheduledTask -TaskName 성남채용알림_일일점검          # 상태 확인
+Start-ScheduledTask -TaskName 성남채용알림_일일점검         # 즉시 실행
+Unregister-ScheduledTask -TaskName 성남채용알림_일일점검    # 해제</pre>
+
+<h2>유지보수 노트</h2>
+<ul>
+<li><strong>2026-06 CMS 개편 대응</strong>: 경기도교육청 통합홈페이지가 글 링크를 <code>selectNttInfo.do?nttSn=</code> 직접 링크에서 <code>&lt;a data-id class="nttInfoBtn"&gt;</code> JS 방식으로 변경. 파서가 양쪽 모두 지원하므로 추후 또 바뀌면 <code>scripts/debug_board.mjs</code> 실행으로 마크업 진단.</li>
+<li><strong>구인게시판 날짜 컬럼</strong>: 마감일 → 등록일 순서. 날짜 2개면 마지막이 등록일.</li>
+<li><strong>대원초등학교 좌표</strong>: OSM에 없어 상대원동 중심 근사값 (<code>geoApprox: true</code>).</li>
+<li>알림이 갑자기 끊기면: <code>logs/daily.log</code>와 <code>logs/notify_*.log</code> 확인.</li>
+</ul>
+
+<h2>1세대(Codex판) 대비 개선점</h2>
+<table>
+<tr><th>항목</th><th>구버전 (C:\GPT)</th><th>현재</th></tr>
+<tr><td>지도</td><td>추상 카드 그리드</td><td>실제 지도 (Leaflet+OSM), 구→동→학교 드릴다운</td></tr>
+<tr><td>좌표/동</td><td>없음</td><td>74개교 전체 확보</td></tr>
+<tr><td>알림</td><td>없음 (JSON 저장만)</td><td>텔레그램 + 메일</td></tr>
+<tr><td>자동화</td><td>수동 실행</td><td>작업 스케줄러 매일 2회</td></tr>
+<tr><td>파서</td><td>2026-06 개편 후 작동 불능 (0건)</td><td>신구 마크업 모두 지원 (156건 수집 확인)</td></tr>
+<tr><td>교육청 게시판 노이즈</td><td>—</td><td>유치원·중·고 공고 자동 제외</td></tr>
+</table>
+</body>
+</html>

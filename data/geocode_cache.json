@@ -1,0 +1,440 @@
+{
+  "gomdan-e": {
+    "lat": 37.4293569,
+    "lng": 127.1437161,
+    "dong": "하대원동",
+    "method": "name"
+  },
+  "kumi-e": {
+    "lat": 37.3377272,
+    "lng": 127.1183648,
+    "dong": "구미동",
+    "method": "name"
+  },
+  "geumbit-e": {
+    "lat": 37.4473121,
+    "lng": 127.1400419,
+    "dong": "신흥동",
+    "method": "name"
+  },
+  "gumsang-e": {
+    "lat": 37.4431831,
+    "lng": 127.1663172,
+    "dong": "금광동",
+    "method": "name"
+  },
+  "naksaeng-e": {
+    "lat": 37.3940929,
+    "lng": 127.0990446,
+    "dong": "판교동",
+    "method": "name"
+  },
+  "naejeong-e": {
+    "lat": 37.3731691,
+    "lng": 127.1219035,
+    "dong": "수내동",
+    "method": "name"
+  },
+  "npr-e": {
+    "lat": 37.3580235,
+    "lng": 127.1051943,
+    "dong": "금곡동",
+    "method": "name"
+  },
+  "dannam-e": {
+    "lat": 37.4425742,
+    "lng": 127.1612873,
+    "dong": "금광동",
+    "method": "name"
+  },
+  "dandae-e": {
+    "lat": 37.4536014,
+    "lng": 127.1576539,
+    "dong": "단대동",
+    "method": "name"
+  },
+  "dangchon-e": {
+    "lat": 37.373871,
+    "lng": 127.1312675,
+    "dong": "서현동",
+    "method": "name"
+  },
+  "daeil-e": {
+    "lat": 37.4386817,
+    "lng": 127.1639768,
+    "dong": "중앙동",
+    "method": "name"
+  },
+  "daeha-e": {
+    "lat": 37.4315771,
+    "lng": 127.1518099,
+    "dong": "중앙동",
+    "method": "name"
+  },
+  "sdc-e": {
+    "lat": 37.414411,
+    "lng": 127.1579777,
+    "dong": "도촌동",
+    "method": "name"
+  },
+  "dolma-e": {
+    "lat": 37.4089888,
+    "lng": 127.130104,
+    "dong": "이매동",
+    "method": "name"
+  },
+  "baekhyeon-e": {
+    "lat": 37.3719955,
+    "lng": 127.1113385,
+    "dong": "수내동",
+    "method": "name"
+  },
+  "bp-e": {
+    "lat": 37.3956393,
+    "lng": 127.1177306,
+    "dong": "백현동",
+    "method": "name"
+  },
+  "bokjeong-e": {
+    "lat": 37.462216,
+    "lng": 127.1295527,
+    "dong": "복정동",
+    "method": "name"
+  },
+  "bundang-e": {
+    "lat": 37.3787638,
+    "lng": 127.1295116,
+    "dong": "서현동",
+    "method": "name"
+  },
+  "bulgok-e": {
+    "lat": 37.3409305,
+    "lng": 127.119439,
+    "dong": "정자동",
+    "method": "name"
+  },
+  "buljung-e": {
+    "lat": 37.3619269,
+    "lng": 127.120009,
+    "dong": "정자동",
+    "method": "name"
+  },
+  "sanun-e": {
+    "lat": 37.3895266,
+    "lng": 127.0789496,
+    "dong": "운중동",
+    "method": "name"
+  },
+  "sangdaewon-e": {
+    "lat": 37.4422021,
+    "lng": 127.1817939,
+    "dong": "상대원동",
+    "method": "name"
+  },
+  "sangwon-e": {
+    "lat": 37.4544303,
+    "lng": 127.1627791,
+    "dong": "은행동",
+    "method": "name"
+  },
+  "sangtap-e": {
+    "lat": 37.4063766,
+    "lng": 127.1459145,
+    "dong": "야탑동",
+    "method": "name"
+  },
+  "seodang-e": {
+    "lat": 37.3745076,
+    "lng": 127.1347276,
+    "dong": "서현동",
+    "method": "name"
+  },
+  "seohyeon-e": {
+    "lat": 37.3824515,
+    "lng": 127.1284196,
+    "dong": "서현동",
+    "method": "name"
+  },
+  "snd-e": {
+    "lat": 37.4495165,
+    "lng": 127.1633503,
+    "dong": "금광동",
+    "method": "address"
+  },
+  "snms-e": {
+    "lat": 37.4016384,
+    "lng": 127.1228784,
+    "dong": "이매동",
+    "method": "name"
+  },
+  "snb-e": {
+    "lat": 37.4516668,
+    "lng": 127.1510488,
+    "dong": "산성동",
+    "method": "name"
+  },
+  "seongnamseo-e": {
+    "lat": 37.4486062,
+    "lng": 127.1294015,
+    "dong": "태평동",
+    "method": "name"
+  },
+  "snsonghyeon-e": {
+    "lat": 37.4051843,
+    "lng": 127.1164369,
+    "dong": "삼평동",
+    "method": "name"
+  },
+  "snsj-e": {
+    "lat": 37.4365224,
+    "lng": 127.1319982,
+    "dong": "수진동",
+    "method": "name"
+  },
+  "snsg-e": {
+    "lat": 37.3667008,
+    "lng": 127.110499,
+    "dong": "정자동",
+    "method": "name"
+  },
+  "snsh-e": {
+    "lat": 37.4503361,
+    "lng": 127.1437144,
+    "dong": "신흥동",
+    "method": "name"
+  },
+  "snyj-e": {
+    "lat": 37.4583185,
+    "lng": 127.1608555,
+    "dong": "양지동",
+    "method": "address"
+  },
+  "snys-e": {
+    "lat": 37.4193782,
+    "lng": 127.1331968,
+    "dong": "여수동",
+    "method": "name"
+  },
+  "sneh-e": {
+    "lat": 37.4612477,
+    "lng": 127.1710011,
+    "dong": "은행동",
+    "method": "name"
+  },
+  "snjangan-e": {
+    "lat": 37.3722254,
+    "lng": 127.1440999,
+    "dong": "분당동",
+    "method": "name"
+  },
+  "snjj-e": {
+    "lat": 37.3741396,
+    "lng": 127.1051777,
+    "dong": "궁내동",
+    "method": "name"
+  },
+  "snji-e": {
+    "lat": 37.438416,
+    "lng": 127.149403,
+    "dong": "중앙동",
+    "method": "name"
+  },
+  "snjungang-e": {
+    "lat": 37.436273,
+    "lng": 127.1431962,
+    "dong": "하대원동",
+    "method": "name"
+  },
+  "sn-e": {
+    "lat": 37.4460466,
+    "lng": 127.1442541,
+    "dong": "신흥동",
+    "method": "name"
+  },
+  "hwarang-e": {
+    "lat": 37.3900127,
+    "lng": 127.1160671,
+    "dong": "백현동",
+    "method": "address"
+  },
+  "seongsu-e": {
+    "lat": 37.4342704,
+    "lng": 127.1273059,
+    "dong": "수진동",
+    "method": "name"
+  },
+  "sunae-e": {
+    "lat": 37.3676997,
+    "lng": 127.1246444,
+    "dong": "수내동",
+    "method": "name"
+  },
+  "sujin-e": {
+    "lat": 37.4444699,
+    "lng": 127.1325366,
+    "dong": "태평동",
+    "method": "name"
+  },
+  "shinbh-e": {
+    "lat": 37.3872795,
+    "lng": 127.1119975,
+    "dong": "백현동",
+    "method": "name"
+  },
+  "anmal-e": {
+    "lat": 37.392751,
+    "lng": 127.1256226,
+    "dong": "이매동",
+    "method": "name"
+  },
+  "yatap-e": {
+    "lat": 37.4162371,
+    "lng": 127.1258904,
+    "dong": null,
+    "method": "name"
+  },
+  "yy-e": {
+    "lat": 37.3744993,
+    "lng": 127.1394249,
+    "dong": "서현동",
+    "method": "name"
+  },
+  "ori-e": {
+    "lat": 37.3443626,
+    "lng": 127.1153711,
+    "dong": "구미동",
+    "method": "name"
+  },
+  "wang-e": {
+    "lat": 37.4283685,
+    "lng": 127.0983389,
+    "dong": "고등동",
+    "method": "name"
+  },
+  "uj-e": {
+    "lat": 37.3922131,
+    "lng": 127.0687614,
+    "dong": "운중동",
+    "method": "name"
+  },
+  "wrgoun-e": {
+    "lat": 37.4714272,
+    "lng": 127.1460271,
+    "dong": "창곡동",
+    "method": "name"
+  },
+  "wrjungang-e": {
+    "lat": 37.4718167,
+    "lng": 127.1360612,
+    "dong": "위례동",
+    "method": "name"
+  },
+  "wiryepureun-e": {
+    "lat": 37.4705369,
+    "lng": 127.1510793,
+    "dong": "창곡동",
+    "method": "name"
+  },
+  "whb-e": {
+    "lat": 37.465626,
+    "lng": 127.1469797,
+    "dong": "창곡동",
+    "method": "name"
+  },
+  "wrhs-e": {
+    "lat": 37.4609724,
+    "lng": 127.1399547,
+    "dong": "복정동",
+    "method": "name"
+  },
+  "imae-e": {
+    "lat": 37.3967062,
+    "lng": 127.1260759,
+    "dong": "이매동",
+    "method": "name"
+  },
+  "jungbu-e": {
+    "lat": 37.4513644,
+    "lng": 127.1651946,
+    "dong": "금광동",
+    "method": "name"
+  },
+  "joongwon-e": {
+    "lat": 37.4381841,
+    "lng": 127.1673241,
+    "dong": "상대원동",
+    "method": "name"
+  },
+  "jungtap-e": {
+    "lat": 37.4137048,
+    "lng": 127.1394795,
+    "dong": "야탑동",
+    "method": "name"
+  },
+  "chungsol-e": {
+    "lat": 37.3540435,
+    "lng": 127.1141617,
+    "dong": "구미동",
+    "method": "name"
+  },
+  "chorim-e": {
+    "lat": 37.3768381,
+    "lng": 127.1176676,
+    "dong": "수내동",
+    "method": "name"
+  },
+  "tanchun-e": {
+    "lat": 37.3615975,
+    "lng": 127.1156544,
+    "dong": "정자동",
+    "method": "name"
+  },
+  "tp-e": {
+    "lat": 37.4446684,
+    "lng": 127.1313722,
+    "dong": "태평동",
+    "method": "name"
+  },
+  "pangyodaejang-e": {
+    "lat": 37.3689937,
+    "lng": 127.0693238,
+    "dong": "대장동",
+    "method": "name"
+  },
+  "pangyo-e": {
+    "lat": 37.3869225,
+    "lng": 127.0915149,
+    "dong": "판교동",
+    "method": "name"
+  },
+  "hw-e": {
+    "lat": 37.4463516,
+    "lng": 127.1699941,
+    "dong": "금광동",
+    "method": "name"
+  },
+  "hatap-e": {
+    "lat": 37.4070324,
+    "lng": 127.1261691,
+    "dong": "이매동",
+    "method": "name"
+  },
+  "hs-e": {
+    "lat": 37.3666106,
+    "lng": 127.1179983,
+    "dong": "정자동",
+    "method": "name"
+  },
+  "hmd-e": {
+    "lat": 37.4467589,
+    "lng": 127.1487381,
+    "dong": "신흥동",
+    "method": "name"
+  },
+  "snmg-e": {
+    "lat": 37.353406,
+    "lng": 127.1101242,
+    "dong": "구미동",
+    "method": "fix"
+  }
+}

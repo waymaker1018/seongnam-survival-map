@@ -1,0 +1,14 @@
+{
+  "name": "seongnam-survival-app",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "enrich": "node scripts/enrich_schools.mjs",
+    "monitor": "node scripts/monitor_seongnam_school_sites.mjs",
+    "notify": "python scripts/notify.py",
+    "daily": "node scripts/monitor_seongnam_school_sites.mjs && python scripts/notify.py",
+    "serve": "node scripts/serve.mjs",
+    "fetch:data": "node scripts/fetch_official_data.mjs"
+  }
+}

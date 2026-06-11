@@ -1,0 +1,15 @@
+{
+  "telegram": {
+    "enabled": true,
+    "botToken": "여기에_봇토큰_입력 (예: 1234567890:AAAbbbCCC...)",
+    "chatId": "여기에_채팅ID_입력 (예: 123456789)"
+  },
+  "email": {
+    "enabled": true,
+    "smtpHost": "smtp.gmail.com",
+    "smtpPort": 465,
+    "user": "여기에_지메일주소_입력@gmail.com",
+    "appPassword": "여기에_앱비밀번호_16자리_입력",
+    "to": "받을주소_비우면_본인에게_발송@gmail.com"
+  }
+}

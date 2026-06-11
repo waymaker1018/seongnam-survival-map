@@ -1,0 +1,9 @@
+# 비밀정보 — 절대 커밋 금지
+config/notify_config.json
+
+# 로그·임시
+logs/
+*.log
+node_modules/
+__pycache__/
+.claude/

@@ -1,0 +1,30 @@
+{
+  "generatedAt": "2026-05-17T14:45:08.410Z",
+  "schoolSource": "https://www.goesn.kr/goesn/cm/cntnts/cntntsView.do?cntntsId=4406&mi=23643",
+  "recruitmentSource": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603",
+  "schoolCount": 74,
+  "recruitmentCount": 1286,
+  "notes": [
+    "Recruitment data is collected from official Seongnam Office of Education hiring-board search results.",
+    "Original notice body is not stored; each record keeps a source URL.",
+    "Program counts, pay, and vendor names are extracted heuristically and must be verified before business decisions.",
+    "Pay values are original notice fee text, not automatically converted to hourly wage unless the notice itself says hourly."
+  ],
+  "recruitmentYears": [
+    2024,
+    2025,
+    2026
+  ],
+  "recruitmentKeywords": [
+    "방과후",
+    "늘봄",
+    "선택형교육",
+    "코딩",
+    "컴퓨터",
+    "SW",
+    "AI",
+    "로봇",
+    "드론",
+    "외부강사"
+  ]
+}

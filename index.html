@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="noindex, nofollow">
+    <title>성남 채용 생존맵 — 초등학교 방과후·늘봄·디지털튜터</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <main class="app-shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">Seongnam survival map</p>
+          <h1>성남 채용 생존맵</h1>
+        </div>
+        <nav id="breadcrumb" class="breadcrumb" aria-label="위치 경로"></nav>
+        <div class="search-box">
+          <input id="searchInput" type="search" placeholder="학교 이름 검색 (예: 분당초)" autocomplete="off">
+          <div id="searchResults" class="search-results" hidden></div>
+        </div>
+      </header>
+
+      <section class="stats-row" id="statsRow" aria-label="요약"></section>
+
+      <section class="workspace">
+        <div class="map-panel">
+          <div id="map" class="map-canvas"></div>
+          <p class="map-hint" id="mapHint">구 마커를 클릭하면 동별로, 동 마커를 클릭하면 학교별로 들어갑니다.</p>
+        </div>
+
+        <aside class="detail-panel" aria-label="상세 정보">
+          <div id="detailContent" class="detail-content">
+            <div class="empty-state">
+              <p>지도에서 <strong>구 → 동 → 학교</strong> 순서로 클릭하세요.</p>
+              <p>학교를 선택하면 연락처·홈페이지·최근 공고가 여기 표시됩니다.</p>
+            </div>
+          </div>
+        </aside>
+      </section>
+
+      <section class="notice-section" aria-label="최근 공고">
+        <header class="notice-header">
+          <h2>최근 발견된 공고</h2>
+          <span id="noticeMeta" class="notice-meta"></span>
+        </header>
+        <div id="noticeList" class="notice-list"></div>
+      </section>
+    </main>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>

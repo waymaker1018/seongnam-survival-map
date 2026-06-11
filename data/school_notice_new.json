@@ -1,0 +1,30 @@
+{
+  "generatedAt": "2026-06-11T09:26:30.256Z",
+  "newCount": 2,
+  "items": [
+    {
+      "id": "imae-e:imae-e:1934633",
+      "schoolId": "imae-e",
+      "schoolName": "이매초등학교",
+      "schoolHomepage": "https://imae-e.goesn.kr",
+      "boardLabel": "수익자방과후",
+      "boardUrl": "https://imae-e.goesn.kr/imae-e/na/ntt/selectNttList.do?mi=16599&bbsId=13634&listCo=50&currPage=1",
+      "postedAt": "2026-06-10T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026학년도 1학기 수익자방과후 만족도조사 결과",
+      "url": "https://imae-e.goesn.kr/imae-e/na/ntt/selectNttInfo.do?mi=16599&bbsId=13634&nttSn=1934633"
+    },
+    {
+      "id": "imae-e:imae-e:1928680",
+      "schoolId": "imae-e",
+      "schoolName": "이매초등학교",
+      "schoolHomepage": "https://imae-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://imae-e.goesn.kr/imae-e/na/ntt/selectNttList.do?mi=16495&bbsId=13578&listCo=50&currPage=1",
+      "postedAt": "2026-05-14T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026학년도 2분기 수익자 방과후 수강신청 안내",
+      "url": "https://imae-e.goesn.kr/imae-e/na/ntt/selectNttInfo.do?mi=16495&bbsId=13578&nttSn=1928680"
+    }
+  ]
+}
