@@ -75,9 +75,19 @@ cd C:\claude\projects\생존앱_성남채용알림_20260611
 npm run daily    # 크롤링 + 알림 한 번에 실행
 ```
 
-## 자동 실행 현황
+## 웹 배포 현황 (2026-06-11)
+
+✅ **웹 주소: https://waymaker1018.github.io/seongnam-survival-map/** — 지인 공유용 (검색엔진 비노출)
+- GitHub 저장소: https://github.com/waymaker1018/seongnam-survival-map (계정: waymaker1018, 공개)
+- **GitHub Actions가 매일 KST 09:00·15:00 클라우드에서 크롤링** — 내 PC가 꺼져 있어도 지도 데이터 자동 갱신
+- 클라우드 알림을 켜려면 저장소 Settings → Secrets에 `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID` (메일은 `SMTP_USER`, `SMTP_APP_PASSWORD`, `MAIL_TO`) 등록
+- 지인들과 알림 공유: 텔레그램 그룹 만들고 봇 초대 → 그룹 chatId를 Secret에 등록
+- 개인정보: 자택 주소(은행동 2246) 전 파일에서 제거 완료 후 공개함
+
+## 자동 실행 현황 (로컬 — 보조)
 
 ✅ Windows 작업 스케줄러에 **`성남채용알림_일일점검`** 등록 완료 — 매일 **09:00, 15:00** 실행.
+클라우드(GitHub Actions)가 주 채널이므로 로컬은 보조용. 클라우드 알림 설정 후에는 중복 방지를 위해 로컬 쪽 알림 설정(config/notify_config.json)은 비워두거나 작업을 해제할 것.
 
 ```powershell
 Get-ScheduledTask -TaskName 성남채용알림_일일점검          # 상태 확인
