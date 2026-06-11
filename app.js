@@ -1,18 +1,28 @@
-/* 성남 채용 생존맵 — 구 → 동 → 학교 드릴다운 지도 */
+/* 채용 생존맵 — 구 → 동 → 학교 드릴다운 지도 (지역 설정 기반) */
+
+// 페이지별 지역 설정 — index.html에서 window.REGION_CONFIG로 덮어쓸 수 있음
+const REGION = Object.assign({
+  name: "성남시",
+  dataPrefix: "./data/",
+  schoolsFile: "schools.json",
+  recruitmentsFile: "recruitments.json",
+  hitsFile: "school_notice_hits.json",
+  trainingFile: "training_hits.json",
+  fallbackCenter: [37.42, 127.125],
+  initialZoom: 12
+}, window.REGION_CONFIG || {});
 
 const state = {
   schools: [],
   recruitments: [],
-  hits: [],            // 최근 발견 공고 (school_notice_hits.json)
-  training: [],        // 양성교육·전국 디지털튜터 (training_hits.json)
+  hits: [],            // 최근 발견 공고
+  training: [],        // 양성교육·전국 디지털튜터
+  districts: [],       // 데이터에서 파생
   level: "city",       // city | district | dong
   district: null,
   dong: null,
   selectedSchoolId: null
 };
-
-const DISTRICTS = ["수정구", "중원구", "분당구"];
-const SEONGNAM_CENTER = [37.42, 127.125];
 
 let map;
 let markerLayer;
@@ -37,16 +47,21 @@ async function loadJson(path, fallback) {
 }
 
 async function loadData() {
+  const prefix = REGION.dataPrefix;
   const [schools, recruitments, hits, training] = await Promise.all([
-    loadJson("./data/schools.json", []),
-    loadJson("./data/recruitments.json", []),
-    loadJson("./data/school_notice_hits.json", { items: [] }),
-    loadJson("./data/training_hits.json", { items: [] })
+    loadJson(prefix + REGION.schoolsFile, []),
+    loadJson(prefix + REGION.recruitmentsFile, []),
+    loadJson(prefix + REGION.hitsFile, { items: [] }),
+    loadJson(prefix + REGION.trainingFile, { items: [] })
   ]);
   state.schools = schools.filter((s) => s.lat && s.lng);
   state.recruitments = recruitments;
   state.hits = hits.items || [];
   state.training = training.items || [];
+  // 구 목록은 데이터에서 파생 — 학교 수 많은 순
+  const counts = {};
+  for (const s of state.schools) counts[s.district] = (counts[s.district] || 0) + 1;
+  state.districts = Object.keys(counts).sort((a, b) => counts[b] - counts[a] || a.localeCompare(b, "ko-KR"));
 
   initMap();
   bindSearch();
@@ -87,8 +102,12 @@ function historyFor(schoolId) {
 }
 
 /* ── 지도 ───────────────────────────────── */
+function cityCenter() {
+  return state.schools.length ? centroid(state.schools) : REGION.fallbackCenter;
+}
+
 function initMap() {
-  map = L.map("map", { zoomControl: true }).setView(SEONGNAM_CENTER, 12);
+  map = L.map("map", { zoomControl: true }).setView(cityCenter(), REGION.initialZoom);
   L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
     maxZoom: 18,
     attribution: '&copy; OpenStreetMap'
@@ -107,7 +126,7 @@ function renderMap() {
   markerLayer.clearLayers();
 
   if (state.level === "city") {
-    for (const district of DISTRICTS) {
+    for (const district of state.districts) {
       const schools = schoolsIn(district);
       if (!schools.length) continue;
       const hot = hitCountIn(district);
@@ -118,7 +137,7 @@ function renderMap() {
         () => { state.level = "district"; state.district = district; state.dong = null; render(); }
       );
     }
-    map.flyTo(SEONGNAM_CENTER, 12, { duration: 0.6 });
+    map.flyTo(cityCenter(), REGION.initialZoom, { duration: 0.6 });
   }
 
   if (state.level === "district") {
@@ -155,7 +174,7 @@ function renderMap() {
 /* ── 빵부스러기 ─────────────────────────── */
 function renderBreadcrumb() {
   const parts = [];
-  parts.push(`<button data-nav="city" aria-current="${state.level === "city"}">성남시 전체</button>`);
+  parts.push(`<button data-nav="city" aria-current="${state.level === "city"}">${escapeHtml(REGION.name)} 전체</button>`);
   if (state.district) {
     parts.push(`<span class="sep">›</span>`);
     parts.push(`<button data-nav="district" aria-current="${state.level === "district"}">${escapeHtml(state.district)}</button>`);
@@ -182,11 +201,15 @@ function renderStats() {
   const officeHits = state.hits.filter((h) => !h.schoolId).length;
   const thisYear = new Date().getFullYear();
   const yearCount = state.recruitments.filter((r) => r.recruitmentYear === thisYear).length;
+  // 구가 3개 이하(성남)면 구별 학교 수, 많으면(서울) 구 개수 표시
+  const districtCard = state.districts.length <= 3
+    ? `<div class="stat-card"><div class="num">${state.districts.map((d) => schoolsIn(d).length).join(" · ")}</div><div class="label">${state.districts.map((d) => escapeHtml(d.replace(/구$/, ""))).join(" · ")}</div></div>`
+    : `<div class="stat-card"><div class="num">${state.districts.length}</div><div class="label">자치구</div></div>`;
   $("statsRow").innerHTML = `
-    <div class="stat-card"><div class="num">${state.schools.length}</div><div class="label">성남시 초등학교</div></div>
+    <div class="stat-card"><div class="num">${state.schools.length}</div><div class="label">${escapeHtml(REGION.name)} 초등학교</div></div>
     <div class="stat-card"><div class="num hot">${totalHits}</div><div class="label">최근 발견 공고 (학교 ${totalHits - officeHits} · 교육청 ${officeHits})</div></div>
     <div class="stat-card"><div class="num">${yearCount}</div><div class="label">${thisYear}년 모집 이력</div></div>
-    <div class="stat-card"><div class="num">${DISTRICTS.map((d) => schoolsIn(d).length).join(" · ")}</div><div class="label">수정 · 중원 · 분당</div></div>
+    ${districtCard}
   `;
 }
 

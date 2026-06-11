@@ -4,24 +4,24 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="noindex, nofollow">
-    <title>성남 채용 생존맵 — 초등학교 방과후·늘봄·디지털튜터</title>
+    <title>서울 채용 생존맵 — 초등학교 방과후·늘봄·디지털튜터</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
-    <link rel="stylesheet" href="./styles.css">
+    <link rel="stylesheet" href="../styles.css">
   </head>
   <body>
     <main class="app-shell">
       <header class="topbar">
         <div>
-          <p class="eyebrow">Seongnam survival map</p>
-          <h1>성남 채용 생존맵</h1>
+          <p class="eyebrow">Seoul survival map</p>
+          <h1>서울 채용 생존맵</h1>
           <nav class="region-switch" aria-label="지역 선택">
-            <a href="./" aria-current="true">성남</a>
-            <a href="./seoul/">서울</a>
+            <a href="../">성남</a>
+            <a href="./" aria-current="true">서울</a>
           </nav>
         </div>
         <nav id="breadcrumb" class="breadcrumb" aria-label="위치 경로"></nav>
         <div class="search-box">
-          <input id="searchInput" type="search" placeholder="학교 이름 검색 (예: 분당초)" autocomplete="off">
+          <input id="searchInput" type="search" placeholder="학교 이름 검색 (예: 송파초)" autocomplete="off">
           <div id="searchResults" class="search-results" hidden></div>
         </div>
       </header>
@@ -61,7 +61,19 @@
       </section>
     </main>
 
+    <script>
+      window.REGION_CONFIG = {
+        name: "서울시",
+        dataPrefix: "../data/",
+        schoolsFile: "seoul_schools.json",
+        recruitmentsFile: "seoul_recruitments.json",
+        hitsFile: "seoul_notice_hits.json",
+        trainingFile: "training_hits.json",
+        fallbackCenter: [37.5665, 126.978],
+        initialZoom: 11
+      };
+    </script>
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-    <script src="./app.js"></script>
+    <script src="../app.js"></script>
   </body>
 </html>

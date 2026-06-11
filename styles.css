@@ -51,6 +51,31 @@ body {
   font-size: 24px;
 }
 
+.region-switch {
+  margin-top: 4px;
+  display: flex;
+  gap: 4px;
+}
+
+.region-switch a {
+  font-size: 12px;
+  padding: 2px 10px;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  color: var(--muted);
+  text-decoration: none;
+}
+
+.region-switch a[aria-current="true"] {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+  font-weight: 600;
+}
+
+.region-switch a:hover { border-color: var(--accent); color: var(--accent); }
+.region-switch a[aria-current="true"]:hover { color: #fff; }
+
 .breadcrumb {
   display: flex;
   align-items: center;

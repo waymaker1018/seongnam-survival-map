@@ -6,8 +6,10 @@
   "scripts": {
     "enrich": "node scripts/enrich_schools.mjs",
     "monitor": "node scripts/monitor_seongnam_school_sites.mjs",
+    "monitor:seoul": "node scripts/monitor_seoul_jobs.mjs",
+    "monitor:training": "node scripts/monitor_training_programs.mjs",
     "notify": "python scripts/notify.py",
-    "daily": "node scripts/monitor_seongnam_school_sites.mjs && python scripts/notify.py",
+    "daily": "node scripts/monitor_seongnam_school_sites.mjs && node scripts/monitor_training_programs.mjs && node scripts/monitor_seoul_jobs.mjs && python scripts/notify.py",
     "serve": "node scripts/serve.mjs",
     "fetch:data": "node scripts/fetch_official_data.mjs"
   }

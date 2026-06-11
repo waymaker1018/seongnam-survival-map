@@ -31,6 +31,9 @@ jobs:
       - name: 양성교육·전국 디지털튜터 크롤링
         run: node scripts/monitor_training_programs.mjs
 
+      - name: 서울 11개 교육지원청 구인 크롤링
+        run: node scripts/monitor_seoul_jobs.mjs
+
       - name: 알림 발송 (Secrets 설정 시에만)
         if: ${{ vars.NOTIFY_ENABLED != 'false' }}
         env:
@@ -50,7 +53,7 @@ jobs:
         run: |
           git config user.name "survival-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/school_notice_hits.json data/school_notice_new.json data/school_notice_state.json data/training_hits.json data/training_new.json data/training_state.json
+          git add data/school_notice_hits.json data/school_notice_new.json data/school_notice_state.json data/training_hits.json data/training_new.json data/training_state.json data/seoul_notice_hits.json data/seoul_notice_new.json data/seoul_notice_state.json
           if git diff --cached --quiet; then
             echo "변경 없음"
           else

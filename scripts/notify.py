@@ -27,6 +27,7 @@ ROOT = Path(__file__).resolve().parent.parent
 CONFIG_PATH = ROOT / "config" / "notify_config.json"
 NEW_PATH = ROOT / "data" / "school_notice_new.json"
 TRAINING_PATH = ROOT / "data" / "training_new.json"
+SEOUL_PATH = ROOT / "data" / "seoul_notice_new.json"
 LOG_DIR = ROOT / "logs"
 
 TELEGRAM_MAX = 4096  # 텔레그램 메시지 길이 제한
@@ -158,10 +159,13 @@ def build_config():
 
 
 def collect_items() -> list:
-    """학교 채용 공고 + 양성교육·전국 디지털튜터 공고를 합쳐 반환."""
+    """성남 학교 + 서울 교육지원청 + 양성교육 공고를 합쳐 반환."""
     items = []
     if NEW_PATH.exists():
         items.extend(load_json(NEW_PATH).get("items", []))
+    # 서울 11개 교육지원청 구인 게시판 (형식 동일)
+    if SEOUL_PATH.exists():
+        items.extend(load_json(SEOUL_PATH).get("items", []))
     # 양성교육 항목은 형식이 달라서 알림용 공통 형식으로 변환
     if TRAINING_PATH.exists():
         for t in load_json(TRAINING_PATH).get("items", []):
