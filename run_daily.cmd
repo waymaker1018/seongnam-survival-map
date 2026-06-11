@@ -4,5 +4,6 @@ chcp 65001 > nul
 cd /d "%~dp0"
 echo [%date% %time%] 일일 점검 시작 >> logs\daily.log
 node scripts\monitor_seongnam_school_sites.mjs --lookback-days=14 >> logs\daily.log 2>&1
+node scripts\monitor_training_programs.mjs >> logs\daily.log 2>&1
 python scripts\notify.py >> logs\daily.log 2>&1
 echo [%date% %time%] 일일 점검 종료 >> logs\daily.log

@@ -4,6 +4,7 @@ const state = {
   schools: [],
   recruitments: [],
   hits: [],            // 최근 발견 공고 (school_notice_hits.json)
+  training: [],        // 양성교육·전국 디지털튜터 (training_hits.json)
   level: "city",       // city | district | dong
   district: null,
   dong: null,
@@ -36,14 +37,16 @@ async function loadJson(path, fallback) {
 }
 
 async function loadData() {
-  const [schools, recruitments, hits] = await Promise.all([
+  const [schools, recruitments, hits, training] = await Promise.all([
     loadJson("./data/schools.json", []),
     loadJson("./data/recruitments.json", []),
-    loadJson("./data/school_notice_hits.json", { items: [] })
+    loadJson("./data/school_notice_hits.json", { items: [] }),
+    loadJson("./data/training_hits.json", { items: [] })
   ]);
   state.schools = schools.filter((s) => s.lat && s.lng);
   state.recruitments = recruitments;
   state.hits = hits.items || [];
+  state.training = training.items || [];
 
   initMap();
   bindSearch();
@@ -249,6 +252,22 @@ function renderNotices() {
     : `<div class="empty-state">아직 수집된 공고가 없습니다. <code>npm run daily</code>를 실행하면 최신 공고를 수집합니다.</div>`;
 }
 
+/* ── 양성교육·전국 디지털튜터 목록 ──────────── */
+function renderTraining() {
+  const items = [...state.training].sort((a, b) => String(b.postedAt || "").localeCompare(String(a.postedAt || "")));
+  $("trainingMeta").textContent = items.length
+    ? `${items.length}건 — 국가 무료 양성교육 + 경기·서울 디지털튜터 채용`
+    : "";
+  $("trainingList").innerHTML = items.length
+    ? items.slice(0, 20).map((t) => `
+        <div class="notice-item">
+          <strong>${escapeHtml(t.source)}</strong>
+          <a href="${escapeHtml(t.url)}" target="_blank" rel="noopener">${escapeHtml(t.title)}</a>
+          <span class="meta">${escapeHtml((t.postedAt || "").slice(0, 10))}${t.deadline ? ` · 접수마감 ${escapeHtml(t.deadline.slice(0, 10))}` : ""}</span>
+        </div>`).join("")
+    : `<div class="empty-state">아직 수집된 양성교육 공고가 없습니다.</div>`;
+}
+
 /* ── 검색 ───────────────────────────────── */
 function bindSearch() {
   const input = $("searchInput");
@@ -295,6 +314,7 @@ function render() {
   renderMap();
   renderDetail();
   renderNotices();
+  renderTraining();
 
   const hints = {
     city: "구 마커를 클릭하면 동별로 들어갑니다.",

@@ -26,6 +26,7 @@ if hasattr(sys.stdout, "reconfigure"):
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG_PATH = ROOT / "config" / "notify_config.json"
 NEW_PATH = ROOT / "data" / "school_notice_new.json"
+TRAINING_PATH = ROOT / "data" / "training_new.json"
 LOG_DIR = ROOT / "logs"
 
 TELEGRAM_MAX = 4096  # 텔레그램 메시지 길이 제한
@@ -156,13 +157,31 @@ def build_config():
     return None
 
 
+def collect_items() -> list:
+    """학교 채용 공고 + 양성교육·전국 디지털튜터 공고를 합쳐 반환."""
+    items = []
+    if NEW_PATH.exists():
+        items.extend(load_json(NEW_PATH).get("items", []))
+    # 양성교육 항목은 형식이 달라서 알림용 공통 형식으로 변환
+    if TRAINING_PATH.exists():
+        for t in load_json(TRAINING_PATH).get("items", []):
+            items.append({
+                "schoolName": t.get("source", "양성교육"),
+                "boardLabel": "양성교육·전국채용",
+                "title": t.get("title", ""),
+                "url": t.get("url", ""),
+                "postedAt": t.get("postedAt"),
+                "deadline": t.get("deadline"),
+            })
+    return items
+
+
 def main() -> int:
-    if not NEW_PATH.exists():
-        log("school_notice_new.json 없음 — 먼저 monitor를 실행하세요")
+    if not NEW_PATH.exists() and not TRAINING_PATH.exists():
+        log("새 공고 파일 없음 — 먼저 monitor를 실행하세요")
         return 1
 
-    payload = load_json(NEW_PATH)
-    items = payload.get("items", [])
+    items = collect_items()
     if not items:
         log("새 공고 없음 — 알림 생략")
         return 0
