@@ -1,10 +1,16 @@
 {
+<<<<<<< Updated upstream
   "generatedAt": "2026-06-11T13:57:31.552Z",
   "hitCount": 8,
   "errors": [
     "교육부 공고 1p: fetch failed",
     "교육부 공고 3p: fetch failed"
   ],
+=======
+  "generatedAt": "2026-06-11T14:25:46.940Z",
+  "hitCount": 9,
+  "errors": [],
+>>>>>>> Stashed changes
   "items": [
     {
       "id": "dtjob:https://www.goepj.kr/goepj/na/ntt/selectNttInfo.do?mi=10838&bbsId=7202&nttSn=1333557",

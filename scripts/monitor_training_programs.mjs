@@ -39,12 +39,31 @@ function cleanHtml(value) {
   return decodeEntities(value).replace(/<[^>]*>/g, " ").replace(/\s+/g, " ").trim();
 }
 
+const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
 async function fetchText(url) {
   const response = await fetch(url, {
-    headers: { "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)", accept: "text/html" }
+    headers: {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      accept: "text/html",
+      "accept-language": "ko-KR,ko;q=0.9"
+    }
   });
   if (!response.ok) throw new Error(`Fetch failed ${response.status}: ${url}`);
   return response.text();
+}
+
+// 교육부 등 일부 사이트는 연속 요청에 간헐적으로 실패 — 간격을 두고 재시도
+async function fetchTextRetry(url, attempts = 3) {
+  for (let i = 1; i <= attempts; i += 1) {
+    try {
+      return await fetchText(url);
+    } catch (error) {
+      if (i === attempts) throw error;
+      await sleep(1500 * i);
+    }
+  }
+  throw new Error("unreachable");
 }
 
 // 1) 디지털튜터 포털 채용 — 지역·학교·인원·접수기간 구조화 행
@@ -151,7 +170,7 @@ async function main() {
 
   for (const source of sources) {
     try {
-      const html = await fetchText(source.url);
+      const html = await fetchTextRetry(source.url);
       const items = source.parse(html);
       all.push(...items);
       console.log(`${source.name}: ${items.length}건`);
@@ -159,6 +178,7 @@ async function main() {
       errors.push(`${source.name}: ${error.message}`);
       console.error(`${source.name} 실패: ${error.message}`);
     }
+    await sleep(800);
   }
 
   // 중복 제거 + 최신순
