@@ -53,14 +53,15 @@ async function fetchText(url) {
   return response.text();
 }
 
-// 교육부 등 일부 사이트는 연속 요청에 간헐적으로 실패 — 간격을 두고 재시도
-async function fetchTextRetry(url, attempts = 3) {
+// 교육부는 해외 IP(GitHub 서버)를 간헐 차단 — 간격을 두고 재시도.
+// 못 잡아도 공고가 목록에 1~2주 머물고 하루 2회 실행되므로 이후 실행에서 잡힘.
+async function fetchTextRetry(url, attempts = 4) {
   for (let i = 1; i <= attempts; i += 1) {
     try {
       return await fetchText(url);
     } catch (error) {
       if (i === attempts) throw error;
-      await sleep(1500 * i);
+      await sleep(2000 * i);
     }
   }
   throw new Error("unreachable");
@@ -162,10 +163,12 @@ async function main() {
   const sources = [
     { name: "디지털튜터 채용", url: DT_JOBS_URL, parse: parseDtJobs },
     { name: "디지털튜터 공지", url: DT_BOARD_URL, parse: parseDtBoard },
-    // 교육부 공고는 최근 3페이지까지 — 양성과정 공고를 놓치지 않도록
-    { name: "교육부 공고 1p", url: `${MOE_LIST_URL}&page=1`, parse: parseMoe },
-    { name: "교육부 공고 2p", url: `${MOE_LIST_URL}&page=2`, parse: parseMoe },
-    { name: "교육부 공고 3p", url: `${MOE_LIST_URL}&page=3`, parse: parseMoe }
+    // 교육부 공고는 최근 5페이지(약 10일치) — 간헐 접속 실패를 다음 실행에서 만회
+    ...[1, 2, 3, 4, 5].map((page) => ({
+      name: `교육부 공고 ${page}p`,
+      url: `${MOE_LIST_URL}&page=${page}`,
+      parse: parseMoe
+    }))
   ];
 
   for (const source of sources) {
