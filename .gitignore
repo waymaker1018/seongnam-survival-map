@@ -7,3 +7,6 @@ logs/
 node_modules/
 __pycache__/
 .claude/
+
+# 서울 데이터 빌드 캐시 (로컬 전용)
+data/seoul_build_cache.json

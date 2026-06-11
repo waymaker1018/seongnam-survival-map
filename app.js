@@ -8,6 +8,7 @@ const REGION = Object.assign({
   recruitmentsFile: "recruitments.json",
   hitsFile: "school_notice_hits.json",
   trainingFile: "training_hits.json",
+  boundariesFile: "boundaries_seongnam.json",
   fallbackCenter: [37.42, 127.125],
   initialZoom: 12
 }, window.REGION_CONFIG || {});
@@ -48,19 +49,21 @@ async function loadJson(path, fallback) {
 
 async function loadData() {
   const prefix = REGION.dataPrefix;
-  const [schools, recruitments, hits, training] = await Promise.all([
+  const [schools, recruitments, hits, training, boundaries] = await Promise.all([
     loadJson(prefix + REGION.schoolsFile, []),
     loadJson(prefix + REGION.recruitmentsFile, []),
     loadJson(prefix + REGION.hitsFile, { items: [] }),
-    loadJson(prefix + REGION.trainingFile, { items: [] })
+    loadJson(prefix + REGION.trainingFile, { items: [] }),
+    loadJson(prefix + REGION.boundariesFile, null)
   ]);
+  state.boundaries = boundaries;
   state.schools = schools.filter((s) => s.lat && s.lng);
   state.recruitments = recruitments;
   state.hits = hits.items || [];
   state.training = training.items || [];
-  // 구 목록은 데이터에서 파생 — 학교 수 많은 순
+  // 구 목록은 데이터에서 파생 — 학교 수 많은 순 (구 미상 제외)
   const counts = {};
-  for (const s of state.schools) counts[s.district] = (counts[s.district] || 0) + 1;
+  for (const s of state.schools) if (s.district) counts[s.district] = (counts[s.district] || 0) + 1;
   state.districts = Object.keys(counts).sort((a, b) => counts[b] - counts[a] || a.localeCompare(b, "ko-KR"));
 
   initMap();
@@ -106,6 +109,41 @@ function cityCenter() {
   return state.schools.length ? centroid(state.schools) : REGION.fallbackCenter;
 }
 
+// GeoJSON 속성 이름 → 구 이름 ("성남시분당구" → "분당구")
+function featureDistrict(feature) {
+  return String(feature?.properties?.name || "").replace(/^.*?시(?=.+구$)/, "");
+}
+
+let boundaryLayer = null;
+
+function renderBoundaries() {
+  if (!state.boundaries || !map) return;
+  if (boundaryLayer) boundaryLayer.remove();
+  boundaryLayer = L.geoJSON(state.boundaries, {
+    style: (feature) => {
+      const selected = featureDistrict(feature) === state.district;
+      return {
+        color: "#2563eb",
+        weight: selected ? 2.5 : 1.2,
+        opacity: selected ? 0.9 : 0.55,
+        fillColor: "#2563eb",
+        fillOpacity: selected ? 0.08 : 0.03
+      };
+    },
+    onEachFeature: (feature, layer) => {
+      const district = featureDistrict(feature);
+      if (!state.districts.includes(district)) return;
+      layer.on("click", () => {
+        state.level = "district";
+        state.district = district;
+        state.dong = null;
+        render();
+      });
+      layer.bindTooltip(district, { sticky: true, direction: "top" });
+    }
+  }).addTo(map);
+}
+
 function initMap() {
   map = L.map("map", { zoomControl: true }).setView(cityCenter(), REGION.initialZoom);
   L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
@@ -124,6 +162,7 @@ function chipMarker(latlng, html, className, onClick) {
 
 function renderMap() {
   markerLayer.clearLayers();
+  renderBoundaries();
 
   if (state.level === "city") {
     for (const district of state.districts) {
