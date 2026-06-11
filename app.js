@@ -253,6 +253,13 @@ function renderStats() {
 }
 
 /* ── 학교 상세 ───────────────────────────── */
+// NEIS 일부 학교는 홈페이지 주소에 http://가 빠져 있음 — 상대경로로 깨지는 것 방지
+function absoluteUrl(value) {
+  const url = String(value || "").trim();
+  if (!url) return "";
+  return /^https?:\/\//i.test(url) ? url : `https://${url}`;
+}
+
 function renderDetail() {
   const school = state.schools.find((s) => s.id === state.selectedSchoolId);
   if (!school) return;
@@ -268,10 +275,10 @@ function renderDetail() {
       <tr><th>주소</th><td>${escapeHtml(school.fullAddress)}</td></tr>
       <tr><th>전화</th><td><a href="tel:${escapeHtml(school.phone)}">${escapeHtml(school.phone)}</a></td></tr>
       <tr><th>팩스</th><td>${escapeHtml(school.fax || "-")}</td></tr>
-      <tr><th>홈페이지</th><td><a href="${escapeHtml(school.homepage)}" target="_blank" rel="noopener">${escapeHtml(school.homepage)}</a></td></tr>
+      <tr><th>홈페이지</th><td><a href="${escapeHtml(absoluteUrl(school.homepage))}" target="_blank" rel="noopener">${escapeHtml(school.homepage)}</a></td></tr>
     </table>
     <div class="link-row">
-      <a href="${escapeHtml(school.homepage)}" target="_blank" rel="noopener">학교 홈페이지</a>
+      <a href="${escapeHtml(absoluteUrl(school.homepage))}" target="_blank" rel="noopener">학교 홈페이지</a>
       <a href="${escapeHtml(school.naverMapUrl)}" target="_blank" rel="noopener">네이버지도</a>
       <a href="${escapeHtml(school.kakaoMapUrl)}" target="_blank" rel="noopener">카카오맵</a>
     </div>
