@@ -1,8 +1,20 @@
 {
-  "generatedAt": "2026-06-12T04:16:13.892Z",
-  "hitCount": 5,
+  "generatedAt": "2026-06-12T09:53:28.897Z",
+  "hitCount": 6,
   "errors": [],
   "items": [
+    {
+      "id": "seoul:gdspedu:8207",
+      "schoolId": "sen-7130138",
+      "schoolName": "서울송례초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강동송파 구인",
+      "boardUrl": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-06-12T00:00:00+09:00",
+      "title": "메이커강사 (시간제)",
+      "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
     {
       "id": "seoul:gnscedu:14142",
       "schoolId": null,
@@ -28,6 +40,18 @@
       "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:dgedu:10081",
+      "schoolId": null,
+      "schoolName": "(대림초)한국어 강사 채용 공고",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-06-16T00:00:00+09:00",
+      "title": "강사 (2026-06-12)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:sbedu:5545",
       "schoolId": "sen-7031278",
       "schoolName": "서울가재울초등학교",
@@ -38,18 +62,6 @@
       "deadline": "2026-06-17T00:00:00+09:00",
       "title": "맞춤형교실 개인위탁 외부강사",
       "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:dgedu:10070",
-      "schoolId": null,
-      "schoolName": "2026학년도 청룡초 코딩강사 채용 공고",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-06-17T00:00:00+09:00",
-      "title": "강사 (2026-06-10)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:sbedu:5546",

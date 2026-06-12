@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-12T04:14:38.020Z",
+  "generatedAt": "2026-06-12T09:51:54.335Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 104,
+  "hitCount": 119,
   "keywords": [
     "AI",
     "인공지능",
@@ -49,6 +49,18 @@
       "deadline": null,
       "title": "2026학년도 경기교육 방과후학교분야 투명사회협약서 안내",
       "url": "https://gomdan-e.goesn.kr/gomdan-e/na/ntt/selectNttInfo.do?mi=11008&bbsId=10498&nttSn=1934829"
+    },
+    {
+      "id": "kumi-e:kumi-e:1935029",
+      "schoolId": "kumi-e",
+      "schoolName": "구미초등학교",
+      "schoolHomepage": "https://kumi-e.goesn.kr",
+      "boardLabel": "방과후·돌봄",
+      "boardUrl": "https://kumi-e.goesn.kr/kumi-e/na/ntt/selectNttList.do?mi=10951&bbsId=10455&listCo=50&currPage=1",
+      "postedAt": "2026-06-11T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026 경기교육 방과후학교분야 투명사회협약서",
+      "url": "https://kumi-e.goesn.kr/kumi-e/na/ntt/selectNttInfo.do?mi=10951&bbsId=10455&nttSn=1935029"
     },
     {
       "id": "kumi-e:kumi-e:1934937",
@@ -111,6 +123,18 @@
       "url": "https://dangchon-e.goesn.kr/dangchon-e/na/ntt/selectNttInfo.do?mi=11719&bbsId=10883&nttSn=1934864"
     },
     {
+      "id": "daeha-e:daeha-e:1935101",
+      "schoolId": "daeha-e",
+      "schoolName": "대하초등학교",
+      "schoolHomepage": "https://daeha-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://daeha-e.goesn.kr/daeha-e/na/ntt/selectNttList.do?mi=11938&bbsId=11013&listCo=50&currPage=1",
+      "postedAt": "2026-06-11T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026 경기교육 방과후학교분야 투명사회협약서",
+      "url": "https://daeha-e.goesn.kr/daeha-e/na/ntt/selectNttInfo.do?mi=11938&bbsId=11013&nttSn=1935101"
+    },
+    {
       "id": "sdc-e:sdc-e:1934833",
       "schoolId": "sdc-e",
       "schoolName": "도촌초등학교",
@@ -121,6 +145,30 @@
       "deadline": null,
       "title": "2026학년도 경기교육 방과후학교분야 투명사회협약서 안내",
       "url": "https://sdc-e.goesn.kr/sdc-e/na/ntt/selectNttInfo.do?mi=17368&bbsId=14060&nttSn=1934833"
+    },
+    {
+      "id": "dolma-e:dolma-e:1935026",
+      "schoolId": "dolma-e",
+      "schoolName": "돌마초등학교",
+      "schoolHomepage": "https://dolma-e.goesn.kr",
+      "boardLabel": "방과후·돌봄",
+      "boardUrl": "https://dolma-e.goesn.kr/dolma-e/na/ntt/selectNttList.do?mi=26524&bbsId=20609&listCo=50&currPage=1",
+      "postedAt": "2026-06-11T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026 경기교육 방과후학교분야 투명사회협약서",
+      "url": "https://dolma-e.goesn.kr/dolma-e/na/ntt/selectNttInfo.do?mi=26524&bbsId=20609&nttSn=1935026"
+    },
+    {
+      "id": "dolma-e:dolma-e:1935028",
+      "schoolId": "dolma-e",
+      "schoolName": "돌마초등학교",
+      "schoolHomepage": "https://dolma-e.goesn.kr",
+      "boardLabel": "수익자 방과후",
+      "boardUrl": "https://dolma-e.goesn.kr/dolma-e/na/ntt/selectNttList.do?mi=26525&bbsId=20610&listCo=50&currPage=1",
+      "postedAt": "2026-06-11T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026 경기교육 방과후학교분야 투명사회협약서 안내",
+      "url": "https://dolma-e.goesn.kr/dolma-e/na/ntt/selectNttInfo.do?mi=26525&bbsId=20610&nttSn=1935028"
     },
     {
       "id": "sanun-e:sanun-e:1934963",
@@ -135,6 +183,18 @@
       "url": "https://sanun-e.goesn.kr/sanun-e/na/ntt/selectNttInfo.do?mi=12884&bbsId=11552&nttSn=1934963"
     },
     {
+      "id": "sangwon-e:sangwon-e:1935111",
+      "schoolId": "sangwon-e",
+      "schoolName": "상원초등학교",
+      "schoolHomepage": "https://sangwon-e.goesn.kr",
+      "boardLabel": "방과후학교",
+      "boardUrl": "https://sangwon-e.goesn.kr/sangwon-e/na/ntt/selectNttList.do?mi=12925&bbsId=11574&listCo=50&currPage=1",
+      "postedAt": "2026-06-11T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026 경기교육 방과후학교분야 투명사회협약서",
+      "url": "https://sangwon-e.goesn.kr/sangwon-e/na/ntt/selectNttInfo.do?mi=12925&bbsId=11574&nttSn=1935111"
+    },
+    {
       "id": "seodang-e:seodang-e:1934863",
       "schoolId": "seodang-e",
       "schoolName": "서당초등학교",
@@ -147,16 +207,28 @@
       "url": "https://seodang-e.goesn.kr/seodang-e/na/ntt/selectNttInfo.do?mi=19778&bbsId=15431&nttSn=1934863"
     },
     {
-      "id": "seohyeon-e:seohyeon-e:1934917",
-      "schoolId": "seohyeon-e",
-      "schoolName": "서현초등학교",
-      "schoolHomepage": "https://seohyeon-e.goesn.kr",
-      "boardLabel": "방과후・돌봄",
-      "boardUrl": "https://seohyeon-e.goesn.kr/seohyeon-e/na/ntt/selectNttList.do?mi=13426&bbsId=11860&listCo=50&currPage=1",
+      "id": "office:goesn:1935167",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
       "postedAt": "2026-06-11T15:00:00.000Z",
-      "deadline": null,
-      "title": "경기교육 방과후학교분야 투명사회 협약서",
-      "url": "https://seohyeon-e.goesn.kr/seohyeon-e/na/ntt/selectNttInfo.do?mi=13426&bbsId=11860&nttSn=1934917"
+      "deadline": "2026-06-16T15:00:00.000Z",
+      "title": "2026학년도 생존수영교육 특수교육대상학생 지원 강사 모집",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1935167"
+    },
+    {
+      "id": "office:goesn:1935146",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-06-11T15:00:00.000Z",
+      "deadline": "2026-06-15T15:00:00.000Z",
+      "title": "2026학년도 시간강사 채용 공고",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1935146"
     },
     {
       "id": "snd-e:snd-e:1934894",
@@ -183,6 +255,54 @@
       "url": "https://snms-e.goesn.kr/snms-e/na/ntt/selectNttInfo.do?mi=13315&bbsId=11788&nttSn=1934883"
     },
     {
+      "id": "seongnamseo-e:seongnamseo-e:1935055",
+      "schoolId": "seongnamseo-e",
+      "schoolName": "성남서초등학교",
+      "schoolHomepage": "https://seongnamseo-e.goesn.kr",
+      "boardLabel": "수익자 방과후",
+      "boardUrl": "https://seongnamseo-e.goesn.kr/seongnamseo-e/na/ntt/selectNttList.do?mi=27232&bbsId=21033&listCo=50&currPage=1",
+      "postedAt": "2026-06-11T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026 경기교육 방과후학교 분야 투명사회협약서",
+      "url": "https://seongnamseo-e.goesn.kr/seongnamseo-e/na/ntt/selectNttInfo.do?mi=27232&bbsId=21033&nttSn=1935055"
+    },
+    {
+      "id": "seongnamseo-e:seongnamseo-e:1935056",
+      "schoolId": "seongnamseo-e",
+      "schoolName": "성남서초등학교",
+      "schoolHomepage": "https://seongnamseo-e.goesn.kr",
+      "boardLabel": "방과후·돌봄",
+      "boardUrl": "https://seongnamseo-e.goesn.kr/seongnamseo-e/na/ntt/selectNttList.do?mi=27230&bbsId=20394&listCo=50&currPage=1",
+      "postedAt": "2026-06-11T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026학년도 경기교육 방과후학교 분야 투명사회협약서",
+      "url": "https://seongnamseo-e.goesn.kr/seongnamseo-e/na/ntt/selectNttInfo.do?mi=27230&bbsId=20394&nttSn=1935056"
+    },
+    {
+      "id": "snsonghyeon-e:snsonghyeon-e:1935024",
+      "schoolId": "snsonghyeon-e",
+      "schoolName": "성남송현초등학교",
+      "schoolHomepage": "https://snsonghyeon-e.goesn.kr",
+      "boardLabel": "방과후・돌봄",
+      "boardUrl": "https://snsonghyeon-e.goesn.kr/snsonghyeon-e/na/ntt/selectNttList.do?mi=26230&bbsId=20385&listCo=50&currPage=1",
+      "postedAt": "2026-06-11T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026 경기교육 방과후학교분야 투명사회협약서 안내",
+      "url": "https://snsonghyeon-e.goesn.kr/snsonghyeon-e/na/ntt/selectNttInfo.do?mi=26230&bbsId=20385&nttSn=1935024"
+    },
+    {
+      "id": "snsonghyeon-e:snsonghyeon-e:1935019",
+      "schoolId": "snsonghyeon-e",
+      "schoolName": "성남송현초등학교",
+      "schoolHomepage": "https://snsonghyeon-e.goesn.kr",
+      "boardLabel": "수익자 방과후",
+      "boardUrl": "https://snsonghyeon-e.goesn.kr/snsonghyeon-e/na/ntt/selectNttList.do?mi=13944&bbsId=12134&listCo=50&currPage=1",
+      "postedAt": "2026-06-11T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026 경기교육 방과후학교분야 투명사회협약 이행 확인표",
+      "url": "https://snsonghyeon-e.goesn.kr/snsonghyeon-e/na/ntt/selectNttInfo.do?mi=13944&bbsId=12134&nttSn=1935019"
+    },
+    {
       "id": "snsj-e:snsj-e:1934874",
       "schoolId": "snsj-e",
       "schoolName": "성남수정초등학교",
@@ -207,6 +327,18 @@
       "url": "https://snsj-e.goesn.kr/snsj-e/na/ntt/selectNttInfo.do?mi=26141&bbsId=20326&nttSn=1934875"
     },
     {
+      "id": "snsh-e:snsh-e:1935060",
+      "schoolId": "snsh-e",
+      "schoolName": "성남신흥초등학교",
+      "schoolHomepage": "https://snsh-e.goesn.kr",
+      "boardLabel": "수익자방과후",
+      "boardUrl": "https://snsh-e.goesn.kr/snsh-e/na/ntt/selectNttList.do?mi=23700&bbsId=17907&listCo=50&currPage=1",
+      "postedAt": "2026-06-11T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026학년도 경기교육 방과후학교분야 투명사회 협약서 안내",
+      "url": "https://snsh-e.goesn.kr/snsh-e/na/ntt/selectNttInfo.do?mi=23700&bbsId=17907&nttSn=1935060"
+    },
+    {
       "id": "snyj-e:snyj-e:1934878",
       "schoolId": "snyj-e",
       "schoolName": "성남양지초등학교",
@@ -229,6 +361,18 @@
       "deadline": null,
       "title": "2026 경기교육 방과후학교분야 투명사회협약 이행을 위한 투명사회협약서 안내 및 홍보",
       "url": "https://snyj-e.goesn.kr/snyj-e/na/ntt/selectNttInfo.do?mi=14308&bbsId=12360&nttSn=1934879"
+    },
+    {
+      "id": "snjangan-e:snjangan-e:1935011",
+      "schoolId": "snjangan-e",
+      "schoolName": "성남장안초등학교",
+      "schoolHomepage": "https://snjangan-e.goesn.kr",
+      "boardLabel": "수익자방과후 공지사항",
+      "boardUrl": "https://snjangan-e.goesn.kr/snjangan-e/na/ntt/selectNttList.do?mi=15276&bbsId=12935&listCo=50&currPage=1",
+      "postedAt": "2026-06-11T15:00:00.000Z",
+      "deadline": null,
+      "title": "경기교육 방과후학교분야 투명사회협약서",
+      "url": "https://snjangan-e.goesn.kr/snjangan-e/na/ntt/selectNttInfo.do?mi=15276&bbsId=12935&nttSn=1935011"
     },
     {
       "id": "snjj-e:snjj-e:1934994",
@@ -265,6 +409,30 @@
       "deadline": null,
       "title": "2026 경기교육 방과후학교분양 투명사회협약 안내",
       "url": "https://hwarang-e.goesn.kr/hwarang-e/na/ntt/selectNttInfo.do?mi=15038&bbsId=12766&nttSn=1934909"
+    },
+    {
+      "id": "seongsu-e:seongsu-e:1935112",
+      "schoolId": "seongsu-e",
+      "schoolName": "성수초등학교",
+      "schoolHomepage": "https://seongsu-e.goesn.kr",
+      "boardLabel": "수익자방과후 공지사항",
+      "boardUrl": "https://seongsu-e.goesn.kr/seongsu-e/na/ntt/selectNttList.do?mi=15564&bbsId=13077&listCo=50&currPage=1",
+      "postedAt": "2026-06-11T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026학년도 1기 수익자 방과후 수강신청결과 (2기신청 6/15-6/19)",
+      "url": "https://seongsu-e.goesn.kr/seongsu-e/na/ntt/selectNttInfo.do?mi=15564&bbsId=13077&nttSn=1935112"
+    },
+    {
+      "id": "sujin-e:sujin-e:1935004",
+      "schoolId": "sujin-e",
+      "schoolName": "수진초등학교",
+      "schoolHomepage": "https://sujin-e.goesn.kr",
+      "boardLabel": "방과후돌봄",
+      "boardUrl": "https://sujin-e.goesn.kr/sujin-e/na/ntt/selectNttList.do?mi=15790&bbsId=13209&listCo=50&currPage=1",
+      "postedAt": "2026-06-11T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026학년도 방과후돌봄 공개주간 안내",
+      "url": "https://sujin-e.goesn.kr/sujin-e/na/ntt/selectNttInfo.do?mi=15790&bbsId=13209&nttSn=1935004"
     },
     {
       "id": "sujin-e:sujin-e:1934932",
@@ -327,6 +495,18 @@
       "url": "https://wrhs-e.goesn.kr/wrhs-e/na/ntt/selectNttInfo.do?mi=27208&bbsId=21019&nttSn=1934983"
     },
     {
+      "id": "jungbu-e:jungbu-e:1935069",
+      "schoolId": "jungbu-e",
+      "schoolName": "중부초등학교",
+      "schoolHomepage": "https://jungbu-e.goesn.kr",
+      "boardLabel": "방과후학교",
+      "boardUrl": "https://jungbu-e.goesn.kr/jungbu-e/na/ntt/selectNttList.do?mi=16436&bbsId=13546&listCo=50&currPage=1",
+      "postedAt": "2026-06-11T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026 경기교육 늘봄. 방과후학교분야 투명사회협약 이행 및 모니터링 추진계획 안내",
+      "url": "https://jungbu-e.goesn.kr/jungbu-e/na/ntt/selectNttInfo.do?mi=16436&bbsId=13546&nttSn=1935069"
+    },
+    {
       "id": "chungsol-e:chungsol-e:1934922",
       "schoolId": "chungsol-e",
       "schoolName": "청솔초등학교",
@@ -339,6 +519,42 @@
       "url": "https://chungsol-e.goesn.kr/chungsol-e/na/ntt/selectNttInfo.do?mi=26233&bbsId=20387&nttSn=1934922"
     },
     {
+      "id": "chorim-e:chorim-e:1935122",
+      "schoolId": "chorim-e",
+      "schoolName": "초림초등학교",
+      "schoolHomepage": "https://chorim-e.goesn.kr",
+      "boardLabel": "방과후",
+      "boardUrl": "https://chorim-e.goesn.kr/chorim-e/na/ntt/selectNttList.do?mi=16957&bbsId=13836&listCo=50&currPage=1",
+      "postedAt": "2026-06-11T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026 경기교육 방과후학교분야 투명사회협약서",
+      "url": "https://chorim-e.goesn.kr/chorim-e/na/ntt/selectNttInfo.do?mi=16957&bbsId=13836&nttSn=1935122"
+    },
+    {
+      "id": "tanchun-e:tanchun-e:1935007",
+      "schoolId": "tanchun-e",
+      "schoolName": "탄천초등학교",
+      "schoolHomepage": "https://tanchun-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://tanchun-e.goesn.kr/tanchun-e/na/ntt/selectNttList.do?mi=12198&bbsId=11147&listCo=50&currPage=1",
+      "postedAt": "2026-06-11T15:00:00.000Z",
+      "deadline": null,
+      "title": "경기교육 방과후학교분야 투명사회협약서",
+      "url": "https://tanchun-e.goesn.kr/tanchun-e/na/ntt/selectNttInfo.do?mi=12198&bbsId=11147&nttSn=1935007"
+    },
+    {
+      "id": "pangyo-e:pangyo-e:1935070",
+      "schoolId": "pangyo-e",
+      "schoolName": "판교초등학교",
+      "schoolHomepage": "https://pangyo-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://pangyo-e.goesn.kr/pangyo-e/na/ntt/selectNttList.do?mi=13911&bbsId=12112&listCo=50&currPage=1",
+      "postedAt": "2026-06-11T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026학년도 여름방학 중 방과후과정 운영 인력 채용 공고",
+      "url": "https://pangyo-e.goesn.kr/pangyo-e/na/ntt/selectNttInfo.do?mi=13911&bbsId=12112&nttSn=1935070"
+    },
+    {
       "id": "hw-e:hw-e:1934962",
       "schoolId": "hw-e",
       "schoolName": "하원초등학교",
@@ -349,6 +565,18 @@
       "deadline": null,
       "title": "경기교육 방과후학교분야 투명사회협약서",
       "url": "https://hw-e.goesn.kr/hw-e/na/ntt/selectNttInfo.do?mi=14353&bbsId=12381&nttSn=1934962"
+    },
+    {
+      "id": "hatap-e:hatap-e:1935068",
+      "schoolId": "hatap-e",
+      "schoolName": "하탑초등학교",
+      "schoolHomepage": "https://hatap-e.goesn.kr",
+      "boardLabel": "방과후·돌봄",
+      "boardUrl": "https://hatap-e.goesn.kr/hatap-e/na/ntt/selectNttList.do?mi=14715&bbsId=12581&listCo=50&currPage=1",
+      "postedAt": "2026-06-11T15:00:00.000Z",
+      "deadline": null,
+      "title": "경기교육 방과후학교분야 투명사회협약서",
+      "url": "https://hatap-e.goesn.kr/hatap-e/na/ntt/selectNttInfo.do?mi=14715&bbsId=12581&nttSn=1935068"
     },
     {
       "id": "naejeong-e:naejeong-e:1934552",
@@ -603,18 +831,6 @@
       "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1934139"
     },
     {
-      "id": "office:goesn:1933875",
-      "schoolId": null,
-      "schoolName": "성남교육지원청 구인",
-      "schoolHomepage": "https://www.goesn.kr",
-      "boardLabel": "성남교육지원청 구인",
-      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
-      "postedAt": "2026-06-08T15:00:00.000Z",
-      "deadline": "2026-06-14T15:00:00.000Z",
-      "title": "2026학년도 AI 중점학교 프로그램 강사 모집 공고(당촌초)",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1933875"
-    },
-    {
       "id": "snji-e:snji-e:1934056",
       "schoolId": "snji-e",
       "schoolName": "성남제일초등학교",
@@ -709,18 +925,6 @@
       "deadline": null,
       "title": "2026학년도 불곡초 돌봄 특기적성 강사채용 공고(목-바둑체스)",
       "url": "https://bulgok-e.goesn.kr/bulgok-e/na/ntt/selectNttInfo.do?mi=26814&bbsId=20818&nttSn=1933463"
-    },
-    {
-      "id": "office:goesn:1933698",
-      "schoolId": null,
-      "schoolName": "성남교육지원청 구인",
-      "schoolHomepage": "https://www.goesn.kr",
-      "boardLabel": "성남교육지원청 구인",
-      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
-      "postedAt": "2026-06-07T15:00:00.000Z",
-      "deadline": "2026-06-13T15:00:00.000Z",
-      "title": "2026학년도 중도입국자녀 한국어교실 강사 채용 공고",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1933698"
     },
     {
       "id": "snd-e:snd-e:1933639",
@@ -853,18 +1057,6 @@
       "deadline": null,
       "title": "2026학년도 수익자 방과후 교육 프로그램 1분기 수익자 부담경비 정산 공개",
       "url": "https://dandae-e.goesn.kr/dandae-e/na/ntt/selectNttInfo.do?mi=11776&bbsId=10926&nttSn=1933312"
-    },
-    {
-      "id": "snys-e:snys-e:1933241",
-      "schoolId": "snys-e",
-      "schoolName": "성남여수초등학교",
-      "schoolHomepage": "https://snys-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://snys-e.goesn.kr/snys-e/na/ntt/selectNttList.do?mi=13840&bbsId=12070&listCo=50&currPage=1",
-      "postedAt": "2026-06-04T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026 「 방학전, 부모의 감정이해와 자녀성장 」특강 안내",
-      "url": "https://snys-e.goesn.kr/snys-e/na/ntt/selectNttInfo.do?mi=13840&bbsId=12070&nttSn=1933241"
     },
     {
       "id": "sneh-e:sneh-e:1933135",
@@ -1021,18 +1213,6 @@
       "deadline": null,
       "title": "2026학년도 신백현초 초1~2 맞춤형 프로그램 신체활동 개인위탁 외부강사 공고문",
       "url": "https://shinbh-e.goesn.kr/shinbh-e/na/ntt/selectNttInfo.do?mi=15610&bbsId=13107&nttSn=1932996"
-    },
-    {
-      "id": "tp-e:tp-e:1932995",
-      "schoolId": "tp-e",
-      "schoolName": "태평초등학교",
-      "schoolHomepage": "https://tp-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://tp-e.goesn.kr/tp-e/na/ntt/selectNttList.do?mi=12666&bbsId=11410&listCo=50&currPage=1",
-      "postedAt": "2026-06-03T15:00:00.000Z",
-      "deadline": null,
-      "title": "5학년 교육연극 운영 협력 강사 채용 공고",
-      "url": "https://tp-e.goesn.kr/tp-e/na/ntt/selectNttInfo.do?mi=12666&bbsId=11410&nttSn=1932995"
     },
     {
       "id": "pangyodaejang-e:pangyodaejang-e:1932956",

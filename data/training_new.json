@@ -1,5 +1,14 @@
 {
-  "generatedAt": "2026-06-12T04:15:59.345Z",
-  "newCount": 0,
-  "items": []
+  "generatedAt": "2026-06-12T09:53:14.865Z",
+  "newCount": 1,
+  "items": [
+    {
+      "id": "dtjob:https://www.goepj.kr/goepj/na/ntt/selectNttInfo.do?mi=10838&bbsId=7202&nttSn=1336892",
+      "source": "전국 디지털튜터 채용",
+      "title": "[경기도 · 천현초등학교] (파주 천현초) 에듀테크 활용 프로그램 전문강사 모집 공고(3,4학년) (1명)",
+      "postedAt": "2026-06-12T00:00:00+09:00",
+      "deadline": "2026-06-18T00:00:00+09:00",
+      "url": "https://www.goepj.kr/goepj/na/ntt/selectNttInfo.do?mi=10838&bbsId=7202&nttSn=1336892"
+    }
+  ]
 }
