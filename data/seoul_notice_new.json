@@ -1,5 +1,30 @@
 {
-  "generatedAt": "2026-06-11T18:57:13.290Z",
-  "newCount": 0,
-  "items": []
+  "generatedAt": "2026-06-12T04:16:13.892Z",
+  "newCount": 2,
+  "items": [
+    {
+      "id": "seoul:gnscedu:14142",
+      "schoolId": null,
+      "schoolName": "여름방학 중 에듀케어강사(특수에듀케어강사) 대체",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강남서초 구인",
+      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-06-12T00:00:00+09:00",
+      "title": "에듀케어강사 (이현희)",
+      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:sbedu:5546",
+      "schoolId": "sen-7031141",
+      "schoolName": "서울신도초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
+      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-06-18T00:00:00+09:00",
+      "title": "문화예술협력강사 (시간제)",
+      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
+    }
+  ]
 }

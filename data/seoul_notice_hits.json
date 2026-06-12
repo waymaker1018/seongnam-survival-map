@@ -1,78 +1,18 @@
 {
-  "generatedAt": "2026-06-11T18:57:13.290Z",
-  "hitCount": 10,
+  "generatedAt": "2026-06-12T04:16:13.892Z",
+  "hitCount": 5,
   "errors": [],
   "items": [
     {
-      "id": "seoul:nbedu:11093",
-      "schoolId": "sen-7041160",
-      "schoolName": "서울정심초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-06-11T00:00:00+09:00",
-      "title": "(정심초)2026 기초학력 협력강사 모집(2차) 공고 (기타)",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:nbedu:11090",
+      "id": "seoul:gnscedu:14142",
       "schoolId": null,
-      "schoolName": "성베드로학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-06-11T00:00:00+09:00",
-      "title": "2026년 여름방학 중 학교회계직(특수에듀케어강사) 채용 2차 공고 (기타)",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:nbedu:11089",
-      "schoolId": "sen-7041109",
-      "schoolName": "서울구일초등학교(서울남부교육지원청 학교통합지원과)",
-      "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-06-11T00:00:00+09:00",
-      "title": "서울구일초등학교 교육공무직원(교육실무사[늘봄]) 대체직원 채용계획 공고 (기타)",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gnscedu:14139",
-      "schoolId": null,
-      "schoolName": "여름방학 중 에듀케어 강사",
+      "schoolName": "여름방학 중 에듀케어강사(특수에듀케어강사) 대체",
       "schoolHomepage": null,
       "boardLabel": "서울 강남서초 구인",
       "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
-      "deadline": "2026-06-11T00:00:00+09:00",
-      "title": "에듀케어 강사 (이은정)",
-      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gnscedu:14136",
-      "schoolId": null,
-      "schoolName": "초등돌봄교실 방학 중 특별프로그램 강사",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강남서초 구인",
-      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-06-11T00:00:00+09:00",
-      "title": " (김안나)",
-      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gnscedu:14135",
-      "schoolId": null,
-      "schoolName": "방과후과정 보조인력",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강남서초 구인",
-      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-06-11T00:00:00+09:00",
-      "title": "방과후과정반 활동보조 (이혜정)",
+      "deadline": "2026-06-12T00:00:00+09:00",
+      "title": "에듀케어강사 (이현희)",
       "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
@@ -112,15 +52,15 @@
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
-      "id": "seoul:sbedu:5340",
-      "schoolId": null,
-      "schoolName": "학교통합지원과",
+      "id": "seoul:sbedu:5546",
+      "schoolId": "sen-7031141",
+      "schoolName": "서울신도초등학교",
       "schoolHomepage": null,
       "boardLabel": "서울 서부(은평·서대문·마포) 구인",
       "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
-      "deadline": "2026-06-30T00:00:00+09:00",
-      "title": "2025학년도 시간강사 인력풀 상시 모집 안내 (시간제)",
+      "deadline": "2026-06-18T00:00:00+09:00",
+      "title": "문화예술협력강사 (시간제)",
       "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
