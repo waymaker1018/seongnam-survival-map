@@ -1,32 +1,8 @@
 {
-  "generatedAt": "2026-06-12T09:53:28.897Z",
-  "hitCount": 6,
+  "generatedAt": "2026-06-13T04:04:02.379Z",
+  "hitCount": 4,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:gdspedu:8207",
-      "schoolId": "sen-7130138",
-      "schoolName": "서울송례초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강동송파 구인",
-      "boardUrl": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-06-12T00:00:00+09:00",
-      "title": "메이커강사 (시간제)",
-      "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gnscedu:14142",
-      "schoolId": null,
-      "schoolName": "여름방학 중 에듀케어강사(특수에듀케어강사) 대체",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강남서초 구인",
-      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-06-12T00:00:00+09:00",
-      "title": "에듀케어강사 (이현희)",
-      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:sbedu:5540",
       "schoolId": "sen-7031136",

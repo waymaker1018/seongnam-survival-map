@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-12T09:51:54.335Z",
+  "generatedAt": "2026-06-13T04:02:21.725Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 119,
+  "hitCount": 122,
   "keywords": [
     "AI",
     "인공지능",
@@ -205,6 +205,18 @@
       "deadline": null,
       "title": "2026 방과후학교 투명사회협약 안내",
       "url": "https://seodang-e.goesn.kr/seodang-e/na/ntt/selectNttInfo.do?mi=19778&bbsId=15431&nttSn=1934863"
+    },
+    {
+      "id": "seohyeon-e:seohyeon-e:1934917",
+      "schoolId": "seohyeon-e",
+      "schoolName": "서현초등학교",
+      "schoolHomepage": "https://seohyeon-e.goesn.kr",
+      "boardLabel": "방과후・돌봄",
+      "boardUrl": "https://seohyeon-e.goesn.kr/seohyeon-e/na/ntt/selectNttList.do?mi=13426&bbsId=11860&listCo=50&currPage=1",
+      "postedAt": "2026-06-11T15:00:00.000Z",
+      "deadline": null,
+      "title": "경기교육 방과후학교분야 투명사회 협약서",
+      "url": "https://seohyeon-e.goesn.kr/seohyeon-e/na/ntt/selectNttInfo.do?mi=13426&bbsId=11860&nttSn=1934917"
     },
     {
       "id": "office:goesn:1935167",
@@ -1059,6 +1071,18 @@
       "url": "https://dandae-e.goesn.kr/dandae-e/na/ntt/selectNttInfo.do?mi=11776&bbsId=10926&nttSn=1933312"
     },
     {
+      "id": "snys-e:snys-e:1933241",
+      "schoolId": "snys-e",
+      "schoolName": "성남여수초등학교",
+      "schoolHomepage": "https://snys-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://snys-e.goesn.kr/snys-e/na/ntt/selectNttList.do?mi=13840&bbsId=12070&listCo=50&currPage=1",
+      "postedAt": "2026-06-04T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026 「 방학전, 부모의 감정이해와 자녀성장 」특강 안내",
+      "url": "https://snys-e.goesn.kr/snys-e/na/ntt/selectNttInfo.do?mi=13840&bbsId=12070&nttSn=1933241"
+    },
+    {
       "id": "sneh-e:sneh-e:1933135",
       "schoolId": "sneh-e",
       "schoolName": "성남은행초등학교",
@@ -1213,6 +1237,18 @@
       "deadline": null,
       "title": "2026학년도 신백현초 초1~2 맞춤형 프로그램 신체활동 개인위탁 외부강사 공고문",
       "url": "https://shinbh-e.goesn.kr/shinbh-e/na/ntt/selectNttInfo.do?mi=15610&bbsId=13107&nttSn=1932996"
+    },
+    {
+      "id": "tp-e:tp-e:1932995",
+      "schoolId": "tp-e",
+      "schoolName": "태평초등학교",
+      "schoolHomepage": "https://tp-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://tp-e.goesn.kr/tp-e/na/ntt/selectNttList.do?mi=12666&bbsId=11410&listCo=50&currPage=1",
+      "postedAt": "2026-06-03T15:00:00.000Z",
+      "deadline": null,
+      "title": "5학년 교육연극 운영 협력 강사 채용 공고",
+      "url": "https://tp-e.goesn.kr/tp-e/na/ntt/selectNttInfo.do?mi=12666&bbsId=11410&nttSn=1932995"
     },
     {
       "id": "pangyodaejang-e:pangyodaejang-e:1932956",
