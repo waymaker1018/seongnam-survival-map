@@ -1,13 +1,7 @@
 {
-  "generatedAt": "2026-06-14T09:00:07.674Z",
-  "hitCount": 8,
-  "errors": [
-    "교육부 공고 1p: fetch failed",
-    "교육부 공고 2p: fetch failed",
-    "교육부 공고 3p: fetch failed",
-    "교육부 공고 4p: fetch failed",
-    "교육부 공고 5p: fetch failed"
-  ],
+  "generatedAt": "2026-06-14T10:14:22.563Z",
+  "hitCount": 5,
+  "errors": [],
   "items": [
     {
       "id": "dtjob:https://www.goepj.kr/goepj/na/ntt/selectNttInfo.do?mi=10838&bbsId=7202&nttSn=1336892",
@@ -16,6 +10,14 @@
       "postedAt": "2026-06-12T00:00:00+09:00",
       "deadline": "2026-06-18T00:00:00+09:00",
       "url": "https://www.goepj.kr/goepj/na/ntt/selectNttInfo.do?mi=10838&bbsId=7202&nttSn=1336892"
+    },
+    {
+      "id": "moe:106305",
+      "source": "교육부 공고",
+      "title": "2026년 디지털튜터 양성센터 6개소 신규 선정",
+      "postedAt": "2026-05-28T00:00:00+09:00",
+      "deadline": null,
+      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=106305&lev=0&m=020402&s=moe"
     },
     {
       "id": "dtjob:https://www.goepj.kr/goepj/na/ntt/selectNttInfo.do?mi=10838&bbsId=7202&nttSn=1332332",
@@ -40,38 +42,6 @@
       "postedAt": "2026-04-30T00:00:00+09:00",
       "deadline": "2026-05-08T00:00:00+09:00",
       "url": "https://banggyo-e.goehs.kr/banggyo-e/na/ntt/selectNttInfo.do?mi=6848&nttSn=1267823&bbsId=3448"
-    },
-    {
-      "id": "dtboard:205",
-      "source": "디지털튜터 포털 공지",
-      "title": "디지털튜터 기기•인프라 관리 FAQ 리플렛",
-      "postedAt": "2025-07-29T00:00:00+09:00",
-      "deadline": null,
-      "url": "https://dt.kosac.re.kr/brd/board/450/L/menu/458?brdType=R&thisPage=1&bbsSn=205&brdCodeValue="
-    },
-    {
-      "id": "dtboard:196",
-      "source": "디지털튜터 포털 공지",
-      "title": "디지털튜터 사업 리플렛(학교대상)",
-      "postedAt": "2025-07-11T00:00:00+09:00",
-      "deadline": null,
-      "url": "https://dt.kosac.re.kr/brd/board/450/L/menu/458?brdType=R&thisPage=1&bbsSn=196&brdCodeValue="
-    },
-    {
-      "id": "dtboard:195",
-      "source": "디지털튜터 포털 공지",
-      "title": "디지털튜터 사업 리플렛(대국민용)",
-      "postedAt": "2025-07-11T00:00:00+09:00",
-      "deadline": null,
-      "url": "https://dt.kosac.re.kr/brd/board/450/L/menu/458?brdType=R&thisPage=1&bbsSn=195&brdCodeValue="
-    },
-    {
-      "id": "dtboard:39",
-      "source": "디지털튜터 포털 공지",
-      "title": "교사(채용담당자) 회원가입 및 주요 메뉴 이용 안내",
-      "postedAt": "2025-02-12T00:00:00+09:00",
-      "deadline": null,
-      "url": "https://dt.kosac.re.kr/brd/board/450/L/menu/458?brdType=R&thisPage=1&bbsSn=39&brdCodeValue="
     }
   ]
 }

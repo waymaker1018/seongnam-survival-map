@@ -103,6 +103,8 @@ function parseDtBoard(html) {
     const link = row.match(/<a[^>]*href="([^"]+)"[^>]*>([\s\S]*?)<\/a>/i);
     if (!link) continue;
     const title = cleanHtml(link[2]);
+    // 채용·양성과정 모집 외 순수 안내성 공지(리플렛·회원가입·이용안내 등) 제외
+    if (/리플렛|FAQ|회원\s*가입|이용\s*안내|메뉴|매뉴얼|사용\s*방법|가이드/.test(title)) continue;
     const date = row.match(/<td[^>]*class="date"[^>]*>\s*([\d-]+)\s*<\/td>/i)?.[1] || null;
     const href = decodeEntities(link[1]).trim();
     const url = /^https?:/i.test(href) ? href : `https://dt.kosac.re.kr${href}`;

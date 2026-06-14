@@ -213,6 +213,30 @@ function matchesKeywords(text) {
   return KEYWORDS.some((keyword) => haystack.includes(keyword.toLowerCase()));
 }
 
+// 채용 공고 신호어 — 제목에 하나는 있어야 통과
+const RECRUIT_SIGNALS = [
+  /채용/, /모집/, /공모/, /선발/, /구인/, /위촉/, /초빙/, /외부\s*강사/, /개인\s*위탁/
+];
+
+// 채용처럼 보여도 실제로는 운영·안내성 공지 — 하나라도 있으면 제외
+const NON_RECRUIT_DENY = [
+  /투명사회/, /협약/,
+  /만족도/, /공개\s*수업/, /공개\s*주간/, /공개\s*의\s*날/, /공개의\s*날/, /참관/, /공개\s*주\s*간/,
+  /수강\s*신청/, /수강\s*안내/, /수강\s*인원/, /수강\s*현황/, /수강신청/,
+  /정산/, /집행/, /부담\s*경비/, /부담금/, /납부/, /부담\s*금/,
+  /현황\s*안내/, /수업\s*계획/, /지도\s*계획/, /운영\s*계획/, /지도안/, /수업안/, /계획안/, /계획서/,
+  /폐강/, /시간표/, /안내장/, /가정통신문/, /결과\s*보고/, /결과\s*안내/, /운영\s*결과/, /조사\s*결과/,
+  /이행/, /심사\s*계획/, /특강/, /수강신청결과/, /운영\s*안내/, /수업\s*안/, /운영프로그램/,
+  /부서별\s*수업/, /프로그램\s*안내/, /신청\s*안내/, /수강\s*신청/, /수강생/
+];
+
+// "채용에 대한 공지"만 통과 — 채용 신호어 있고 비채용 키워드 없음
+function isRecruitment(title) {
+  const text = String(title || "").replace(/\s+/g, " ");
+  if (NON_RECRUIT_DENY.some((re) => re.test(text))) return false;
+  return RECRUIT_SIGNALS.some((re) => re.test(text));
+}
+
 function runPool(items, concurrency, fn) {
   const queue = [...items];
   const results = [];
@@ -281,6 +305,7 @@ async function main() {
       }
       const posts = parseBoardPosts(listHtml, listUrl)
         .filter((post) => post.title && matchesKeywords(post.title))
+        .filter((post) => isRecruitment(post.title))
         .filter((post) => !post.postedAt || post.postedAt >= cutoff);
 
       for (const post of posts) {
@@ -310,6 +335,7 @@ async function main() {
       const listHtml = await fetchText(listUrl);
       const posts = parseBoardPosts(listHtml, listUrl)
         .filter((post) => post.title && matchesKeywords(post.title))
+        .filter((post) => isRecruitment(post.title))
         .filter((post) => !post.postedAt || post.postedAt >= cutoff)
         .filter(officeRelevant);
       for (const post of posts) {
