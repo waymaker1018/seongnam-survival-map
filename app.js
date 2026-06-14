@@ -72,9 +72,13 @@ async function loadData() {
 }
 
 /* ── 파생 데이터 ─────────────────────────── */
+// 동(洞)이 비어 있어도 학교가 드릴다운에서 사라지지 않도록 가상 그룹으로 묶음
+const NO_DONG = "(동 미상)";
+const dongOf = (school) => school.dong || NO_DONG;
+
 function schoolsIn(district, dong) {
   return state.schools.filter((s) =>
-    (!district || s.district === district) && (!dong || s.dong === dong)
+    (!district || s.district === district) && (!dong || dongOf(s) === dong)
   );
 }
 
@@ -85,8 +89,11 @@ function centroid(schools) {
 }
 
 function dongsOf(district) {
-  const names = [...new Set(schoolsIn(district).map((s) => s.dong).filter(Boolean))];
-  return names.sort((a, b) => a.localeCompare(b, "ko-KR"));
+  const names = [...new Set(schoolsIn(district).map(dongOf))];
+  // "(동 미상)"은 항상 맨 뒤로
+  return names.sort((a, b) =>
+    a === NO_DONG ? 1 : b === NO_DONG ? -1 : a.localeCompare(b, "ko-KR")
+  );
 }
 
 function recentHitsFor(schoolId) {
@@ -270,7 +277,7 @@ function renderDetail() {
 
   $("detailContent").innerHTML = `
     <h2>${escapeHtml(school.name)}${hits.length ? `<span class="badge">새 공고 ${hits.length}</span>` : ""}</h2>
-    <p class="where-line">${escapeHtml(school.district)} ${escapeHtml(school.dong || "")}${school.geoApprox ? ` <span class="approx-note">(지도 위치는 동 중심 근사)</span>` : ""}</p>
+    <p class="where-line">${escapeHtml(school.district)} ${escapeHtml(school.dong || "")}${school.geoApprox || school.dongApprox ? ` <span class="approx-note">(위치·동 정보 근사)</span>` : ""}</p>
     <table class="info-table">
       <tr><th>주소</th><td>${escapeHtml(school.fullAddress)}</td></tr>
       <tr><th>전화</th><td><a href="tel:${escapeHtml(school.phone)}">${escapeHtml(school.phone)}</a></td></tr>
@@ -362,7 +369,7 @@ function bindSearch() {
         if (!school) return;
         state.level = "dong";
         state.district = school.district;
-        state.dong = school.dong;
+        state.dong = dongOf(school);
         state.selectedSchoolId = school.id;
         resultsBox.hidden = true;
         input.value = "";

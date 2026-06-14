@@ -5287,7 +5287,7 @@
     "sortName": "서울송례초등학교",
     "status": "운영",
     "district": "송파구",
-    "dong": null,
+    "dong": "장지동",
     "lat": 37.4777581,
     "lng": 127.1385565,
     "fullAddress": "서울특별시 송파구 위례순환로 439 (장지동)",
@@ -5298,7 +5298,8 @@
     "naverMapUrl": "https://map.naver.com/p/search/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%86%A1%ED%8C%8C%EA%B5%AC%20%EC%9C%84%EB%A1%80%EC%88%9C%ED%99%98%EB%A1%9C%20439%20(%EC%9E%A5%EC%A7%80%EB%8F%99)%20%EC%84%9C%EC%9A%B8%EC%86%A1%EB%A1%80%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
     "kakaoMapUrl": "https://map.kakao.com/link/search/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%86%A1%ED%8C%8C%EA%B5%AC%20%EC%9C%84%EB%A1%80%EC%88%9C%ED%99%98%EB%A1%9C%20439%20(%EC%9E%A5%EC%A7%80%EB%8F%99)%20%EC%84%9C%EC%9A%B8%EC%86%A1%EB%A1%80%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
     "sourceUrl": "OSM Overpass + NEIS 교육정보 개방포털",
-    "sourceCheckedAt": "2026-06-11T18:44:02.239Z"
+    "sourceCheckedAt": "2026-06-11T18:44:02.239Z",
+    "dongApprox": true
   },
   {
     "id": "sen-7134098",
@@ -6959,7 +6960,7 @@
     "sortName": "서울양천초등학교",
     "status": "운영",
     "district": "강서구",
-    "dong": null,
+    "dong": "가양동",
     "lat": 37.5700289,
     "lng": 126.8396623,
     "fullAddress": "서울특별시 강서구 양천로 329 (가양동,양천초등학교)",
@@ -6970,7 +6971,8 @@
     "naverMapUrl": "https://map.naver.com/p/search/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EC%84%9C%EA%B5%AC%20%EC%96%91%EC%B2%9C%EB%A1%9C%20329%20(%EA%B0%80%EC%96%91%EB%8F%99%2C%EC%96%91%EC%B2%9C%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90)%20%EC%84%9C%EC%9A%B8%EC%96%91%EC%B2%9C%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
     "kakaoMapUrl": "https://map.kakao.com/link/search/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EA%B0%95%EC%84%9C%EA%B5%AC%20%EC%96%91%EC%B2%9C%EB%A1%9C%20329%20(%EA%B0%80%EC%96%91%EB%8F%99%2C%EC%96%91%EC%B2%9C%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90)%20%EC%84%9C%EC%9A%B8%EC%96%91%EC%B2%9C%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
     "sourceUrl": "OSM Overpass + NEIS 교육정보 개방포털",
-    "sourceCheckedAt": "2026-06-11T18:44:02.240Z"
+    "sourceCheckedAt": "2026-06-11T18:44:02.240Z",
+    "dongApprox": true
   },
   {
     "id": "sen-7081464",
@@ -6997,7 +6999,7 @@
     "sortName": "서울언남초등학교",
     "status": "운영",
     "district": "서초구",
-    "dong": null,
+    "dong": "내곡동",
     "lat": 37.453802,
     "lng": 127.0614973,
     "fullAddress": "서울특별시 서초구 헌릉로8길 42 (내곡동)",
@@ -7008,7 +7010,8 @@
     "naverMapUrl": "https://map.naver.com/p/search/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%84%9C%EC%B4%88%EA%B5%AC%20%ED%97%8C%EB%A6%89%EB%A1%9C8%EA%B8%B8%2042%20(%EB%82%B4%EA%B3%A1%EB%8F%99)%20%EC%84%9C%EC%9A%B8%EC%96%B8%EB%82%A8%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
     "kakaoMapUrl": "https://map.kakao.com/link/search/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C%20%EC%84%9C%EC%B4%88%EA%B5%AC%20%ED%97%8C%EB%A6%89%EB%A1%9C8%EA%B8%B8%2042%20(%EB%82%B4%EA%B3%A1%EB%8F%99)%20%EC%84%9C%EC%9A%B8%EC%96%B8%EB%82%A8%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
     "sourceUrl": "OSM Overpass + NEIS 교육정보 개방포털",
-    "sourceCheckedAt": "2026-06-11T18:44:02.239Z"
+    "sourceCheckedAt": "2026-06-11T18:44:02.239Z",
+    "dongApprox": true
   },
   {
     "id": "sen-7091405",
