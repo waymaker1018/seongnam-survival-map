@@ -1,5 +1,42 @@
 {
-  "generatedAt": "2026-06-14T09:04:45.282Z",
-  "newCount": 0,
-  "items": []
+  "generatedAt": "2026-06-15T04:49:49.138Z",
+  "newCount": 3,
+  "items": [
+    {
+      "id": "seoul:gdspedu:8209",
+      "schoolId": null,
+      "schoolName": "서울강현유치원 외 8교 유치원에듀케어강사 채용계획 공고(2차)",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강동송파 구인",
+      "boardUrl": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-06-15T00:00:00+09:00",
+      "title": "유치원에듀케어강사, 특수에듀케어강사",
+      "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gnscedu:14146",
+      "schoolId": null,
+      "schoolName": "돌봄 교실 여름 방학 봉사자",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강남서초 구인",
+      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-06-15T00:00:00+09:00",
+      "title": "돌봄교실 여름방학 봉사자 (윤정미)",
+      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gnscedu:14143",
+      "schoolId": null,
+      "schoolName": "방학중 오전유치원에듀케어강사",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강남서초 구인",
+      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-06-15T00:00:00+09:00",
+      "title": "방과후과정 (이재선)",
+      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
+    }
+  ]
 }

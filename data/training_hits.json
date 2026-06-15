@@ -1,7 +1,13 @@
 {
-  "generatedAt": "2026-06-14T10:14:22.563Z",
-  "hitCount": 5,
-  "errors": [],
+  "generatedAt": "2026-06-15T04:45:11.456Z",
+  "hitCount": 3,
+  "errors": [
+    "교육부 공고 1p: fetch failed",
+    "교육부 공고 2p: fetch failed",
+    "교육부 공고 3p: fetch failed",
+    "교육부 공고 4p: fetch failed",
+    "교육부 공고 5p: fetch failed"
+  ],
   "items": [
     {
       "id": "dtjob:https://www.goepj.kr/goepj/na/ntt/selectNttInfo.do?mi=10838&bbsId=7202&nttSn=1336892",
@@ -10,14 +16,6 @@
       "postedAt": "2026-06-12T00:00:00+09:00",
       "deadline": "2026-06-18T00:00:00+09:00",
       "url": "https://www.goepj.kr/goepj/na/ntt/selectNttInfo.do?mi=10838&bbsId=7202&nttSn=1336892"
-    },
-    {
-      "id": "moe:106305",
-      "source": "교육부 공고",
-      "title": "2026년 디지털튜터 양성센터 6개소 신규 선정",
-      "postedAt": "2026-05-28T00:00:00+09:00",
-      "deadline": null,
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=106305&lev=0&m=020402&s=moe"
     },
     {
       "id": "dtjob:https://www.goepj.kr/goepj/na/ntt/selectNttInfo.do?mi=10838&bbsId=7202&nttSn=1332332",
@@ -34,14 +32,6 @@
       "postedAt": "2026-05-06T00:00:00+09:00",
       "deadline": "2026-05-13T00:00:00+09:00",
       "url": "https://bucheon-e.goebc.kr/bucheon-e/na/ntt/selectNttInfo.do?mi=4711&bbsId=2578&nttSn=1212671"
-    },
-    {
-      "id": "dtjob:https://banggyo-e.goehs.kr/banggyo-e/na/ntt/selectNttInfo.do?mi=6848&nttSn=1267823&bbsId=3448",
-      "source": "전국 디지털튜터 채용",
-      "title": "[경기도 · 방교초등학교] [방교초] 2026학년도 디지털튜터 채용공고(1차) (1명)",
-      "postedAt": "2026-04-30T00:00:00+09:00",
-      "deadline": "2026-05-08T00:00:00+09:00",
-      "url": "https://banggyo-e.goehs.kr/banggyo-e/na/ntt/selectNttInfo.do?mi=6848&nttSn=1267823&bbsId=3448"
     }
   ]
 }
