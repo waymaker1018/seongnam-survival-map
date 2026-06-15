@@ -19,11 +19,41 @@ const state = {
   hits: [],            // 최근 발견 공고
   training: [],        // 양성교육·전국 디지털튜터
   districts: [],       // 데이터에서 파생
+  favorites: new Set(),// 즐겨찾기 학교 id (localStorage 영속)
   level: "city",       // city | district | dong
   district: null,
   dong: null,
   selectedSchoolId: null
 };
+
+/* ── 즐겨찾기 (localStorage, 성남·서울 공용) ── */
+const FAV_KEY = "survivalmap.favorites";
+
+function loadFavorites() {
+  try {
+    const raw = JSON.parse(localStorage.getItem(FAV_KEY) || "[]");
+    state.favorites = new Set(Array.isArray(raw) ? raw : []);
+  } catch {
+    state.favorites = new Set();
+  }
+}
+
+function saveFavorites() {
+  try {
+    localStorage.setItem(FAV_KEY, JSON.stringify([...state.favorites]));
+  } catch {
+    /* 저장 실패(시크릿 모드 등)는 무시 — 현재 세션에서는 동작 */
+  }
+}
+
+const isFavorite = (id) => state.favorites.has(id);
+
+function toggleFavorite(id) {
+  if (state.favorites.has(id)) state.favorites.delete(id);
+  else state.favorites.add(id);
+  saveFavorites();
+  render();
+}
 
 let map;
 let markerLayer;
@@ -66,9 +96,21 @@ async function loadData() {
   for (const s of state.schools) if (s.district) counts[s.district] = (counts[s.district] || 0) + 1;
   state.districts = Object.keys(counts).sort((a, b) => counts[b] - counts[a] || a.localeCompare(b, "ko-KR"));
 
+  loadFavorites();
   initMap();
   bindSearch();
   render();
+}
+
+// 학교로 이동(드릴다운 + 상세 선택) — 검색·즐겨찾기에서 공용
+function goToSchool(school) {
+  if (!school) return;
+  state.level = "dong";
+  state.district = school.district;
+  state.dong = dongOf(school);
+  state.selectedSchoolId = school.id;
+  render();
+  $("detailContent")?.scrollIntoView?.({ behavior: "smooth", block: "nearest" });
 }
 
 /* ── 파생 데이터 ─────────────────────────── */
@@ -206,10 +248,11 @@ function renderMap() {
     const schools = schoolsIn(state.district, state.dong);
     for (const school of schools) {
       const hasNotice = recentHitsFor(school.id).length > 0;
+      const star = isFavorite(school.id) ? `<span class="fav-star">★</span>` : "";
       chipMarker(
         [school.lat, school.lng],
-        `<span class="dot"></span>${escapeHtml(school.name.replace(/초등학교$/, "초"))}`,
-        `school${hasNotice ? " has-notice" : ""}${school.id === state.selectedSchoolId ? " selected" : ""}`,
+        `<span class="dot"></span>${star}${escapeHtml(school.name.replace(/초등학교$/, "초"))}`,
+        `school${hasNotice ? " has-notice" : ""}${school.id === state.selectedSchoolId ? " selected" : ""}${isFavorite(school.id) ? " fav" : ""}`,
         () => { state.selectedSchoolId = school.id; render(); }
       );
     }
@@ -259,6 +302,59 @@ function renderStats() {
   `;
 }
 
+/* ── 즐겨찾기 섹션 ───────────────────────── */
+function renderFavorites() {
+  const section = $("favSection");
+  const list = $("favList");
+  if (!section || !list) return;
+
+  // 현재 지역(state.schools)에 속한 즐겨찾기만 표시 — 새 공고 있는 학교 우선
+  const favSchools = state.schools
+    .filter((s) => state.favorites.has(s.id))
+    .map((s) => ({ school: s, hits: recentHitsFor(s.id).length }))
+    .sort((a, b) => b.hits - a.hits || a.school.name.localeCompare(b.school.name, "ko-KR"));
+
+  if (!favSchools.length) {
+    section.hidden = true;
+    list.innerHTML = "";
+    return;
+  }
+  section.hidden = false;
+
+  const withHits = favSchools.filter((f) => f.hits).length;
+  $("favMeta").textContent = `${favSchools.length}곳${withHits ? ` · 새 공고 ${withHits}곳` : ""}`;
+
+  list.innerHTML = favSchools
+    .map(({ school, hits }) => `
+      <div class="fav-card" data-fav-go="${escapeHtml(school.id)}" role="button" tabindex="0">
+        <button class="fav-remove" data-fav-remove="${escapeHtml(school.id)}" title="즐겨찾기 해제" aria-label="즐겨찾기 해제">★</button>
+        <div class="fav-name">${escapeHtml(school.name)}${hits ? `<span class="badge">새 공고 ${hits}</span>` : ""}</div>
+        <div class="fav-where">${escapeHtml(school.district)} ${escapeHtml(school.dong || "")}</div>
+      </div>`)
+    .join("");
+
+  list.querySelectorAll("[data-fav-go]").forEach((card) => {
+    const open = () => {
+      const school = state.schools.find((s) => s.id === card.dataset.favGo);
+      goToSchool(school);
+    };
+    card.addEventListener("click", (event) => {
+      if (event.target.closest("[data-fav-remove]")) return; // 별 클릭은 해제
+      open();
+    });
+    card.addEventListener("keydown", (event) => {
+      if (event.key === "Enter" || event.key === " ") { event.preventDefault(); open(); }
+    });
+  });
+
+  list.querySelectorAll("[data-fav-remove]").forEach((button) => {
+    button.addEventListener("click", (event) => {
+      event.stopPropagation();
+      toggleFavorite(button.dataset.favRemove);
+    });
+  });
+}
+
 /* ── 학교 상세 ───────────────────────────── */
 // NEIS 일부 학교는 홈페이지 주소에 http://가 빠져 있음 — 상대경로로 깨지는 것 방지
 function absoluteUrl(value) {
@@ -275,8 +371,14 @@ function renderDetail() {
   const history = historyFor(school.id);
   const years = [...new Set(history.map((r) => r.recruitmentYear).filter(Boolean))].sort((a, b) => b - a);
 
+  const fav = isFavorite(school.id);
   $("detailContent").innerHTML = `
-    <h2>${escapeHtml(school.name)}${hits.length ? `<span class="badge">새 공고 ${hits.length}</span>` : ""}</h2>
+    <div class="detail-title-row">
+      <h2>${escapeHtml(school.name)}${hits.length ? `<span class="badge">새 공고 ${hits.length}</span>` : ""}</h2>
+      <button id="favToggleBtn" class="fav-toggle ${fav ? "on" : ""}" type="button" aria-pressed="${fav}" title="${fav ? "즐겨찾기 해제" : "즐겨찾기 추가"}">
+        ${fav ? "★ 즐겨찾기" : "☆ 즐겨찾기"}
+      </button>
+    </div>
     <p class="where-line">${escapeHtml(school.district)} ${escapeHtml(school.dong || "")}${school.geoApprox || school.dongApprox ? ` <span class="approx-note">(위치·동 정보 근사)</span>` : ""}</p>
     <table class="info-table">
       <tr><th>주소</th><td>${escapeHtml(school.fullAddress)}</td></tr>
@@ -310,6 +412,8 @@ function renderDetail() {
         </div>`).join("") || `<p class="approx-note">수집된 모집 이력이 없습니다.</p>`}
     </div>
   `;
+
+  $("favToggleBtn")?.addEventListener("click", () => toggleFavorite(school.id));
 }
 
 /* ── 최근 공고 목록 (하단) ────────────────── */
@@ -367,13 +471,9 @@ function bindSearch() {
       button.addEventListener("click", () => {
         const school = state.schools.find((s) => s.id === button.dataset.schoolId);
         if (!school) return;
-        state.level = "dong";
-        state.district = school.district;
-        state.dong = dongOf(school);
-        state.selectedSchoolId = school.id;
         resultsBox.hidden = true;
         input.value = "";
-        render();
+        goToSchool(school);
       });
     });
   });
@@ -387,6 +487,7 @@ function bindSearch() {
 function render() {
   renderBreadcrumb();
   renderStats();
+  renderFavorites();
   renderMap();
   renderDetail();
   renderNotices();
