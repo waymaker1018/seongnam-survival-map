@@ -153,6 +153,45 @@ function historyFor(schoolId) {
     .sort((a, b) => String(b.postedDate || "").localeCompare(String(a.postedDate || "")));
 }
 
+/* ── 마감일 D-day ───────────────────────── */
+// 마감일 ISO(또는 "YYYY-MM-DD") → { days, label, cls } / 없으면 null
+function ddayInfo(deadline) {
+  if (!deadline) return null;
+  const due = new Date(deadline);
+  if (Number.isNaN(due.getTime())) return null;
+  due.setHours(0, 0, 0, 0);
+  const today = new Date();
+  today.setHours(0, 0, 0, 0);
+  const days = Math.round((due - today) / 86400000);
+  if (days < 0) return { days, label: "마감", cls: "over" };
+  if (days === 0) return { days, label: "D-day", cls: "urgent" };
+  return { days, label: `D-${days}`, cls: days <= 3 ? "urgent" : days <= 7 ? "soon" : "normal" };
+}
+
+function ddayBadge(deadline) {
+  const dd = ddayInfo(deadline);
+  if (!dd) return "";
+  const date = String(deadline).slice(0, 10);
+  return `<span class="dday dday-${dd.cls}" title="마감 ${escapeHtml(date)}">${dd.label}</span>`;
+}
+
+// 정렬 그룹: 0=유효마감(임박순) · 1=마감일없음(최신순) · 2=마감지남(맨 뒤)
+function noticeRank(item) {
+  const dd = ddayInfo(item.deadline);
+  const posted = Date.parse(item.postedAt);
+  const recency = Number.isNaN(posted) ? 0 : -posted; // 최신일수록 작은 값(앞)
+  if (dd && dd.days >= 0) return { group: 0, key: dd.days };
+  if (!dd) return { group: 1, key: recency };
+  return { group: 2, key: recency };
+}
+
+// 마감 임박순 정렬: 유효 마감(임박순) → 마감일 없음(최신 게시순) → 마감 지남(맨 뒤)
+function compareByDeadline(a, b) {
+  const ra = noticeRank(a);
+  const rb = noticeRank(b);
+  return ra.group !== rb.group ? ra.group - rb.group : ra.key - rb.key;
+}
+
 /* ── 지도 ───────────────────────────────── */
 function cityCenter() {
   return state.schools.length ? centroid(state.schools) : REGION.fallbackCenter;
@@ -395,11 +434,15 @@ function renderDetail() {
     <div class="detail-section">
       <h3>최근 발견 공고 ${hits.length ? `<span class="badge">${hits.length}건</span>` : ""}</h3>
       ${hits.length
-        ? hits.map((h) => `
-            <div class="notice-item">
+        ? [...hits].sort(compareByDeadline).map((h) => {
+            const over = (ddayInfo(h.deadline)?.days ?? 0) < 0;
+            return `
+            <div class="notice-item${over ? " is-over" : ""}">
+              ${ddayBadge(h.deadline)}
               <a href="${escapeHtml(h.url)}" target="_blank" rel="noopener">${escapeHtml(h.title)}</a>
-              <span class="meta">${escapeHtml((h.postedAt || "").slice(0, 10))} · ${escapeHtml(h.boardLabel)}</span>
-            </div>`).join("")
+              <span class="meta">${escapeHtml((h.postedAt || "").slice(0, 10))} · ${escapeHtml(h.boardLabel)}${h.deadline ? ` · 마감 ${escapeHtml(h.deadline.slice(0, 10))}` : ""}</span>
+            </div>`;
+          }).join("")
         : `<p class="approx-note">최근 키워드 매칭 공고가 없습니다.</p>`}
     </div>
 
@@ -418,33 +461,42 @@ function renderDetail() {
 
 /* ── 최근 공고 목록 (하단) ────────────────── */
 function renderNotices() {
-  const items = [...state.hits].sort((a, b) => String(b.postedAt || "").localeCompare(String(a.postedAt || "")));
+  const items = [...state.hits].sort(compareByDeadline);
+  const urgent = items.filter((h) => { const dd = ddayInfo(h.deadline); return dd && dd.days >= 0 && dd.days <= 7; }).length;
   $("noticeMeta").textContent = items.length
-    ? `${items.length}건 — 늘봄·방과후·디지털튜터·코딩 키워드 매칭`
+    ? `${items.length}건 — 마감 임박순${urgent ? ` · 7일 내 마감 ${urgent}건` : ""}`
     : "";
   $("noticeList").innerHTML = items.length
-    ? items.slice(0, 30).map((h) => `
-        <div class="notice-item">
+    ? items.slice(0, 40).map((h) => {
+        const over = (ddayInfo(h.deadline)?.days ?? 0) < 0;
+        return `
+        <div class="notice-item${over ? " is-over" : ""}">
+          ${ddayBadge(h.deadline)}
           <strong>${escapeHtml(h.schoolName)}</strong>
           <a href="${escapeHtml(h.url)}" target="_blank" rel="noopener">${escapeHtml(h.title)}</a>
           <span class="meta">${escapeHtml((h.postedAt || "").slice(0, 10))} · ${escapeHtml(h.boardLabel)}</span>
-        </div>`).join("")
+        </div>`;
+      }).join("")
     : `<div class="empty-state">아직 수집된 공고가 없습니다. <code>npm run daily</code>를 실행하면 최신 공고를 수집합니다.</div>`;
 }
 
 /* ── 양성교육·전국 디지털튜터 목록 ──────────── */
 function renderTraining() {
-  const items = [...state.training].sort((a, b) => String(b.postedAt || "").localeCompare(String(a.postedAt || "")));
+  const items = [...state.training].sort(compareByDeadline);
   $("trainingMeta").textContent = items.length
     ? `${items.length}건 — 국가 무료 양성교육 + 경기·서울 디지털튜터 채용`
     : "";
   $("trainingList").innerHTML = items.length
-    ? items.slice(0, 20).map((t) => `
-        <div class="notice-item">
+    ? items.slice(0, 20).map((t) => {
+        const over = (ddayInfo(t.deadline)?.days ?? 0) < 0;
+        return `
+        <div class="notice-item${over ? " is-over" : ""}">
+          ${ddayBadge(t.deadline)}
           <strong>${escapeHtml(t.source)}</strong>
           <a href="${escapeHtml(t.url)}" target="_blank" rel="noopener">${escapeHtml(t.title)}</a>
           <span class="meta">${escapeHtml((t.postedAt || "").slice(0, 10))}${t.deadline ? ` · 접수마감 ${escapeHtml(t.deadline.slice(0, 10))}` : ""}</span>
-        </div>`).join("")
+        </div>`;
+      }).join("")
     : `<div class="empty-state">아직 수집된 양성교육 공고가 없습니다.</div>`;
 }
 

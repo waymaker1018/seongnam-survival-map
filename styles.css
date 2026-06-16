@@ -381,6 +381,26 @@ body {
 
 .badge.soft { background: var(--accent-soft); color: var(--accent); }
 
+/* 마감일 D-day 배지 */
+.dday {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 700;
+  border-radius: 6px;
+  padding: 2px 7px;
+  margin-right: 6px;
+  vertical-align: 1px;
+  min-width: 38px;
+  text-align: center;
+}
+.dday-urgent { background: var(--hot); color: #fff; }
+.dday-soon   { background: #fff1d6; color: #b45309; }
+.dday-normal { background: var(--accent-soft); color: var(--accent); }
+.dday-over   { background: #eef1f6; color: var(--muted); }
+
+.notice-item.is-over { opacity: 0.5; }
+.notice-item.is-over a { color: var(--muted); }
+
 .approx-note { color: var(--muted); font-size: 12px; }
 
 /* ── 최근 공고 ───────────────────────── */
