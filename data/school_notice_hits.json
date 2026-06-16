@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-15T11:39:18.041Z",
+  "generatedAt": "2026-06-16T04:27:27.093Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 27,
+  "hitCount": 28,
   "keywords": [
     "AI",
     "인공지능",
@@ -38,6 +38,90 @@
     "디지털 새싹"
   ],
   "items": [
+    {
+      "id": "bundang-e:bundang-e:1935652",
+      "schoolId": "bundang-e",
+      "schoolName": "분당초등학교",
+      "schoolHomepage": "https://bundang-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://bundang-e.goesn.kr/bundang-e/na/ntt/selectNttList.do?mi=12203&bbsId=11151&listCo=50&currPage=1",
+      "postedAt": "2026-06-15T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026 분당초 여름방학 아이신나플러스 개인위탁 (놀이체육)강사 채용",
+      "url": "https://bundang-e.goesn.kr/bundang-e/na/ntt/selectNttInfo.do?mi=12203&bbsId=11151&nttSn=1935652"
+    },
+    {
+      "id": "bundang-e:bundang-e:1935651",
+      "schoolId": "bundang-e",
+      "schoolName": "분당초등학교",
+      "schoolHomepage": "https://bundang-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://bundang-e.goesn.kr/bundang-e/na/ntt/selectNttList.do?mi=12203&bbsId=11151&listCo=50&currPage=1",
+      "postedAt": "2026-06-15T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026 분당초 여름방학 아이신나플러스 보조 강사 채용",
+      "url": "https://bundang-e.goesn.kr/bundang-e/na/ntt/selectNttInfo.do?mi=12203&bbsId=11151&nttSn=1935651"
+    },
+    {
+      "id": "office:goesn:1935799",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-06-15T15:00:00.000Z",
+      "deadline": "2026-06-25T15:00:00.000Z",
+      "title": "선택형 돌봄 특기적성 (창의음악) 강사 채용 공고",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1935799"
+    },
+    {
+      "id": "office:goesn:1935776",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-06-15T15:00:00.000Z",
+      "deadline": "2026-06-22T15:00:00.000Z",
+      "title": "코딩 및 창의융합(SW&AI) 디지털 창의교육 강사 채용 공고",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1935776"
+    },
+    {
+      "id": "office:goesn:1935722",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-06-15T15:00:00.000Z",
+      "deadline": "2026-06-19T15:00:00.000Z",
+      "title": "2026학년도 하탑초 방과후·돌봄 자원봉사자 모집 공고(3차)",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1935722"
+    },
+    {
+      "id": "wiryepureun-e:wiryepureun-e:1935802",
+      "schoolId": "wiryepureun-e",
+      "schoolName": "위례푸른초등학교",
+      "schoolHomepage": "https://wiryepureun-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://wiryepureun-e.goesn.kr/wiryepureun-e/na/ntt/selectNttList.do?mi=11186&bbsId=10571&listCo=50&currPage=1",
+      "postedAt": "2026-06-15T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026 위례푸른초 코딩 및 창의융합(SW_AI) 디지털 창의교육 강사 채용 공고문",
+      "url": "https://wiryepureun-e.goesn.kr/wiryepureun-e/na/ntt/selectNttInfo.do?mi=11186&bbsId=10571&nttSn=1935802"
+    },
+    {
+      "id": "hatap-e:hatap-e:1935727",
+      "schoolId": "hatap-e",
+      "schoolName": "하탑초등학교",
+      "schoolHomepage": "https://hatap-e.goesn.kr",
+      "boardLabel": "방과후·돌봄",
+      "boardUrl": "https://hatap-e.goesn.kr/hatap-e/na/ntt/selectNttList.do?mi=14715&bbsId=12581&listCo=50&currPage=1",
+      "postedAt": "2026-06-15T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026학년도 방과후·돌봄 자원봉사자 모집 공고(3차)",
+      "url": "https://hatap-e.goesn.kr/hatap-e/na/ntt/selectNttInfo.do?mi=14715&bbsId=12581&nttSn=1935727"
+    },
     {
       "id": "sdc-e:sdc-e:1935231",
       "schoolId": "sdc-e",
@@ -183,30 +267,6 @@
       "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1934554"
     },
     {
-      "id": "office:goesn:1934452",
-      "schoolId": null,
-      "schoolName": "성남교육지원청 구인",
-      "schoolHomepage": "https://www.goesn.kr",
-      "boardLabel": "성남교육지원청 구인",
-      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
-      "postedAt": "2026-06-09T15:00:00.000Z",
-      "deadline": "2026-06-14T15:00:00.000Z",
-      "title": "2026 성남은행초 돌봄교실 (방학기간) 프로그램 강사 채용 공고",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1934452"
-    },
-    {
-      "id": "office:goesn:1934273",
-      "schoolId": null,
-      "schoolName": "성남교육지원청 구인",
-      "schoolHomepage": "https://www.goesn.kr",
-      "boardLabel": "성남교육지원청 구인",
-      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
-      "postedAt": "2026-06-09T15:00:00.000Z",
-      "deadline": "2026-06-15T15:00:00.000Z",
-      "title": "2026희망대초 방과후돌봄 자원봉사자 모집",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1934273"
-    },
-    {
       "id": "hmd-e:hmd-e:1934276",
       "schoolId": "hmd-e",
       "schoolName": "희망대초등학교",
@@ -313,54 +373,6 @@
       "deadline": null,
       "title": "5학년 교육연극 운영 협력 강사 채용 공고",
       "url": "https://tp-e.goesn.kr/tp-e/na/ntt/selectNttInfo.do?mi=12666&bbsId=11410&nttSn=1932995"
-    },
-    {
-      "id": "npr-e:npr-e:1932551",
-      "schoolId": "npr-e",
-      "schoolName": "늘푸른초등학교",
-      "schoolHomepage": "https://npr-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://npr-e.goesn.kr/npr-e/na/ntt/selectNttList.do?mi=11517&bbsId=10776&listCo=50&currPage=1",
-      "postedAt": "2026-06-01T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026학년도 여름방학 중 방과후 과정 운영인력 채용 공고",
-      "url": "https://npr-e.goesn.kr/npr-e/na/ntt/selectNttInfo.do?mi=11517&bbsId=10776&nttSn=1932551"
-    },
-    {
-      "id": "seodang-e:seodang-e:1932554",
-      "schoolId": "seodang-e",
-      "schoolName": "서당초등학교",
-      "schoolHomepage": "https://seodang-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://seodang-e.goesn.kr/seodang-e/na/ntt/selectNttList.do?mi=19703&bbsId=15387&listCo=50&currPage=1",
-      "postedAt": "2026-06-01T15:00:00.000Z",
-      "deadline": null,
-      "title": "방과후돌봄 여름방학 플러스 개인위탁 보조강사 공모",
-      "url": "https://seodang-e.goesn.kr/seodang-e/na/ntt/selectNttInfo.do?mi=19703&bbsId=15387&nttSn=1932554"
-    },
-    {
-      "id": "snd-e:snd-e:1932368",
-      "schoolId": "snd-e",
-      "schoolName": "성남동초등학교",
-      "schoolHomepage": "https://snd-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://snd-e.goesn.kr/snd-e/na/ntt/selectNttList.do?mi=13033&bbsId=11619&listCo=50&currPage=1",
-      "postedAt": "2026-06-01T15:00:00.000Z",
-      "deadline": null,
-      "title": "방과후 학교 개인위탁 외부강사 공고 (교과서 수학)",
-      "url": "https://snd-e.goesn.kr/snd-e/na/ntt/selectNttInfo.do?mi=13033&bbsId=11619&nttSn=1932368"
-    },
-    {
-      "id": "seongsu-e:seongsu-e:1932480",
-      "schoolId": "seongsu-e",
-      "schoolName": "성수초등학교",
-      "schoolHomepage": "https://seongsu-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://seongsu-e.goesn.kr/seongsu-e/na/ntt/selectNttList.do?mi=15588&bbsId=13092&listCo=50&currPage=1",
-      "postedAt": "2026-06-01T15:00:00.000Z",
-      "deadline": null,
-      "title": "[공고] 2026학년도 성수초등학교 영어회화 전문강사 선발",
-      "url": "https://seongsu-e.goesn.kr/seongsu-e/na/ntt/selectNttInfo.do?mi=15588&bbsId=13092&nttSn=1932480"
     }
   ]
 }

@@ -1,18 +1,5 @@
 {
-  "generatedAt": "2026-06-15T11:41:02.414Z",
-  "newCount": 1,
-  "items": [
-    {
-      "id": "seoul:gnscedu:14147",
-      "schoolId": null,
-      "schoolName": "에듀케어 대체강사",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강남서초 구인",
-      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-06-15T00:00:00+09:00",
-      "title": "유치원 방과후과정 (김희선)",
-      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
-    }
-  ]
+  "generatedAt": "2026-06-16T04:33:07.107Z",
+  "newCount": 0,
+  "items": []
 }
