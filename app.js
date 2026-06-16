@@ -20,11 +20,24 @@ const state = {
   training: [],        // 양성교육·전국 디지털튜터
   districts: [],       // 데이터에서 파생
   favorites: new Set(),// 즐겨찾기 학교 id (localStorage 영속)
+  noticeFilter: "전체",// 공고 직무 필터
   level: "city",       // city | district | dong
   district: null,
   dong: null,
   selectedSchoolId: null
 };
+
+/* ── 공고 직무 분류 ──────────────────────── */
+const JOB_CATEGORIES = ["전체", "디지털", "돌봄·방과후", "예술·체육", "기타"];
+
+// 공고 제목 → 직무 분류 (디지털 우선 매칭)
+function jobCategory(title) {
+  const t = String(title || "");
+  if (/AI|인공지능|코딩|SW|소프트|디지털\s?튜터|디지털\s?새싹|로봇|메이커|피지컬|아두이노|마이크로비트|에듀테크|컴퓨터|드론|3D|미디어|정보/i.test(t)) return "디지털";
+  if (/예술|미술|음악|체육|댄스|난타|바둑|체스|연극|악기|소금|단소|놀이|무용|공예|영어회화|회화/.test(t)) return "예술·체육";
+  if (/돌봄|늘봄|방과후|방과 후|보조강사|자원봉사|봉사자|운영인력|운영 인력|특기적성|맞춤형/.test(t)) return "돌봄·방과후";
+  return "기타";
+}
 
 /* ── 즐겨찾기 (localStorage, 성남·서울 공용) ── */
 const FAV_KEY = "survivalmap.favorites";
@@ -460,8 +473,42 @@ function renderDetail() {
 }
 
 /* ── 최근 공고 목록 (하단) ────────────────── */
+function renderNoticeFilters(counts) {
+  const bar = $("noticeFilters");
+  if (!bar) return;
+  bar.innerHTML = JOB_CATEGORIES
+    .filter((cat) => cat === "전체" || counts[cat])
+    .map((cat) => {
+      const n = cat === "전체" ? counts.전체 : counts[cat] || 0;
+      const on = state.noticeFilter === cat;
+      return `<button class="filter-chip ${on ? "on" : ""}" data-notice-filter="${escapeHtml(cat)}" role="tab" aria-selected="${on}">${escapeHtml(cat)} <span class="chip-count">${n}</span></button>`;
+    })
+    .join("");
+  bar.querySelectorAll("[data-notice-filter]").forEach((button) => {
+    button.addEventListener("click", () => {
+      state.noticeFilter = button.dataset.noticeFilter;
+      renderNotices();
+    });
+  });
+}
+
 function renderNotices() {
-  const items = [...state.hits].sort(compareByDeadline);
+  const sorted = [...state.hits].sort(compareByDeadline);
+
+  // 분류별 개수 (필터 칩 표시용)
+  const counts = { 전체: sorted.length };
+  for (const h of sorted) {
+    const cat = jobCategory(h.title);
+    counts[cat] = (counts[cat] || 0) + 1;
+  }
+  // 선택 필터가 0건이 되면 전체로 복귀
+  if (state.noticeFilter !== "전체" && !counts[state.noticeFilter]) state.noticeFilter = "전체";
+  renderNoticeFilters(counts);
+
+  const items = state.noticeFilter === "전체"
+    ? sorted
+    : sorted.filter((h) => jobCategory(h.title) === state.noticeFilter);
+
   const urgent = items.filter((h) => { const dd = ddayInfo(h.deadline); return dd && dd.days >= 0 && dd.days <= 7; }).length;
   $("noticeMeta").textContent = items.length
     ? `${items.length}건 — 마감 임박순${urgent ? ` · 7일 내 마감 ${urgent}건` : ""}`
@@ -477,7 +524,7 @@ function renderNotices() {
           <span class="meta">${escapeHtml((h.postedAt || "").slice(0, 10))} · ${escapeHtml(h.boardLabel)}</span>
         </div>`;
       }).join("")
-    : `<div class="empty-state">아직 수집된 공고가 없습니다. <code>npm run daily</code>를 실행하면 최신 공고를 수집합니다.</div>`;
+    : `<div class="empty-state">이 분류의 공고가 없습니다.</div>`;
 }
 
 /* ── 양성교육·전국 디지털튜터 목록 ──────────── */

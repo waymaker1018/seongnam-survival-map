@@ -415,6 +415,35 @@ body {
 .notice-header h2 { margin: 0; font-size: 17px; }
 .notice-meta { color: var(--muted); font-size: 12px; }
 
+.notice-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 12px;
+}
+
+.filter-chip {
+  border: 1px solid var(--line);
+  background: #fff;
+  border-radius: 999px;
+  padding: 5px 12px;
+  font-size: 13px;
+  cursor: pointer;
+  color: var(--muted);
+}
+.filter-chip:hover { border-color: var(--accent); color: var(--accent); }
+.filter-chip.on {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+  font-weight: 600;
+}
+.filter-chip .chip-count {
+  font-size: 11px;
+  opacity: 0.75;
+  margin-left: 2px;
+}
+
 .notice-list { margin-top: 8px; }
 .notice-list .notice-item strong { color: var(--accent); font-weight: 600; }
 .notice-list .empty-state { padding: 16px; }
