@@ -1,7 +1,13 @@
 {
-  "generatedAt": "2026-06-17T04:23:19.056Z",
-  "hitCount": 4,
-  "errors": [],
+  "generatedAt": "2026-06-17T10:22:52.486Z",
+  "hitCount": 3,
+  "errors": [
+    "교육부 공고 1p: fetch failed",
+    "교육부 공고 2p: fetch failed",
+    "교육부 공고 3p: fetch failed",
+    "교육부 공고 4p: fetch failed",
+    "교육부 공고 5p: fetch failed"
+  ],
   "items": [
     {
       "id": "dtjob:https://www.goepj.kr/goepj/na/ntt/selectNttInfo.do?mi=10838&bbsId=7202&nttSn=1336892",
@@ -10,14 +16,6 @@
       "postedAt": "2026-06-12T00:00:00+09:00",
       "deadline": "2026-06-18T00:00:00+09:00",
       "url": "https://www.goepj.kr/goepj/na/ntt/selectNttInfo.do?mi=10838&bbsId=7202&nttSn=1336892"
-    },
-    {
-      "id": "moe:106305",
-      "source": "교육부 공고",
-      "title": "2026년 디지털튜터 양성센터 6개소 신규 선정",
-      "postedAt": "2026-05-28T00:00:00+09:00",
-      "deadline": null,
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=106305&lev=0&m=020402&s=moe"
     },
     {
       "id": "dtjob:https://www.goepj.kr/goepj/na/ntt/selectNttInfo.do?mi=10838&bbsId=7202&nttSn=1332332",
