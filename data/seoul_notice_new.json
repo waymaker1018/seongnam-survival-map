@@ -1,5 +1,18 @@
 {
-  "generatedAt": "2026-06-16T13:54:51.280Z",
-  "newCount": 0,
-  "items": []
+  "generatedAt": "2026-06-17T04:23:33.883Z",
+  "newCount": 1,
+  "items": [
+    {
+      "id": "seoul:gsycedu:14965",
+      "schoolId": "sen-7081449",
+      "schoolName": "서울신강초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "운동부 보조코치",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    }
+  ]
 }

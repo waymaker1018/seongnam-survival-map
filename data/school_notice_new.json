@@ -1,5 +1,30 @@
 {
-  "generatedAt": "2026-06-16T10:48:55.891Z",
-  "newCount": 0,
-  "items": []
+  "generatedAt": "2026-06-17T04:21:55.648Z",
+  "newCount": 2,
+  "items": [
+    {
+      "id": "office:goesn:1936117",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-06-16T15:00:00.000Z",
+      "deadline": "2026-06-23T15:00:00.000Z",
+      "title": "[성남서초등학교] 초1~2맞춤형 프로그램 보조강사 모집 공고",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1936117"
+    },
+    {
+      "id": "seongnamseo-e:seongnamseo-e:1936116",
+      "schoolId": "seongnamseo-e",
+      "schoolName": "성남서초등학교",
+      "schoolHomepage": "https://seongnamseo-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://seongnamseo-e.goesn.kr/seongnamseo-e/na/ntt/selectNttList.do?mi=13376&bbsId=11828&listCo=50&currPage=1",
+      "postedAt": "2026-06-16T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026학년도 초1~2맞춤형 보조강사 모집 공고",
+      "url": "https://seongnamseo-e.goesn.kr/seongnamseo-e/na/ntt/selectNttInfo.do?mi=13376&bbsId=11828&nttSn=1936116"
+    }
+  ]
 }
