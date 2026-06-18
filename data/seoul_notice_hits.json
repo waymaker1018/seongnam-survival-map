@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-18T04:27:18.729Z",
-  "hitCount": 103,
+  "generatedAt": "2026-06-18T10:02:50.255Z",
+  "hitCount": 105,
   "errors": [],
   "items": [
     {
@@ -61,6 +61,18 @@
       "postedAt": null,
       "deadline": "2026-06-22T00:00:00+09:00",
       "title": "서울구일초등학교 기간제교원(초등 특수) 채용계획 공고 (기간제교사)",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:nbedu:11135",
+      "schoolId": "sen-7041266",
+      "schoolName": "서울하늘숲초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-06-23T00:00:00+09:00",
+      "title": "(하늘숲초) 2026학년도 발도르프 수공예 강사 모집 공고 (특기적성외래교사)",
       "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
@@ -218,6 +230,18 @@
       "deadline": "2027-02-28T00:00:00+09:00",
       "title": "현장체험학습 보조인력",
       "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:jbedu:3395",
+      "schoolId": null,
+      "schoolName": "서울혜화초등학교병설유치원",
+      "schoolHomepage": null,
+      "boardLabel": "서울 중부(종로·중구·용산) 구인",
+      "boardUrl": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "방과후과정반 육아시간 대체강사",
+      "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:jbedu:3393",
@@ -736,18 +760,6 @@
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
-      "id": "seoul:jbedu:3332",
-      "schoolId": "sen-7061078",
-      "schoolName": "서울장충초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 중부(종로·중구·용산) 구인",
-      "boardUrl": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "국어 수학",
-      "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
       "id": "seoul:gsycedu:14970",
       "schoolId": null,
       "schoolName": "강서양천교육지원청",
@@ -1094,6 +1106,18 @@
       "deadline": null,
       "title": "특수학급 담임 시간강사",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gnscedu:14153",
+      "schoolId": "sen-7091400",
+      "schoolName": "서울신중초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강남서초 구인",
+      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "이중언어강사 권현민 (이중언어강사)",
+      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:gnscedu:14146",
