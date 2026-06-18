@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-17T10:22:52.486Z",
-  "hitCount": 3,
+  "generatedAt": "2026-06-18T04:22:41.055Z",
+  "hitCount": 4,
   "errors": [
     "교육부 공고 1p: fetch failed",
     "교육부 공고 2p: fetch failed",
@@ -9,6 +9,14 @@
     "교육부 공고 5p: fetch failed"
   ],
   "items": [
+    {
+      "id": "dtjob:https://org.goe.go.kr/staff/ad/func/pb/hnfpPbancList.do",
+      "source": "전국 디지털튜터 채용",
+      "title": "[경기도 · 서룡초등학교] 2026 서룡초 디지털 활용 클래스 강사 채용 공고 (2명)",
+      "postedAt": "2026-06-18T00:00:00+09:00",
+      "deadline": "2026-06-24T00:00:00+09:00",
+      "url": "https://org.goe.go.kr/staff/ad/func/pb/hnfpPbancList.do"
+    },
     {
       "id": "dtjob:https://www.goepj.kr/goepj/na/ntt/selectNttInfo.do?mi=10838&bbsId=7202&nttSn=1336892",
       "source": "전국 디지털튜터 채용",

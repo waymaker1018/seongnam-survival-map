@@ -1,30 +1,5 @@
 {
-  "generatedAt": "2026-06-17T10:21:32.426Z",
-  "newCount": 2,
-  "items": [
-    {
-      "id": "bokjeong-e:bokjeong-e:1936295",
-      "schoolId": "bokjeong-e",
-      "schoolName": "복정초등학교",
-      "schoolHomepage": "https://bokjeong-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://bokjeong-e.goesn.kr/bokjeong-e/na/ntt/selectNttList.do?mi=12310&bbsId=11211&listCo=50&currPage=1",
-      "postedAt": "2026-06-16T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026학년도 여름방학 중 방과후과정 운영인력 채용 공고",
-      "url": "https://bokjeong-e.goesn.kr/bokjeong-e/na/ntt/selectNttInfo.do?mi=12310&bbsId=11211&nttSn=1936295"
-    },
-    {
-      "id": "bokjeong-e:bokjeong-e:1936292",
-      "schoolId": "bokjeong-e",
-      "schoolName": "복정초등학교",
-      "schoolHomepage": "https://bokjeong-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://bokjeong-e.goesn.kr/bokjeong-e/na/ntt/selectNttList.do?mi=12508&bbsId=11334&listCo=50&currPage=1",
-      "postedAt": "2026-06-16T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026학년도 여름방학 중 방과후과정 운영인력 채용 공고",
-      "url": "https://bokjeong-e.goesn.kr/bokjeong-e/na/ntt/selectNttInfo.do?mi=12508&bbsId=11334&nttSn=1936292"
-    }
-  ]
+  "generatedAt": "2026-06-18T04:14:44.776Z",
+  "newCount": 0,
+  "items": []
 }
