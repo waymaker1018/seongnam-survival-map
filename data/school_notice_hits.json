@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-18T10:01:14.013Z",
+  "generatedAt": "2026-06-19T04:42:43.513Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 23,
+  "hitCount": 22,
   "keywords": [
     "AI",
     "인공지능",
@@ -301,18 +301,6 @@
       "deadline": null,
       "title": "2026학년도 불곡초 돌봄 특기적성 강사채용 공고(목-바둑체스)",
       "url": "https://bulgok-e.goesn.kr/bulgok-e/na/ntt/selectNttInfo.do?mi=26814&bbsId=20818&nttSn=1933463"
-    },
-    {
-      "id": "whb-e:whb-e:1933197",
-      "schoolId": "whb-e",
-      "schoolName": "위례한빛초등학교",
-      "schoolHomepage": "https://whb-e.goesn.kr",
-      "boardLabel": "방과후 학교",
-      "boardUrl": "https://whb-e.goesn.kr/whb-e/na/ntt/selectNttList.do?mi=10952&bbsId=10456&listCo=50&currPage=1",
-      "postedAt": "2026-06-04T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026학년 방과후돌봄 방학 중 학습보조강사 채용 공고",
-      "url": "https://whb-e.goesn.kr/whb-e/na/ntt/selectNttInfo.do?mi=10952&bbsId=10456&nttSn=1933197"
     }
   ]
 }
