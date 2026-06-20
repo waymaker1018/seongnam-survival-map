@@ -1,42 +1,5 @@
 {
-  "generatedAt": "2026-06-19T10:09:26.980Z",
-  "newCount": 3,
-  "items": [
-    {
-      "id": "seoul:gsycedu:14978",
-      "schoolId": null,
-      "schoolName": "서울특별시강서양천교육지원청 중등교육지원과",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "2026 강서양천 수학과학융합교육센터 기간제근로자 채용 공고(업무보조원)",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:14977",
-      "schoolId": "sen-7081422",
-      "schoolName": "서울강신초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "기초학력(도약캠프) 강사",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gnscedu:14154",
-      "schoolId": null,
-      "schoolName": "밀알학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강남서초 구인",
-      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "음악 김효중 (늘봄학교 맞춤형 교실 음악 강사)",
-      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
-    }
-  ]
+  "generatedAt": "2026-06-20T04:02:48.529Z",
+  "newCount": 0,
+  "items": []
 }

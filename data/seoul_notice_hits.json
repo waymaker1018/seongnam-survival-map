@@ -1,20 +1,8 @@
 {
-  "generatedAt": "2026-06-19T10:09:26.980Z",
-  "hitCount": 109,
+  "generatedAt": "2026-06-20T04:02:48.529Z",
+  "hitCount": 108,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:gdspedu:8205",
-      "schoolId": "sen-7130160",
-      "schoolName": "서울토성초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강동송파 구인",
-      "boardUrl": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-06-19T00:00:00+09:00",
-      "title": "대안교실 운영 (시간제)",
-      "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:sbedu:5553",
       "schoolId": null,
