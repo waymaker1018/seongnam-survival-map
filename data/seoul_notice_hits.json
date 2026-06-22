@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-22T04:49:34.721Z",
-  "hitCount": 114,
+  "generatedAt": "2026-06-22T11:40:42.724Z",
+  "hitCount": 117,
   "errors": [],
   "items": [
     {
@@ -88,6 +88,18 @@
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:sbedu:5558",
+      "schoolId": "sen-7031168",
+      "schoolName": "서울홍은초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
+      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-06-26T00:00:00+09:00",
+      "title": "AI (시간제)",
+      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:sbedu:5556",
       "schoolId": "sen-7031167",
       "schoolName": "서울홍연초등학교",
@@ -146,6 +158,18 @@
       "deadline": "2026-06-30T00:00:00+09:00",
       "title": "2025학년도 시간강사 인력풀 상시 모집 안내 (시간제)",
       "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:nbedu:11155",
+      "schoolId": "sen-7041109",
+      "schoolName": "서울구일초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-06-30T00:00:00+09:00",
+      "title": "(서울구일초) 4, 5학년 뉴스포츠 강사 채용 공고 (시간강사)",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:nbedu:11004",
@@ -241,6 +265,18 @@
       "postedAt": null,
       "deadline": "2026-07-22T00:00:00+09:00",
       "title": "(서울문창병유)2026학년도 여름방학 특수학급 방과후과정 대체강사 채용공고",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10104",
+      "schoolId": "sen-7132097",
+      "schoolName": "서울봉천초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-07-24T00:00:00+09:00",
+      "title": "2026학년도 봉천초 교육활동 지원 봉사자 위촉 공고 (기타)",
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
@@ -820,6 +856,18 @@
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:gsycedu:14981",
+      "schoolId": null,
+      "schoolName": "서울공항초등학교병설유치원",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "수업지원인력(일4시간)",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:gsycedu:14979",
       "schoolId": null,
       "schoolName": "서울탑산초등학교병설유치원",
@@ -1189,18 +1237,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "학습지원 튜터",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:14914",
-      "schoolId": "sen-7081482",
-      "schoolName": "서울신은초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "학습지원튜터",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
