@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-21T09:44:17.133Z",
-  "hitCount": 108,
+  "generatedAt": "2026-06-22T04:49:34.721Z",
+  "hitCount": 114,
   "errors": [],
   "items": [
     {
@@ -88,6 +88,30 @@
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:sbedu:5556",
+      "schoolId": "sen-7031167",
+      "schoolName": "서울홍연초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
+      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-06-26T00:00:00+09:00",
+      "title": "기초학력캠프 지도강사 (시간제)",
+      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:nbedu:11153",
+      "schoolId": "sen-7041260",
+      "schoolName": "서울금나래초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-06-26T00:00:00+09:00",
+      "title": "(서울금나래초)6학년 체육수업 협력강사(시간강사) 채용 공고 (시간강사)",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:sbgbedu:3030",
       "schoolId": null,
       "schoolName": "서울장위초등학교병설유치원",
@@ -98,6 +122,18 @@
       "deadline": "2026-06-27T00:00:00+09:00",
       "title": "2026 교사대 유아 비율 개선 사업 관련 3세 학급 지원 보조인력 모집 공고 (기타)",
       "url": "https://sbgbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10097",
+      "schoolId": "sen-7132097",
+      "schoolName": "서울봉천초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-06-29T00:00:00+09:00",
+      "title": "봉천초 혁신학교 협력강사 (재)공고 (강사)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:sbedu:5340",
@@ -172,6 +208,30 @@
       "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:dgedu:10102",
+      "schoolId": null,
+      "schoolName": "서울문창초등학교병설유치원",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-07-22T00:00:00+09:00",
+      "title": "(문창병유)2026학년도 여름방학 특수에듀케어 방과후과정 대체강사 채용공고",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10101",
+      "schoolId": null,
+      "schoolName": "서울남성초등학교병설유치원",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-07-22T00:00:00+09:00",
+      "title": "(남성병유) 여름방학 에듀케어 대체강사 채용 공고(오전 근무)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:dgedu:10065",
       "schoolId": null,
       "schoolName": "서울문창초등학교병설유치원",
@@ -230,6 +290,18 @@
       "deadline": "2027-02-28T00:00:00+09:00",
       "title": "현장체험학습 보조인력",
       "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:jbedu:3396",
+      "schoolId": "sen-7061058",
+      "schoolName": "서울교동초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 중부(종로·중구·용산) 구인",
+      "boardUrl": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "글쓰기/디지털/사고력 수학/기초수학",
+      "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:jbedu:3395",
@@ -748,16 +820,16 @@
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
-      "id": "seoul:jbedu:3333",
-      "schoolId": "sen-7061078",
-      "schoolName": "서울장충초등학교",
+      "id": "seoul:gsycedu:14979",
+      "schoolId": null,
+      "schoolName": "서울탑산초등학교병설유치원",
       "schoolHomepage": null,
-      "boardLabel": "서울 중부(종로·중구·용산) 구인",
-      "boardUrl": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
       "deadline": null,
-      "title": "학습지원 튜터",
-      "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
+      "title": "여름방학 중 오전운영인력 대체강사",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:gsycedu:14978",

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-21T09:31:52.938Z",
+  "generatedAt": "2026-06-22T04:43:27.710Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 23,
+  "hitCount": 17,
   "keywords": [
     "AI",
     "인공지능",
@@ -87,18 +87,6 @@
       "url": "https://snjungang-e.goesn.kr/snjungang-e/na/ntt/selectNttInfo.do?mi=14719&bbsId=12583&nttSn=1936708"
     },
     {
-      "id": "wiryepureun-e:wiryepureun-e:1936630",
-      "schoolId": "wiryepureun-e",
-      "schoolName": "위례푸른초등학교",
-      "schoolHomepage": "https://wiryepureun-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://wiryepureun-e.goesn.kr/wiryepureun-e/na/ntt/selectNttList.do?mi=11186&bbsId=10571&listCo=50&currPage=1",
-      "postedAt": "2026-06-17T15:00:00.000Z",
-      "deadline": null,
-      "title": "청소년 AI 영상제작 : 유얼 리틀 텔레비젼 참가자 모집 안내",
-      "url": "https://wiryepureun-e.goesn.kr/wiryepureun-e/na/ntt/selectNttInfo.do?mi=11186&bbsId=10571&nttSn=1936630"
-    },
-    {
       "id": "bokjeong-e:bokjeong-e:1936295",
       "schoolId": "bokjeong-e",
       "schoolName": "복정초등학교",
@@ -169,42 +157,6 @@
       "deadline": null,
       "title": "2026 분당초 여름방학 아이신나플러스 보조 강사 채용",
       "url": "https://bundang-e.goesn.kr/bundang-e/na/ntt/selectNttInfo.do?mi=12203&bbsId=11151&nttSn=1935651"
-    },
-    {
-      "id": "office:goesn:1935799",
-      "schoolId": null,
-      "schoolName": "성남교육지원청 구인",
-      "schoolHomepage": "https://www.goesn.kr",
-      "boardLabel": "성남교육지원청 구인",
-      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
-      "postedAt": "2026-06-15T15:00:00.000Z",
-      "deadline": "2026-06-25T15:00:00.000Z",
-      "title": "선택형 돌봄 특기적성 (창의음악) 강사 채용 공고",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1935799"
-    },
-    {
-      "id": "office:goesn:1935776",
-      "schoolId": null,
-      "schoolName": "성남교육지원청 구인",
-      "schoolHomepage": "https://www.goesn.kr",
-      "boardLabel": "성남교육지원청 구인",
-      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
-      "postedAt": "2026-06-15T15:00:00.000Z",
-      "deadline": "2026-06-22T15:00:00.000Z",
-      "title": "코딩 및 창의융합(SW&AI) 디지털 창의교육 강사 채용 공고",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1935776"
-    },
-    {
-      "id": "wiryepureun-e:wiryepureun-e:1935802",
-      "schoolId": "wiryepureun-e",
-      "schoolName": "위례푸른초등학교",
-      "schoolHomepage": "https://wiryepureun-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://wiryepureun-e.goesn.kr/wiryepureun-e/na/ntt/selectNttList.do?mi=11186&bbsId=10571&listCo=50&currPage=1",
-      "postedAt": "2026-06-15T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026 위례푸른초 코딩 및 창의융합(SW_AI) 디지털 창의교육 강사 채용 공고문",
-      "url": "https://wiryepureun-e.goesn.kr/wiryepureun-e/na/ntt/selectNttInfo.do?mi=11186&bbsId=10571&nttSn=1935802"
     },
     {
       "id": "hatap-e:hatap-e:1935727",
@@ -289,30 +241,6 @@
       "deadline": null,
       "title": "2026학년도 AI 중점학교 프로그램 강사 모집 공고(SW·AI 창의융합교육)",
       "url": "https://dangchon-e.goesn.kr/dangchon-e/na/ntt/selectNttInfo.do?mi=11665&bbsId=10848&nttSn=1933880"
-    },
-    {
-      "id": "geumbit-e:geumbit-e:1933490",
-      "schoolId": "geumbit-e",
-      "schoolName": "금빛초등학교",
-      "schoolHomepage": "https://geumbit-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://geumbit-e.goesn.kr/geumbit-e/na/ntt/selectNttList.do?mi=11068&bbsId=10530&listCo=50&currPage=1",
-      "postedAt": "2026-06-07T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026 금빛초등학교 방과후학교(초1-2맞춤형 놀이미술) 개인위탁 외부강사 채용 공고",
-      "url": "https://geumbit-e.goesn.kr/geumbit-e/na/ntt/selectNttInfo.do?mi=11068&bbsId=10530&nttSn=1933490"
-    },
-    {
-      "id": "bulgok-e:bulgok-e:1933463",
-      "schoolId": "bulgok-e",
-      "schoolName": "불곡초등학교",
-      "schoolHomepage": "https://bulgok-e.goesn.kr",
-      "boardLabel": "돌봄교실",
-      "boardUrl": "https://bulgok-e.goesn.kr/bulgok-e/na/ntt/selectNttList.do?mi=26814&bbsId=20818&listCo=50&currPage=1",
-      "postedAt": "2026-06-07T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026학년도 불곡초 돌봄 특기적성 강사채용 공고(목-바둑체스)",
-      "url": "https://bulgok-e.goesn.kr/bulgok-e/na/ntt/selectNttInfo.do?mi=26814&bbsId=20818&nttSn=1933463"
     }
   ]
 }
