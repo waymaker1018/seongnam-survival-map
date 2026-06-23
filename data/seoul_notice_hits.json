@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T03:56:05.007Z",
+  "generatedAt": "2026-06-23T08:59:15.329Z",
   "hitCount": 113,
   "errors": [],
   "items": [
@@ -122,6 +122,18 @@
       "deadline": "2026-06-27T00:00:00+09:00",
       "title": "2026 교사대 유아 비율 개선 사업 관련 3세 학급 지원 보조인력 모집 공고 (기타)",
       "url": "https://sbgbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:sbedu:5560",
+      "schoolId": "sen-7031115",
+      "schoolName": "서울구산초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
+      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-06-29T00:00:00+09:00",
+      "title": "5,6학년 놀이체육 (시간제)",
+      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:dgedu:10097",
@@ -832,6 +844,18 @@
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:gsycedu:14984",
+      "schoolId": null,
+      "schoolName": "내발산초등학교병설유치원",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "여름방학 중 오전 오후 에듀케어 강사 및 대체강사 방학중 에듀케어 대체강사",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:gsycedu:14981",
       "schoolId": null,
       "schoolName": "서울공항초등학교병설유치원",
@@ -997,18 +1021,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "오후에듀케어운영인력",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:14957",
-      "schoolId": null,
-      "schoolName": "내발산초등학교병설유치원",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "여름방학 중 오전 오후 에듀케어 강사 및 대체강사 방학중 에듀케어 대체강사",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
@@ -1189,18 +1201,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "학습지원튜터",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:14915",
-      "schoolId": "sen-7081441",
-      "schoolName": "서울발산초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "학습지원 튜터",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
