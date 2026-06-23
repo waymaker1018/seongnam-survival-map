@@ -1,54 +1,18 @@
 {
-  "generatedAt": "2026-06-22T11:40:42.724Z",
-  "newCount": 4,
+  "generatedAt": "2026-06-23T03:56:05.007Z",
+  "newCount": 1,
   "items": [
     {
-      "id": "seoul:sbedu:5558",
-      "schoolId": "sen-7031168",
-      "schoolName": "서울홍은초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
-      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-06-26T00:00:00+09:00",
-      "title": "AI (시간제)",
-      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:nbedu:11155",
-      "schoolId": "sen-7041109",
-      "schoolName": "서울구일초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-06-30T00:00:00+09:00",
-      "title": "(서울구일초) 4, 5학년 뉴스포츠 강사 채용 공고 (시간강사)",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:dgedu:10104",
-      "schoolId": "sen-7132097",
-      "schoolName": "서울봉천초등학교",
+      "id": "seoul:dgedu:10106",
+      "schoolId": null,
+      "schoolName": "삼성초등학교",
       "schoolHomepage": null,
       "boardLabel": "서울 동작관악 구인",
       "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
-      "deadline": "2026-07-24T00:00:00+09:00",
-      "title": "2026학년도 봉천초 교육활동 지원 봉사자 위촉 공고 (기타)",
+      "deadline": "2026-06-25T00:00:00+09:00",
+      "title": "돌봄교실 프로그램강사 채용 (기타)",
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:14981",
-      "schoolId": null,
-      "schoolName": "서울공항초등학교병설유치원",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "수업지원인력(일4시간)",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
 }

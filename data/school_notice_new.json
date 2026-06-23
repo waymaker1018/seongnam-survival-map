@@ -1,42 +1,18 @@
 {
-  "generatedAt": "2026-06-22T11:28:23.673Z",
-  "newCount": 3,
+  "generatedAt": "2026-06-23T03:49:26.141Z",
+  "newCount": 1,
   "items": [
     {
-      "id": "gomdan-e:gomdan-e:1937440",
-      "schoolId": "gomdan-e",
-      "schoolName": "검단초등학교",
-      "schoolHomepage": "https://gomdan-e.goesn.kr",
+      "id": "snsj-e:snsj-e:1937676",
+      "schoolId": "snsj-e",
+      "schoolName": "성남수정초등학교",
+      "schoolHomepage": "https://snsj-e.goesn.kr",
       "boardLabel": "공지사항",
-      "boardUrl": "https://gomdan-e.goesn.kr/gomdan-e/na/ntt/selectNttList.do?mi=10892&bbsId=10408&listCo=50&currPage=1",
-      "postedAt": "2026-06-21T15:00:00.000Z",
+      "boardUrl": "https://snsj-e.goesn.kr/snsj-e/na/ntt/selectNttList.do?mi=13584&bbsId=11932&listCo=50&currPage=1",
+      "postedAt": "2026-06-22T15:00:00.000Z",
       "deadline": null,
-      "title": "2026학년도 학습도약 계절학기 프로그램 강사 채용 공고",
-      "url": "https://gomdan-e.goesn.kr/gomdan-e/na/ntt/selectNttInfo.do?mi=10892&bbsId=10408&nttSn=1937440"
-    },
-    {
-      "id": "office:goesn:1937531",
-      "schoolId": null,
-      "schoolName": "성남교육지원청 구인",
-      "schoolHomepage": "https://www.goesn.kr",
-      "boardLabel": "성남교육지원청 구인",
-      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
-      "postedAt": "2026-06-21T15:00:00.000Z",
-      "deadline": "2026-06-24T15:00:00.000Z",
-      "title": "[성남양지초] 시간강사(6학년 담임) 채용 공고",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1937531"
-    },
-    {
-      "id": "office:goesn:1937436",
-      "schoolId": null,
-      "schoolName": "성남교육지원청 구인",
-      "schoolHomepage": "https://www.goesn.kr",
-      "boardLabel": "성남교육지원청 구인",
-      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
-      "postedAt": "2026-06-21T15:00:00.000Z",
-      "deadline": "2026-06-28T15:00:00.000Z",
-      "title": "[검단초] 학습도약 계절학기 프로그램 강사 채용 공고",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1937436"
+      "title": "2026 청소년 힐링데이(캠프) 참가자 모집 안내 - 정자유스센터",
+      "url": "https://snsj-e.goesn.kr/snsj-e/na/ntt/selectNttInfo.do?mi=13584&bbsId=11932&nttSn=1937676"
     }
   ]
 }

@@ -1,32 +1,8 @@
 {
-  "generatedAt": "2026-06-22T11:40:42.724Z",
-  "hitCount": 117,
+  "generatedAt": "2026-06-23T03:56:05.007Z",
+  "hitCount": 113,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:sbedu:5553",
-      "schoolId": null,
-      "schoolName": "서부교육지원청 평생교육건강과",
-      "schoolHomepage": null,
-      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
-      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-06-22T00:00:00+09:00",
-      "title": "사무행정지원 (기간제)",
-      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:nbedu:11134",
-      "schoolId": "sen-7041109",
-      "schoolName": "서울구일초등학교(서울남부교육지원청 학교통합지원과)",
-      "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-06-22T00:00:00+09:00",
-      "title": "서울구일초등학교 기간제교원(초등 특수) 채용계획 공고 (기간제교사)",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:nbedu:11139",
       "schoolId": null,
@@ -62,6 +38,18 @@
       "deadline": "2026-06-25T00:00:00+09:00",
       "title": "돌봄교실 프로그램(음악줄넘기) 강사 (특기적성)",
       "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10106",
+      "schoolId": null,
+      "schoolName": "삼성초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-06-25T00:00:00+09:00",
+      "title": "돌봄교실 프로그램강사 채용 (기타)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:dgedu:10093",
@@ -844,18 +832,6 @@
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
-      "id": "seoul:jbedu:3334",
-      "schoolId": "sen-7061076",
-      "schoolName": "서울원효초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 중부(종로·중구·용산) 구인",
-      "boardUrl": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "체육",
-      "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
       "id": "seoul:gsycedu:14981",
       "schoolId": null,
       "schoolName": "서울공항초등학교병설유치원",
@@ -973,18 +949,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "여름방학 중 에듀케어 대체 강사",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:14967",
-      "schoolId": null,
-      "schoolName": "서울신기초등학교병설유치원",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "2026 유치원 기간제 교원 채용",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
@@ -1393,18 +1357,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "초등 학생맞춤통합지원 강사 임현진 (초등 학생맞춤통합지원 강사)",
-      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gnscedu:14089",
-      "schoolId": "sen-7091496",
-      "schoolName": "서울개현초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강남서초 구인",
-      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "이다영 (대안교실 강사)",
       "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
