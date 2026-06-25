@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-24T08:50:54.993Z",
-  "hitCount": 111,
+  "generatedAt": "2026-06-25T03:56:10.450Z",
+  "hitCount": 114,
   "errors": [],
   "items": [
     {
@@ -856,6 +856,54 @@
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:gsycedu:14994",
+      "schoolId": null,
+      "schoolName": "서울공항초등학교병설유치원",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "수업지원인력(일4시간)",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gsycedu:14993",
+      "schoolId": null,
+      "schoolName": "서울염경초등학교병설유치원",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "여름방학 방과후 과정 봉사자 여름방학 방과후 과정 봉사자",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gsycedu:14992",
+      "schoolId": null,
+      "schoolName": "서울염경초등학교병설유치원",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "여름방학 방과후 과정 보조인력 여름방학 방과후 과정 보조인력",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gsycedu:14991",
+      "schoolId": null,
+      "schoolName": "서울염경초등학교병설유치원",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "에듀케어 대체강사 여름 방학 에듀케어 대체강사",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:gsycedu:14988",
       "schoolId": null,
       "schoolName": "서울신기초등학교병설유치원",
@@ -1177,18 +1225,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "학습지원 튜터",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:14923",
-      "schoolId": "sen-7081432",
-      "schoolName": "서울등명초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "맞춤형교실",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {

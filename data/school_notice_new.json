@@ -1,30 +1,5 @@
 {
-  "generatedAt": "2026-06-24T08:49:19.511Z",
-  "newCount": 2,
-  "items": [
-    {
-      "id": "bulgok-e:bulgok-e:1938315",
-      "schoolId": "bulgok-e",
-      "schoolName": "불곡초등학교",
-      "schoolHomepage": "https://bulgok-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://bulgok-e.goesn.kr/bulgok-e/na/ntt/selectNttList.do?mi=12199&bbsId=11148&listCo=50&currPage=1",
-      "postedAt": "2026-06-23T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026 금광청소년문화의집 여름방학 영어캠프 참가자 모집 안내",
-      "url": "https://bulgok-e.goesn.kr/bulgok-e/na/ntt/selectNttInfo.do?mi=12199&bbsId=11148&nttSn=1938315"
-    },
-    {
-      "id": "hmd-e:hmd-e:1938289",
-      "schoolId": "hmd-e",
-      "schoolName": "희망대초등학교",
-      "schoolHomepage": "https://hmd-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://hmd-e.goesn.kr/hmd-e/na/ntt/selectNttList.do?mi=15851&bbsId=13226&listCo=50&currPage=1",
-      "postedAt": "2026-06-23T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026 여름방학 영어캠프 참가자 모집 홍보",
-      "url": "https://hmd-e.goesn.kr/hmd-e/na/ntt/selectNttInfo.do?mi=15851&bbsId=13226&nttSn=1938289"
-    }
-  ]
+  "generatedAt": "2026-06-25T03:51:21.291Z",
+  "newCount": 0,
+  "items": []
 }
