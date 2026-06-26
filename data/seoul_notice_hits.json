@@ -1,56 +1,8 @@
 {
-  "generatedAt": "2026-06-25T08:49:38.891Z",
-  "hitCount": 118,
+  "generatedAt": "2026-06-26T04:03:49.401Z",
+  "hitCount": 115,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:gdspedu:8216",
-      "schoolId": "sen-7130118",
-      "schoolName": "서울둔촌초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강동송파 구인",
-      "boardUrl": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-06-25T00:00:00+09:00",
-      "title": "돌봄교실 프로그램(음악줄넘기) 강사 (특기적성)",
-      "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:dgedu:10106",
-      "schoolId": null,
-      "schoolName": "삼성초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-06-25T00:00:00+09:00",
-      "title": "돌봄교실 프로그램강사 채용 (기타)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:dgedu:10093",
-      "schoolId": "sen-7132103",
-      "schoolName": "서울상현초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-06-25T00:00:00+09:00",
-      "title": "2026학년도 서울상현초등학교 정보교육 협력강사 모집 공고문 (강사)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:dgedu:10092",
-      "schoolId": "sen-7132103",
-      "schoolName": "서울상현초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-06-25T00:00:00+09:00",
-      "title": "2026학년도 서울상현초등학교 문화예술교육 연극분야 협력강사 모집 공고문 (강사)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:sbedu:5558",
       "schoolId": "sen-7031168",
@@ -218,6 +170,18 @@
       "deadline": "2026-07-01T00:00:00+09:00",
       "title": "서울대림초등학교 예술교육 강사 모집 공고(1학년) (국악) (강사)",
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:nbedu:11172",
+      "schoolId": null,
+      "schoolName": "오정초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-07-02T00:00:00+09:00",
+      "title": "2026학년도 서울오정초 돌봄교실 특별프로그램(방학중) 강사 채용",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:dgedu:10113",
