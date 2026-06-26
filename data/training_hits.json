@@ -1,13 +1,7 @@
 {
-  "generatedAt": "2026-06-26T03:59:12.192Z",
+  "generatedAt": "2026-06-26T08:47:43.222Z",
   "hitCount": 3,
-  "errors": [
-    "교육부 공고 1p: fetch failed",
-    "교육부 공고 2p: fetch failed",
-    "교육부 공고 3p: fetch failed",
-    "교육부 공고 4p: fetch failed",
-    "교육부 공고 5p: fetch failed"
-  ],
+  "errors": [],
   "items": [
     {
       "id": "dtjob:https://org.goe.go.kr/staff/ad/func/pb/hnfpPbancList.do",
