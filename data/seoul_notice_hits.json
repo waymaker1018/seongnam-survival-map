@@ -1,56 +1,8 @@
 {
-  "generatedAt": "2026-06-26T08:47:58.183Z",
-  "hitCount": 117,
+  "generatedAt": "2026-06-27T03:46:46.887Z",
+  "hitCount": 113,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:sbedu:5558",
-      "schoolId": "sen-7031168",
-      "schoolName": "서울홍은초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
-      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-06-26T00:00:00+09:00",
-      "title": "AI (시간제)",
-      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:sbedu:5556",
-      "schoolId": "sen-7031167",
-      "schoolName": "서울홍연초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
-      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-06-26T00:00:00+09:00",
-      "title": "기초학력캠프 지도강사 (시간제)",
-      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:nbedu:11168",
-      "schoolId": null,
-      "schoolName": "서울영중초등학교병설유치원(서울남부교육지원청 학교통합지원과)",
-      "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-06-26T00:00:00+09:00",
-      "title": "(6차) 서울영중초등학교병설유치원 '26학년도 여름방학 중 유치원에듀케어강사·특수에듀케어강사 채용계획 공고 (기타)",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:nbedu:11153",
-      "schoolId": "sen-7041260",
-      "schoolName": "서울금나래초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-06-26T00:00:00+09:00",
-      "title": "(서울금나래초)6학년 체육수업 협력강사(시간강사) 채용 공고 (시간강사)",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:sbgbedu:3030",
       "schoolId": null,

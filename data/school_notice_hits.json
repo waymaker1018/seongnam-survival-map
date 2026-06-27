@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-26T08:45:23.468Z",
+  "generatedAt": "2026-06-27T03:40:53.503Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 33,
+  "hitCount": 34,
   "keywords": [
     "AI",
     "인공지능",
@@ -421,6 +421,18 @@
       "deadline": null,
       "title": "2026 위례푸른초 코딩 및 창의융합(SW_AI) 디지털 창의교육 강사 채용 공고문",
       "url": "https://wiryepureun-e.goesn.kr/wiryepureun-e/na/ntt/selectNttInfo.do?mi=11186&bbsId=10571&nttSn=1935802"
+    },
+    {
+      "id": "hatap-e:hatap-e:1935727",
+      "schoolId": "hatap-e",
+      "schoolName": "하탑초등학교",
+      "schoolHomepage": "https://hatap-e.goesn.kr",
+      "boardLabel": "방과후·돌봄",
+      "boardUrl": "https://hatap-e.goesn.kr/hatap-e/na/ntt/selectNttList.do?mi=14715&bbsId=12581&listCo=50&currPage=1",
+      "postedAt": "2026-06-15T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026학년도 방과후·돌봄 자원봉사자 모집 공고(3차)",
+      "url": "https://hatap-e.goesn.kr/hatap-e/na/ntt/selectNttInfo.do?mi=14715&bbsId=12581&nttSn=1935727"
     },
     {
       "id": "sdc-e:sdc-e:1935231",
