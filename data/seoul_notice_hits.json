@@ -1,20 +1,8 @@
 {
-  "generatedAt": "2026-06-27T08:28:03.695Z",
-  "hitCount": 113,
+  "generatedAt": "2026-06-28T04:10:14.762Z",
+  "hitCount": 112,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:sbgbedu:3030",
-      "schoolId": null,
-      "schoolName": "서울장위초등학교병설유치원",
-      "schoolHomepage": null,
-      "boardLabel": "서울 성북강북 구인",
-      "boardUrl": "https://sbgbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-06-27T00:00:00+09:00",
-      "title": "2026 교사대 유아 비율 개선 사업 관련 3세 학급 지원 보조인력 모집 공고 (기타)",
-      "url": "https://sbgbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:sbedu:5560",
       "schoolId": "sen-7031115",
