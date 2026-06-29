@@ -1,78 +1,42 @@
 {
-  "generatedAt": "2026-06-29T04:11:24.687Z",
-  "newCount": 6,
+  "generatedAt": "2026-06-29T10:15:58.924Z",
+  "newCount": 3,
   "items": [
     {
-      "id": "bulgok-e:bulgok-e:1939192",
-      "schoolId": "bulgok-e",
-      "schoolName": "불곡초등학교",
-      "schoolHomepage": "https://bulgok-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://bulgok-e.goesn.kr/bulgok-e/na/ntt/selectNttList.do?mi=12199&bbsId=11148&listCo=50&currPage=1",
-      "postedAt": "2026-06-28T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026학년도 문화예술교육(오카리나) 강사 채용 공고",
-      "url": "https://bulgok-e.goesn.kr/bulgok-e/na/ntt/selectNttInfo.do?mi=12199&bbsId=11148&nttSn=1939192"
-    },
-    {
-      "id": "office:goesn:1939366",
+      "id": "office:goesn:1939488",
       "schoolId": null,
       "schoolName": "성남교육지원청 구인",
       "schoolHomepage": "https://www.goesn.kr",
       "boardLabel": "성남교육지원청 구인",
       "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
       "postedAt": "2026-06-28T15:00:00.000Z",
-      "deadline": "2026-07-07T15:00:00.000Z",
-      "title": "2026학년도 성남여수초 선택형 돌봄 특기적성 강사 모집 공고",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1939366"
+      "deadline": "2026-07-30T15:00:00.000Z",
+      "title": "2026 오리초 방과후돌봄 자원봉사자 모집 공고",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1939488"
     },
     {
-      "id": "office:goesn:1939268",
+      "id": "office:goesn:1939484",
       "schoolId": null,
       "schoolName": "성남교육지원청 구인",
       "schoolHomepage": "https://www.goesn.kr",
       "boardLabel": "성남교육지원청 구인",
       "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
       "postedAt": "2026-06-28T15:00:00.000Z",
-      "deadline": "2026-07-02T15:00:00.000Z",
-      "title": "2026학년도 하탑초 학교자율과제 SW 코딩 및 AI 교육 강사 모집 공고",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1939268"
+      "deadline": "2026-07-05T15:00:00.000Z",
+      "title": "2026 오리초 여름방학 아이신나+ 놀이체육 프로그램 강사 모집 공고",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1939484"
     },
     {
-      "id": "office:goesn:1939173",
-      "schoolId": null,
-      "schoolName": "성남교육지원청 구인",
-      "schoolHomepage": "https://www.goesn.kr",
-      "boardLabel": "성남교육지원청 구인",
-      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
-      "postedAt": "2026-06-28T15:00:00.000Z",
-      "deadline": "2026-07-02T15:00:00.000Z",
-      "title": "2026 서현초등학교 1학년 음악줄넘기 강사 채용 공고",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1939173"
-    },
-    {
-      "id": "snys-e:snys-e:1939377",
-      "schoolId": "snys-e",
-      "schoolName": "성남여수초등학교",
-      "schoolHomepage": "https://snys-e.goesn.kr",
+      "id": "ori-e:ori-e:1939481",
+      "schoolId": "ori-e",
+      "schoolName": "오리초등학교",
+      "schoolHomepage": "https://ori-e.goesn.kr",
       "boardLabel": "공지사항",
-      "boardUrl": "https://snys-e.goesn.kr/snys-e/na/ntt/selectNttList.do?mi=13840&bbsId=12070&listCo=50&currPage=1",
+      "boardUrl": "https://ori-e.goesn.kr/ori-e/na/ntt/selectNttList.do?mi=16331&bbsId=13505&listCo=50&currPage=1",
       "postedAt": "2026-06-28T15:00:00.000Z",
       "deadline": null,
-      "title": "2026학년도 성남여수초 돌봄교실 특기적성 강사 채용 공고",
-      "url": "https://snys-e.goesn.kr/snys-e/na/ntt/selectNttInfo.do?mi=13840&bbsId=12070&nttSn=1939377"
-    },
-    {
-      "id": "hatap-e:hatap-e:1939264",
-      "schoolId": "hatap-e",
-      "schoolName": "하탑초등학교",
-      "schoolHomepage": "https://hatap-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://hatap-e.goesn.kr/hatap-e/na/ntt/selectNttList.do?mi=14638&bbsId=12535&listCo=50&currPage=1",
-      "postedAt": "2026-06-28T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026학년도 하탑초 학교자율과제 SW 코딩 및 AI 교육 강사 모집 공고",
-      "url": "https://hatap-e.goesn.kr/hatap-e/na/ntt/selectNttInfo.do?mi=14638&bbsId=12535&nttSn=1939264"
+      "title": "2026 오리초 여름방학 아이신나+ 놀이체육 프로그램 강사 모집 공고",
+      "url": "https://ori-e.goesn.kr/ori-e/na/ntt/selectNttInfo.do?mi=16331&bbsId=13505&nttSn=1939481"
     }
   ]
 }
