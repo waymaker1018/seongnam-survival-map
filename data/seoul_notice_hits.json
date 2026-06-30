@@ -1,56 +1,8 @@
 {
-  "generatedAt": "2026-06-29T10:17:14.501Z",
-  "hitCount": 117,
+  "generatedAt": "2026-06-30T03:55:20.732Z",
+  "hitCount": 114,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:sbedu:5560",
-      "schoolId": "sen-7031115",
-      "schoolName": "서울구산초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
-      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-06-29T00:00:00+09:00",
-      "title": "5,6학년 놀이체육 (시간제)",
-      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gdspedu:8231",
-      "schoolId": "sen-7130151",
-      "schoolName": "서울잠신초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강동송파 구인",
-      "boardUrl": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-06-29T00:00:00+09:00",
-      "title": "초등예술하나강사(리코더) (시간제)",
-      "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gdspedu:8230",
-      "schoolId": "sen-7130111",
-      "schoolName": "서울거원초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강동송파 구인",
-      "boardUrl": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-06-29T00:00:00+09:00",
-      "title": "초등돌봄교실(특별활동) (특기적성)",
-      "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:dgedu:10097",
-      "schoolId": "sen-7132097",
-      "schoolName": "서울봉천초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-06-29T00:00:00+09:00",
-      "title": "봉천초 혁신학교 협력강사 (재)공고 (강사)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:sbedu:5340",
       "schoolId": null,
@@ -182,6 +134,18 @@
       "deadline": "2026-07-02T00:00:00+09:00",
       "title": "서울대림초등학교 예술교육 강사 모집 공고(2학년), (오카리나) (강사)",
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:nbedu:11203",
+      "schoolId": "sen-7041109",
+      "schoolName": "서울구일초등학교(서울남부교육지원청 학교통합지원과)",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-07-03T00:00:00+09:00",
+      "title": "서울구일초등학교 기간제교원(초등 특수) 채용계획 2차 공고",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:dgedu:10115",
