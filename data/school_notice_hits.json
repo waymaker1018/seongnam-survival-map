@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-30T03:53:55.425Z",
+  "generatedAt": "2026-06-30T08:51:22.939Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 36,
+  "hitCount": 39,
   "keywords": [
     "AI",
     "인공지능",
@@ -38,6 +38,42 @@
     "디지털 새싹"
   ],
   "items": [
+    {
+      "id": "office:goesn:1939937",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-06-29T15:00:00.000Z",
+      "deadline": "2026-07-05T15:00:00.000Z",
+      "title": "성남서초등학교 음악줄넘기, 북난타, 뉴스포츠 협력 강사 채용 공고",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1939937"
+    },
+    {
+      "id": "office:goesn:1939919",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-06-29T15:00:00.000Z",
+      "deadline": "2026-07-02T15:00:00.000Z",
+      "title": "불곡초등학교 합창 강사 채용 공고",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1939919"
+    },
+    {
+      "id": "office:goesn:1939918",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-06-29T15:00:00.000Z",
+      "deadline": "2026-07-02T15:00:00.000Z",
+      "title": "불곡초등학교 소금 강사 채용 공고",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1939918"
+    },
     {
       "id": "snb-e:snb-e:1939805",
       "schoolId": "snb-e",

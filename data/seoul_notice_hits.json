@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-30T03:55:20.732Z",
-  "hitCount": 114,
+  "generatedAt": "2026-06-30T08:56:54.438Z",
+  "hitCount": 116,
   "errors": [],
   "items": [
     {
@@ -818,6 +818,30 @@
       "deadline": null,
       "title": "미술",
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:jbedu:3340",
+      "schoolId": "sen-7061083",
+      "schoolName": "서울청파초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 중부(종로·중구·용산) 구인",
+      "boardUrl": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "특수학급 방과후학교강사 음악, 체육",
+      "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gsycedu:15007",
+      "schoolId": null,
+      "schoolName": "서울탑산초등학교병설유치원",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "방과후 과정 대체강사",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:gsycedu:15004",
