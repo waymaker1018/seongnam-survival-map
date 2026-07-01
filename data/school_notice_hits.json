@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-01T04:08:16.173Z",
+  "generatedAt": "2026-07-01T09:24:15.617Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 37,
+  "hitCount": 42,
   "keywords": [
     "AI",
     "인공지능",
@@ -51,6 +51,18 @@
       "url": "https://sdc-e.goesn.kr/sdc-e/na/ntt/selectNttInfo.do?mi=17368&bbsId=14060&nttSn=1940169"
     },
     {
+      "id": "bokjeong-e:bokjeong-e:1940435",
+      "schoolId": "bokjeong-e",
+      "schoolName": "복정초등학교",
+      "schoolHomepage": "https://bokjeong-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://bokjeong-e.goesn.kr/bokjeong-e/na/ntt/selectNttList.do?mi=12508&bbsId=11334&listCo=50&currPage=1",
+      "postedAt": "2026-06-30T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026 여름방학 중 방과후과정 운영을 위한 방과후전담사 대체인력 채용 공고",
+      "url": "https://bokjeong-e.goesn.kr/bokjeong-e/na/ntt/selectNttInfo.do?mi=12508&bbsId=11334&nttSn=1940435"
+    },
+    {
       "id": "sangdaewon-e:sangdaewon-e:1940388",
       "schoolId": "sangdaewon-e",
       "schoolName": "상대원초등학교",
@@ -61,6 +73,18 @@
       "deadline": null,
       "title": "2026 상대원초 초1~2맞춤형 [창의 음악] 개인위탁 외부강사 채용 공고",
       "url": "https://sangdaewon-e.goesn.kr/sangdaewon-e/na/ntt/selectNttInfo.do?mi=12734&bbsId=11445&nttSn=1940388"
+    },
+    {
+      "id": "office:goesn:1940507",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-06-30T15:00:00.000Z",
+      "deadline": "2026-07-06T15:00:00.000Z",
+      "title": "왕남초 방과후 자원봉사자 모집",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1940507"
     },
     {
       "id": "office:goesn:1940404",
@@ -123,6 +147,30 @@
       "url": "https://seongnamseo-e.goesn.kr/seongnamseo-e/na/ntt/selectNttInfo.do?mi=13376&bbsId=11828&nttSn=1940159"
     },
     {
+      "id": "snys-e:snys-e:1940410",
+      "schoolId": "snys-e",
+      "schoolName": "성남여수초등학교",
+      "schoolHomepage": "https://snys-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://snys-e.goesn.kr/snys-e/na/ntt/selectNttList.do?mi=13840&bbsId=12070&listCo=50&currPage=1",
+      "postedAt": "2026-06-30T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026학년도 성남여수초 2학년 음악줄넘기 교육 협력강사 선발공고",
+      "url": "https://snys-e.goesn.kr/snys-e/na/ntt/selectNttInfo.do?mi=13840&bbsId=12070&nttSn=1940410"
+    },
+    {
+      "id": "wiryepureun-e:wiryepureun-e:1940479",
+      "schoolId": "wiryepureun-e",
+      "schoolName": "위례푸른초등학교",
+      "schoolHomepage": "https://wiryepureun-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://wiryepureun-e.goesn.kr/wiryepureun-e/na/ntt/selectNttList.do?mi=11186&bbsId=10571&listCo=50&currPage=1",
+      "postedAt": "2026-06-30T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026 여름방학 AI. SW 온라인 코딩캠프 참가 학생 모집 안",
+      "url": "https://wiryepureun-e.goesn.kr/wiryepureun-e/na/ntt/selectNttInfo.do?mi=11186&bbsId=10571&nttSn=1940479"
+    },
+    {
       "id": "office:goesn:1939937",
       "schoolId": null,
       "schoolName": "성남교육지원청 구인",
@@ -183,6 +231,18 @@
       "url": "https://wrjungang-e.goesn.kr/wrjungang-e/na/ntt/selectNttInfo.do?mi=10437&bbsId=10183&nttSn=1939764"
     },
     {
+      "id": "naksaeng-e:naksaeng-e:1939661",
+      "schoolId": "naksaeng-e",
+      "schoolName": "낙생초등학교",
+      "schoolHomepage": "https://naksaeng-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://naksaeng-e.goesn.kr/naksaeng-e/na/ntt/selectNttList.do?mi=24045&bbsId=18371&listCo=50&currPage=1",
+      "postedAt": "2026-06-28T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026 여름방학 아이신나+(플러스) 프로그램 외부강사 모집",
+      "url": "https://naksaeng-e.goesn.kr/naksaeng-e/na/ntt/selectNttInfo.do?mi=24045&bbsId=18371&nttSn=1939661"
+    },
+    {
       "id": "bulgok-e:bulgok-e:1939192",
       "schoolId": "bulgok-e",
       "schoolName": "불곡초등학교",
@@ -205,30 +265,6 @@
       "deadline": "2026-07-05T15:00:00.000Z",
       "title": "2026 여름방학 아이신나+(플러스) 프로그램 외부강사 모집",
       "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1939653"
-    },
-    {
-      "id": "office:goesn:1939488",
-      "schoolId": null,
-      "schoolName": "성남교육지원청 구인",
-      "schoolHomepage": "https://www.goesn.kr",
-      "boardLabel": "성남교육지원청 구인",
-      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
-      "postedAt": "2026-06-28T15:00:00.000Z",
-      "deadline": "2026-07-30T15:00:00.000Z",
-      "title": "2026 오리초 방과후돌봄 자원봉사자 모집 공고",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1939488"
-    },
-    {
-      "id": "office:goesn:1939484",
-      "schoolId": null,
-      "schoolName": "성남교육지원청 구인",
-      "schoolHomepage": "https://www.goesn.kr",
-      "boardLabel": "성남교육지원청 구인",
-      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
-      "postedAt": "2026-06-28T15:00:00.000Z",
-      "deadline": "2026-07-05T15:00:00.000Z",
-      "title": "2026 오리초 여름방학 아이신나+ 놀이체육 프로그램 강사 모집 공고",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1939484"
     },
     {
       "id": "snys-e:snys-e:1939377",
@@ -265,6 +301,30 @@
       "deadline": null,
       "title": "2026학년도 하탑초 학교자율과제 SW 코딩 및 AI 교육 강사 모집 공고",
       "url": "https://hatap-e.goesn.kr/hatap-e/na/ntt/selectNttInfo.do?mi=14638&bbsId=12535&nttSn=1939264"
+    },
+    {
+      "id": "dannam-e:dannam-e:1938861",
+      "schoolId": "dannam-e",
+      "schoolName": "단남초등학교",
+      "schoolHomepage": "https://dannam-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://dannam-e.goesn.kr/dannam-e/na/ntt/selectNttList.do?mi=10227&bbsId=10069&listCo=50&currPage=1",
+      "postedAt": "2026-06-25T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026학년도 여름방학 아이신나플러스 프로그램 보조강사 채용 공고",
+      "url": "https://dannam-e.goesn.kr/dannam-e/na/ntt/selectNttInfo.do?mi=10227&bbsId=10069&nttSn=1938861"
+    },
+    {
+      "id": "dannam-e:dannam-e:1938860",
+      "schoolId": "dannam-e",
+      "schoolName": "단남초등학교",
+      "schoolHomepage": "https://dannam-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://dannam-e.goesn.kr/dannam-e/na/ntt/selectNttList.do?mi=10227&bbsId=10069&listCo=50&currPage=1",
+      "postedAt": "2026-06-25T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026학년도 여름방학 아이신나플러스 프로그램 강사 채용 공고",
+      "url": "https://dannam-e.goesn.kr/dannam-e/na/ntt/selectNttInfo.do?mi=10227&bbsId=10069&nttSn=1938860"
     },
     {
       "id": "snys-e:snys-e:1938850",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T04:14:59.574Z",
+  "generatedAt": "2026-07-01T09:25:57.639Z",
   "hitCount": 114,
   "errors": [],
   "items": [
@@ -832,6 +832,66 @@
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:gsycedu:15017",
+      "schoolId": null,
+      "schoolName": "서울염경초등학교병설유치원",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "에듀케어 대체강사 여름 방학 에듀케어 대체강사",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gsycedu:15014",
+      "schoolId": null,
+      "schoolName": "서울영도초등학교병설유치원",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "방학중 에듀케어 대체강사 방학중 에듀케어 대체강사",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gsycedu:15013",
+      "schoolId": null,
+      "schoolName": "서울신기초등학교병설유치원",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "에듀케어 오전 대체 강사 채용 공고",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gsycedu:15012",
+      "schoolId": null,
+      "schoolName": "서울신기초등학교병설유치원",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "에듀케어 연가 대체 강사 채용 공고",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gsycedu:15011",
+      "schoolId": null,
+      "schoolName": "서울신기초등학교병설유치원",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "방과후과정 여름방학 보조 자원봉사 위촉",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:gsycedu:15007",
       "schoolId": null,
       "schoolName": "서울탑산초등학교병설유치원",
@@ -865,30 +925,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "방학기간 돌봄교실 외부강사 2학기 돌봄교실 외부강사",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15000",
-      "schoolId": null,
-      "schoolName": "서울신기초등학교병설유치원",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "여름방학 중 에듀케어 연가 대체 강사 에듀케어 연가 대체 강사",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:14999",
-      "schoolId": null,
-      "schoolName": "서울신기초등학교병설유치원",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "여름방학 중 에듀케어 대체 강사 에듀케어 대체 강사",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
@@ -949,30 +985,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "에듀케어 대체강사 여름 방학 에듀케어 대체강사",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:14988",
-      "schoolId": null,
-      "schoolName": "서울신기초등학교병설유치원",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "여름방학 중 에듀케어 연가 대체 강사 에듀케어 연가 대체 강사",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:14987",
-      "schoolId": null,
-      "schoolName": "서울신기초등학교병설유치원",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "여름방학 중 에듀케어 대체 강사 에듀케어 대체 강사",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
@@ -1189,18 +1201,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "4~6학년 건강체력교실 강사 채용공고",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:14936",
-      "schoolId": "sen-7081464",
-      "schoolName": "서울양화초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "학습지원 튜터",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
