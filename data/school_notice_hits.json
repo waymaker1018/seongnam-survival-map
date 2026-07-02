@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-01T09:24:15.617Z",
+  "generatedAt": "2026-07-02T03:49:47.823Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 42,
+  "hitCount": 39,
   "keywords": [
     "AI",
     "인공지능",
@@ -339,18 +339,6 @@
       "url": "https://snys-e.goesn.kr/snys-e/na/ntt/selectNttInfo.do?mi=13840&bbsId=12070&nttSn=1938850"
     },
     {
-      "id": "wrjungang-e:wrjungang-e:1938974",
-      "schoolId": "wrjungang-e",
-      "schoolName": "위례중앙초등학교",
-      "schoolHomepage": "https://wrjungang-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://wrjungang-e.goesn.kr/wrjungang-e/na/ntt/selectNttList.do?mi=10437&bbsId=10183&listCo=50&currPage=1",
-      "postedAt": "2026-06-25T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026학년도 여름방학 중 방과후과정 운영인력 채용 공고",
-      "url": "https://wrjungang-e.goesn.kr/wrjungang-e/na/ntt/selectNttInfo.do?mi=10437&bbsId=10183&nttSn=1938974"
-    },
-    {
       "id": "dangchon-e:dangchon-e:1938376",
       "schoolId": "dangchon-e",
       "schoolName": "당촌초등학교",
@@ -517,30 +505,6 @@
       "deadline": null,
       "title": "2026학년도 단대초등학교 창의무용(1, 2학년) 강사 채용 공고",
       "url": "https://dandae-e.goesn.kr/dandae-e/na/ntt/selectNttInfo.do?mi=11624&bbsId=10829&nttSn=1937107"
-    },
-    {
-      "id": "snjungang-e:snjungang-e:1936708",
-      "schoolId": "snjungang-e",
-      "schoolName": "성남중앙초등학교",
-      "schoolHomepage": "https://snjungang-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://snjungang-e.goesn.kr/snjungang-e/na/ntt/selectNttList.do?mi=14719&bbsId=12583&listCo=50&currPage=1",
-      "postedAt": "2026-06-17T15:00:00.000Z",
-      "deadline": null,
-      "title": "성남중앙초등학교 초등 방과후·돌봄 개인위탁 보조강사 채용공고",
-      "url": "https://snjungang-e.goesn.kr/snjungang-e/na/ntt/selectNttInfo.do?mi=14719&bbsId=12583&nttSn=1936708"
-    },
-    {
-      "id": "wiryepureun-e:wiryepureun-e:1936630",
-      "schoolId": "wiryepureun-e",
-      "schoolName": "위례푸른초등학교",
-      "schoolHomepage": "https://wiryepureun-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://wiryepureun-e.goesn.kr/wiryepureun-e/na/ntt/selectNttList.do?mi=11186&bbsId=10571&listCo=50&currPage=1",
-      "postedAt": "2026-06-17T15:00:00.000Z",
-      "deadline": null,
-      "title": "청소년 AI 영상제작 : 유얼 리틀 텔레비젼 참가자 모집 안내",
-      "url": "https://wiryepureun-e.goesn.kr/wiryepureun-e/na/ntt/selectNttInfo.do?mi=11186&bbsId=10571&nttSn=1936630"
     }
   ]
 }
