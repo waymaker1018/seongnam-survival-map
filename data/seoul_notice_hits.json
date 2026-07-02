@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-02T03:55:39.803Z",
-  "hitCount": 110,
+  "generatedAt": "2026-07-02T08:43:29.425Z",
+  "hitCount": 112,
   "errors": [],
   "items": [
     {
@@ -122,6 +122,18 @@
       "deadline": "2026-07-08T00:00:00+09:00",
       "title": "(신구로초) 2026학년도 특수학급 방과후교실 미술놀이 강사 채용 공고",
       "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10131",
+      "schoolId": "sen-7132104",
+      "schoolName": "서울신길초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-07-08T00:00:00+09:00",
+      "title": "2026학년도 초등돌봄교실 방학중 특별활동강사 채용 공고(신길초) (기타)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:sbedu:5550",
@@ -808,6 +820,18 @@
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:gsycedu:15021",
+      "schoolId": "sen-7081435",
+      "schoolName": "서울등원초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "방과후교실 체육 강사",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:gsycedu:15017",
       "schoolId": null,
       "schoolName": "서울염경초등학교병설유치원",
@@ -1156,6 +1180,18 @@
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:gnscedu:14173",
+      "schoolId": "sen-7091400",
+      "schoolName": "서울신중초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강남서초 구인",
+      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "이중언어강사 권현민 (이중언어강사)",
+      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:gnscedu:14168",
       "schoolId": "sen-7091406",
       "schoolName": "서울언주초등학교",
@@ -1309,18 +1345,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "김영제 (돌봄교실 귀가 도움 봉사자)",
-      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gnscedu:14103",
-      "schoolId": "sen-7091384",
-      "schoolName": "서울매헌초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강남서초 구인",
-      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "합창 권수진 (초등예술하나강사(합창, 뮤지컬))",
       "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]

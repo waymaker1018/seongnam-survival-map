@@ -1,5 +1,18 @@
 {
-  "generatedAt": "2026-07-02T03:49:47.823Z",
-  "newCount": 0,
-  "items": []
+  "generatedAt": "2026-07-02T08:37:42.612Z",
+  "newCount": 1,
+  "items": [
+    {
+      "id": "wrhs-e:wrhs-e:1940909",
+      "schoolId": "wrhs-e",
+      "schoolName": "위례해솔초등학교",
+      "schoolHomepage": "https://wrhs-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://wrhs-e.goesn.kr/wrhs-e/na/ntt/selectNttList.do?mi=27200&bbsId=21015&listCo=50&currPage=1",
+      "postedAt": "2026-07-01T15:00:00.000Z",
+      "deadline": null,
+      "title": "AICE와 함께하는 주니어 AI 스텝업 캠프 모집 포스터",
+      "url": "https://wrhs-e.goesn.kr/wrhs-e/na/ntt/selectNttInfo.do?mi=27200&bbsId=21015&nttSn=1940909"
+    }
+  ]
 }
