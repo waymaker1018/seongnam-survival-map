@@ -1,42 +1,30 @@
 {
-  "generatedAt": "2026-07-02T08:43:29.425Z",
-  "newCount": 3,
+  "generatedAt": "2026-07-03T03:36:58.867Z",
+  "newCount": 2,
   "items": [
     {
-      "id": "seoul:dgedu:10131",
-      "schoolId": "sen-7132104",
-      "schoolName": "서울신길초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-07-08T00:00:00+09:00",
-      "title": "2026학년도 초등돌봄교실 방학중 특별활동강사 채용 공고(신길초) (기타)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15021",
-      "schoolId": "sen-7081435",
-      "schoolName": "서울등원초등학교",
+      "id": "seoul:gsycedu:15024",
+      "schoolId": "sen-7081430",
+      "schoolName": "서울내발산초등학교",
       "schoolHomepage": null,
       "boardLabel": "서울 강서양천 구인",
       "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
       "deadline": null,
-      "title": "방과후교실 체육 강사",
+      "title": "학생 등교 지원 봉사자",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
-      "id": "seoul:gnscedu:14173",
-      "schoolId": "sen-7091400",
-      "schoolName": "서울신중초등학교",
+      "id": "seoul:gsycedu:15022",
+      "schoolId": "sen-7081461",
+      "schoolName": "서울양목초등학교",
       "schoolHomepage": null,
-      "boardLabel": "서울 강남서초 구인",
-      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
       "deadline": null,
-      "title": "이중언어강사 권현민 (이중언어강사)",
-      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
+      "title": "학습준비물실 봉사자",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
 }
