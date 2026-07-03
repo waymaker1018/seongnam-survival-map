@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-03T03:30:53.169Z",
+  "generatedAt": "2026-07-03T08:43:03.905Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 41,
+  "hitCount": 44,
   "keywords": [
     "AI",
     "인공지능",
@@ -63,6 +63,30 @@
       "url": "https://bp-e.goesn.kr/bp-e/na/ntt/selectNttInfo.do?mi=12220&bbsId=11157&nttSn=1940996"
     },
     {
+      "id": "office:goesn:1941205",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-07-02T15:00:00.000Z",
+      "deadline": "2026-07-09T15:00:00.000Z",
+      "title": "2026학년도 성남수정초 초1~2 맞춤형 프로그램 강사 모집 공고",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1941205"
+    },
+    {
+      "id": "office:goesn:1941202",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-07-02T15:00:00.000Z",
+      "deadline": "2026-07-06T15:00:00.000Z",
+      "title": "2026학년도 도촌초 시간강사 채용 공고",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1941202"
+    },
+    {
       "id": "office:goesn:1941098",
       "schoolId": null,
       "schoolName": "성남교육지원청 구인",
@@ -97,6 +121,30 @@
       "deadline": "2026-07-07T15:00:00.000Z",
       "title": "수익자 방과후 개인위탁 외부 강사 채용 공고",
       "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1940993"
+    },
+    {
+      "id": "snys-e:snys-e:1941248",
+      "schoolId": "snys-e",
+      "schoolName": "성남여수초등학교",
+      "schoolHomepage": "https://snys-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://snys-e.goesn.kr/snys-e/na/ntt/selectNttList.do?mi=13840&bbsId=12070&listCo=50&currPage=1",
+      "postedAt": "2026-07-02T15:00:00.000Z",
+      "deadline": null,
+      "title": "[AI미래 프로젝트] 참가자 모집 안내",
+      "url": "https://snys-e.goesn.kr/snys-e/na/ntt/selectNttInfo.do?mi=13840&bbsId=12070&nttSn=1941248"
+    },
+    {
+      "id": "snji-e:snji-e:1941179",
+      "schoolId": "snji-e",
+      "schoolName": "성남제일초등학교",
+      "schoolHomepage": "https://snji-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://snji-e.goesn.kr/snji-e/na/ntt/selectNttList.do?mi=14658&bbsId=12545&listCo=50&currPage=1",
+      "postedAt": "2026-07-02T15:00:00.000Z",
+      "deadline": null,
+      "title": "금광청소년 문화의집 영어캠프 참가자 모집 안내",
+      "url": "https://snji-e.goesn.kr/snji-e/na/ntt/selectNttInfo.do?mi=14658&bbsId=12545&nttSn=1941179"
     },
     {
       "id": "wrhs-e:wrhs-e:1940909",
@@ -241,18 +289,6 @@
       "deadline": null,
       "title": "2026 여름방학 AI. SW 온라인 코딩캠프 참가 학생 모집 안",
       "url": "https://wiryepureun-e.goesn.kr/wiryepureun-e/na/ntt/selectNttInfo.do?mi=11186&bbsId=10571&nttSn=1940479"
-    },
-    {
-      "id": "office:goesn:1939937",
-      "schoolId": null,
-      "schoolName": "성남교육지원청 구인",
-      "schoolHomepage": "https://www.goesn.kr",
-      "boardLabel": "성남교육지원청 구인",
-      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
-      "postedAt": "2026-06-29T15:00:00.000Z",
-      "deadline": "2026-07-05T15:00:00.000Z",
-      "title": "성남서초등학교 음악줄넘기, 북난타, 뉴스포츠 협력 강사 채용 공고",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1939937"
     },
     {
       "id": "snb-e:snb-e:1939805",
