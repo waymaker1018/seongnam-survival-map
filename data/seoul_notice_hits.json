@@ -1,32 +1,8 @@
 {
-  "generatedAt": "2026-07-03T08:48:46.303Z",
-  "hitCount": 112,
+  "generatedAt": "2026-07-04T03:29:23.449Z",
+  "hitCount": 111,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:nbedu:11203",
-      "schoolId": "sen-7041109",
-      "schoolName": "서울구일초등학교(서울남부교육지원청 학교통합지원과)",
-      "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-07-03T00:00:00+09:00",
-      "title": "서울구일초등학교 기간제교원(초등 특수) 채용계획 2차 공고",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:dgedu:10115",
-      "schoolId": "sen-7132091",
-      "schoolName": "서울대림초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-07-03T00:00:00+09:00",
-      "title": "(대림초) 2026학년도 6학년 디지털 시민 소양교육 협력강사 공고 (강사)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:nbedu:11219",
       "schoolId": "sen-7041161",
@@ -122,6 +98,18 @@
       "deadline": "2026-07-09T00:00:00+09:00",
       "title": "서울강남초등학교 2026학년도 학습지원 튜터 채용 공고 (강사)",
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:sbedu:5568",
+      "schoolId": null,
+      "schoolName": "서울연신초등학교 병설유치원",
+      "schoolHomepage": null,
+      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
+      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-07-14T00:00:00+09:00",
+      "title": "유치원 보조인력 (시간제)",
+      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:sbedu:5550",
