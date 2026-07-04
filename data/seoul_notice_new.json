@@ -1,18 +1,5 @@
 {
-  "generatedAt": "2026-07-04T03:29:23.449Z",
-  "newCount": 1,
-  "items": [
-    {
-      "id": "seoul:sbedu:5568",
-      "schoolId": null,
-      "schoolName": "서울연신초등학교 병설유치원",
-      "schoolHomepage": null,
-      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
-      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-07-14T00:00:00+09:00",
-      "title": "유치원 보조인력 (시간제)",
-      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
-    }
-  ]
+  "generatedAt": "2026-07-04T08:22:46.898Z",
+  "newCount": 0,
+  "items": []
 }
