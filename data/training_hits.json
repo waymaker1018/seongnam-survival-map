@@ -1,7 +1,13 @@
 {
-  "generatedAt": "2026-07-05T03:40:55.586Z",
+  "generatedAt": "2026-07-05T08:36:51.828Z",
   "hitCount": 3,
-  "errors": [],
+  "errors": [
+    "교육부 공고 1p: fetch failed",
+    "교육부 공고 2p: fetch failed",
+    "교육부 공고 3p: fetch failed",
+    "교육부 공고 4p: fetch failed",
+    "교육부 공고 5p: fetch failed"
+  ],
   "items": [
     {
       "id": "dtjob:https://bic-e.goepj.kr/bic-e/na/ntt/selectNttInfo.do?mi=8977&nttSn=1340379&bbsId=6096",
