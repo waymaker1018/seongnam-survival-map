@@ -1,5 +1,78 @@
 {
-  "generatedAt": "2026-07-05T08:41:29.338Z",
-  "newCount": 0,
-  "items": []
+  "generatedAt": "2026-07-06T03:54:13.518Z",
+  "newCount": 6,
+  "items": [
+    {
+      "id": "seoul:sbedu:5569",
+      "schoolId": null,
+      "schoolName": "서울어울초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
+      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-07-10T00:00:00+09:00",
+      "title": "초등예술하나 강사",
+      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10137",
+      "schoolId": "sen-7132091",
+      "schoolName": "서울대림초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-07-10T00:00:00+09:00",
+      "title": "(대림초) 2026학년도 1학년 소고 협력강사 공고 (강사)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:nbedu:11231",
+      "schoolId": "sen-7041104",
+      "schoolName": "서울고산초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-07-13T00:00:00+09:00",
+      "title": "2026학년도 서울고산초등학교 2학기 맞춤형교실 프로그램 강사 모집 공고(놀이미술, 책읽기) (시간강사)",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gsycedu:15031",
+      "schoolId": null,
+      "schoolName": "화일초등학교병설유치원",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "에듀케어 대체강사(오전)",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gsycedu:15030",
+      "schoolId": "sen-7081451",
+      "schoolName": "서울신기초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "3학년 무용 협력강사 무용",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gnscedu:14176",
+      "schoolId": "sen-7091460",
+      "schoolName": "서울우솔초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강남서초 구인",
+      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "그림책 김경하 (맞춤형교실 강사(그림책놀이))",
+      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
+    }
+  ]
 }
