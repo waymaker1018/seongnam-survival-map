@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-06T03:48:31.660Z",
+  "generatedAt": "2026-07-06T09:49:06.024Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 44,
+  "hitCount": 43,
   "keywords": [
     "AI",
     "인공지능",
@@ -61,6 +61,18 @@
       "deadline": null,
       "title": "방과후 개인위탁 외부강사 공고문(축구)",
       "url": "https://snjj-e.goesn.kr/snjj-e/na/ntt/selectNttInfo.do?mi=14296&bbsId=12354&nttSn=1941388"
+    },
+    {
+      "id": "anmal-e:anmal-e:1941614",
+      "schoolId": "anmal-e",
+      "schoolName": "안말초등학교",
+      "schoolHomepage": "https://anmal-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://anmal-e.goesn.kr/anmal-e/na/ntt/selectNttList.do?mi=15876&bbsId=13238&listCo=50&currPage=1",
+      "postedAt": "2026-07-05T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026 성남미래교육 프로그램 디지털 강사 모집 공고",
+      "url": "https://anmal-e.goesn.kr/anmal-e/na/ntt/selectNttInfo.do?mi=15876&bbsId=13238&nttSn=1941614"
     },
     {
       "id": "wiryepureun-e:wiryepureun-e:1941446",
@@ -241,30 +253,6 @@
       "deadline": "2026-07-06T15:00:00.000Z",
       "title": "왕남초 방과후 자원봉사자 모집",
       "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1940507"
-    },
-    {
-      "id": "office:goesn:1940404",
-      "schoolId": null,
-      "schoolName": "성남교육지원청 구인",
-      "schoolHomepage": "https://www.goesn.kr",
-      "boardLabel": "성남교육지원청 구인",
-      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
-      "postedAt": "2026-06-30T15:00:00.000Z",
-      "deadline": "2026-07-06T15:00:00.000Z",
-      "title": "2026 상대원초 초1~2맞춤형 [창의 음악] 개인위탁 외부강사 채용 공고",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1940404"
-    },
-    {
-      "id": "office:goesn:1940222",
-      "schoolId": null,
-      "schoolName": "성남교육지원청 구인",
-      "schoolHomepage": "https://www.goesn.kr",
-      "boardLabel": "성남교육지원청 구인",
-      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
-      "postedAt": "2026-06-30T15:00:00.000Z",
-      "deadline": "2026-07-06T15:00:00.000Z",
-      "title": "성남미금초등학교 방과후돌봄지원인력 자원봉사자 위촉 공고",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1940222"
     },
     {
       "id": "seongnamseo-e:seongnamseo-e:1940159",
