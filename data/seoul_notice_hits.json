@@ -1,32 +1,8 @@
 {
-  "generatedAt": "2026-07-06T09:54:52.422Z",
+  "generatedAt": "2026-07-07T03:44:15.328Z",
   "hitCount": 121,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:nbedu:11219",
-      "schoolId": "sen-7041161",
-      "schoolName": "서울탑동초등학교(서울남부교육지원청 학교통합지원과)",
-      "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-07-06T00:00:00+09:00",
-      "title": "서울탑동초등학교 기간제교원(초등 특수) 채용계획 공고 (기간제교사)",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:nbedu:11201",
-      "schoolId": "sen-7041260",
-      "schoolName": "서울금나래초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-07-06T00:00:00+09:00",
-      "title": "(재공고)6학년 체육수업 협력강사(시간강사) 채용 공고",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:sbedu:5567",
       "schoolId": "sen-7031159",
@@ -196,6 +172,18 @@
       "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:dgedu:10142",
+      "schoolId": "sen-7132098",
+      "schoolName": "서울봉현초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-07-13T00:00:00+09:00",
+      "title": "(봉현초) 학습지원튜터 채용 공고 (기타)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:sbedu:5568",
       "schoolId": null,
       "schoolName": "서울연신초등학교 병설유치원",
@@ -206,6 +194,18 @@
       "deadline": "2026-07-14T00:00:00+09:00",
       "title": "유치원 보조인력 (시간제)",
       "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:nbedu:11245",
+      "schoolId": "sen-7041120",
+      "schoolName": "서울덕의초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-07-14T00:00:00+09:00",
+      "title": "(덕의초) 2026학년도 방과후 한자 개인위탁 외부강사 모집 공고 (기타)",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:sbedu:5550",
@@ -410,6 +410,18 @@
       "deadline": "2027-02-28T00:00:00+09:00",
       "title": "현장체험학습 보조인력",
       "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:jbedu:3408",
+      "schoolId": null,
+      "schoolName": "서울혜화초등학교병설유치원",
+      "schoolHomepage": null,
+      "boardLabel": "서울 중부(종로·중구·용산) 구인",
+      "boardUrl": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "방과후과정반 육아시간 대체강사",
+      "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:jbedu:3406",
@@ -877,18 +889,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "탁구 축구",
-      "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:jbedu:3344",
-      "schoolId": "sen-7061086",
-      "schoolName": "서울한남초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 중부(종로·중구·용산) 구인",
-      "boardUrl": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "기타(봉사직)",
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
