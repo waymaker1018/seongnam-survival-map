@@ -1,5 +1,54 @@
 {
-  "generatedAt": "2026-07-07T09:31:37.860Z",
-  "newCount": 0,
-  "items": []
+  "generatedAt": "2026-07-08T02:59:27.601Z",
+  "newCount": 4,
+  "items": [
+    {
+      "id": "seoul:sbedu:5572",
+      "schoolId": "sen-7031136",
+      "schoolName": "서울성산초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
+      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-07-15T00:00:00+09:00",
+      "title": "5학년 음악줄넘기 협력강사 (시간제)",
+      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gsycedu:15037",
+      "schoolId": "sen-7081418",
+      "schoolName": "서울가곡초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "체육신체활동 체육",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gsycedu:15036",
+      "schoolId": "sen-7081460",
+      "schoolName": "서울양명초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "전일제돌봄전담사",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gsycedu:15035",
+      "schoolId": null,
+      "schoolName": "강서양천교육지원청",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "2027 수능 업무보조원",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    }
+  ]
 }

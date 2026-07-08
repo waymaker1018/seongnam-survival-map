@@ -1,32 +1,8 @@
 {
-  "generatedAt": "2026-07-07T09:31:37.860Z",
-  "hitCount": 94,
+  "generatedAt": "2026-07-08T02:59:27.601Z",
+  "hitCount": 93,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:sbedu:5567",
-      "schoolId": "sen-7031159",
-      "schoolName": "서울응암초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
-      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-07-07T00:00:00+09:00",
-      "title": "특수교육지원인력 (시간제)",
-      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:dgedu:10134",
-      "schoolId": "sen-7132103",
-      "schoolName": "서울상현초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-07-07T00:00:00+09:00",
-      "title": "2026학년도 뉴스포츠 협력강사 채용 공고",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:nbedu:11216",
       "schoolId": "sen-7041136",
@@ -148,18 +124,6 @@
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
-      "id": "seoul:sbedu:5568",
-      "schoolId": null,
-      "schoolName": "서울연신초등학교 병설유치원",
-      "schoolHomepage": null,
-      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
-      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-07-14T00:00:00+09:00",
-      "title": "유치원 보조인력 (시간제)",
-      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
       "id": "seoul:nbedu:11245",
       "schoolId": "sen-7041120",
       "schoolName": "서울덕의초등학교",
@@ -170,6 +134,18 @@
       "deadline": "2026-07-14T00:00:00+09:00",
       "title": "(덕의초) 2026학년도 방과후 한자 개인위탁 외부강사 모집 공고 (기타)",
       "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:sbedu:5572",
+      "schoolId": "sen-7031136",
+      "schoolName": "서울성산초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
+      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-07-15T00:00:00+09:00",
+      "title": "5학년 음악줄넘기 협력강사 (시간제)",
+      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:sbedu:5550",
@@ -688,6 +664,42 @@
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:gsycedu:15037",
+      "schoolId": "sen-7081418",
+      "schoolName": "서울가곡초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "체육신체활동 체육",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gsycedu:15036",
+      "schoolId": "sen-7081460",
+      "schoolName": "서울양명초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "전일제돌봄전담사",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gsycedu:15035",
+      "schoolId": null,
+      "schoolName": "강서양천교육지원청",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "2027 수능 업무보조원",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:gsycedu:15033",
       "schoolId": null,
       "schoolName": "서울신기초등학교병설유치원",
@@ -985,30 +997,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "운동부 보조코치",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:14958",
-      "schoolId": null,
-      "schoolName": "서울공진초등학교병설유치원",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "오후에듀케어운영인력",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:14955",
-      "schoolId": null,
-      "schoolName": "강서양천교육지원청",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "학습상담",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
