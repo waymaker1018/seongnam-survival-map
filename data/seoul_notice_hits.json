@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T02:59:27.601Z",
+  "generatedAt": "2026-07-08T08:04:51.484Z",
   "hitCount": 93,
   "errors": [],
   "items": [
@@ -76,6 +76,18 @@
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:gdspedu:8259",
+      "schoolId": "sen-7130145",
+      "schoolName": "서울아주초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강동송파 구인",
+      "boardUrl": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-07-12T00:00:00+09:00",
+      "title": "학습지원 튜터(기초학력 보장 프로그램 운영) (기간제)",
+      "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:dgedu:10141",
       "schoolId": "sen-7132089",
       "schoolName": "서울노량진초등학교",
@@ -134,6 +146,18 @@
       "deadline": "2026-07-14T00:00:00+09:00",
       "title": "(덕의초) 2026학년도 방과후 한자 개인위탁 외부강사 모집 공고 (기타)",
       "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gdspedu:8260",
+      "schoolId": null,
+      "schoolName": "서울위례별초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강동송파 구인",
+      "boardUrl": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-07-14T00:00:00+09:00",
+      "title": "블록놀이, 탁구 (특기적성)",
+      "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:sbedu:5572",
@@ -292,18 +316,6 @@
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
-      "id": "seoul:nbedu:11242",
-      "schoolId": null,
-      "schoolName": "서울오류남초등학교병설유치원",
-      "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-08-06T00:00:00+09:00",
-      "title": "서울오류남초등학교병설유치원 여름방학중 에듀케어 강사 채용공고",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
       "id": "seoul:gdspedu:8079",
       "schoolId": "sen-7130110",
       "schoolName": "서울거여초등학교",
@@ -326,6 +338,18 @@
       "deadline": "2027-02-28T00:00:00+09:00",
       "title": "현장체험학습 보조인력",
       "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:jbedu:3410",
+      "schoolId": null,
+      "schoolName": "서울특별시 중부교육지원청",
+      "schoolHomepage": null,
+      "boardLabel": "서울 중부(종로·중구·용산) 구인",
+      "boardUrl": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "행정사무보조원 중학교 전학, 배정 업무 보조",
+      "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:jbedu:3408",
@@ -637,30 +661,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "학습비타민지원가 한글, 수학, 영어, 학습전략, 기초학습관련 심리 ·",
-      "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:jbedu:3346",
-      "schoolId": "sen-7061085",
-      "schoolName": "서울한강초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 중부(종로·중구·용산) 구인",
-      "boardUrl": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "영어도서관(영어톡톡프로그램) 코칭 사서 영어",
-      "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:jbedu:3345",
-      "schoolId": "sen-7061078",
-      "schoolName": "서울장충초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 중부(종로·중구·용산) 구인",
-      "boardUrl": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "탁구 축구",
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {

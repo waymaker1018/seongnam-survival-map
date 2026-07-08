@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-08T02:53:27.852Z",
+  "generatedAt": "2026-07-08T08:03:15.625Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 27,
+  "hitCount": 28,
   "keywords": [
     "AI",
     "인공지능",
@@ -38,6 +38,18 @@
     "디지털 새싹"
   ],
   "items": [
+    {
+      "id": "seodang-e:seodang-e:1942275",
+      "schoolId": "seodang-e",
+      "schoolName": "서당초등학교",
+      "schoolHomepage": "https://seodang-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://seodang-e.goesn.kr/seodang-e/na/ntt/selectNttList.do?mi=19703&bbsId=15387&listCo=50&currPage=1",
+      "postedAt": "2026-07-07T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026학년도 서당초등학교 영어회화 전문강사 선발 공고",
+      "url": "https://seodang-e.goesn.kr/seodang-e/na/ntt/selectNttInfo.do?mi=19703&bbsId=15387&nttSn=1942275"
+    },
     {
       "id": "office:goesn:1942037",
       "schoolId": null,

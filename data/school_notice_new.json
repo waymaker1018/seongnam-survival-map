@@ -1,30 +1,18 @@
 {
-  "generatedAt": "2026-07-08T02:53:27.852Z",
-  "newCount": 2,
+  "generatedAt": "2026-07-08T08:03:15.625Z",
+  "newCount": 1,
   "items": [
     {
-      "id": "office:goesn:1942037",
-      "schoolId": null,
-      "schoolName": "성남교육지원청 구인",
-      "schoolHomepage": "https://www.goesn.kr",
-      "boardLabel": "성남교육지원청 구인",
-      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
-      "postedAt": "2026-07-07T15:00:00.000Z",
-      "deadline": "2026-07-12T15:00:00.000Z",
-      "title": "왕남초 2026년 2학기 디지털튜터 채용 공고",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1942037"
-    },
-    {
-      "id": "wang-e:wang-e:1942035",
-      "schoolId": "wang-e",
-      "schoolName": "왕남초등학교",
-      "schoolHomepage": "https://wang-e.goesn.kr",
+      "id": "seodang-e:seodang-e:1942275",
+      "schoolId": "seodang-e",
+      "schoolName": "서당초등학교",
+      "schoolHomepage": "https://seodang-e.goesn.kr",
       "boardLabel": "공지사항",
-      "boardUrl": "https://wang-e.goesn.kr/wang-e/na/ntt/selectNttList.do?mi=16386&bbsId=13523&listCo=50&currPage=1",
+      "boardUrl": "https://seodang-e.goesn.kr/seodang-e/na/ntt/selectNttList.do?mi=19703&bbsId=15387&listCo=50&currPage=1",
       "postedAt": "2026-07-07T15:00:00.000Z",
       "deadline": null,
-      "title": "2026년 2학기 디지털튜터 채용 공고",
-      "url": "https://wang-e.goesn.kr/wang-e/na/ntt/selectNttInfo.do?mi=16386&bbsId=13523&nttSn=1942035"
+      "title": "2026학년도 서당초등학교 영어회화 전문강사 선발 공고",
+      "url": "https://seodang-e.goesn.kr/seodang-e/na/ntt/selectNttInfo.do?mi=19703&bbsId=15387&nttSn=1942275"
     }
   ]
 }
