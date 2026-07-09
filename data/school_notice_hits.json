@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-09T03:32:02.467Z",
+  "generatedAt": "2026-07-09T08:59:35.592Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 27,
+  "hitCount": 36,
   "keywords": [
     "AI",
     "인공지능",
@@ -38,6 +38,114 @@
     "디지털 새싹"
   ],
   "items": [
+    {
+      "id": "office:goesn:1942669",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-07-08T15:00:00.000Z",
+      "deadline": "2026-07-12T15:00:00.000Z",
+      "title": "2026학년도 여름방학 아이신나 프로그램 외부강사 모집 공고",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1942669"
+    },
+    {
+      "id": "office:goesn:1942664",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-07-08T15:00:00.000Z",
+      "deadline": "2026-07-16T15:00:00.000Z",
+      "title": "2026학년도 디지털 SW 코딩 및 AI 교육활동 프로그램 강사 채용 공고",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1942664"
+    },
+    {
+      "id": "office:goesn:1942661",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-07-08T15:00:00.000Z",
+      "deadline": "2026-07-14T15:00:00.000Z",
+      "title": "[중부초] 여름방학 '아이신나 플러스' 프로그램 보조강사 및 안전인력 채용",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1942661"
+    },
+    {
+      "id": "office:goesn:1942614",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-07-08T15:00:00.000Z",
+      "deadline": "2026-07-12T15:00:00.000Z",
+      "title": "성남서초등학교 음악줄넘기(3~6학년) 협력수업 강사 모집공고(2차)",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1942614"
+    },
+    {
+      "id": "office:goesn:1942507",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-07-08T15:00:00.000Z",
+      "deadline": "2026-07-14T15:00:00.000Z",
+      "title": "2026학년도 6학년 교육연극 협력강사 모집 공고(수진초)",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1942507"
+    },
+    {
+      "id": "snjangan-e:snjangan-e:1942667",
+      "schoolId": "snjangan-e",
+      "schoolName": "성남장안초등학교",
+      "schoolHomepage": "https://snjangan-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://snjangan-e.goesn.kr/snjangan-e/na/ntt/selectNttList.do?mi=15082&bbsId=12792&listCo=50&currPage=1",
+      "postedAt": "2026-07-08T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026학년도 여름방학 아이신나 프로그램 외부강사 모집 공고",
+      "url": "https://snjangan-e.goesn.kr/snjangan-e/na/ntt/selectNttInfo.do?mi=15082&bbsId=12792&nttSn=1942667"
+    },
+    {
+      "id": "sujin-e:sujin-e:1942509",
+      "schoolId": "sujin-e",
+      "schoolName": "수진초등학교",
+      "schoolHomepage": "https://sujin-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://sujin-e.goesn.kr/sujin-e/na/ntt/selectNttList.do?mi=15468&bbsId=13018&listCo=50&currPage=1",
+      "postedAt": "2026-07-08T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026학년도 6학년 교육연극 협력강사 모집 공고",
+      "url": "https://sujin-e.goesn.kr/sujin-e/na/ntt/selectNttInfo.do?mi=15468&bbsId=13018&nttSn=1942509"
+    },
+    {
+      "id": "jungbu-e:jungbu-e:1942656",
+      "schoolId": "jungbu-e",
+      "schoolName": "중부초등학교",
+      "schoolHomepage": "https://jungbu-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://jungbu-e.goesn.kr/jungbu-e/na/ntt/selectNttList.do?mi=16468&bbsId=13564&listCo=50&currPage=1",
+      "postedAt": "2026-07-08T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026학년도 여름방학 '아이신나 플러스' 프그로그램 보조강사 및 안전인력 채용 공고",
+      "url": "https://jungbu-e.goesn.kr/jungbu-e/na/ntt/selectNttInfo.do?mi=16468&bbsId=13564&nttSn=1942656"
+    },
+    {
+      "id": "tp-e:tp-e:1942662",
+      "schoolId": "tp-e",
+      "schoolName": "태평초등학교",
+      "schoolHomepage": "https://tp-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://tp-e.goesn.kr/tp-e/na/ntt/selectNttList.do?mi=12666&bbsId=11410&listCo=50&currPage=1",
+      "postedAt": "2026-07-08T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026학년도 디지털교육활성화 SW 코딩 및 AI 교육활동 프로그램 강사 채용 공고",
+      "url": "https://tp-e.goesn.kr/tp-e/na/ntt/selectNttInfo.do?mi=12666&bbsId=11410&nttSn=1942662"
+    },
     {
       "id": "seodang-e:seodang-e:1942275",
       "schoolId": "seodang-e",
