@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-07-08T08:03:15.625Z",
+  "generatedAt": "2026-07-09T03:32:02.467Z",
   "newCount": 1,
   "items": [
     {
-      "id": "seodang-e:seodang-e:1942275",
-      "schoolId": "seodang-e",
-      "schoolName": "서당초등학교",
-      "schoolHomepage": "https://seodang-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://seodang-e.goesn.kr/seodang-e/na/ntt/selectNttList.do?mi=19703&bbsId=15387&listCo=50&currPage=1",
+      "id": "office:goesn:1942343",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
       "postedAt": "2026-07-07T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026학년도 서당초등학교 영어회화 전문강사 선발 공고",
-      "url": "https://seodang-e.goesn.kr/seodang-e/na/ntt/selectNttInfo.do?mi=19703&bbsId=15387&nttSn=1942275"
+      "deadline": "2026-07-13T15:00:00.000Z",
+      "title": "2026학년도 초등돌봄교실 특기적성 우쿨렐레 강사 모집 공고",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1942343"
     }
   ]
 }

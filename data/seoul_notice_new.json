@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-07-08T08:04:51.484Z",
+  "generatedAt": "2026-07-09T03:33:31.734Z",
   "newCount": 3,
   "items": [
     {
-      "id": "seoul:gdspedu:8259",
-      "schoolId": "sen-7130145",
-      "schoolName": "서울아주초등학교",
+      "id": "seoul:nbedu:11264",
+      "schoolId": "sen-7041112",
+      "schoolName": "서울금천초등학교",
       "schoolHomepage": null,
-      "boardLabel": "서울 강동송파 구인",
-      "boardUrl": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do",
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
-      "deadline": "2026-07-12T00:00:00+09:00",
-      "title": "학습지원 튜터(기초학력 보장 프로그램 운영) (기간제)",
-      "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
+      "deadline": "2026-07-13T00:00:00+09:00",
+      "title": "디지털소양교육 협력강사 채용",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
-      "id": "seoul:gdspedu:8260",
-      "schoolId": null,
-      "schoolName": "서울위례별초등학교",
+      "id": "seoul:gsycedu:15041",
+      "schoolId": "sen-7081435",
+      "schoolName": "서울등원초등학교",
       "schoolHomepage": null,
-      "boardLabel": "서울 강동송파 구인",
-      "boardUrl": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-07-14T00:00:00+09:00",
-      "title": "블록놀이, 탁구 (특기적성)",
-      "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:jbedu:3410",
-      "schoolId": null,
-      "schoolName": "서울특별시 중부교육지원청",
-      "schoolHomepage": null,
-      "boardLabel": "서울 중부(종로·중구·용산) 구인",
-      "boardUrl": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
       "deadline": null,
-      "title": "행정사무보조원 중학교 전학, 배정 업무 보조",
-      "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
+      "title": "방과후교실 강사(체육 교과)",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gnscedu:14179",
+      "schoolId": "sen-7091384",
+      "schoolName": "서울매헌초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강남서초 구인",
+      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "체육 권수진 (놀이체육강사)",
+      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
 }

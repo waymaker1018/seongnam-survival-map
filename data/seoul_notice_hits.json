@@ -1,32 +1,8 @@
 {
-  "generatedAt": "2026-07-08T08:04:51.484Z",
-  "hitCount": 93,
+  "generatedAt": "2026-07-09T03:33:31.734Z",
+  "hitCount": 91,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:nbedu:11216",
-      "schoolId": "sen-7041136",
-      "schoolName": "서울신구로초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-07-08T00:00:00+09:00",
-      "title": "(신구로초) 2026학년도 특수학급 방과후교실 미술놀이 강사 채용 공고",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:dgedu:10131",
-      "schoolId": "sen-7132104",
-      "schoolName": "서울신길초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-07-08T00:00:00+09:00",
-      "title": "2026학년도 초등돌봄교실 방학중 특별활동강사 채용 공고(신길초) (기타)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:nbedu:11233",
       "schoolId": null,
@@ -98,6 +74,18 @@
       "deadline": "2026-07-12T00:00:00+09:00",
       "title": "(노량진초) 2026학년도 협력종합예술 연극강사 모집 공고 (강사)",
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:nbedu:11264",
+      "schoolId": "sen-7041112",
+      "schoolName": "서울금천초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-07-13T00:00:00+09:00",
+      "title": "디지털소양교육 협력강사 채용",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:nbedu:11247",
@@ -652,16 +640,16 @@
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
-      "id": "seoul:jbedu:3347",
-      "schoolId": null,
-      "schoolName": "중부교육지원청 학생맞춤협력과",
+      "id": "seoul:gsycedu:15041",
+      "schoolId": "sen-7081435",
+      "schoolName": "서울등원초등학교",
       "schoolHomepage": null,
-      "boardLabel": "서울 중부(종로·중구·용산) 구인",
-      "boardUrl": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
       "deadline": null,
-      "title": "학습비타민지원가 한글, 수학, 영어, 학습전략, 기초학습관련 심리 ·",
-      "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
+      "title": "방과후교실 강사(체육 교과)",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:gsycedu:15037",
@@ -976,28 +964,16 @@
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
-      "id": "seoul:gsycedu:14966",
-      "schoolId": "sen-7081463",
-      "schoolName": "서울양천초등학교",
+      "id": "seoul:gnscedu:14179",
+      "schoolId": "sen-7091384",
+      "schoolName": "서울매헌초등학교",
       "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "boardLabel": "서울 강남서초 구인",
+      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
       "deadline": null,
-      "title": "초등돌봄교실 단체프로그램 강사 채용 책놀이, 전래놀이, 보드게임",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:14965",
-      "schoolId": "sen-7081449",
-      "schoolName": "서울신강초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "운동부 보조코치",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+      "title": "체육 권수진 (놀이체육강사)",
+      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:gnscedu:14176",
