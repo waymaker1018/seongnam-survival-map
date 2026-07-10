@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-10T03:33:53.810Z",
+  "generatedAt": "2026-07-10T08:55:34.404Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 32,
+  "hitCount": 33,
   "keywords": [
     "AI",
     "인공지능",
@@ -39,6 +39,18 @@
   ],
   "items": [
     {
+      "id": "office:goesn:1942880",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-07-09T15:00:00.000Z",
+      "deadline": "2026-07-13T15:00:00.000Z",
+      "title": "2026 성남다움 특수교육 공유학교(연극·체육) 강사 모집 공고",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1942880"
+    },
+    {
       "id": "office:goesn:1942743",
       "schoolId": null,
       "schoolName": "성남교육지원청 구인",
@@ -49,6 +61,30 @@
       "deadline": "2026-07-09T15:00:00.000Z",
       "title": "복정초 시간강사(보건) 채용 공고 (마감)",
       "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1942743"
+    },
+    {
+      "id": "snys-e:snys-e:1942862",
+      "schoolId": "snys-e",
+      "schoolName": "성남여수초등학교",
+      "schoolHomepage": "https://snys-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://snys-e.goesn.kr/snys-e/na/ntt/selectNttList.do?mi=13840&bbsId=12070&listCo=50&currPage=1",
+      "postedAt": "2026-07-09T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026 정자유스센터 AI기반 창의·융합활동 [메이커기획단] 참가 청소년 모집 안내",
+      "url": "https://snys-e.goesn.kr/snys-e/na/ntt/selectNttInfo.do?mi=13840&bbsId=12070&nttSn=1942862"
+    },
+    {
+      "id": "jungtap-e:jungtap-e:1942899",
+      "schoolId": "jungtap-e",
+      "schoolName": "중탑초등학교",
+      "schoolHomepage": "https://jungtap-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://jungtap-e.goesn.kr/jungtap-e/na/ntt/selectNttList.do?mi=16723&bbsId=13695&listCo=50&currPage=1",
+      "postedAt": "2026-07-09T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026학년도 중탑초 코딩교육 강사 채용 공고",
+      "url": "https://jungtap-e.goesn.kr/jungtap-e/na/ntt/selectNttInfo.do?mi=16723&bbsId=13695&nttSn=1942899"
     },
     {
       "id": "office:goesn:1942669",
@@ -181,18 +217,6 @@
       "deadline": "2026-07-13T15:00:00.000Z",
       "title": "2026학년도 초등돌봄교실 특기적성 우쿨렐레 강사 모집 공고",
       "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1942343"
-    },
-    {
-      "id": "office:goesn:1942037",
-      "schoolId": null,
-      "schoolName": "성남교육지원청 구인",
-      "schoolHomepage": "https://www.goesn.kr",
-      "boardLabel": "성남교육지원청 구인",
-      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
-      "postedAt": "2026-07-07T15:00:00.000Z",
-      "deadline": "2026-07-12T15:00:00.000Z",
-      "title": "왕남초 2026년 2학기 디지털튜터 채용 공고",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1942037"
     },
     {
       "id": "wang-e:wang-e:1942035",
@@ -409,18 +433,6 @@
       "deadline": null,
       "title": "2026 오리초 여름방학 아이신나+ 놀이체육 프로그램 강사 모집 공고",
       "url": "https://ori-e.goesn.kr/ori-e/na/ntt/selectNttInfo.do?mi=16331&bbsId=13505&nttSn=1939481"
-    },
-    {
-      "id": "hatap-e:hatap-e:1939264",
-      "schoolId": "hatap-e",
-      "schoolName": "하탑초등학교",
-      "schoolHomepage": "https://hatap-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://hatap-e.goesn.kr/hatap-e/na/ntt/selectNttList.do?mi=14638&bbsId=12535&listCo=50&currPage=1",
-      "postedAt": "2026-06-28T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026학년도 하탑초 학교자율과제 SW 코딩 및 AI 교육 강사 모집 공고",
-      "url": "https://hatap-e.goesn.kr/hatap-e/na/ntt/selectNttInfo.do?mi=14638&bbsId=12535&nttSn=1939264"
     }
   ]
 }
