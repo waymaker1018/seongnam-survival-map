@@ -1,30 +1,5 @@
 {
-  "generatedAt": "2026-07-10T08:57:15.424Z",
-  "newCount": 2,
-  "items": [
-    {
-      "id": "seoul:dgedu:10154",
-      "schoolId": "sen-7132103",
-      "schoolName": "서울상현초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-07-15T00:00:00+09:00",
-      "title": "(상현초)2026학년도 뉴스포츠 협력강사 채용 (재)공고 (강사)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gdspedu:8265",
-      "schoolId": "sen-7130107",
-      "schoolName": "서울강명초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강동송파 구인",
-      "boardUrl": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-07-16T00:00:00+09:00",
-      "title": "특수교육대상학생 방과후돌봄 지원인력",
-      "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
-    }
-  ]
+  "generatedAt": "2026-07-11T02:51:14.542Z",
+  "newCount": 0,
+  "items": []
 }

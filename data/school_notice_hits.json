@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-10T08:55:34.404Z",
+  "generatedAt": "2026-07-11T02:49:27.112Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 33,
+  "hitCount": 34,
   "keywords": [
     "AI",
     "인공지능",
@@ -433,6 +433,18 @@
       "deadline": null,
       "title": "2026 오리초 여름방학 아이신나+ 놀이체육 프로그램 강사 모집 공고",
       "url": "https://ori-e.goesn.kr/ori-e/na/ntt/selectNttInfo.do?mi=16331&bbsId=13505&nttSn=1939481"
+    },
+    {
+      "id": "hatap-e:hatap-e:1939264",
+      "schoolId": "hatap-e",
+      "schoolName": "하탑초등학교",
+      "schoolHomepage": "https://hatap-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://hatap-e.goesn.kr/hatap-e/na/ntt/selectNttList.do?mi=14638&bbsId=12535&listCo=50&currPage=1",
+      "postedAt": "2026-06-28T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026학년도 하탑초 학교자율과제 SW 코딩 및 AI 교육 강사 모집 공고",
+      "url": "https://hatap-e.goesn.kr/hatap-e/na/ntt/selectNttInfo.do?mi=14638&bbsId=12535&nttSn=1939264"
     }
   ]
 }

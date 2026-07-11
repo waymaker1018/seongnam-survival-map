@@ -1,32 +1,8 @@
 {
-  "generatedAt": "2026-07-10T08:57:15.424Z",
-  "hitCount": 91,
+  "generatedAt": "2026-07-11T02:51:14.542Z",
+  "hitCount": 89,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:sbedu:5569",
-      "schoolId": null,
-      "schoolName": "서울어울초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
-      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-07-10T00:00:00+09:00",
-      "title": "2학기 초등예술하나 강사",
-      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:dgedu:10137",
-      "schoolId": "sen-7132091",
-      "schoolName": "서울대림초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-07-10T00:00:00+09:00",
-      "title": "(대림초) 2026학년도 1학년 소고 협력강사 공고 (강사)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:gdspedu:8259",
       "schoolId": "sen-7130145",
