@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-11T07:28:25.618Z",
+  "generatedAt": "2026-07-12T02:58:06.372Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 34,
+  "hitCount": 32,
   "keywords": [
     "AI",
     "인공지능",
@@ -195,18 +195,6 @@
       "url": "https://tp-e.goesn.kr/tp-e/na/ntt/selectNttInfo.do?mi=12666&bbsId=11410&nttSn=1942662"
     },
     {
-      "id": "seodang-e:seodang-e:1942275",
-      "schoolId": "seodang-e",
-      "schoolName": "서당초등학교",
-      "schoolHomepage": "https://seodang-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://seodang-e.goesn.kr/seodang-e/na/ntt/selectNttList.do?mi=19703&bbsId=15387&listCo=50&currPage=1",
-      "postedAt": "2026-07-07T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026학년도 서당초등학교 영어회화 전문강사 선발 공고",
-      "url": "https://seodang-e.goesn.kr/seodang-e/na/ntt/selectNttInfo.do?mi=19703&bbsId=15387&nttSn=1942275"
-    },
-    {
       "id": "office:goesn:1942343",
       "schoolId": null,
       "schoolName": "성남교육지원청 구인",
@@ -337,18 +325,6 @@
       "deadline": null,
       "title": "2026 상대원초 초1~2맞춤형 [창의 음악] 개인위탁 외부강사 채용 공고",
       "url": "https://sangdaewon-e.goesn.kr/sangdaewon-e/na/ntt/selectNttInfo.do?mi=12734&bbsId=11445&nttSn=1940388"
-    },
-    {
-      "id": "seongnamseo-e:seongnamseo-e:1940159",
-      "schoolId": "seongnamseo-e",
-      "schoolName": "성남서초등학교",
-      "schoolHomepage": "https://seongnamseo-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://seongnamseo-e.goesn.kr/seongnamseo-e/na/ntt/selectNttList.do?mi=13376&bbsId=11828&listCo=50&currPage=1",
-      "postedAt": "2026-06-30T15:00:00.000Z",
-      "deadline": null,
-      "title": "성남서초 1교 1빛깔 교육과정 브랜드 [음악줄넘기, 북난타, 뉴스포츠] 협력 강사 채용 공고",
-      "url": "https://seongnamseo-e.goesn.kr/seongnamseo-e/na/ntt/selectNttInfo.do?mi=13376&bbsId=11828&nttSn=1940159"
     },
     {
       "id": "snys-e:snys-e:1940410",
