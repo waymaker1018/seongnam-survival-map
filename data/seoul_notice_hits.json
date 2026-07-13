@@ -1,32 +1,8 @@
 {
-  "generatedAt": "2026-07-12T07:58:53.911Z",
-  "hitCount": 89,
+  "generatedAt": "2026-07-13T03:22:51.117Z",
+  "hitCount": 90,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:gdspedu:8259",
-      "schoolId": "sen-7130145",
-      "schoolName": "서울아주초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강동송파 구인",
-      "boardUrl": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-07-12T00:00:00+09:00",
-      "title": "학습지원 튜터(기초학력 보장 프로그램 운영) (기간제)",
-      "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:dgedu:10141",
-      "schoolId": "sen-7132089",
-      "schoolName": "서울노량진초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-07-12T00:00:00+09:00",
-      "title": "(노량진초) 2026학년도 협력종합예술 연극강사 모집 공고 (강사)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:nbedu:11264",
       "schoolId": "sen-7041112",
@@ -124,6 +100,18 @@
       "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:dgedu:10157",
+      "schoolId": "sen-7132091",
+      "schoolName": "서울대림초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-07-15T00:00:00+09:00",
+      "title": "(대림초) 2026학년도 1학년 소고 협력강사 재공고 (강사)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:dgedu:10154",
       "schoolId": "sen-7132103",
       "schoolName": "서울상현초등학교",
@@ -184,7 +172,19 @@
       "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
-      "id": "seoul:nbedu:11268",
+      "id": "seoul:sbedu:5575",
+      "schoolId": "sen-7031131",
+      "schoolName": "서울상암초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
+      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-07-20T00:00:00+09:00",
+      "title": "여름방학 중 돌봄교실 프로그램 강사 (특기적성)",
+      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:nbedu:11279",
       "schoolId": "sen-7041260",
       "schoolName": "서울금나래초등학교",
       "schoolHomepage": null,
@@ -616,19 +616,19 @@
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
-      "id": "seoul:gsycedu:15049",
-      "schoolId": "sen-7081427",
-      "schoolName": "서울공진초등학교",
+      "id": "seoul:gsycedu:15055",
+      "schoolId": "sen-7081457",
+      "schoolName": "서울신정초등학교",
       "schoolHomepage": null,
       "boardLabel": "서울 강서양천 구인",
       "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
       "deadline": null,
-      "title": "학습지원 튜터",
+      "title": "특수학급 방과후강사",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
-      "id": "seoul:gsycedu:15048",
+      "id": "seoul:gsycedu:15054",
       "schoolId": null,
       "schoolName": "서울신기초등학교병설유치원",
       "schoolHomepage": null,
@@ -640,7 +640,7 @@
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
-      "id": "seoul:gsycedu:15047",
+      "id": "seoul:gsycedu:15053",
       "schoolId": null,
       "schoolName": "서울신기초등학교병설유치원",
       "schoolHomepage": null,
@@ -649,6 +649,18 @@
       "postedAt": null,
       "deadline": null,
       "title": "에듀케어 연가 대체 강사 채용",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gsycedu:15049",
+      "schoolId": "sen-7081427",
+      "schoolName": "서울공진초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "학습지원 튜터",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {

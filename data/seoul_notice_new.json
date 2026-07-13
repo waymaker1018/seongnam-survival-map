@@ -1,5 +1,78 @@
 {
-  "generatedAt": "2026-07-12T07:58:53.911Z",
-  "newCount": 0,
-  "items": []
+  "generatedAt": "2026-07-13T03:22:51.117Z",
+  "newCount": 6,
+  "items": [
+    {
+      "id": "seoul:dgedu:10157",
+      "schoolId": "sen-7132091",
+      "schoolName": "서울대림초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-07-15T00:00:00+09:00",
+      "title": "(대림초) 2026학년도 1학년 소고 협력강사 재공고 (강사)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:sbedu:5575",
+      "schoolId": "sen-7031131",
+      "schoolName": "서울상암초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
+      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-07-20T00:00:00+09:00",
+      "title": "여름방학 중 돌봄교실 프로그램 강사 (특기적성)",
+      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:nbedu:11279",
+      "schoolId": "sen-7041260",
+      "schoolName": "서울금나래초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-07-20T00:00:00+09:00",
+      "title": "6학년 체육수업 협력강사(시간강사) 채용 공고",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gsycedu:15055",
+      "schoolId": "sen-7081457",
+      "schoolName": "서울신정초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "특수학급 방과후강사",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gsycedu:15054",
+      "schoolId": null,
+      "schoolName": "서울신기초등학교병설유치원",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "에듀케어 오전 대체 강사 채용",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gsycedu:15053",
+      "schoolId": null,
+      "schoolName": "서울신기초등학교병설유치원",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "에듀케어 연가 대체 강사 채용",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    }
+  ]
 }
