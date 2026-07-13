@@ -1,20 +1,8 @@
 {
-  "generatedAt": "2026-07-13T03:22:51.117Z",
+  "generatedAt": "2026-07-13T08:46:00.237Z",
   "hitCount": 90,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:nbedu:11264",
-      "schoolId": "sen-7041112",
-      "schoolName": "서울금천초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-07-13T00:00:00+09:00",
-      "title": "디지털소양교육 협력강사 채용",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:nbedu:11247",
       "schoolId": "sen-7041107",
@@ -242,6 +230,18 @@
       "deadline": "2026-07-26T00:00:00+09:00",
       "title": "(동작관악 관내 공립학교) 기간제근로자(지방공무원 대체직원) 채용 공고 (기타)",
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:nbedu:11264",
+      "schoolId": "sen-7041112",
+      "schoolName": "서울금천초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-07-27T00:00:00+09:00",
+      "title": "[서울금천초] 디지털소양교육 협력강사 채용(기간 연장)",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:sbedu:5564",
