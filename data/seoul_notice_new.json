@@ -1,5 +1,18 @@
 {
-  "generatedAt": "2026-07-13T08:46:00.237Z",
-  "newCount": 0,
-  "items": []
+  "generatedAt": "2026-07-14T02:42:11.412Z",
+  "newCount": 1,
+  "items": [
+    {
+      "id": "seoul:gsycedu:15057",
+      "schoolId": "sen-7081477",
+      "schoolName": "서울지향초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "3,4학년 체육협력강사",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    }
+  ]
 }
