@@ -1,18 +1,42 @@
 {
-  "generatedAt": "2026-07-14T02:42:11.412Z",
-  "newCount": 1,
+  "generatedAt": "2026-07-14T07:47:24.296Z",
+  "newCount": 3,
   "items": [
     {
-      "id": "seoul:gsycedu:15057",
-      "schoolId": "sen-7081477",
-      "schoolName": "서울지향초등학교",
+      "id": "seoul:gdspedu:8269",
+      "schoolId": "sen-7130137",
+      "schoolName": "서울세륜초등학교",
       "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "boardLabel": "서울 강동송파 구인",
+      "boardUrl": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-07-20T00:00:00+09:00",
+      "title": "특수학급 방과후(체육)",
+      "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10161",
+      "schoolId": null,
+      "schoolName": "흑석초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-07-22T00:00:00+09:00",
+      "title": "(흑석초) 2026학년도 돌봄교실 여름방학 특수교육대상학생 지원인력 채용공고 (기타)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:jbedu:3413",
+      "schoolId": null,
+      "schoolName": "서울혜화초등학교병설유치원",
+      "schoolHomepage": null,
+      "boardLabel": "서울 중부(종로·중구·용산) 구인",
+      "boardUrl": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
       "deadline": null,
-      "title": "3,4학년 체육협력강사",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+      "title": "여름방학 에듀케어 대체 인력",
+      "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
 }
