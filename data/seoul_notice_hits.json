@@ -1,32 +1,8 @@
 {
-  "generatedAt": "2026-07-14T07:47:24.296Z",
+  "generatedAt": "2026-07-15T02:44:42.765Z",
   "hitCount": 87,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:nbedu:11245",
-      "schoolId": "sen-7041120",
-      "schoolName": "서울덕의초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-07-14T00:00:00+09:00",
-      "title": "(덕의초) 2026학년도 방과후 한자 개인위탁 외부강사 모집 공고 (기타)",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gdspedu:8260",
-      "schoolId": null,
-      "schoolName": "서울위례별초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강동송파 구인",
-      "boardUrl": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-07-14T00:00:00+09:00",
-      "title": "블록놀이, 탁구 (특기적성)",
-      "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:sbedu:5572",
       "schoolId": "sen-7031136",
@@ -124,6 +100,18 @@
       "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:sbedu:5577",
+      "schoolId": "sen-7031159",
+      "schoolName": "서울응암초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
+      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-07-19T00:00:00+09:00",
+      "title": "특수교육지원인력 (시간제)",
+      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:sbedu:5575",
       "schoolId": "sen-7031131",
       "schoolName": "서울상암초등학교",
@@ -158,6 +146,30 @@
       "deadline": "2026-07-20T00:00:00+09:00",
       "title": "특수학급 방과후(체육)",
       "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10163",
+      "schoolId": "sen-7132091",
+      "schoolName": "서울대림초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-07-20T00:00:00+09:00",
+      "title": "[서울대림초등학교] 2026 특수학급 방과후교실 강사(미술 1인) 채용 공고 (강사)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10162",
+      "schoolId": "sen-7132118",
+      "schoolName": "서울조원초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-07-20T00:00:00+09:00",
+      "title": "(서울조원초) 2026학년도 2학년 협력강사 채용 공고 (강사)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:dgedu:10161",
@@ -901,18 +913,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "2026 강서양천 수학과학융합교육센터 기간제근로자 채용 공고(업무보조원)",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:14977",
-      "schoolId": "sen-7081422",
-      "schoolName": "서울강신초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "기초학력(도약캠프) 강사",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
