@@ -1,5 +1,54 @@
 {
-  "generatedAt": "2026-07-15T02:39:09.398Z",
-  "newCount": 0,
-  "items": []
+  "generatedAt": "2026-07-15T07:46:00.230Z",
+  "newCount": 4,
+  "items": [
+    {
+      "id": "naksaeng-e:naksaeng-e:1944030",
+      "schoolId": "naksaeng-e",
+      "schoolName": "낙생초등학교",
+      "schoolHomepage": "https://naksaeng-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://naksaeng-e.goesn.kr/naksaeng-e/na/ntt/selectNttList.do?mi=11250&bbsId=10603&listCo=50&currPage=1",
+      "postedAt": "2026-07-14T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026학년도 낙생초 6학년 코딩로봇 강사 모집 공고",
+      "url": "https://naksaeng-e.goesn.kr/naksaeng-e/na/ntt/selectNttInfo.do?mi=11250&bbsId=10603&nttSn=1944030"
+    },
+    {
+      "id": "office:goesn:1944053",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-07-14T15:00:00.000Z",
+      "deadline": "2026-07-19T15:00:00.000Z",
+      "title": "2026학년도 수익자 방과후 개인위탁 외부 강사 채용 재공고(대금 및 소금)",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1944053"
+    },
+    {
+      "id": "office:goesn:1944031",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-07-14T15:00:00.000Z",
+      "deadline": "2026-07-19T15:00:00.000Z",
+      "title": "2026학년도 낙생초 6학년 코딩로봇 강사 모집 공고",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1944031"
+    },
+    {
+      "id": "office:goesn:1943944",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-07-14T15:00:00.000Z",
+      "deadline": "2026-07-18T15:00:00.000Z",
+      "title": "성남중앙초등학교 스마트교육 지도 강사 채용 공고(1-4학년)",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1943944"
+    }
+  ]
 }
