@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T02:52:57.092Z",
+  "generatedAt": "2026-07-16T07:56:17.265Z",
   "hitCount": 86,
   "errors": [],
   "items": [
@@ -61,6 +61,18 @@
       "postedAt": null,
       "deadline": "2026-07-19T00:00:00+09:00",
       "title": "특수교육지원인력 (시간제)",
+      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:sbedu:5578",
+      "schoolId": null,
+      "schoolName": "서울어울초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
+      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-07-20T00:00:00+09:00",
+      "title": "초등예술하나(모듬북, 사물놀이)",
       "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
@@ -602,18 +614,6 @@
       "deadline": null,
       "title": "놀이체육강사",
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15061",
-      "schoolId": null,
-      "schoolName": "서울신기초등학교병설유치원",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "에듀케어 오전 대체 강사 채용",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:gsycedu:15057",
