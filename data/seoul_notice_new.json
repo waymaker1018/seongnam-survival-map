@@ -1,18 +1,5 @@
 {
-  "generatedAt": "2026-07-16T07:56:17.265Z",
-  "newCount": 1,
-  "items": [
-    {
-      "id": "seoul:sbedu:5578",
-      "schoolId": null,
-      "schoolName": "서울어울초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
-      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-07-20T00:00:00+09:00",
-      "title": "초등예술하나(모듬북, 사물놀이)",
-      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
-    }
-  ]
+  "generatedAt": "2026-07-17T02:54:59.651Z",
+  "newCount": 0,
+  "items": []
 }

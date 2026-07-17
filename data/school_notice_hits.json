@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-16T07:50:41.131Z",
+  "generatedAt": "2026-07-17T02:49:11.806Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 22,
+  "hitCount": 20,
   "keywords": [
     "AI",
     "인공지능",
@@ -277,30 +277,6 @@
       "deadline": null,
       "title": "2026 성남미래교육 프로그램 디지털 강사 모집 공고",
       "url": "https://anmal-e.goesn.kr/anmal-e/na/ntt/selectNttInfo.do?mi=15876&bbsId=13238&nttSn=1941614"
-    },
-    {
-      "id": "dannam-e:dannam-e:1941093",
-      "schoolId": "dannam-e",
-      "schoolName": "단남초등학교",
-      "schoolHomepage": "https://dannam-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://dannam-e.goesn.kr/dannam-e/na/ntt/selectNttList.do?mi=10227&bbsId=10069&listCo=50&currPage=1",
-      "postedAt": "2026-07-02T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026학년도 여름방학 아이신나플러스 프로그램 강사 채용 재공고",
-      "url": "https://dannam-e.goesn.kr/dannam-e/na/ntt/selectNttInfo.do?mi=10227&bbsId=10069&nttSn=1941093"
-    },
-    {
-      "id": "bp-e:bp-e:1940996",
-      "schoolId": "bp-e",
-      "schoolName": "보평초등학교",
-      "schoolHomepage": "https://bp-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://bp-e.goesn.kr/bp-e/na/ntt/selectNttList.do?mi=12220&bbsId=11157&listCo=50&currPage=1",
-      "postedAt": "2026-07-02T15:00:00.000Z",
-      "deadline": null,
-      "title": "보평초 기초학력 1:1 맞춤지원 사업 강사 모집 공고",
-      "url": "https://bp-e.goesn.kr/bp-e/na/ntt/selectNttInfo.do?mi=12220&bbsId=11157&nttSn=1940996"
     }
   ]
 }

@@ -1,32 +1,8 @@
 {
-  "generatedAt": "2026-07-16T07:56:17.265Z",
-  "hitCount": 86,
+  "generatedAt": "2026-07-17T02:54:59.651Z",
+  "hitCount": 84,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:gdspedu:8265",
-      "schoolId": "sen-7130107",
-      "schoolName": "서울강명초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강동송파 구인",
-      "boardUrl": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-07-16T00:00:00+09:00",
-      "title": "특수교육대상학생 방과후돌봄 지원인력",
-      "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:dgedu:10152",
-      "schoolId": "sen-7132094",
-      "schoolName": "서울미성초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-07-16T00:00:00+09:00",
-      "title": "2026학년도 미성초등학교 학습지원 튜터 모집 공고 (기타)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:nbedu:11287",
       "schoolId": "sen-7041153",
