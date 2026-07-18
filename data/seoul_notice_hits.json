@@ -1,32 +1,8 @@
 {
-  "generatedAt": "2026-07-17T07:53:42.260Z",
-  "hitCount": 84,
+  "generatedAt": "2026-07-18T02:46:33.702Z",
+  "hitCount": 82,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:nbedu:11287",
-      "schoolId": "sen-7041153",
-      "schoolName": "서울영중초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-07-17T00:00:00+09:00",
-      "title": "서울영중초등학교 2학기 3, 4학년 체육 협력 강사 채용 공고 (시간강사)",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:nbedu:11093",
-      "schoolId": "sen-7041160",
-      "schoolName": "서울정심초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-07-17T00:00:00+09:00",
-      "title": "(정심초)2026 기초학력 협력강사 모집(2차) 공고 (기타)",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:sbedu:5577",
       "schoolId": "sen-7031159",
