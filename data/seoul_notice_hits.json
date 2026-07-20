@@ -1,20 +1,8 @@
 {
-  "generatedAt": "2026-07-19T07:59:33.693Z",
-  "hitCount": 82,
+  "generatedAt": "2026-07-20T03:27:29.802Z",
+  "hitCount": 80,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:sbedu:5577",
-      "schoolId": "sen-7031159",
-      "schoolName": "서울응암초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
-      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-07-19T00:00:00+09:00",
-      "title": "특수교육지원인력 (시간제)",
-      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:sbedu:5578",
       "schoolId": null,
@@ -553,18 +541,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "초1 음악놀이강사",
-      "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:jbedu:3352",
-      "schoolId": "sen-7061059",
-      "schoolName": "서울금양초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 중부(종로·중구·용산) 구인",
-      "boardUrl": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "놀이체육강사",
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
