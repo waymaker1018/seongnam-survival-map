@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-20T03:27:29.802Z",
-  "hitCount": 80,
+  "generatedAt": "2026-07-20T08:33:44.664Z",
+  "hitCount": 83,
   "errors": [],
   "items": [
     {
@@ -88,6 +88,18 @@
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:dgedu:10170",
+      "schoolId": "sen-7132097",
+      "schoolName": "서울봉천초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-07-22T00:00:00+09:00",
+      "title": "2026학년도 봉천초 라온누리교실 강사 채용 공고 (강사)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:dgedu:10165",
       "schoolId": null,
       "schoolName": "흑석초등학교",
@@ -134,6 +146,18 @@
       "deadline": "2026-07-22T00:00:00+09:00",
       "title": "(남성병유) 여름방학 에듀케어 대체강사 채용 공고(오전 근무)",
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:nbedu:11292",
+      "schoolId": "sen-7041153",
+      "schoolName": "서울영중초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-07-23T00:00:00+09:00",
+      "title": "서울영중초등학교 2학기 3, 4학년 체육 협력 강사 채용 재공고 (시간강사)",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:dgedu:10114",
@@ -542,6 +566,18 @@
       "deadline": null,
       "title": "초1 음악놀이강사",
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gsycedu:15064",
+      "schoolId": "sen-7081467",
+      "schoolName": "서울염동초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "뉴스포츠 협력강사 3학년, 5학년 뉴스포츠 협력강사",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:gsycedu:15057",

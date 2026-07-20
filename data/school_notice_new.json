@@ -1,18 +1,5 @@
 {
-  "generatedAt": "2026-07-20T03:26:26.449Z",
-  "newCount": 1,
-  "items": [
-    {
-      "id": "wrhs-e:wrhs-e:1944543",
-      "schoolId": "wrhs-e",
-      "schoolName": "위례해솔초등학교",
-      "schoolHomepage": "https://wrhs-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://wrhs-e.goesn.kr/wrhs-e/na/ntt/selectNttList.do?mi=27200&bbsId=21015&listCo=50&currPage=1",
-      "postedAt": "2026-07-19T15:00:00.000Z",
-      "deadline": null,
-      "title": "벌말초등학교 농구부 여름캠프 안내 및 선수 모집 포스터",
-      "url": "https://wrhs-e.goesn.kr/wrhs-e/na/ntt/selectNttInfo.do?mi=27200&bbsId=21015&nttSn=1944543"
-    }
-  ]
+  "generatedAt": "2026-07-20T08:32:34.031Z",
+  "newCount": 0,
+  "items": []
 }
