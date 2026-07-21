@@ -1,5 +1,30 @@
 {
-  "generatedAt": "2026-07-20T08:32:34.031Z",
-  "newCount": 0,
-  "items": []
+  "generatedAt": "2026-07-21T02:51:44.659Z",
+  "newCount": 2,
+  "items": [
+    {
+      "id": "seodang-e:seodang-e:1944853",
+      "schoolId": "seodang-e",
+      "schoolName": "서당초등학교",
+      "schoolHomepage": "https://seodang-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://seodang-e.goesn.kr/seodang-e/na/ntt/selectNttList.do?mi=19703&bbsId=15387&listCo=50&currPage=1",
+      "postedAt": "2026-07-20T15:00:00.000Z",
+      "deadline": null,
+      "title": "벌말초등학교 농구부 여름캠프 안내 및 선수 모집 포스터",
+      "url": "https://seodang-e.goesn.kr/seodang-e/na/ntt/selectNttInfo.do?mi=19703&bbsId=15387&nttSn=1944853"
+    },
+    {
+      "id": "wiryepureun-e:wiryepureun-e:1944988",
+      "schoolId": "wiryepureun-e",
+      "schoolName": "위례푸른초등학교",
+      "schoolHomepage": "https://wiryepureun-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://wiryepureun-e.goesn.kr/wiryepureun-e/na/ntt/selectNttList.do?mi=11186&bbsId=10571&listCo=50&currPage=1",
+      "postedAt": "2026-07-20T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026 여름방학 AI, SW 온라인 코딩맴프 참가 학생 모집",
+      "url": "https://wiryepureun-e.goesn.kr/wiryepureun-e/na/ntt/selectNttInfo.do?mi=11186&bbsId=10571&nttSn=1944988"
+    }
+  ]
 }
