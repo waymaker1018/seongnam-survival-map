@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-21T02:57:48.204Z",
-  "hitCount": 76,
+  "generatedAt": "2026-07-21T08:03:54.386Z",
+  "hitCount": 75,
   "errors": [],
   "items": [
     {
@@ -52,18 +52,6 @@
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
-      "id": "seoul:dgedu:10101",
-      "schoolId": null,
-      "schoolName": "서울남성초등학교병설유치원",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-07-22T00:00:00+09:00",
-      "title": "(남성병유) 여름방학 에듀케어 대체강사 채용 공고(오전 근무)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
       "id": "seoul:nbedu:11292",
       "schoolId": "sen-7041153",
       "schoolName": "서울영중초등학교",
@@ -98,6 +86,18 @@
       "deadline": "2026-07-26T00:00:00+09:00",
       "title": "(동작관악 관내 공립학교) 기간제근로자(지방공무원 대체직원) 채용 공고 (기타)",
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:nbedu:11294",
+      "schoolId": "sen-7041150",
+      "schoolName": "서울영신초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-07-27T00:00:00+09:00",
+      "title": "(서울영신초)2026년 방과후 및 맞춤형교실 개인위탁 외부강사 채용공고 (특기적성외래교사)",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:nbedu:11264",
@@ -484,6 +484,18 @@
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:gsycedu:15065",
+      "schoolId": null,
+      "schoolName": "강서양천교육지원청",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "2027 수능 업무보조원",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:gsycedu:15064",
       "schoolId": "sen-7081467",
       "schoolName": "서울염동초등학교",
@@ -772,18 +784,6 @@
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
-      "id": "seoul:gsycedu:14977",
-      "schoolId": "sen-7081422",
-      "schoolName": "서울강신초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "기초학력(도약캠프) 강사",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
       "id": "seoul:gnscedu:14187",
       "schoolId": "sen-7091460",
       "schoolName": "서울우솔초등학교",
@@ -901,18 +901,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "김안나 (초등돌봄교실 방학 중 특별프로그램 강사)",
-      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gnscedu:14122",
-      "schoolId": null,
-      "schoolName": "서이초",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강남서초 구인",
-      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "최윤정 (학습지원 튜터)",
       "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
