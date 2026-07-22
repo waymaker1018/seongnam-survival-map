@@ -1,29 +1,17 @@
 {
-  "generatedAt": "2026-07-21T08:03:54.386Z",
-  "newCount": 2,
+  "generatedAt": "2026-07-22T02:56:20.226Z",
+  "newCount": 1,
   "items": [
     {
-      "id": "seoul:nbedu:11294",
-      "schoolId": "sen-7041150",
-      "schoolName": "서울영신초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-07-27T00:00:00+09:00",
-      "title": "(서울영신초)2026년 방과후 및 맞춤형교실 개인위탁 외부강사 채용공고 (특기적성외래교사)",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15065",
+      "id": "seoul:gsycedu:15066",
       "schoolId": null,
-      "schoolName": "강서양천교육지원청",
+      "schoolName": "서울염경초등학교병설유치원",
       "schoolHomepage": null,
       "boardLabel": "서울 강서양천 구인",
       "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
       "deadline": null,
-      "title": "2027 수능 업무보조원",
+      "title": "여름 방학 중 에듀케어 대체강사 에듀케어 대체강사",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]

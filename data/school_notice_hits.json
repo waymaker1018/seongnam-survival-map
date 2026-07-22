@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-21T08:02:35.592Z",
+  "generatedAt": "2026-07-22T02:49:27.707Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 17,
+  "hitCount": 14,
   "keywords": [
     "AI",
     "인공지능",
@@ -97,18 +97,6 @@
       "deadline": null,
       "title": "2026 불곡초 오카리나 강사 채용 재공고",
       "url": "https://bulgok-e.goesn.kr/bulgok-e/na/ntt/selectNttInfo.do?mi=12199&bbsId=11148&nttSn=1944409"
-    },
-    {
-      "id": "naksaeng-e:naksaeng-e:1944030",
-      "schoolId": "naksaeng-e",
-      "schoolName": "낙생초등학교",
-      "schoolHomepage": "https://naksaeng-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://naksaeng-e.goesn.kr/naksaeng-e/na/ntt/selectNttList.do?mi=11250&bbsId=10603&listCo=50&currPage=1",
-      "postedAt": "2026-07-14T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026학년도 낙생초 6학년 코딩로봇 강사 모집 공고",
-      "url": "https://naksaeng-e.goesn.kr/naksaeng-e/na/ntt/selectNttInfo.do?mi=11250&bbsId=10603&nttSn=1944030"
     },
     {
       "id": "buljung-e:buljung-e:1943167",
@@ -217,30 +205,6 @@
       "deadline": null,
       "title": "2026학년도 디지털교육활성화 SW 코딩 및 AI 교육활동 프로그램 강사 채용 공고",
       "url": "https://tp-e.goesn.kr/tp-e/na/ntt/selectNttInfo.do?mi=12666&bbsId=11410&nttSn=1942662"
-    },
-    {
-      "id": "seodang-e:seodang-e:1942275",
-      "schoolId": "seodang-e",
-      "schoolName": "서당초등학교",
-      "schoolHomepage": "https://seodang-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://seodang-e.goesn.kr/seodang-e/na/ntt/selectNttList.do?mi=19703&bbsId=15387&listCo=50&currPage=1",
-      "postedAt": "2026-07-07T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026학년도 서당초등학교 영어회화 전문강사 선발 공고",
-      "url": "https://seodang-e.goesn.kr/seodang-e/na/ntt/selectNttInfo.do?mi=19703&bbsId=15387&nttSn=1942275"
-    },
-    {
-      "id": "wang-e:wang-e:1942035",
-      "schoolId": "wang-e",
-      "schoolName": "왕남초등학교",
-      "schoolHomepage": "https://wang-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://wang-e.goesn.kr/wang-e/na/ntt/selectNttList.do?mi=16386&bbsId=13523&listCo=50&currPage=1",
-      "postedAt": "2026-07-07T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026년 2학기 디지털튜터 채용 공고",
-      "url": "https://wang-e.goesn.kr/wang-e/na/ntt/selectNttInfo.do?mi=16386&bbsId=13523&nttSn=1942035"
     }
   ]
 }

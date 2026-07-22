@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T08:03:54.386Z",
+  "generatedAt": "2026-07-22T02:56:20.226Z",
   "hitCount": 75,
   "errors": [],
   "items": [
@@ -484,6 +484,18 @@
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:gsycedu:15066",
+      "schoolId": null,
+      "schoolName": "서울염경초등학교병설유치원",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "여름 방학 중 에듀케어 대체강사 에듀케어 대체강사",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:gsycedu:15065",
       "schoolId": null,
       "schoolName": "강서양천교육지원청",
@@ -769,18 +781,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "여름방학 중 오전운영인력 대체강사",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:14978",
-      "schoolId": null,
-      "schoolName": "서울특별시강서양천교육지원청 중등교육지원과",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "2026 강서양천 수학과학융합교육센터 기간제근로자 채용 공고(업무보조원)",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {

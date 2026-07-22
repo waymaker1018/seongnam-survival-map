@@ -1,7 +1,13 @@
 {
-  "generatedAt": "2026-07-21T08:03:41.327Z",
+  "generatedAt": "2026-07-22T02:51:42.839Z",
   "hitCount": 1,
-  "errors": [],
+  "errors": [
+    "교육부 공고 1p: fetch failed",
+    "교육부 공고 2p: fetch failed",
+    "교육부 공고 3p: fetch failed",
+    "교육부 공고 4p: fetch failed",
+    "교육부 공고 5p: fetch failed"
+  ],
   "items": [
     {
       "id": "dtjob:https://hwado-m.goehs.kr/hwado-m/na/ntt/selectNttList.do?mi=16056&bbsId=8804",
