@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-07-22T02:56:20.226Z",
+  "generatedAt": "2026-07-22T08:09:11.170Z",
   "newCount": 1,
   "items": [
     {
-      "id": "seoul:gsycedu:15066",
-      "schoolId": null,
-      "schoolName": "서울염경초등학교병설유치원",
+      "id": "seoul:gnscedu:14195",
+      "schoolId": "sen-7091385",
+      "schoolName": "서울반원초등학교",
       "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "boardLabel": "서울 강남서초 구인",
+      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
       "deadline": null,
-      "title": "여름 방학 중 에듀케어 대체강사 에듀케어 대체강사",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+      "title": "돌봄교실 김혜진 (돌봄교실 프로그램 강사)",
+      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
 }

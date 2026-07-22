@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-22T02:49:27.707Z",
+  "generatedAt": "2026-07-22T08:03:14.663Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 14,
+  "hitCount": 15,
   "keywords": [
     "AI",
     "인공지능",
@@ -97,6 +97,18 @@
       "deadline": null,
       "title": "2026 불곡초 오카리나 강사 채용 재공고",
       "url": "https://bulgok-e.goesn.kr/bulgok-e/na/ntt/selectNttInfo.do?mi=12199&bbsId=11148&nttSn=1944409"
+    },
+    {
+      "id": "naksaeng-e:naksaeng-e:1944030",
+      "schoolId": "naksaeng-e",
+      "schoolName": "낙생초등학교",
+      "schoolHomepage": "https://naksaeng-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://naksaeng-e.goesn.kr/naksaeng-e/na/ntt/selectNttList.do?mi=11250&bbsId=10603&listCo=50&currPage=1",
+      "postedAt": "2026-07-14T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026학년도 낙생초 6학년 코딩로봇 강사 모집 공고",
+      "url": "https://naksaeng-e.goesn.kr/naksaeng-e/na/ntt/selectNttInfo.do?mi=11250&bbsId=10603&nttSn=1944030"
     },
     {
       "id": "buljung-e:buljung-e:1943167",

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-22T02:56:20.226Z",
-  "hitCount": 75,
+  "generatedAt": "2026-07-22T08:09:11.170Z",
+  "hitCount": 74,
   "errors": [],
   "items": [
     {
@@ -37,18 +37,6 @@
       "postedAt": null,
       "deadline": "2026-07-22T00:00:00+09:00",
       "title": "(흑석초) 2026학년도 돌봄교실 여름방학 특수교육대상학생 지원인력 채용공고 (기타)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:dgedu:10102",
-      "schoolId": null,
-      "schoolName": "서울문창초등학교병설유치원",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-07-22T00:00:00+09:00",
-      "title": "(문창병유)2026학년도 여름방학 특수에듀케어 방과후과정 대체강사 채용공고",
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
@@ -784,6 +772,18 @@
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:gnscedu:14195",
+      "schoolId": "sen-7091385",
+      "schoolName": "서울반원초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강남서초 구인",
+      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "돌봄교실 김혜진 (돌봄교실 프로그램 강사)",
+      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:gnscedu:14187",
       "schoolId": "sen-7091460",
       "schoolName": "서울우솔초등학교",
@@ -889,18 +889,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "학습지원튜터 김현정 (학습지원튜터)",
-      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gnscedu:14124",
-      "schoolId": null,
-      "schoolName": "서울왕북초등학",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강남서초 구인",
-      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "김안나 (초등돌봄교실 방학 중 특별프로그램 강사)",
       "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
