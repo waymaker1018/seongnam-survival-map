@@ -1,44 +1,8 @@
 {
-  "generatedAt": "2026-07-22T08:09:11.170Z",
-  "hitCount": 74,
+  "generatedAt": "2026-07-23T02:58:08.533Z",
+  "hitCount": 72,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:dgedu:10170",
-      "schoolId": "sen-7132097",
-      "schoolName": "서울봉천초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-07-22T00:00:00+09:00",
-      "title": "2026학년도 봉천초 라온누리교실 강사 채용 공고 (강사)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:dgedu:10165",
-      "schoolId": null,
-      "schoolName": "흑석초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-07-22T00:00:00+09:00",
-      "title": "（흑석초） ２０２６학년도 돌봄교실 전일제 돌봄전담사（육아휴직） 대체직 채용공고 (교육공무직원)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:dgedu:10161",
-      "schoolId": null,
-      "schoolName": "흑석초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-07-22T00:00:00+09:00",
-      "title": "(흑석초) 2026학년도 돌봄교실 여름방학 특수교육대상학생 지원인력 채용공고 (기타)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:nbedu:11292",
       "schoolId": "sen-7041153",
@@ -160,6 +124,18 @@
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:dgedu:10176",
+      "schoolId": "sen-7132087",
+      "schoolName": "서울남사초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-08-20T00:00:00+09:00",
+      "title": "[남사초] 6학년 담임교사 시간강사 채용공고 (기타)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:gdspedu:8079",
       "schoolId": "sen-7130110",
       "schoolName": "서울거여초등학교",
@@ -182,6 +158,18 @@
       "deadline": "2027-02-28T00:00:00+09:00",
       "title": "현장체험학습 보조인력",
       "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:jbedu:3417",
+      "schoolId": null,
+      "schoolName": "중부학습진단성장센터",
+      "schoolHomepage": null,
+      "boardLabel": "서울 중부(종로·중구·용산) 구인",
+      "boardUrl": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "학습비타민 지원가 기초학력향상, 학습전략, 기초학습 관련 심리 정서",
+      "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:jbedu:3414",
@@ -877,18 +865,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "김안나 (초등돌봄교실 방학 중 특별프로그램 강사)",
-      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gnscedu:14128",
-      "schoolId": "sen-7091405",
-      "schoolName": "서울언북초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강남서초 구인",
-      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "학습지원튜터 김현정 (학습지원튜터)",
       "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]

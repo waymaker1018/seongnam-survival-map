@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-22T08:03:14.663Z",
+  "generatedAt": "2026-07-23T02:55:42.171Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 15,
+  "hitCount": 10,
   "keywords": [
     "AI",
     "인공지능",
@@ -99,18 +99,6 @@
       "url": "https://bulgok-e.goesn.kr/bulgok-e/na/ntt/selectNttInfo.do?mi=12199&bbsId=11148&nttSn=1944409"
     },
     {
-      "id": "naksaeng-e:naksaeng-e:1944030",
-      "schoolId": "naksaeng-e",
-      "schoolName": "낙생초등학교",
-      "schoolHomepage": "https://naksaeng-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://naksaeng-e.goesn.kr/naksaeng-e/na/ntt/selectNttList.do?mi=11250&bbsId=10603&listCo=50&currPage=1",
-      "postedAt": "2026-07-14T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026학년도 낙생초 6학년 코딩로봇 강사 모집 공고",
-      "url": "https://naksaeng-e.goesn.kr/naksaeng-e/na/ntt/selectNttInfo.do?mi=11250&bbsId=10603&nttSn=1944030"
-    },
-    {
       "id": "buljung-e:buljung-e:1943167",
       "schoolId": "buljung-e",
       "schoolName": "불정초등학교",
@@ -169,54 +157,6 @@
       "deadline": null,
       "title": "2026학년도 중탑초 코딩교육 강사 채용 공고",
       "url": "https://jungtap-e.goesn.kr/jungtap-e/na/ntt/selectNttInfo.do?mi=16723&bbsId=13695&nttSn=1942899"
-    },
-    {
-      "id": "snjangan-e:snjangan-e:1942667",
-      "schoolId": "snjangan-e",
-      "schoolName": "성남장안초등학교",
-      "schoolHomepage": "https://snjangan-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://snjangan-e.goesn.kr/snjangan-e/na/ntt/selectNttList.do?mi=15082&bbsId=12792&listCo=50&currPage=1",
-      "postedAt": "2026-07-08T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026학년도 여름방학 아이신나 프로그램 외부강사 모집 공고",
-      "url": "https://snjangan-e.goesn.kr/snjangan-e/na/ntt/selectNttInfo.do?mi=15082&bbsId=12792&nttSn=1942667"
-    },
-    {
-      "id": "sujin-e:sujin-e:1942509",
-      "schoolId": "sujin-e",
-      "schoolName": "수진초등학교",
-      "schoolHomepage": "https://sujin-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://sujin-e.goesn.kr/sujin-e/na/ntt/selectNttList.do?mi=15468&bbsId=13018&listCo=50&currPage=1",
-      "postedAt": "2026-07-08T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026학년도 6학년 교육연극 협력강사 모집 공고",
-      "url": "https://sujin-e.goesn.kr/sujin-e/na/ntt/selectNttInfo.do?mi=15468&bbsId=13018&nttSn=1942509"
-    },
-    {
-      "id": "jungbu-e:jungbu-e:1942656",
-      "schoolId": "jungbu-e",
-      "schoolName": "중부초등학교",
-      "schoolHomepage": "https://jungbu-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://jungbu-e.goesn.kr/jungbu-e/na/ntt/selectNttList.do?mi=16468&bbsId=13564&listCo=50&currPage=1",
-      "postedAt": "2026-07-08T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026학년도 여름방학 '아이신나 플러스' 프그로그램 보조강사 및 안전인력 채용 공고",
-      "url": "https://jungbu-e.goesn.kr/jungbu-e/na/ntt/selectNttInfo.do?mi=16468&bbsId=13564&nttSn=1942656"
-    },
-    {
-      "id": "tp-e:tp-e:1942662",
-      "schoolId": "tp-e",
-      "schoolName": "태평초등학교",
-      "schoolHomepage": "https://tp-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://tp-e.goesn.kr/tp-e/na/ntt/selectNttList.do?mi=12666&bbsId=11410&listCo=50&currPage=1",
-      "postedAt": "2026-07-08T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026학년도 디지털교육활성화 SW 코딩 및 AI 교육활동 프로그램 강사 채용 공고",
-      "url": "https://tp-e.goesn.kr/tp-e/na/ntt/selectNttInfo.do?mi=12666&bbsId=11410&nttSn=1942662"
     }
   ]
 }
