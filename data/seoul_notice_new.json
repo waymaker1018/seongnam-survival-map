@@ -1,30 +1,5 @@
 {
-  "generatedAt": "2026-07-23T02:58:08.533Z",
-  "newCount": 2,
-  "items": [
-    {
-      "id": "seoul:dgedu:10176",
-      "schoolId": "sen-7132087",
-      "schoolName": "서울남사초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-08-20T00:00:00+09:00",
-      "title": "[남사초] 6학년 담임교사 시간강사 채용공고 (기타)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:jbedu:3417",
-      "schoolId": null,
-      "schoolName": "중부학습진단성장센터",
-      "schoolHomepage": null,
-      "boardLabel": "서울 중부(종로·중구·용산) 구인",
-      "boardUrl": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "학습비타민 지원가 기초학력향상, 학습전략, 기초학습 관련 심리 정서",
-      "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
-    }
-  ]
+  "generatedAt": "2026-07-23T08:07:21.675Z",
+  "newCount": 0,
+  "items": []
 }
