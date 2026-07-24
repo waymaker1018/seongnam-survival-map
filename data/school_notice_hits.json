@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-23T08:05:52.698Z",
+  "generatedAt": "2026-07-24T02:50:14.948Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 12,
+  "hitCount": 10,
   "keywords": [
     "AI",
     "인공지능",
@@ -157,30 +157,6 @@
       "deadline": null,
       "title": "2026학년도 3, 4학년 문화예술(무용) 협력강사 채용 공고",
       "url": "https://sujin-e.goesn.kr/sujin-e/na/ntt/selectNttInfo.do?mi=15468&bbsId=13018&nttSn=1943293"
-    },
-    {
-      "id": "snys-e:snys-e:1942862",
-      "schoolId": "snys-e",
-      "schoolName": "성남여수초등학교",
-      "schoolHomepage": "https://snys-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://snys-e.goesn.kr/snys-e/na/ntt/selectNttList.do?mi=13840&bbsId=12070&listCo=50&currPage=1",
-      "postedAt": "2026-07-09T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026 정자유스센터 AI기반 창의·융합활동 [메이커기획단] 참가 청소년 모집 안내",
-      "url": "https://snys-e.goesn.kr/snys-e/na/ntt/selectNttInfo.do?mi=13840&bbsId=12070&nttSn=1942862"
-    },
-    {
-      "id": "jungtap-e:jungtap-e:1942899",
-      "schoolId": "jungtap-e",
-      "schoolName": "중탑초등학교",
-      "schoolHomepage": "https://jungtap-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://jungtap-e.goesn.kr/jungtap-e/na/ntt/selectNttList.do?mi=16723&bbsId=13695&listCo=50&currPage=1",
-      "postedAt": "2026-07-09T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026학년도 중탑초 코딩교육 강사 채용 공고",
-      "url": "https://jungtap-e.goesn.kr/jungtap-e/na/ntt/selectNttInfo.do?mi=16723&bbsId=13695&nttSn=1942899"
     }
   ]
 }

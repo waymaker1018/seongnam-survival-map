@@ -1,5 +1,54 @@
 {
-  "generatedAt": "2026-07-23T08:07:21.675Z",
-  "newCount": 0,
-  "items": []
+  "generatedAt": "2026-07-24T02:51:46.300Z",
+  "newCount": 4,
+  "items": [
+    {
+      "id": "seoul:gsycedu:15068",
+      "schoolId": "sen-7081459",
+      "schoolName": "서울양동초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "지역사회교육전문가 지역사회전문가",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gsycedu:15067",
+      "schoolId": "sen-7081454",
+      "schoolName": "서울신서초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "체육 뉴스포츠",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gnscedu:14199",
+      "schoolId": null,
+      "schoolName": "밀알학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강남서초 구인",
+      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "방과후학교 강사 김효중 (2학기 방과후학교 강사(특수체육))",
+      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gnscedu:14198",
+      "schoolId": null,
+      "schoolName": "밀알학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강남서초 구인",
+      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "늘봄학교 강사 김효중 (늘봄학교 맞춤형 교실 강사(특수체육,예술신체놀이,미술))",
+      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
+    }
+  ]
 }
