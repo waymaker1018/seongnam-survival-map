@@ -1,5 +1,22 @@
 {
-  "generatedAt": "2026-07-24T02:51:31.665Z",
-  "newCount": 0,
-  "items": []
+  "generatedAt": "2026-07-24T08:03:33.561Z",
+  "newCount": 2,
+  "items": [
+    {
+      "id": "dtjob:https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?mi=23603&bbsId=17872&nttSn=1945811",
+      "source": "전국 디지털튜터 채용",
+      "title": "[경기도 · 이매초등학교] 2026년도 이매초등학교 AI교육 코디네이터 공고 (1명)",
+      "postedAt": "2026-07-24T00:00:00+09:00",
+      "deadline": "2026-07-31T00:00:00+09:00",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?mi=23603&bbsId=17872&nttSn=1945811"
+    },
+    {
+      "id": "dtjob:https://www.goe.go.kr/recruit/ad/func/pb/hnfpPbancInfoView.do?pbancSn=54145&mi=10502",
+      "source": "전국 디지털튜터 채용",
+      "title": "[경기도 · 김포제일고등학교] 김포제일고 AI교육 코디네이터(26년 8~12월) 채용공고(~7/27 13시까지) (1명)",
+      "postedAt": "2026-07-24T00:00:00+09:00",
+      "deadline": "2026-07-27T00:00:00+09:00",
+      "url": "https://www.goe.go.kr/recruit/ad/func/pb/hnfpPbancInfoView.do?pbancSn=54145&mi=10502"
+    }
+  ]
 }

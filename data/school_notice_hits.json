@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-24T02:50:14.948Z",
+  "generatedAt": "2026-07-24T08:02:32.619Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 10,
+  "hitCount": 15,
   "keywords": [
     "AI",
     "인공지능",
@@ -38,6 +38,66 @@
     "디지털 새싹"
   ],
   "items": [
+    {
+      "id": "office:goesn:1945857",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-07-23T15:00:00.000Z",
+      "deadline": "2026-07-29T15:00:00.000Z",
+      "title": "시간강사 채용공고",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1945857"
+    },
+    {
+      "id": "office:goesn:1945852",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-07-23T15:00:00.000Z",
+      "deadline": "2026-07-28T15:00:00.000Z",
+      "title": "서현초 늘봄행정실무사 (대체인력) 채용 공고",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1945852"
+    },
+    {
+      "id": "office:goesn:1945843",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-07-23T15:00:00.000Z",
+      "deadline": "2026-07-30T15:00:00.000Z",
+      "title": "성남북초 방과후돌봄(구, 늘봄)학교 지원인력 채용 공고",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1945843"
+    },
+    {
+      "id": "office:goesn:1945811",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-07-23T15:00:00.000Z",
+      "deadline": "2026-07-30T15:00:00.000Z",
+      "title": "2026 이매초등학교 AI교육 코디네이터 모집",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1945811"
+    },
+    {
+      "id": "snb-e:snb-e:1945845",
+      "schoolId": "snb-e",
+      "schoolName": "성남북초등학교",
+      "schoolHomepage": "https://snb-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://snb-e.goesn.kr/snb-e/na/ntt/selectNttList.do?mi=10653&bbsId=10283&listCo=50&currPage=1",
+      "postedAt": "2026-07-23T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026 방과후돌봄(구,늘봄)학교 지원인력 채용 공고",
+      "url": "https://snb-e.goesn.kr/snb-e/na/ntt/selectNttInfo.do?mi=10653&bbsId=10283&nttSn=1945845"
+    },
     {
       "id": "office:goesn:1945648",
       "schoolId": null,

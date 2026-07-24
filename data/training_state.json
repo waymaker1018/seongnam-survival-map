@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T02:51:31.665Z",
+  "updatedAt": "2026-07-24T08:03:33.561Z",
   "seenIds": {
     "dtjob:https://www.goepj.kr/goepj/na/ntt/selectNttInfo.do?mi=10838&bbsId=7202&nttSn=1333557": "2026-06-11T14:38:29.988Z",
     "moe:106305": "2026-06-11T14:38:29.988Z",
@@ -13,6 +13,8 @@
     "dtjob:https://www.goepj.kr/goepj/na/ntt/selectNttInfo.do?mi=10838&bbsId=7202&nttSn=1336892": "2026-06-12T09:53:14.865Z",
     "dtjob:https://org.goe.go.kr/staff/ad/func/pb/hnfpPbancList.do": "2026-06-18T04:22:41.055Z",
     "dtjob:https://bic-e.goepj.kr/bic-e/na/ntt/selectNttInfo.do?mi=8977&nttSn=1340379&bbsId=6096": "2026-07-01T09:25:42.658Z",
-    "dtjob:https://hwado-m.goehs.kr/hwado-m/na/ntt/selectNttList.do?mi=16056&bbsId=8804": "2026-07-21T08:03:41.327Z"
+    "dtjob:https://hwado-m.goehs.kr/hwado-m/na/ntt/selectNttList.do?mi=16056&bbsId=8804": "2026-07-21T08:03:41.327Z",
+    "dtjob:https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?mi=23603&bbsId=17872&nttSn=1945811": "2026-07-24T08:03:33.561Z",
+    "dtjob:https://www.goe.go.kr/recruit/ad/func/pb/hnfpPbancInfoView.do?pbancSn=54145&mi=10502": "2026-07-24T08:03:33.561Z"
   }
 }
