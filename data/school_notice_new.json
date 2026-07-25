@@ -1,5 +1,18 @@
 {
-  "generatedAt": "2026-07-25T02:49:35.869Z",
-  "newCount": 0,
-  "items": []
+  "generatedAt": "2026-07-25T07:46:26.040Z",
+  "newCount": 1,
+  "items": [
+    {
+      "id": "bokjeong-e:bokjeong-e:1945874",
+      "schoolId": "bokjeong-e",
+      "schoolName": "복정초등학교",
+      "schoolHomepage": "https://bokjeong-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://bokjeong-e.goesn.kr/bokjeong-e/na/ntt/selectNttList.do?mi=12508&bbsId=11334&listCo=50&currPage=1",
+      "postedAt": "2026-07-24T15:00:00.000Z",
+      "deadline": null,
+      "title": "복정초병설유치원 여름방학 중 방과후과정 운영을 위한 방과후전담사 대체인력 채용 재공고",
+      "url": "https://bokjeong-e.goesn.kr/bokjeong-e/na/ntt/selectNttInfo.do?mi=12508&bbsId=11334&nttSn=1945874"
+    }
+  ]
 }
