@@ -1,20 +1,8 @@
 {
-  "generatedAt": "2026-07-26T08:03:22.958Z",
-  "hitCount": 72,
+  "generatedAt": "2026-07-27T03:25:50.489Z",
+  "hitCount": 73,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:dgedu:10119",
-      "schoolId": null,
-      "schoolName": "서울남성초, 서울원당초",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-07-26T00:00:00+09:00",
-      "title": "(동작관악 관내 공립학교) 기간제근로자(지방공무원 대체직원) 채용 공고 (기타)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:nbedu:11294",
       "schoolId": "sen-7041150",
@@ -38,6 +26,18 @@
       "deadline": "2026-07-27T00:00:00+09:00",
       "title": "[서울금천초] 디지털소양교육 협력강사 채용(기간 연장)",
       "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10176",
+      "schoolId": "sen-7132087",
+      "schoolName": "서울남사초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-07-27T00:00:00+09:00",
+      "title": "[남사초] 6학년 담임교사 시간강사 채용공고 (기타)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:sbedu:5564",
@@ -100,18 +100,6 @@
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
-      "id": "seoul:dgedu:10176",
-      "schoolId": "sen-7132087",
-      "schoolName": "서울남사초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-08-20T00:00:00+09:00",
-      "title": "[남사초] 6학년 담임교사 시간강사 채용공고 (기타)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
       "id": "seoul:gdspedu:8079",
       "schoolId": "sen-7130110",
       "schoolName": "서울거여초등학교",
@@ -134,6 +122,18 @@
       "deadline": "2027-02-28T00:00:00+09:00",
       "title": "현장체험학습 보조인력",
       "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:jbedu:3418",
+      "schoolId": null,
+      "schoolName": "중부학습진단성장센터",
+      "schoolHomepage": null,
+      "boardLabel": "서울 중부(종로·중구·용산) 구인",
+      "boardUrl": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "학습성장지원사",
+      "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:jbedu:3417",
@@ -734,6 +734,18 @@
       "deadline": null,
       "title": "여름방학 중 오전 오후 에듀케어 강사 및 대체강사 방학중 에듀케어 대체강사",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gnscedu:14201",
+      "schoolId": "sen-7091417",
+      "schoolName": "서울포이초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강남서초 구인",
+      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "뉴스포츠 나광연 (맞춤형교실 프로그램 외부강사 (뉴스포츠))",
+      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:gnscedu:14199",
