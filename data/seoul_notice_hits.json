@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-27T03:25:50.489Z",
-  "hitCount": 73,
+  "generatedAt": "2026-07-27T09:26:39.251Z",
+  "hitCount": 72,
   "errors": [],
   "items": [
     {
@@ -865,18 +865,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "이중언어강사 권현민 (이중언어강사)",
-      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gnscedu:14136",
-      "schoolId": "sen-7091409",
-      "schoolName": "서울왕북초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강남서초 구인",
-      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "김안나 (초등돌봄교실 방학 중 특별프로그램 강사)",
       "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]

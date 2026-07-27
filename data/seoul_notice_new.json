@@ -1,30 +1,5 @@
 {
-  "generatedAt": "2026-07-27T03:25:50.489Z",
-  "newCount": 2,
-  "items": [
-    {
-      "id": "seoul:jbedu:3418",
-      "schoolId": null,
-      "schoolName": "중부학습진단성장센터",
-      "schoolHomepage": null,
-      "boardLabel": "서울 중부(종로·중구·용산) 구인",
-      "boardUrl": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "학습성장지원사",
-      "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gnscedu:14201",
-      "schoolId": "sen-7091417",
-      "schoolName": "서울포이초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강남서초 구인",
-      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "뉴스포츠 나광연 (맞춤형교실 프로그램 외부강사 (뉴스포츠))",
-      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
-    }
-  ]
+  "generatedAt": "2026-07-27T09:26:39.251Z",
+  "newCount": 0,
+  "items": []
 }
