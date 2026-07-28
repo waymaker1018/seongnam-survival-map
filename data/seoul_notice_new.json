@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-07-28T02:43:23.915Z",
+  "generatedAt": "2026-07-28T08:11:05.670Z",
   "newCount": 1,
   "items": [
     {
-      "id": "seoul:jbedu:3419",
-      "schoolId": "sen-7061067",
-      "schoolName": "서울봉래초등학교",
+      "id": "seoul:gsycedu:15069",
+      "schoolId": "sen-7081438",
+      "schoolName": "서울목동초등학교",
       "schoolHomepage": null,
-      "boardLabel": "서울 중부(종로·중구·용산) 구인",
-      "boardUrl": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
       "deadline": null,
-      "title": "국악강사",
-      "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
+      "title": "체육 체육 (필드형 및 네트형 스포츠)",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
 }
