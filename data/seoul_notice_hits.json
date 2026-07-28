@@ -1,44 +1,8 @@
 {
-  "generatedAt": "2026-07-27T09:26:39.251Z",
-  "hitCount": 72,
+  "generatedAt": "2026-07-28T02:43:23.915Z",
+  "hitCount": 70,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:nbedu:11294",
-      "schoolId": "sen-7041150",
-      "schoolName": "서울영신초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-07-27T00:00:00+09:00",
-      "title": "(서울영신초)2026년 방과후 및 맞춤형교실 개인위탁 외부강사 채용공고 (특기적성외래교사)",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:nbedu:11264",
-      "schoolId": "sen-7041112",
-      "schoolName": "서울금천초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-07-27T00:00:00+09:00",
-      "title": "[서울금천초] 디지털소양교육 협력강사 채용(기간 연장)",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:dgedu:10176",
-      "schoolId": "sen-7132087",
-      "schoolName": "서울남사초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-07-27T00:00:00+09:00",
-      "title": "[남사초] 6학년 담임교사 시간강사 채용공고 (기타)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:sbedu:5564",
       "schoolId": "sen-7031168",
@@ -122,6 +86,18 @@
       "deadline": "2027-02-28T00:00:00+09:00",
       "title": "현장체험학습 보조인력",
       "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:jbedu:3419",
+      "schoolId": "sen-7061067",
+      "schoolName": "서울봉래초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 중부(종로·중구·용산) 구인",
+      "boardUrl": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "국악강사",
+      "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:jbedu:3418",

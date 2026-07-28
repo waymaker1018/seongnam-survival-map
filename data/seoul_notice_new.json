@@ -1,5 +1,18 @@
 {
-  "generatedAt": "2026-07-27T09:26:39.251Z",
-  "newCount": 0,
-  "items": []
+  "generatedAt": "2026-07-28T02:43:23.915Z",
+  "newCount": 1,
+  "items": [
+    {
+      "id": "seoul:jbedu:3419",
+      "schoolId": "sen-7061067",
+      "schoolName": "서울봉래초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 중부(종로·중구·용산) 구인",
+      "boardUrl": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "국악강사",
+      "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
+    }
+  ]
 }
