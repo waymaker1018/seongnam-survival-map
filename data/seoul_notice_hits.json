@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-29T02:55:12.712Z",
-  "hitCount": 71,
+  "generatedAt": "2026-07-29T08:15:04.706Z",
+  "hitCount": 72,
   "errors": [],
   "items": [
     {
@@ -50,6 +50,18 @@
       "deadline": "2026-08-03T00:00:00+09:00",
       "title": "(흑석초) 2026학년도 돌봄교실 창의보드 프로그램 강사 채용 (강사)",
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:nbedu:11300",
+      "schoolId": "sen-7041107",
+      "schoolName": "서울구로남초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-08-04T00:00:00+09:00",
+      "title": "(서울구로남초등학교) 2026학년도 심화한국어강사 채용 재공고 (시간강사)",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:dgedu:10166",
