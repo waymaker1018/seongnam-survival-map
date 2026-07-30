@@ -1,20 +1,8 @@
 {
-  "generatedAt": "2026-07-29T08:15:04.706Z",
+  "generatedAt": "2026-07-30T02:35:06.674Z",
   "hitCount": 72,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:sbedu:5564",
-      "schoolId": "sen-7031168",
-      "schoolName": "서울홍은초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
-      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-07-29T00:00:00+09:00",
-      "title": "AI 활용 메타버스 수업 보조강사 (시간제)",
-      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:dgedu:10128",
       "schoolId": null,
@@ -734,6 +722,18 @@
       "deadline": null,
       "title": "여름방학 중 오전 오후 에듀케어 강사 및 대체강사 방학중 에듀케어 대체강사",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gnscedu:14206",
+      "schoolId": null,
+      "schoolName": "밀알학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강남서초 구인",
+      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "방과후학교 강사 김효중 (2학기 방과후학교 강사(특수체육))",
+      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:gnscedu:14201",

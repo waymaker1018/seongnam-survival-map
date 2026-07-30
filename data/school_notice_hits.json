@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-29T08:13:42.729Z",
+  "generatedAt": "2026-07-30T02:33:37.515Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 17,
+  "hitCount": 15,
   "keywords": [
     "AI",
     "인공지능",
@@ -97,18 +97,6 @@
       "deadline": null,
       "title": "2026 방과후돌봄(구, 늘봄)학교 지원인력 채용 공고(한시적 기간제 근로자)",
       "url": "https://snb-e.goesn.kr/snb-e/na/ntt/selectNttInfo.do?mi=10653&bbsId=10283&nttSn=1946090"
-    },
-    {
-      "id": "geumbit-e:geumbit-e:1945994",
-      "schoolId": "geumbit-e",
-      "schoolName": "금빛초등학교",
-      "schoolHomepage": "https://geumbit-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://geumbit-e.goesn.kr/geumbit-e/na/ntt/selectNttList.do?mi=11068&bbsId=10530&listCo=50&currPage=1",
-      "postedAt": "2026-07-26T15:00:00.000Z",
-      "deadline": null,
-      "title": "벌말초등학교 농구부 여름캠프 안내 및 학생선수 모집",
-      "url": "https://geumbit-e.goesn.kr/geumbit-e/na/ntt/selectNttInfo.do?mi=11068&bbsId=10530&nttSn=1945994"
     },
     {
       "id": "office:goesn:1945966",
@@ -229,18 +217,6 @@
       "deadline": null,
       "title": "벌말초등학교 농구부 여름캠프 안내 및 선수 모집 포스터",
       "url": "https://wrhs-e.goesn.kr/wrhs-e/na/ntt/selectNttInfo.do?mi=27200&bbsId=21015&nttSn=1944543"
-    },
-    {
-      "id": "bulgok-e:bulgok-e:1944409",
-      "schoolId": "bulgok-e",
-      "schoolName": "불곡초등학교",
-      "schoolHomepage": "https://bulgok-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://bulgok-e.goesn.kr/bulgok-e/na/ntt/selectNttList.do?mi=12199&bbsId=11148&listCo=50&currPage=1",
-      "postedAt": "2026-07-15T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026 불곡초 오카리나 강사 채용 재공고",
-      "url": "https://bulgok-e.goesn.kr/bulgok-e/na/ntt/selectNttInfo.do?mi=12199&bbsId=11148&nttSn=1944409"
     }
   ]
 }

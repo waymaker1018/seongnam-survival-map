@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-07-29T08:15:04.706Z",
+  "generatedAt": "2026-07-30T02:35:06.674Z",
   "newCount": 1,
   "items": [
     {
-      "id": "seoul:nbedu:11300",
-      "schoolId": "sen-7041107",
-      "schoolName": "서울구로남초등학교",
+      "id": "seoul:gnscedu:14206",
+      "schoolId": null,
+      "schoolName": "밀알학교",
       "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "boardLabel": "서울 강남서초 구인",
+      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
-      "deadline": "2026-08-04T00:00:00+09:00",
-      "title": "(서울구로남초등학교) 2026학년도 심화한국어강사 채용 재공고 (시간강사)",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+      "deadline": null,
+      "title": "방과후학교 강사 김효중 (2학기 방과후학교 강사(특수체육))",
+      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
 }
