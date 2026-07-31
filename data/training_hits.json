@@ -1,13 +1,7 @@
 {
-  "generatedAt": "2026-07-31T03:15:57.316Z",
+  "generatedAt": "2026-07-31T08:28:16.441Z",
   "hitCount": 6,
-  "errors": [
-    "교육부 공고 1p: fetch failed",
-    "교육부 공고 2p: fetch failed",
-    "교육부 공고 3p: fetch failed",
-    "교육부 공고 4p: fetch failed",
-    "교육부 공고 5p: fetch failed"
-  ],
+  "errors": [],
   "items": [
     {
       "id": "dtjob:https://www.goe.go.kr/recruit/ad/func/pb/hnfpPbancInfoView.do?pbancSn=54360&mi=10502",
