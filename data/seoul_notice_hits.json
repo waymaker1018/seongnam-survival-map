@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-30T08:04:26.287Z",
-  "hitCount": 72,
+  "generatedAt": "2026-07-31T03:20:35.124Z",
+  "hitCount": 73,
   "errors": [],
   "items": [
     {
@@ -50,6 +50,30 @@
       "deadline": "2026-08-04T00:00:00+09:00",
       "title": "(서울구로남초등학교) 2026학년도 심화한국어강사 채용 재공고 (시간강사)",
       "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10184",
+      "schoolId": "sen-7132110",
+      "schoolName": "서울신우초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-08-06T00:00:00+09:00",
+      "title": "(서울신우초)2026학년도 방과후교실 개인위탁 외부강사(우쿨렐레&기타부) 채용 공고 (강사)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10183",
+      "schoolId": "sen-7132114",
+      "schoolName": "서울원신초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-08-10T00:00:00+09:00",
+      "title": "(서울원신초) 2026 아침양궁교실 실기강사 채용 공고 (강사)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:dgedu:10166",
@@ -388,30 +412,6 @@
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
-      "id": "seoul:jbedu:3358",
-      "schoolId": null,
-      "schoolName": "서울장충조등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 중부(종로·중구·용산) 구인",
-      "boardUrl": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "특수교육대상학생 활동지원 인력",
-      "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:jbedu:3357",
-      "schoolId": "sen-7061067",
-      "schoolName": "서울봉래초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 중부(종로·중구·용산) 구인",
-      "boardUrl": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "초1 음악놀이강사",
-      "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
       "id": "seoul:gsycedu:15069",
       "schoolId": "sen-7081438",
       "schoolName": "서울목동초등학교",
@@ -722,6 +722,18 @@
       "deadline": null,
       "title": "여름방학 중 오전 오후 에듀케어 강사 및 대체강사 방학중 에듀케어 대체강사",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gnscedu:14208",
+      "schoolId": "sen-7091370",
+      "schoolName": "서울개일초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강남서초 구인",
+      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "노지영 (AI 교육 코디네이터)",
+      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:gnscedu:14206",

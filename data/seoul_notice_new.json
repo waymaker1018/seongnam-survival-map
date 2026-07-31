@@ -1,5 +1,42 @@
 {
-  "generatedAt": "2026-07-30T08:04:26.287Z",
-  "newCount": 0,
-  "items": []
+  "generatedAt": "2026-07-31T03:20:35.124Z",
+  "newCount": 3,
+  "items": [
+    {
+      "id": "seoul:dgedu:10184",
+      "schoolId": "sen-7132110",
+      "schoolName": "서울신우초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-08-06T00:00:00+09:00",
+      "title": "(서울신우초)2026학년도 방과후교실 개인위탁 외부강사(우쿨렐레&기타부) 채용 공고 (강사)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10183",
+      "schoolId": "sen-7132114",
+      "schoolName": "서울원신초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-08-10T00:00:00+09:00",
+      "title": "(서울원신초) 2026 아침양궁교실 실기강사 채용 공고 (강사)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gnscedu:14208",
+      "schoolId": "sen-7091370",
+      "schoolName": "서울개일초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강남서초 구인",
+      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "노지영 (AI 교육 코디네이터)",
+      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
+    }
+  ]
 }
