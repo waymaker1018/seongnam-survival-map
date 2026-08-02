@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T02:57:37.294Z",
+  "generatedAt": "2026-08-02T07:58:39.734Z",
   "lookbackDays": 14,
   "schoolCount": 73,
   "hitCount": 16,
@@ -38,6 +38,18 @@
     "디지털 새싹"
   ],
   "items": [
+    {
+      "id": "sangdaewon-e:sangdaewon-e:1946320",
+      "schoolId": "sangdaewon-e",
+      "schoolName": "상대원초등학교",
+      "schoolHomepage": "https://sangdaewon-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://sangdaewon-e.goesn.kr/sangdaewon-e/na/ntt/selectNttList.do?mi=12734&bbsId=11445&listCo=50&currPage=1",
+      "postedAt": "2026-07-30T15:00:00.000Z",
+      "deadline": null,
+      "title": "찾아오는 뮤지컬 및 연극 강사 채용 공고",
+      "url": "https://sangdaewon-e.goesn.kr/sangdaewon-e/na/ntt/selectNttInfo.do?mi=12734&bbsId=11445&nttSn=1946320"
+    },
     {
       "id": "office:goesn:1946321",
       "schoolId": null,
@@ -97,18 +109,6 @@
       "deadline": "2026-08-02T15:00:00.000Z",
       "title": "2026학년도 초1~2 맞춤형 프로그램 개인위탁 외부강사 공모",
       "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1946083"
-    },
-    {
-      "id": "snb-e:snb-e:1946090",
-      "schoolId": "snb-e",
-      "schoolName": "성남북초등학교",
-      "schoolHomepage": "https://snb-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://snb-e.goesn.kr/snb-e/na/ntt/selectNttList.do?mi=10653&bbsId=10283&listCo=50&currPage=1",
-      "postedAt": "2026-07-27T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026 방과후돌봄(구, 늘봄)학교 지원인력 채용 공고(한시적 기간제 근로자)",
-      "url": "https://snb-e.goesn.kr/snb-e/na/ntt/selectNttInfo.do?mi=10653&bbsId=10283&nttSn=1946090"
     },
     {
       "id": "geumbit-e:geumbit-e:1945994",
