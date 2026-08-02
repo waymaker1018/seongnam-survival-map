@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-01T07:56:47.141Z",
+  "generatedAt": "2026-08-02T02:57:37.294Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 17,
+  "hitCount": 16,
   "keywords": [
     "AI",
     "인공지능",
@@ -38,18 +38,6 @@
     "디지털 새싹"
   ],
   "items": [
-    {
-      "id": "sangdaewon-e:sangdaewon-e:1946320",
-      "schoolId": "sangdaewon-e",
-      "schoolName": "상대원초등학교",
-      "schoolHomepage": "https://sangdaewon-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://sangdaewon-e.goesn.kr/sangdaewon-e/na/ntt/selectNttList.do?mi=12734&bbsId=11445&listCo=50&currPage=1",
-      "postedAt": "2026-07-30T15:00:00.000Z",
-      "deadline": null,
-      "title": "찾아오는 뮤지컬 및 연극 강사 채용 공고",
-      "url": "https://sangdaewon-e.goesn.kr/sangdaewon-e/na/ntt/selectNttInfo.do?mi=12734&bbsId=11445&nttSn=1946320"
-    },
     {
       "id": "office:goesn:1946321",
       "schoolId": null,

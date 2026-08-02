@@ -1,32 +1,8 @@
 {
-  "generatedAt": "2026-08-01T08:02:16.478Z",
-  "hitCount": 73,
+  "generatedAt": "2026-08-02T02:59:22.741Z",
+  "hitCount": 71,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:dgedu:10128",
-      "schoolId": null,
-      "schoolName": "서울문창초등학교병설유치원",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-08-01T00:00:00+09:00",
-      "title": "(서울문창병유)2026학년도 여름방학 특수학급 방과후과정 대체강사 채용공고",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:dgedu:10127",
-      "schoolId": null,
-      "schoolName": "서울남성초등학교병설유치원",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-08-01T00:00:00+09:00",
-      "title": "(남성병유) 여름방학 에듀케어 대체강사 채용 공고(오전 근무)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:dgedu:10136",
       "schoolId": null,
