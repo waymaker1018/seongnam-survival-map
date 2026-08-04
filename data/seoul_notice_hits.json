@@ -1,20 +1,8 @@
 {
-  "generatedAt": "2026-08-03T08:56:12.424Z",
-  "hitCount": 71,
+  "generatedAt": "2026-08-04T02:45:12.687Z",
+  "hitCount": 70,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:dgedu:10136",
-      "schoolId": null,
-      "schoolName": "흑석초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-08-03T00:00:00+09:00",
-      "title": "(흑석초) 2026학년도 돌봄교실 창의보드 프로그램 강사 채용 (강사)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:nbedu:11300",
       "schoolId": "sen-7041107",

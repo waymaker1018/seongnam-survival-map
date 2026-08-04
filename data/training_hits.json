@@ -1,8 +1,16 @@
 {
-  "generatedAt": "2026-08-03T08:55:59.729Z",
+  "generatedAt": "2026-08-04T02:44:57.789Z",
   "hitCount": 6,
   "errors": [],
   "items": [
+    {
+      "id": "dtjob:https://www.gpoe.kr/gpoe/na/ntt/selectNttInfo.do?mi=9229&bbsId=5153&nttSn=1134478",
+      "source": "전국 디지털튜터 채용",
+      "title": "[경기도 · 양곡고등학교] [경기 김포] 양곡고등학교 AI 코디네이터 채용공고(~8.07 / 17:00) (2명)",
+      "postedAt": "2026-08-04T00:00:00+09:00",
+      "deadline": "2026-08-07T00:00:00+09:00",
+      "url": "https://www.gpoe.kr/gpoe/na/ntt/selectNttInfo.do?mi=9229&bbsId=5153&nttSn=1134478"
+    },
     {
       "id": "dtjob:https://www.goe.go.kr/recruit/ad/func/pb/hnfpPbancInfoView.do?pbancSn=54360&mi=10502",
       "source": "전국 디지털튜터 채용",
@@ -42,14 +50,6 @@
       "postedAt": "2026-07-24T00:00:00+09:00",
       "deadline": "2026-07-27T00:00:00+09:00",
       "url": "https://www.goe.go.kr/recruit/ad/func/pb/hnfpPbancInfoView.do?pbancSn=54145&mi=10502"
-    },
-    {
-      "id": "dtjob:https://hwado-m.goehs.kr/hwado-m/na/ntt/selectNttList.do?mi=16056&bbsId=8804",
-      "source": "전국 디지털튜터 채용",
-      "title": "[경기도 · 화도중학교] 2026년도 2학기 화도중학교 디지털튜터 채용 공고 (1명)",
-      "postedAt": "2026-07-21T00:00:00+09:00",
-      "deadline": "2026-07-30T00:00:00+09:00",
-      "url": "https://hwado-m.goehs.kr/hwado-m/na/ntt/selectNttList.do?mi=16056&bbsId=8804"
     }
   ]
 }
