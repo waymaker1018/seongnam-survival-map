@@ -1,20 +1,8 @@
 {
-  "generatedAt": "2026-08-04T08:14:05.168Z",
+  "generatedAt": "2026-08-05T02:42:47.362Z",
   "hitCount": 70,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:nbedu:11300",
-      "schoolId": "sen-7041107",
-      "schoolName": "서울구로남초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-08-04T00:00:00+09:00",
-      "title": "(서울구로남초등학교) 2026학년도 심화한국어강사 채용 재공고 (시간강사)",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:dgedu:10184",
       "schoolId": "sen-7132110",
@@ -26,6 +14,18 @@
       "deadline": "2026-08-06T00:00:00+09:00",
       "title": "(서울신우초)2026학년도 방과후교실 개인위탁 외부강사(우쿨렐레&기타부) 채용 공고 (강사)",
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:nbedu:11303",
+      "schoolId": "sen-7041107",
+      "schoolName": "서울구로남초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-08-10T00:00:00+09:00",
+      "title": "(서울구로남초) 2026학년도 학습지원 튜터 채용 공고 (시간강사)",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:dgedu:10183",
@@ -376,6 +376,18 @@
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:gsycedu:15071",
+      "schoolId": "sen-7081458",
+      "schoolName": "서울양강초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "이중언어강사(중국어)",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:gsycedu:15069",
       "schoolId": "sen-7081438",
       "schoolName": "서울목동초등학교",
@@ -673,18 +685,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "여름방학 방과후 과정 보조인력 여름방학 방과후 과정 보조인력",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:14984",
-      "schoolId": null,
-      "schoolName": "내발산초등학교병설유치원",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "여름방학 중 오전 오후 에듀케어 강사 및 대체강사 방학중 에듀케어 대체강사",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
