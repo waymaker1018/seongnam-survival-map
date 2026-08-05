@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-05T02:42:47.362Z",
-  "hitCount": 70,
+  "generatedAt": "2026-08-05T08:12:31.604Z",
+  "hitCount": 71,
   "errors": [],
   "items": [
     {
@@ -74,6 +74,18 @@
       "deadline": "2027-02-28T00:00:00+09:00",
       "title": "현장체험학습 보조인력",
       "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:jbedu:3422",
+      "schoolId": "sen-7061068",
+      "schoolName": "서울삼광초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 중부(종로·중구·용산) 구인",
+      "boardUrl": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "초등담임교사 또는 교과전담교사",
+      "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:jbedu:3419",
@@ -361,18 +373,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "한국어 교과",
-      "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:jbedu:3359",
-      "schoolId": null,
-      "schoolName": "서울혜화초등학교병설유치원",
-      "schoolHomepage": null,
-      "boardLabel": "서울 중부(종로·중구·용산) 구인",
-      "boardUrl": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "방과후과정반 육아시간 대체강사",
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
@@ -686,6 +686,18 @@
       "deadline": null,
       "title": "여름방학 방과후 과정 보조인력 여름방학 방과후 과정 보조인력",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gnscedu:14210",
+      "schoolId": "sen-7091400",
+      "schoolName": "서울신중초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강남서초 구인",
+      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "허정민 (돌봄교실 독서하브루타 강사)",
+      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:gnscedu:14208",
