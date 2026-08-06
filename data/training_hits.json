@@ -1,7 +1,13 @@
 {
-  "generatedAt": "2026-08-06T02:45:16.268Z",
-  "hitCount": 5,
-  "errors": [],
+  "generatedAt": "2026-08-06T08:11:21.351Z",
+  "hitCount": 4,
+  "errors": [
+    "교육부 공고 1p: fetch failed",
+    "교육부 공고 2p: fetch failed",
+    "교육부 공고 3p: fetch failed",
+    "교육부 공고 4p: fetch failed",
+    "교육부 공고 5p: fetch failed"
+  ],
   "items": [
     {
       "id": "dtjob:https://www.gpoe.kr/gpoe/na/ntt/selectNttInfo.do?mi=9229&bbsId=5153&nttSn=1134478",
@@ -34,14 +40,6 @@
       "postedAt": "2026-07-27T00:00:00+09:00",
       "deadline": "2026-07-29T00:00:00+09:00",
       "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?mi=23603&bbsId=17872&nttSn=1945838"
-    },
-    {
-      "id": "dtjob:https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?mi=23603&bbsId=17872&nttSn=1945811",
-      "source": "전국 디지털튜터 채용",
-      "title": "[경기도 · 이매초등학교] 2026년도 이매초등학교 AI교육 코디네이터 공고 (1명)",
-      "postedAt": "2026-07-24T00:00:00+09:00",
-      "deadline": "2026-07-31T00:00:00+09:00",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?mi=23603&bbsId=17872&nttSn=1945811"
     }
   ]
 }

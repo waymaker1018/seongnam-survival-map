@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T02:45:29.852Z",
+  "generatedAt": "2026-08-06T08:15:59.324Z",
   "hitCount": 72,
   "errors": [],
   "items": [
@@ -37,6 +37,18 @@
       "postedAt": null,
       "deadline": "2026-08-10T00:00:00+09:00",
       "title": "(서울원신초) 2026 아침양궁교실 실기강사 채용 공고 (강사)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10196",
+      "schoolId": "sen-7132112",
+      "schoolName": "서울영화초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-08-11T00:00:00+09:00",
+      "title": "(서울영화초) 학습지원튜터 (기타)",
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
@@ -353,18 +365,6 @@
     },
     {
       "id": "seoul:jbedu:3362",
-      "schoolId": "sen-7061078",
-      "schoolName": "서울장충초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 중부(종로·중구·용산) 구인",
-      "boardUrl": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "한국어 교과",
-      "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:jbedu:3360",
       "schoolId": "sen-7061078",
       "schoolName": "서울장충초등학교",
       "schoolHomepage": null,
