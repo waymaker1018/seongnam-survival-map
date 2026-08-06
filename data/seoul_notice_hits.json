@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-05T08:12:31.604Z",
-  "hitCount": 71,
+  "generatedAt": "2026-08-06T02:45:29.852Z",
+  "hitCount": 72,
   "errors": [],
   "items": [
     {
@@ -376,6 +376,30 @@
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:gsycedu:15074",
+      "schoolId": "sen-7081419",
+      "schoolName": "서울가양초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "특수학급 방과후학교 강사(체육활동부)",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gsycedu:15073",
+      "schoolId": "sen-7081423",
+      "schoolName": "서울강월초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "학습지원 튜터",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:gsycedu:15071",
       "schoolId": "sen-7081458",
       "schoolName": "서울양강초등학교",
@@ -673,18 +697,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "서울특별시강서양천교육지원청 2026년 3차 지방공무원 대체직원 채용지원 학교별 중간 응시현황 공개",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:14992",
-      "schoolId": null,
-      "schoolName": "서울염경초등학교병설유치원",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "여름방학 방과후 과정 보조인력 여름방학 방과후 과정 보조인력",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {

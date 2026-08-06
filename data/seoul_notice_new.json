@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2026-08-05T08:12:31.604Z",
+  "generatedAt": "2026-08-06T02:45:29.852Z",
   "newCount": 2,
   "items": [
     {
-      "id": "seoul:jbedu:3422",
-      "schoolId": "sen-7061068",
-      "schoolName": "서울삼광초등학교",
+      "id": "seoul:gsycedu:15074",
+      "schoolId": "sen-7081419",
+      "schoolName": "서울가양초등학교",
       "schoolHomepage": null,
-      "boardLabel": "서울 중부(종로·중구·용산) 구인",
-      "boardUrl": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
       "deadline": null,
-      "title": "초등담임교사 또는 교과전담교사",
-      "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
+      "title": "특수학급 방과후학교 강사(체육활동부)",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
-      "id": "seoul:gnscedu:14210",
-      "schoolId": "sen-7091400",
-      "schoolName": "서울신중초등학교",
+      "id": "seoul:gsycedu:15073",
+      "schoolId": "sen-7081423",
+      "schoolName": "서울강월초등학교",
       "schoolHomepage": null,
-      "boardLabel": "서울 강남서초 구인",
-      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
       "deadline": null,
-      "title": "허정민 (돌봄교실 독서하브루타 강사)",
-      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
+      "title": "학습지원 튜터",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
 }
