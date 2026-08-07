@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-07T02:45:54.305Z",
+  "generatedAt": "2026-08-07T06:56:08.143Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 12,
+  "hitCount": 11,
   "keywords": [
     "AI",
     "인공지능",
@@ -109,18 +109,6 @@
       "deadline": null,
       "title": "초1~2 맞춤형 보조강사 추가 모집 공고",
       "url": "https://buljung-e.goesn.kr/buljung-e/na/ntt/selectNttInfo.do?mi=12636&bbsId=11390&nttSn=1946441"
-    },
-    {
-      "id": "office:goesn:1946443",
-      "schoolId": null,
-      "schoolName": "성남교육지원청 구인",
-      "schoolHomepage": "https://www.goesn.kr",
-      "boardLabel": "성남교육지원청 구인",
-      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
-      "postedAt": "2026-08-02T15:00:00.000Z",
-      "deadline": "2026-08-09T15:00:00.000Z",
-      "title": "초1~2 맞춤형 보조강사 추가 모집 공고",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1946443"
     },
     {
       "id": "sangdaewon-e:sangdaewon-e:1946320",
