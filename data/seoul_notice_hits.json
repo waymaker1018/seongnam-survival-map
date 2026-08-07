@@ -1,20 +1,8 @@
 {
-  "generatedAt": "2026-08-06T08:15:59.324Z",
-  "hitCount": 72,
+  "generatedAt": "2026-08-07T02:47:05.119Z",
+  "hitCount": 71,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:dgedu:10184",
-      "schoolId": "sen-7132110",
-      "schoolName": "서울신우초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-08-06T00:00:00+09:00",
-      "title": "(서울신우초)2026학년도 방과후교실 개인위탁 외부강사(우쿨렐레&기타부) 채용 공고 (강사)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:nbedu:11303",
       "schoolId": "sen-7041107",

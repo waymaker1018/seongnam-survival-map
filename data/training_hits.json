@@ -1,13 +1,7 @@
 {
-  "generatedAt": "2026-08-06T08:11:21.351Z",
+  "generatedAt": "2026-08-07T02:46:47.471Z",
   "hitCount": 4,
-  "errors": [
-    "교육부 공고 1p: fetch failed",
-    "교육부 공고 2p: fetch failed",
-    "교육부 공고 3p: fetch failed",
-    "교육부 공고 4p: fetch failed",
-    "교육부 공고 5p: fetch failed"
-  ],
+  "errors": [],
   "items": [
     {
       "id": "dtjob:https://www.gpoe.kr/gpoe/na/ntt/selectNttInfo.do?mi=9229&bbsId=5153&nttSn=1134478",

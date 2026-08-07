@@ -1,18 +1,5 @@
 {
-  "generatedAt": "2026-08-06T08:15:59.324Z",
-  "newCount": 1,
-  "items": [
-    {
-      "id": "seoul:dgedu:10196",
-      "schoolId": "sen-7132112",
-      "schoolName": "서울영화초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-08-11T00:00:00+09:00",
-      "title": "(서울영화초) 학습지원튜터 (기타)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    }
-  ]
+  "generatedAt": "2026-08-07T02:47:05.119Z",
+  "newCount": 0,
+  "items": []
 }
