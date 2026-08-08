@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-07T06:56:08.143Z",
+  "generatedAt": "2026-08-08T01:46:43.004Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 11,
+  "hitCount": 10,
   "keywords": [
     "AI",
     "인공지능",
@@ -157,18 +157,6 @@
       "deadline": null,
       "title": "벌말초등학교 농구부 여름캠프 안내 및 학생선수 모집",
       "url": "https://geumbit-e.goesn.kr/geumbit-e/na/ntt/selectNttInfo.do?mi=11068&bbsId=10530&nttSn=1945994"
-    },
-    {
-      "id": "bokjeong-e:bokjeong-e:1945874",
-      "schoolId": "bokjeong-e",
-      "schoolName": "복정초등학교",
-      "schoolHomepage": "https://bokjeong-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://bokjeong-e.goesn.kr/bokjeong-e/na/ntt/selectNttList.do?mi=12508&bbsId=11334&listCo=50&currPage=1",
-      "postedAt": "2026-07-24T15:00:00.000Z",
-      "deadline": null,
-      "title": "복정초병설유치원 여름방학 중 방과후과정 운영을 위한 방과후전담사 대체인력 채용 재공고",
-      "url": "https://bokjeong-e.goesn.kr/bokjeong-e/na/ntt/selectNttInfo.do?mi=12508&bbsId=11334&nttSn=1945874"
     }
   ]
 }
