@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-08T01:47:53.587Z",
-  "hitCount": 72,
+  "generatedAt": "2026-08-08T06:30:21.114Z",
+  "hitCount": 73,
   "errors": [],
   "items": [
     {
@@ -50,6 +50,18 @@
       "deadline": "2026-08-13T00:00:00+09:00",
       "title": "(서울고척초)2026 방과후(창의클레이아트_화요일) 개인위탁 외부강사 모집 공고",
       "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gdspedu:8286",
+      "schoolId": null,
+      "schoolName": "서울잠현초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강동송파 구인",
+      "boardUrl": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-08-13T00:00:00+09:00",
+      "title": "장애학생도우미 (시간제)",
+      "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:dgedu:10166",
