@@ -1,18 +1,5 @@
 {
-  "generatedAt": "2026-08-08T06:30:21.114Z",
-  "newCount": 1,
-  "items": [
-    {
-      "id": "seoul:gdspedu:8286",
-      "schoolId": null,
-      "schoolName": "서울잠현초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강동송파 구인",
-      "boardUrl": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-08-13T00:00:00+09:00",
-      "title": "장애학생도우미 (시간제)",
-      "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
-    }
-  ]
+  "generatedAt": "2026-08-09T01:54:48.145Z",
+  "newCount": 0,
+  "items": []
 }
