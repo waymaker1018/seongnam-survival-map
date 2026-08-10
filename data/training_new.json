@@ -1,5 +1,14 @@
 {
-  "generatedAt": "2026-08-09T06:34:43.732Z",
-  "newCount": 0,
-  "items": []
+  "generatedAt": "2026-08-10T01:58:53.745Z",
+  "newCount": 1,
+  "items": [
+    {
+      "id": "dtjob:https://sorae-m.goesh.kr/sorae-m/na/ntt/selectNttInfo.do?mi=3598&bbsId=2440&nttSn=526886",
+      "source": "전국 디지털튜터 채용",
+      "title": "[경기도 · 소래중학교] 2026학년도 소래중 디지털 튜터 채용 공고 (1명)",
+      "postedAt": "2026-08-10T00:00:00+09:00",
+      "deadline": "2026-08-13T00:00:00+09:00",
+      "url": "https://sorae-m.goesh.kr/sorae-m/na/ntt/selectNttInfo.do?mi=3598&bbsId=2440&nttSn=526886"
+    }
+  ]
 }
