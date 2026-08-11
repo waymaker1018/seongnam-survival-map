@@ -1,54 +1,30 @@
 {
-  "generatedAt": "2026-08-11T01:59:03.643Z",
-  "newCount": 4,
+  "generatedAt": "2026-08-11T06:47:40.893Z",
+  "newCount": 2,
   "items": [
     {
-      "id": "seoul:dgedu:10205",
-      "schoolId": "sen-7132096",
-      "schoolName": "서울본동초등학교",
+      "id": "seoul:dgedu:10209",
+      "schoolId": "sen-7132089",
+      "schoolName": "서울노량진초등학교",
       "schoolHomepage": null,
       "boardLabel": "서울 동작관악 구인",
       "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
-      "deadline": "2026-08-18T00:00:00+09:00",
-      "title": "(본동초)2026학년도 방과후교실(바이올린) 외부강사 모집 공고 (기타)",
+      "deadline": "2026-08-19T00:00:00+09:00",
+      "title": "(노량진초) 학생 동아리 강사 채용 공고 (강사)",
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
-      "id": "seoul:gsycedu:15081",
-      "schoolId": "sen-7081440",
-      "schoolName": "서울목원초등학교",
+      "id": "seoul:gsycedu:15083",
+      "schoolId": "sen-7081418",
+      "schoolName": "서울가곡초등학교",
       "schoolHomepage": null,
       "boardLabel": "서울 강서양천 구인",
       "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
       "deadline": null,
-      "title": "AI 협력강사",
+      "title": "체육신체활동",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gnscedu:14223",
-      "schoolId": null,
-      "schoolName": "언주초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강남서초 구인",
-      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "박윤미 (기간제 돌봄전담사(전일제))",
-      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gnscedu:14222",
-      "schoolId": null,
-      "schoolName": "언주초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강남서초 구인",
-      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "박윤미 (기간제 돌봄 전담사(시간제))",
-      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
 }

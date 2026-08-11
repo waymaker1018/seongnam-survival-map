@@ -1,30 +1,5 @@
 {
-  "generatedAt": "2026-08-11T01:53:24.830Z",
-  "newCount": 2,
-  "items": [
-    {
-      "id": "sangtap-e:sangtap-e:1947154",
-      "schoolId": "sangtap-e",
-      "schoolName": "상탑초등학교",
-      "schoolHomepage": "https://sangtap-e.goesn.kr",
-      "boardLabel": "선택형 돌봄(돌봄교실)",
-      "boardUrl": "https://sangtap-e.goesn.kr/sangtap-e/na/ntt/selectNttList.do?mi=25581&bbsId=19795&listCo=50&currPage=1",
-      "postedAt": "2026-08-10T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026학년도 상탑초등학교 초등 돌봄교실 특기 적성 강사 채용 공고",
-      "url": "https://sangtap-e.goesn.kr/sangtap-e/na/ntt/selectNttInfo.do?mi=25581&bbsId=19795&nttSn=1947154"
-    },
-    {
-      "id": "office:goesn:1947155",
-      "schoolId": null,
-      "schoolName": "성남교육지원청 구인",
-      "schoolHomepage": "https://www.goesn.kr",
-      "boardLabel": "성남교육지원청 구인",
-      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
-      "postedAt": "2026-08-10T15:00:00.000Z",
-      "deadline": "2026-08-17T15:00:00.000Z",
-      "title": "상탑초등학교 초등 돌봄교실 특기 적성 강사 채용 공고(첨부파일 확인)",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1947155"
-    }
-  ]
+  "generatedAt": "2026-08-11T06:41:45.516Z",
+  "newCount": 0,
+  "items": []
 }

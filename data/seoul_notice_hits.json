@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T01:59:03.643Z",
+  "generatedAt": "2026-08-11T06:47:40.893Z",
   "hitCount": 73,
   "errors": [],
   "items": [
@@ -85,6 +85,18 @@
       "postedAt": null,
       "deadline": "2026-08-18T00:00:00+09:00",
       "title": "서울미성초등학교 탁구부 운동부지도자(전임코치) 채용 공고 (기타)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10209",
+      "schoolId": "sen-7132089",
+      "schoolName": "서울노량진초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-08-19T00:00:00+09:00",
+      "title": "(노량진초) 학생 동아리 강사 채용 공고 (강사)",
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
@@ -364,16 +376,16 @@
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
-      "id": "seoul:jbedu:3366",
-      "schoolId": "sen-7061070",
-      "schoolName": "서울세검정초등학교",
+      "id": "seoul:gsycedu:15083",
+      "schoolId": "sen-7081418",
+      "schoolName": "서울가곡초등학교",
       "schoolHomepage": null,
-      "boardLabel": "서울 중부(종로·중구·용산) 구인",
-      "boardUrl": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
       "deadline": null,
-      "title": "바이올린",
-      "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
+      "title": "체육신체활동",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:gsycedu:15081",
@@ -673,18 +685,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "방과후 과정 대체강사",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15004",
-      "schoolId": "sen-7081468",
-      "schoolName": "서울염창초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "신체활동 기반 인성교육",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
