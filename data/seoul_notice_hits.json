@@ -1,20 +1,8 @@
 {
-  "generatedAt": "2026-08-11T06:47:40.893Z",
-  "hitCount": 73,
+  "generatedAt": "2026-08-12T02:07:40.315Z",
+  "hitCount": 75,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:dgedu:10196",
-      "schoolId": "sen-7132112",
-      "schoolName": "서울영화초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-08-11T00:00:00+09:00",
-      "title": "(서울영화초) 학습지원튜터 (기타)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:nbedu:11304",
       "schoolId": "sen-7041106",
@@ -110,6 +98,30 @@
       "deadline": "2026-09-10T00:00:00+09:00",
       "title": "AI디지털 교육 협력강사",
       "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:sbgbedu:3042",
+      "schoolId": null,
+      "schoolName": "test",
+      "schoolHomepage": null,
+      "boardLabel": "서울 성북강북 구인",
+      "boardUrl": "https://sbgbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-09-12T00:00:00+09:00",
+      "title": "test",
+      "url": "https://sbgbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10211",
+      "schoolId": "sen-7132113",
+      "schoolName": "서울원당초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-09-18T00:00:00+09:00",
+      "title": "(서울원당초)학습지원 튜터 채용공고",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:gdspedu:8079",
@@ -374,6 +386,30 @@
       "deadline": null,
       "title": "교육과정 보조인력",
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gsycedu:15085",
+      "schoolId": "sen-7081434",
+      "schoolName": "서울등양초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "AI교육 코디네이터",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gsycedu:15084",
+      "schoolId": "sen-7081437",
+      "schoolName": "서울등현초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "시간제돌봄전담사",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:gsycedu:15083",
@@ -673,18 +709,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "방학중 에듀케어 대체강사 방학중 에듀케어 대체강사",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15007",
-      "schoolId": null,
-      "schoolName": "서울탑산초등학교병설유치원",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "방과후 과정 대체강사",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
