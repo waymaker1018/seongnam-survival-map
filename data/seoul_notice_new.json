@@ -1,54 +1,42 @@
 {
-  "generatedAt": "2026-08-12T07:03:25.601Z",
-  "newCount": 4,
+  "generatedAt": "2026-08-13T02:09:42.995Z",
+  "newCount": 3,
   "items": [
     {
-      "id": "seoul:gdspedu:8294",
-      "schoolId": "sen-7130102",
-      "schoolName": "서울가락초등학교",
+      "id": "seoul:nbedu:11319",
+      "schoolId": "sen-7041160",
+      "schoolName": "서울정심초등학교",
       "schoolHomepage": null,
-      "boardLabel": "서울 강동송파 구인",
-      "boardUrl": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-08-18T00:00:00+09:00",
-      "title": "3학년 담임 (기간제)",
-      "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:sbedu:5582",
-      "schoolId": "sen-7031141",
-      "schoolName": "서울신도초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
-      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
       "deadline": "2026-08-19T00:00:00+09:00",
-      "title": "문화예술 협력강사(무용) (시간제)",
-      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
+      "title": "(정심초)2026 학습지원 튜터 모집 공고 (기타)",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
-      "id": "seoul:gsycedu:15087",
-      "schoolId": "sen-7081434",
-      "schoolName": "서울등양초등학교",
+      "id": "seoul:gsycedu:15090",
+      "schoolId": "sen-7081437",
+      "schoolName": "서울등현초등학교",
       "schoolHomepage": null,
       "boardLabel": "서울 강서양천 구인",
       "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
       "deadline": null,
-      "title": "학교특색교육활동무용",
+      "title": "초등돌봄교실 단체활동강사 채용 하브루타",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
-      "id": "seoul:gnscedu:14225",
+      "id": "seoul:gsycedu:15089",
       "schoolId": null,
-      "schoolName": "밀알학교",
+      "schoolName": "학교통합지원과",
       "schoolHomepage": null,
-      "boardLabel": "서울 강남서초 구인",
-      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
       "deadline": null,
-      "title": "늘봄학교 강사 김효중 (늘봄학교 맞춤형 교실 강사(특수체육,예술신체놀이))",
-      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
+      "title": "[서울특별시강서양천교육지원청] 관내 공립 유·초·중학교 교육공무직원 대체직원 채용계획 공고",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
 }
