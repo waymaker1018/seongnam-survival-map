@@ -1,54 +1,54 @@
 {
-  "generatedAt": "2026-08-13T07:07:30.990Z",
+  "generatedAt": "2026-08-14T02:07:51.607Z",
   "newCount": 4,
   "items": [
     {
-      "id": "seoul:nbedu:11323",
+      "id": "seoul:nbedu:11327",
       "schoolId": null,
-      "schoolName": "대영초·신흥초·영동초(서울남부교육지원청 학교통합지원과)",
+      "schoolName": "천왕초·천왕중(서울남부교육지원청 학교통합지원과)",
       "schoolHomepage": null,
       "boardLabel": "서울 남부(영등포·구로·금천) 구인",
       "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
       "deadline": "2026-08-18T00:00:00+09:00",
-      "title": "대영초·신흥초·영동초 사서 대체직원 채용계획 공고 (기타)",
+      "title": "천왕초·천왕중 지역사회교육전문가 대체직원 채용계획 공고",
       "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
-      "id": "seoul:gdspedu:8295",
-      "schoolId": "sen-7130149",
-      "schoolName": "서울위례초등학교",
+      "id": "seoul:dgedu:10216",
+      "schoolId": "sen-7132087",
+      "schoolName": "서울남사초등학교",
       "schoolHomepage": null,
-      "boardLabel": "서울 강동송파 구인",
-      "boardUrl": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do",
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
-      "deadline": "2026-08-18T00:00:00+09:00",
-      "title": "AI교육 코디네이터 (시간제)",
-      "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
+      "deadline": "2026-08-21T00:00:00+09:00",
+      "title": "[남사초]2026학년도 초등돌봄교실(시간제)대체 채용 공고 (기타)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
-      "id": "seoul:nbedu:11321",
-      "schoolId": null,
-      "schoolName": "고산초·신도림초·여의도초·오류남초·탑동초(서울남부교육지원청 학교통합지원과)",
+      "id": "seoul:dgedu:10215",
+      "schoolId": "sen-7132081",
+      "schoolName": "서울관악초등학교",
       "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
-      "deadline": "2026-09-13T00:00:00+09:00",
-      "title": "고산초·신도림초·여의도초·오류남초·탑동초 돌봄전담사(시간제) 대체직원 채용계획 공고",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+      "deadline": "2026-09-14T00:00:00+09:00",
+      "title": "2026학년도 서울관악초 기초학력 협력강사 채용 공고 (강사)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
-      "id": "seoul:gnscedu:14228",
-      "schoolId": "sen-7091384",
-      "schoolName": "서울매헌초등학교",
+      "id": "seoul:gsycedu:15094",
+      "schoolId": "sen-7081454",
+      "schoolName": "서울신서초등학교",
       "schoolHomepage": null,
-      "boardLabel": "서울 강남서초 구인",
-      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
       "deadline": null,
-      "title": "체육 권수진 (놀이체육강사)",
-      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
+      "title": "사서",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
 }

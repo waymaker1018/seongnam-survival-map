@@ -1,5 +1,22 @@
 {
-  "generatedAt": "2026-08-13T07:07:16.605Z",
-  "newCount": 0,
-  "items": []
+  "generatedAt": "2026-08-14T02:07:33.307Z",
+  "newCount": 2,
+  "items": [
+    {
+      "id": "dtjob:https://yangju-h.goedy.kr/yangju-h/na/ntt/selectNttInfo.do?mi=6395&bbsId=3641&nttSn=1680903",
+      "source": "전국 디지털튜터 채용",
+      "title": "[경기도 · 양주고등학교] 양주고등학교 AI교육 코디네이터 채용 공고 (1명)",
+      "postedAt": "2026-08-13T00:00:00+09:00",
+      "deadline": "2026-08-19T00:00:00+09:00",
+      "url": "https://yangju-h.goedy.kr/yangju-h/na/ntt/selectNttInfo.do?mi=6395&bbsId=3641&nttSn=1680903"
+    },
+    {
+      "id": "dtjob:https://ssgh-h.goesn.kr/ssgh-h/na/ntt/selectNttInfo.do?mi=17003&nttSn=1947465&bbsId=13863",
+      "source": "전국 디지털튜터 채용",
+      "title": "[경기도 · 숭신여자고등학교] [숭신고등학교] 2026년 AI교육 코디네이터 채용 공고 (1명)",
+      "postedAt": "2026-08-13T00:00:00+09:00",
+      "deadline": "2026-08-26T00:00:00+09:00",
+      "url": "https://ssgh-h.goesn.kr/ssgh-h/na/ntt/selectNttInfo.do?mi=17003&nttSn=1947465&bbsId=13863"
+    }
+  ]
 }
