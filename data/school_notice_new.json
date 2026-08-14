@@ -1,30 +1,5 @@
 {
-  "generatedAt": "2026-08-14T02:06:10.628Z",
-  "newCount": 2,
-  "items": [
-    {
-      "id": "office:goesn:1947613",
-      "schoolId": null,
-      "schoolName": "성남교육지원청 구인",
-      "schoolHomepage": "https://www.goesn.kr",
-      "boardLabel": "성남교육지원청 구인",
-      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
-      "postedAt": "2026-08-13T15:00:00.000Z",
-      "deadline": "2026-08-20T15:00:00.000Z",
-      "title": "시간강사 채용 공고문(3,4과학전담)",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1947613"
-    },
-    {
-      "id": "office:goesn:1947591",
-      "schoolId": null,
-      "schoolName": "성남교육지원청 구인",
-      "schoolHomepage": "https://www.goesn.kr",
-      "boardLabel": "성남교육지원청 구인",
-      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
-      "postedAt": "2026-08-13T15:00:00.000Z",
-      "deadline": "2026-08-18T15:00:00.000Z",
-      "title": "희망대초등학교 특수교육 협력강사 채용 공고",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1947591"
-    }
-  ]
+  "generatedAt": "2026-08-14T07:03:03.435Z",
+  "newCount": 0,
+  "items": []
 }

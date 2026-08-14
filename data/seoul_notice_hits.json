@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-14T02:07:51.607Z",
-  "hitCount": 84,
+  "generatedAt": "2026-08-14T07:04:26.513Z",
+  "hitCount": 86,
   "errors": [],
   "items": [
     {
@@ -133,6 +133,30 @@
       "postedAt": null,
       "deadline": "2026-08-19T00:00:00+09:00",
       "title": "(노량진초) 학생 동아리 강사 채용 공고 (강사)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:sbedu:5583",
+      "schoolId": "sen-7031115",
+      "schoolName": "서울구산초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
+      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-08-20T00:00:00+09:00",
+      "title": "1학년 케이팝댄스 (시간제)",
+      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10218",
+      "schoolId": "sen-7132094",
+      "schoolName": "서울미성초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-08-20T00:00:00+09:00",
+      "title": "2026학년도 AI교육 코디네이터 채용 공고 (강사)",
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
