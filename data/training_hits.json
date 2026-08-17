@@ -1,13 +1,7 @@
 {
-  "generatedAt": "2026-08-17T01:23:54.030Z",
+  "generatedAt": "2026-08-17T06:27:43.939Z",
   "hitCount": 3,
-  "errors": [
-    "교육부 공고 1p: fetch failed",
-    "교육부 공고 2p: fetch failed",
-    "교육부 공고 3p: fetch failed",
-    "교육부 공고 4p: fetch failed",
-    "교육부 공고 5p: fetch failed"
-  ],
+  "errors": [],
   "items": [
     {
       "id": "dtjob:https://yangju-h.goedy.kr/yangju-h/na/ntt/selectNttInfo.do?mi=6395&bbsId=3641&nttSn=1680903",
