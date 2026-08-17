@@ -1,20 +1,8 @@
 {
-  "generatedAt": "2026-08-16T06:24:00.371Z",
-  "hitCount": 86,
+  "generatedAt": "2026-08-17T01:28:31.648Z",
+  "hitCount": 85,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:dgedu:10166",
-      "schoolId": "sen-7132119",
-      "schoolName": "서울청룡초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-08-16T00:00:00+09:00",
-      "title": "(서울청룡초) 2학기 신체활동 협력강사 모집 (강사)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:dgedu:10201",
       "schoolId": "sen-7132089",

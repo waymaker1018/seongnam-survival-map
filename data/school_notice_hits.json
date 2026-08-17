@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-16T06:18:00.062Z",
+  "generatedAt": "2026-08-17T01:22:35.261Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 7,
+  "hitCount": 6,
   "keywords": [
     "AI",
     "인공지능",
@@ -109,18 +109,6 @@
       "deadline": null,
       "title": "2026학년도 늘푸른초등학교 코딩강사 채용공고",
       "url": "https://npr-e.goesn.kr/npr-e/na/ntt/selectNttInfo.do?mi=11517&bbsId=10776&nttSn=1946765"
-    },
-    {
-      "id": "buljung-e:buljung-e:1946441",
-      "schoolId": "buljung-e",
-      "schoolName": "불정초등학교",
-      "schoolHomepage": "https://buljung-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://buljung-e.goesn.kr/buljung-e/na/ntt/selectNttList.do?mi=12636&bbsId=11390&listCo=50&currPage=1",
-      "postedAt": "2026-08-02T15:00:00.000Z",
-      "deadline": null,
-      "title": "초1~2 맞춤형 보조강사 추가 모집 공고",
-      "url": "https://buljung-e.goesn.kr/buljung-e/na/ntt/selectNttInfo.do?mi=12636&bbsId=11390&nttSn=1946441"
     }
   ]
 }
