@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-18T01:20:49.462Z",
-  "hitCount": 86,
+  "generatedAt": "2026-08-18T06:21:45.284Z",
+  "hitCount": 89,
   "errors": [],
   "items": [
     {
@@ -136,6 +136,18 @@
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:sbedu:5584",
+      "schoolId": "sen-7031160",
+      "schoolName": "서울인왕초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
+      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-08-21T00:00:00+09:00",
+      "title": "코딩교육",
+      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:nbedu:11344",
       "schoolId": "sen-7041134",
       "schoolName": "서울세곡초등학교",
@@ -146,6 +158,18 @@
       "deadline": "2026-08-21T00:00:00+09:00",
       "title": "2026학년도 초등돌봄교실 (연극놀이) 개인위탁 외부강사 공모 (시간강사)",
       "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10222",
+      "schoolId": "sen-7132108",
+      "schoolName": "서울신상도초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-08-21T00:00:00+09:00",
+      "title": "(신상도초)돌봄전담사(시간제) 대체 기간제 직원 채용 공고(긴급) (기간제근로자)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:dgedu:10221",
@@ -242,6 +266,18 @@
       "deadline": "2027-02-28T00:00:00+09:00",
       "title": "현장체험학습 보조인력",
       "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:jbedu:3431",
+      "schoolId": null,
+      "schoolName": "한강중학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 중부(종로·중구·용산) 구인",
+      "boardUrl": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "수학",
+      "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:jbedu:3422",
@@ -472,16 +508,16 @@
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
-      "id": "seoul:jbedu:3367",
-      "schoolId": null,
-      "schoolName": "서울혜화초등학교병설유치원",
+      "id": "seoul:gsycedu:15097",
+      "schoolId": "sen-7081442",
+      "schoolName": "서울방화초등학교",
       "schoolHomepage": null,
-      "boardLabel": "서울 중부(종로·중구·용산) 구인",
-      "boardUrl": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
       "deadline": null,
-      "title": "교육과정 보조인력",
-      "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
+      "title": "학교 내 대안교실 지도 강사",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:gsycedu:15095",
