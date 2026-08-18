@@ -1,5 +1,30 @@
 {
-  "generatedAt": "2026-08-17T06:27:56.458Z",
-  "newCount": 0,
-  "items": []
+  "generatedAt": "2026-08-18T01:20:49.462Z",
+  "newCount": 2,
+  "items": [
+    {
+      "id": "seoul:nbedu:11344",
+      "schoolId": "sen-7041134",
+      "schoolName": "서울세곡초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-08-21T00:00:00+09:00",
+      "title": "2026학년도 초등돌봄교실 (연극놀이) 개인위탁 외부강사 공모 (시간강사)",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10221",
+      "schoolId": "sen-7132103",
+      "schoolName": "서울상현초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-08-21T00:00:00+09:00",
+      "title": "2026학년도 2학기 서울상현초등학교 통합교과 신체놀이 협력강사 모집 공고문 (강사)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    }
+  ]
 }

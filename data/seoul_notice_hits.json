@@ -1,20 +1,8 @@
 {
-  "generatedAt": "2026-08-17T06:27:56.458Z",
-  "hitCount": 85,
+  "generatedAt": "2026-08-18T01:20:49.462Z",
+  "hitCount": 86,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:dgedu:10201",
-      "schoolId": "sen-7132089",
-      "schoolName": "서울노량진초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-08-17T00:00:00+09:00",
-      "title": "(노량진초) AI·코딩 강사 채용 공고 (강사)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:nbedu:11327",
       "schoolId": null,
@@ -145,6 +133,30 @@
       "postedAt": null,
       "deadline": "2026-08-20T00:00:00+09:00",
       "title": "2026학년도 AI교육 코디네이터 채용 공고 (강사)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:nbedu:11344",
+      "schoolId": "sen-7041134",
+      "schoolName": "서울세곡초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-08-21T00:00:00+09:00",
+      "title": "2026학년도 초등돌봄교실 (연극놀이) 개인위탁 외부강사 공모 (시간강사)",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10221",
+      "schoolId": "sen-7132103",
+      "schoolName": "서울상현초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-08-21T00:00:00+09:00",
+      "title": "2026학년도 2학기 서울상현초등학교 통합교과 신체놀이 협력강사 모집 공고문 (강사)",
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
