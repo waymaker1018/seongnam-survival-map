@@ -1,42 +1,30 @@
 {
-  "generatedAt": "2026-08-19T01:22:43.325Z",
-  "newCount": 3,
+  "generatedAt": "2026-08-19T06:26:44.329Z",
+  "newCount": 2,
   "items": [
     {
-      "id": "seoul:gdspedu:8301",
-      "schoolId": "sen-7130102",
-      "schoolName": "서울가락초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강동송파 구인",
-      "boardUrl": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-08-21T00:00:00+09:00",
-      "title": "6학년 담임 (기간제)",
-      "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gdspedu:8300",
-      "schoolId": "sen-7130102",
-      "schoolName": "서울가락초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강동송파 구인",
-      "boardUrl": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-08-21T00:00:00+09:00",
-      "title": "2학년담임(방송업무 담당) (기간제)",
-      "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15098",
-      "schoolId": "sen-7081419",
-      "schoolName": "서울가양초등학교",
+      "id": "seoul:gsycedu:15099",
+      "schoolId": "sen-7081454",
+      "schoolName": "서울신서초등학교",
       "schoolHomepage": null,
       "boardLabel": "서울 강서양천 구인",
       "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
       "deadline": null,
-      "title": "특수학급 방과후학교 강사(체육활동부)",
+      "title": "시간제돌봄전담사 돌봄",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gnscedu:14234",
+      "schoolId": "sen-7091393",
+      "schoolName": "서울서원초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강남서초 구인",
+      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "장애아동학습도우미 임상민 (장애아동 학습도우미)",
+      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
 }

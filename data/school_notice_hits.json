@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-19T01:21:15.968Z",
+  "generatedAt": "2026-08-19T06:21:08.359Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 10,
+  "hitCount": 13,
   "keywords": [
     "AI",
     "인공지능",
@@ -38,6 +38,78 @@
     "디지털 새싹"
   ],
   "items": [
+    {
+      "id": "office:goesn:1948435",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-08-18T15:00:00.000Z",
+      "deadline": "2026-08-25T15:00:00.000Z",
+      "title": "성남여수초 문화예술협력강사(오카리나, 리코더, 단소, 난타) 채용 공고",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1948435"
+    },
+    {
+      "id": "office:goesn:1948410",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-08-18T15:00:00.000Z",
+      "deadline": "2026-08-25T15:00:00.000Z",
+      "title": "[위례한빛초] 2026학년 초1~2맞춤형 2학기 학습보조강사 채용 공고",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1948410"
+    },
+    {
+      "id": "office:goesn:1948290",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-08-18T15:00:00.000Z",
+      "deadline": "2026-08-23T15:00:00.000Z",
+      "title": "2026학년도 문화예술(오카리나) 프로그램 운영 강사 모집 공고",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1948290"
+    },
+    {
+      "id": "office:goesn:1948277",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-08-18T15:00:00.000Z",
+      "deadline": "2026-08-20T15:00:00.000Z",
+      "title": "태평초등학교 기간제교사(시간강사) 채용(교과전담)",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1948277"
+    },
+    {
+      "id": "snys-e:snys-e:1948429",
+      "schoolId": "snys-e",
+      "schoolName": "성남여수초등학교",
+      "schoolHomepage": "https://snys-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://snys-e.goesn.kr/snys-e/na/ntt/selectNttList.do?mi=13840&bbsId=12070&listCo=50&currPage=1",
+      "postedAt": "2026-08-18T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026학년도 2학기 성남여수초 1인 1악기(오카리나, 리코더, 단소, 난타) 협력 강사 채용 공고",
+      "url": "https://snys-e.goesn.kr/snys-e/na/ntt/selectNttInfo.do?mi=13840&bbsId=12070&nttSn=1948429"
+    },
+    {
+      "id": "whb-e:whb-e:1948417",
+      "schoolId": "whb-e",
+      "schoolName": "위례한빛초등학교",
+      "schoolHomepage": "https://whb-e.goesn.kr",
+      "boardLabel": "방과후 학교",
+      "boardUrl": "https://whb-e.goesn.kr/whb-e/na/ntt/selectNttList.do?mi=10952&bbsId=10456&listCo=50&currPage=1",
+      "postedAt": "2026-08-18T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026학년 방과후 돌봄 초1~2 맞춤형 2학기 학습보조강사 채용 공고",
+      "url": "https://whb-e.goesn.kr/whb-e/na/ntt/selectNttInfo.do?mi=10952&bbsId=10456&nttSn=1948417"
+    },
     {
       "id": "daeha-e:daeha-e:1947890",
       "schoolId": "daeha-e",
@@ -75,18 +147,6 @@
       "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1948148"
     },
     {
-      "id": "office:goesn:1948136",
-      "schoolId": null,
-      "schoolName": "성남교육지원청 구인",
-      "schoolHomepage": "https://www.goesn.kr",
-      "boardLabel": "성남교육지원청 구인",
-      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
-      "postedAt": "2026-08-17T15:00:00.000Z",
-      "deadline": "2026-08-20T15:00:00.000Z",
-      "title": "태평초등학교 기간제교사(시간강사) 채용(교과전담)",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1948136"
-    },
-    {
       "id": "office:goesn:1947902",
       "schoolId": null,
       "schoolName": "성남교육지원청 구인",
@@ -109,30 +169,6 @@
       "deadline": "2026-08-22T15:00:00.000Z",
       "title": "성남 금빛초등학교 문화예술프로그램 외부강사 채용 공고(5학년 단소)",
       "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1947886"
-    },
-    {
-      "id": "office:goesn:1947613",
-      "schoolId": null,
-      "schoolName": "성남교육지원청 구인",
-      "schoolHomepage": "https://www.goesn.kr",
-      "boardLabel": "성남교육지원청 구인",
-      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
-      "postedAt": "2026-08-13T15:00:00.000Z",
-      "deadline": "2026-08-20T15:00:00.000Z",
-      "title": "시간강사 채용 공고문(3,4과학전담)",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1947613"
-    },
-    {
-      "id": "office:goesn:1947591",
-      "schoolId": null,
-      "schoolName": "성남교육지원청 구인",
-      "schoolHomepage": "https://www.goesn.kr",
-      "boardLabel": "성남교육지원청 구인",
-      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
-      "postedAt": "2026-08-13T15:00:00.000Z",
-      "deadline": "2026-08-18T15:00:00.000Z",
-      "title": "희망대초등학교 특수교육 협력강사 채용 공고",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1947591"
     },
     {
       "id": "sangtap-e:sangtap-e:1947154",
