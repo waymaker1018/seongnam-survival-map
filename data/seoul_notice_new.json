@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2026-08-19T06:26:44.329Z",
+  "generatedAt": "2026-08-20T01:21:40.218Z",
   "newCount": 2,
   "items": [
     {
-      "id": "seoul:gsycedu:15099",
-      "schoolId": "sen-7081454",
-      "schoolName": "서울신서초등학교",
+      "id": "seoul:nbedu:11346",
+      "schoolId": "sen-7041151",
+      "schoolName": "서울영원초등학교",
       "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
-      "deadline": null,
-      "title": "시간제돌봄전담사 돌봄",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+      "deadline": "2026-08-21T00:00:00+09:00",
+      "title": "(영원초)2026학년도 2학기 체육협력강사(축구) 채용 공고",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
-      "id": "seoul:gnscedu:14234",
-      "schoolId": "sen-7091393",
-      "schoolName": "서울서원초등학교",
+      "id": "seoul:dgedu:10225",
+      "schoolId": "sen-7132118",
+      "schoolName": "서울조원초등학교",
       "schoolHomepage": null,
-      "boardLabel": "서울 강남서초 구인",
-      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
-      "deadline": null,
-      "title": "장애아동학습도우미 임상민 (장애아동 학습도우미)",
-      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
+      "deadline": "2026-08-26T00:00:00+09:00",
+      "title": "(서울조원초)2026학년도 4학년 협력강사 채용 공고 (강사)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-19T06:21:08.359Z",
+  "generatedAt": "2026-08-20T01:20:12.916Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 13,
+  "hitCount": 12,
   "keywords": [
     "AI",
     "인공지능",
@@ -181,18 +181,6 @@
       "deadline": null,
       "title": "2026학년도 상탑초등학교 초등 돌봄교실 특기 적성 강사 채용 공고",
       "url": "https://sangtap-e.goesn.kr/sangtap-e/na/ntt/selectNttInfo.do?mi=25581&bbsId=19795&nttSn=1947154"
-    },
-    {
-      "id": "npr-e:npr-e:1946765",
-      "schoolId": "npr-e",
-      "schoolName": "늘푸른초등학교",
-      "schoolHomepage": "https://npr-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://npr-e.goesn.kr/npr-e/na/ntt/selectNttList.do?mi=11517&bbsId=10776&listCo=50&currPage=1",
-      "postedAt": "2026-08-05T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026학년도 늘푸른초등학교 코딩강사 채용공고",
-      "url": "https://npr-e.goesn.kr/npr-e/na/ntt/selectNttInfo.do?mi=11517&bbsId=10776&nttSn=1946765"
     }
   ]
 }

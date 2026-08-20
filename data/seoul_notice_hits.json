@@ -1,44 +1,8 @@
 {
-  "generatedAt": "2026-08-19T06:26:44.329Z",
-  "hitCount": 87,
+  "generatedAt": "2026-08-20T01:21:40.218Z",
+  "hitCount": 86,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:sbedu:5582",
-      "schoolId": "sen-7031141",
-      "schoolName": "서울신도초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
-      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-08-19T00:00:00+09:00",
-      "title": "문화예술 협력강사(무용) (시간제)",
-      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:nbedu:11319",
-      "schoolId": "sen-7041160",
-      "schoolName": "서울정심초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-08-19T00:00:00+09:00",
-      "title": "(정심초)2026 학습지원 튜터 모집 공고 (기타)",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:dgedu:10209",
-      "schoolId": "sen-7132089",
-      "schoolName": "서울노량진초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-08-19T00:00:00+09:00",
-      "title": "(노량진초) 학생 동아리 강사 채용 공고 (강사)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:sbedu:5583",
       "schoolId": "sen-7031115",
@@ -74,6 +38,18 @@
       "deadline": "2026-08-21T00:00:00+09:00",
       "title": "코딩교육",
       "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:nbedu:11346",
+      "schoolId": "sen-7041151",
+      "schoolName": "서울영원초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-08-21T00:00:00+09:00",
+      "title": "(영원초)2026학년도 2학기 체육협력강사(축구) 채용 공고",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:nbedu:11344",
@@ -145,6 +121,18 @@
       "postedAt": null,
       "deadline": "2026-08-21T00:00:00+09:00",
       "title": "[남사초]2026학년도 초등돌봄교실(시간제)대체 채용 공고 (기타)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10225",
+      "schoolId": "sen-7132118",
+      "schoolName": "서울조원초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-08-26T00:00:00+09:00",
+      "title": "(서울조원초)2026학년도 4학년 협력강사 채용 공고 (강사)",
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
