@@ -1,8 +1,16 @@
 {
-  "generatedAt": "2026-08-20T01:21:25.296Z",
-  "hitCount": 2,
+  "generatedAt": "2026-08-20T06:22:53.974Z",
+  "hitCount": 3,
   "errors": [],
   "items": [
+    {
+      "id": "dtjob:https://icheonhs.goeic.kr/icheonhs/na/ntt/selectNttInfo.do?mi=1560&nttSn=511678&bbsId=1276",
+      "source": "전국 디지털튜터 채용",
+      "title": "[경기도 · 이천고등학교] 이천고등학교 AI교육 코디네이터 채용공고 (1명)",
+      "postedAt": "2026-08-20T00:00:00+09:00",
+      "deadline": "2026-08-26T00:00:00+09:00",
+      "url": "https://icheonhs.goeic.kr/icheonhs/na/ntt/selectNttInfo.do?mi=1560&nttSn=511678&bbsId=1276"
+    },
     {
       "id": "dtjob:https://sirang-e.goeas.kr/sirang-e/na/ntt/selectNttInfo.do?mi=6656&bbsId=3089&nttSn=1524270",
       "source": "전국 디지털튜터 채용",
