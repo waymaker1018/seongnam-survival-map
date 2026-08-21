@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-08-20T06:23:09.972Z",
+  "generatedAt": "2026-08-21T01:25:09.344Z",
   "newCount": 2,
   "items": [
     {
-      "id": "seoul:nbedu:11350",
-      "schoolId": null,
-      "schoolName": "성베드로학교",
+      "id": "seoul:nbedu:11351",
+      "schoolId": "sen-7041209",
+      "schoolName": "서울천왕초등학교",
       "schoolHomepage": null,
       "boardLabel": "서울 남부(영등포·구로·금천) 구인",
       "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
       "deadline": "2026-08-26T00:00:00+09:00",
-      "title": "(성베드로학교)2026학년도 2학기 방과후학교(방송댄스) 개인위탁 외부강사 모집 공고 (시간강사)",
+      "title": "(천왕초) 2026학년도 학교예술강사(흙놀이・조소) 채용 공고 (시간강사)",
       "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
-      "id": "seoul:gsycedu:15100",
-      "schoolId": "sen-7081467",
-      "schoolName": "서울염동초등학교",
+      "id": "seoul:gsycedu:15101",
+      "schoolId": "sen-7081437",
+      "schoolName": "서울등현초등학교",
       "schoolHomepage": null,
       "boardLabel": "서울 강서양천 구인",
       "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
       "deadline": null,
-      "title": "체육수업 협력강사 3,5학년 뉴스포츠 협력강사",
+      "title": "4,5학년 체육활성화 프로그램",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]

@@ -1,32 +1,8 @@
 {
-  "generatedAt": "2026-08-20T06:23:09.972Z",
-  "hitCount": 88,
+  "generatedAt": "2026-08-21T01:25:09.344Z",
+  "hitCount": 87,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:sbedu:5583",
-      "schoolId": "sen-7031115",
-      "schoolName": "서울구산초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
-      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-08-20T00:00:00+09:00",
-      "title": "1학년 케이팝댄스 (시간제)",
-      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:dgedu:10218",
-      "schoolId": "sen-7132094",
-      "schoolName": "서울미성초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-08-20T00:00:00+09:00",
-      "title": "2026학년도 AI교육 코디네이터 채용 공고 (강사)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:sbedu:5584",
       "schoolId": "sen-7031160",
@@ -122,6 +98,18 @@
       "deadline": "2026-08-21T00:00:00+09:00",
       "title": "[남사초]2026학년도 초등돌봄교실(시간제)대체 채용 공고 (기타)",
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:nbedu:11351",
+      "schoolId": "sen-7041209",
+      "schoolName": "서울천왕초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-08-26T00:00:00+09:00",
+      "title": "(천왕초) 2026학년도 학교예술강사(흙놀이・조소) 채용 공고 (시간강사)",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:nbedu:11350",
@@ -458,6 +446,18 @@
       "deadline": null,
       "title": "교육과정 보조인력",
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gsycedu:15101",
+      "schoolId": "sen-7081437",
+      "schoolName": "서울등현초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "4,5학년 체육활성화 프로그램",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:gsycedu:15100",
@@ -841,18 +841,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "3학년 무용 협력강사 무용",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15027",
-      "schoolId": null,
-      "schoolName": "양동중학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "도덕",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
