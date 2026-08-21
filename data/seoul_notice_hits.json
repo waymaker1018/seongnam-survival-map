@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T01:25:09.344Z",
+  "generatedAt": "2026-08-21T06:23:24.523Z",
   "hitCount": 87,
   "errors": [],
   "items": [
@@ -133,6 +133,18 @@
       "postedAt": null,
       "deadline": "2026-08-26T00:00:00+09:00",
       "title": "(서울조원초)2026학년도 4학년 협력강사 채용 공고 (강사)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10233",
+      "schoolId": "sen-7132087",
+      "schoolName": "서울남사초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-08-28T00:00:00+09:00",
+      "title": "[남사초] 6학년 담임교사 시간강사 구인 공고",
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
@@ -829,18 +841,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "에듀케어 대체강사(오전)",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15030",
-      "schoolId": "sen-7081451",
-      "schoolName": "서울신기초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "3학년 무용 협력강사 무용",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
