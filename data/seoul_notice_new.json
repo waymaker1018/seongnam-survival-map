@@ -1,18 +1,54 @@
 {
-  "generatedAt": "2026-08-21T06:23:24.523Z",
-  "newCount": 1,
+  "generatedAt": "2026-08-22T01:25:03.272Z",
+  "newCount": 4,
   "items": [
     {
-      "id": "seoul:dgedu:10233",
-      "schoolId": "sen-7132087",
-      "schoolName": "서울남사초등학교",
+      "id": "seoul:gdspedu:8305",
+      "schoolId": "sen-7130149",
+      "schoolName": "서울위례초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강동송파 구인",
+      "boardUrl": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-08-24T00:00:00+09:00",
+      "title": "AI교육 코디네이터 (시간제)",
+      "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:nbedu:11353",
+      "schoolId": "sen-7041160",
+      "schoolName": "서울정심초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-08-26T00:00:00+09:00",
+      "title": "(정심초)2026학년도 초등예술하나 강사모집 공고 (기타)",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10234",
+      "schoolId": "sen-7132112",
+      "schoolName": "서울영화초등학교",
       "schoolHomepage": null,
       "boardLabel": "서울 동작관악 구인",
       "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
-      "deadline": "2026-08-28T00:00:00+09:00",
-      "title": "[남사초] 6학년 담임교사 시간강사 구인 공고",
+      "deadline": "2026-08-27T00:00:00+09:00",
+      "title": "2026학년도 1,2학년 전래놀이 협력강사 채용 공고 (기타)",
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:jbedu:3432",
+      "schoolId": null,
+      "schoolName": "서울서빙고초등학교병설유치원",
+      "schoolHomepage": null,
+      "boardLabel": "서울 중부(종로·중구·용산) 구인",
+      "boardUrl": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "방과후 과정 활동 지원",
+      "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
 }
