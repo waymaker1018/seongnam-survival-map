@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-24T01:29:58.965Z",
-  "hitCount": 83,
+  "generatedAt": "2026-08-24T06:32:04.377Z",
+  "hitCount": 82,
   "errors": [],
   "items": [
     {
@@ -98,6 +98,18 @@
       "deadline": "2026-08-27T00:00:00+09:00",
       "title": "2026학년도 1,2학년 전래놀이 협력강사 채용 공고 (기타)",
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:nbedu:11356",
+      "schoolId": "sen-7041160",
+      "schoolName": "서울정심초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-08-31T00:00:00+09:00",
+      "title": "(정심초)2026학년도 초등 놀이 강사 모집 공고 (기타)",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:sbedu:5580",
@@ -781,30 +793,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "전일제돌봄전담사",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15035",
-      "schoolId": null,
-      "schoolName": "강서양천교육지원청",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "2027 수능 업무보조원",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15031",
-      "schoolId": null,
-      "schoolName": "화일초등학교병설유치원",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "에듀케어 대체강사(오전)",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {

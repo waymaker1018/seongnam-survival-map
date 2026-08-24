@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-24T01:24:20.006Z",
+  "generatedAt": "2026-08-24T06:30:42.357Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 19,
+  "hitCount": 18,
   "keywords": [
     "AI",
     "인공지능",
@@ -73,18 +73,6 @@
       "deadline": "2026-08-26T15:00:00.000Z",
       "title": "성남양지초등학교 난타 강사 모집 공고",
       "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1949279"
-    },
-    {
-      "id": "sangwon-e:sangwon-e:1949259",
-      "schoolId": "sangwon-e",
-      "schoolName": "상원초등학교",
-      "schoolHomepage": "https://sangwon-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://sangwon-e.goesn.kr/sangwon-e/na/ntt/selectNttList.do?mi=25176&bbsId=11555&listCo=50&currPage=1",
-      "postedAt": "2026-08-20T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026 상원초등학교 돌봄교실 특기적성 (AI를 활용한 신체놀이) 강사 모집 공고",
-      "url": "https://sangwon-e.goesn.kr/sangwon-e/na/ntt/selectNttInfo.do?mi=25176&bbsId=11555&nttSn=1949259"
     },
     {
       "id": "office:goesn:1949233",
