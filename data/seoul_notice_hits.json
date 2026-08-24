@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-23T06:19:54.916Z",
-  "hitCount": 82,
+  "generatedAt": "2026-08-24T01:29:58.965Z",
+  "hitCount": 83,
   "errors": [],
   "items": [
     {
@@ -14,6 +14,18 @@
       "deadline": "2026-08-24T00:00:00+09:00",
       "title": "AI교육 코디네이터 (시간제)",
       "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10233",
+      "schoolId": "sen-7132087",
+      "schoolName": "서울남사초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-08-24T00:00:00+09:00",
+      "title": "[남사초] 6학년 담임교사 시간강사 구인 공고(채용완료)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:nbedu:11353",
@@ -64,6 +76,18 @@
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:nbedu:11354",
+      "schoolId": null,
+      "schoolName": "서을문성초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-08-27T00:00:00+09:00",
+      "title": "(문성초) 특수학급 방과후교실 강사 (체육놀이) (시간강사)",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:dgedu:10234",
       "schoolId": "sen-7132112",
       "schoolName": "서울영화초등학교",
@@ -73,18 +97,6 @@
       "postedAt": null,
       "deadline": "2026-08-27T00:00:00+09:00",
       "title": "2026학년도 1,2학년 전래놀이 협력강사 채용 공고 (기타)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:dgedu:10233",
-      "schoolId": "sen-7132087",
-      "schoolName": "서울남사초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-08-28T00:00:00+09:00",
-      "title": "[남사초] 6학년 담임교사 시간강사 구인 공고",
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {

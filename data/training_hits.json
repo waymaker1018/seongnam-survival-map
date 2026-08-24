@@ -1,7 +1,13 @@
 {
-  "generatedAt": "2026-08-23T06:19:41.566Z",
+  "generatedAt": "2026-08-24T01:25:21.385Z",
   "hitCount": 3,
-  "errors": [],
+  "errors": [
+    "교육부 공고 1p: fetch failed",
+    "교육부 공고 2p: fetch failed",
+    "교육부 공고 3p: fetch failed",
+    "교육부 공고 4p: fetch failed",
+    "교육부 공고 5p: fetch failed"
+  ],
   "items": [
     {
       "id": "dtjob:https://icheonhs.goeic.kr/icheonhs/na/ntt/selectNttInfo.do?mi=1560&nttSn=511678&bbsId=1276",
