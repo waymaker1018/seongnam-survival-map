@@ -1,32 +1,8 @@
 {
-  "generatedAt": "2026-08-24T06:32:04.377Z",
-  "hitCount": 82,
+  "generatedAt": "2026-08-25T01:27:05.639Z",
+  "hitCount": 80,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:gdspedu:8305",
-      "schoolId": "sen-7130149",
-      "schoolName": "서울위례초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강동송파 구인",
-      "boardUrl": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-08-24T00:00:00+09:00",
-      "title": "AI교육 코디네이터 (시간제)",
-      "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:dgedu:10233",
-      "schoolId": "sen-7132087",
-      "schoolName": "서울남사초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-08-24T00:00:00+09:00",
-      "title": "[남사초] 6학년 담임교사 시간강사 구인 공고(채용완료)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:nbedu:11353",
       "schoolId": "sen-7041160",
@@ -97,6 +73,18 @@
       "postedAt": null,
       "deadline": "2026-08-27T00:00:00+09:00",
       "title": "2026학년도 1,2학년 전래놀이 협력강사 채용 공고 (기타)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10235",
+      "schoolId": "sen-7132080",
+      "schoolName": "서울강남초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-08-28T00:00:00+09:00",
+      "title": "서울강남초등학교 체육활동 외부협력강사(표현활동분야) 모집요강",
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
@@ -436,6 +424,18 @@
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:gsycedu:15107",
+      "schoolId": null,
+      "schoolName": "서울월정초등학교병설유치원",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "방과후과정 에듀케어 대체강사",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:gsycedu:15101",
       "schoolId": "sen-7081437",
       "schoolName": "서울등현초등학교",
@@ -769,30 +769,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "방과후교실 강사(체육 교과)",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15037",
-      "schoolId": "sen-7081418",
-      "schoolName": "서울가곡초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "체육신체활동 체육",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15036",
-      "schoolId": "sen-7081460",
-      "schoolName": "서울양명초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "전일제돌봄전담사",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {

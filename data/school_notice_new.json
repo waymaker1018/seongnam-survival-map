@@ -1,5 +1,18 @@
 {
-  "generatedAt": "2026-08-24T06:30:42.357Z",
-  "newCount": 0,
-  "items": []
+  "generatedAt": "2026-08-25T01:21:35.831Z",
+  "newCount": 1,
+  "items": [
+    {
+      "id": "sangwon-e:sangwon-e:1949655",
+      "schoolId": "sangwon-e",
+      "schoolName": "상원초등학교",
+      "schoolHomepage": "https://sangwon-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://sangwon-e.goesn.kr/sangwon-e/na/ntt/selectNttList.do?mi=25176&bbsId=11555&listCo=50&currPage=1",
+      "postedAt": "2026-08-23T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026학년도 상원초등학교 돌봄교실 특기적성 강사 채용 공고",
+      "url": "https://sangwon-e.goesn.kr/sangwon-e/na/ntt/selectNttInfo.do?mi=25176&bbsId=11555&nttSn=1949655"
+    }
+  ]
 }
