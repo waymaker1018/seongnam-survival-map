@@ -1,30 +1,18 @@
 {
-  "generatedAt": "2026-08-25T01:27:05.639Z",
-  "newCount": 2,
+  "generatedAt": "2026-08-25T06:23:37.049Z",
+  "newCount": 1,
   "items": [
     {
-      "id": "seoul:dgedu:10235",
-      "schoolId": "sen-7132080",
-      "schoolName": "서울강남초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-08-28T00:00:00+09:00",
-      "title": "서울강남초등학교 체육활동 외부협력강사(표현활동분야) 모집요강",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15107",
+      "id": "seoul:nbedu:11358",
       "schoolId": null,
-      "schoolName": "서울월정초등학교병설유치원",
+      "schoolName": "서울대영초등학교",
       "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
-      "deadline": null,
-      "title": "방과후과정 에듀케어 대체강사",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+      "deadline": "2026-09-25T00:00:00+09:00",
+      "title": "(대영초) 10.6.(화)~10.8.(목) 특수학급 시간강사 구인 (시간강사)",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-25T01:27:05.639Z",
-  "hitCount": 80,
+  "generatedAt": "2026-08-25T06:23:37.049Z",
+  "hitCount": 81,
   "errors": [],
   "items": [
     {
@@ -146,6 +146,18 @@
       "deadline": "2026-09-18T00:00:00+09:00",
       "title": "(서울원당초)학습지원 튜터 채용공고",
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:nbedu:11358",
+      "schoolId": null,
+      "schoolName": "서울대영초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-09-25T00:00:00+09:00",
+      "title": "(대영초) 10.6.(화)~10.8.(목) 특수학급 시간강사 구인 (시간강사)",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:gdspedu:8079",

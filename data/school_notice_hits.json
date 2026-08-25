@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T01:21:35.831Z",
+  "generatedAt": "2026-08-25T06:22:05.523Z",
   "lookbackDays": 14,
   "schoolCount": 73,
   "hitCount": 17,
@@ -38,6 +38,18 @@
     "디지털 새싹"
   ],
   "items": [
+    {
+      "id": "office:goesn:1949909",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-08-24T15:00:00.000Z",
+      "deadline": "2026-08-26T15:00:00.000Z",
+      "title": "2026년 성남송현초등학교 AI교육 코디네이터 채용 공고",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1949909"
+    },
     {
       "id": "sangwon-e:sangwon-e:1949655",
       "schoolId": "sangwon-e",
@@ -169,18 +181,6 @@
       "deadline": null,
       "title": "2026학년도 성남장안초 AI 교육 코디네이터 채용 공고문",
       "url": "https://snjangan-e.goesn.kr/snjangan-e/na/ntt/selectNttInfo.do?mi=15082&bbsId=12792&nttSn=1949017"
-    },
-    {
-      "id": "office:goesn:1948855",
-      "schoolId": null,
-      "schoolName": "성남교육지원청 구인",
-      "schoolHomepage": "https://www.goesn.kr",
-      "boardLabel": "성남교육지원청 구인",
-      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
-      "postedAt": "2026-08-19T15:00:00.000Z",
-      "deadline": "2026-08-24T15:00:00.000Z",
-      "title": "2026 성남신흥초 프로그램(5학년 놀이에서 스포츠로) 강사 채용 공고",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1948855"
     },
     {
       "id": "snjangan-e:snjangan-e:1948847",
