@@ -1,18 +1,42 @@
 {
-  "generatedAt": "2026-08-25T06:23:37.049Z",
-  "newCount": 1,
+  "generatedAt": "2026-08-26T01:26:10.130Z",
+  "newCount": 3,
   "items": [
     {
-      "id": "seoul:nbedu:11358",
-      "schoolId": null,
-      "schoolName": "서울대영초등학교",
+      "id": "seoul:sbedu:5585",
+      "schoolId": "sen-7031159",
+      "schoolName": "서울응암초등학교",
       "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
+      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
-      "deadline": "2026-09-25T00:00:00+09:00",
-      "title": "(대영초) 10.6.(화)~10.8.(목) 특수학급 시간강사 구인 (시간강사)",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+      "deadline": "2026-08-27T00:00:00+09:00",
+      "title": "특수교육지원인력 (시간제)",
+      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10236",
+      "schoolId": "sen-7132115",
+      "schoolName": "서울은로초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-08-27T00:00:00+09:00",
+      "title": "(서울은로초) 기간제근로자(사서) 채용 공고 (기간제근로자)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:sbedu:5586",
+      "schoolId": "sen-7031136",
+      "schoolName": "서울성산초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
+      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-09-01T00:00:00+09:00",
+      "title": "2학년 놀이체육 협력강사 (시간제)",
+      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
 }
