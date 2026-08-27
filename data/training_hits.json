@@ -1,7 +1,13 @@
 {
-  "generatedAt": "2026-08-26T06:25:29.379Z",
+  "generatedAt": "2026-08-27T08:10:42.946Z",
   "hitCount": 4,
-  "errors": [],
+  "errors": [
+    "교육부 공고 1p: fetch failed",
+    "교육부 공고 2p: fetch failed",
+    "교육부 공고 3p: fetch failed",
+    "교육부 공고 4p: fetch failed",
+    "교육부 공고 5p: fetch failed"
+  ],
   "items": [
     {
       "id": "dtjob:https://www.goegh.kr/goegh/na/ntt/selectNttInfo.do?mi=8757&bbsId=5091&nttSn=1221272",
