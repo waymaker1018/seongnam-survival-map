@@ -1,20 +1,8 @@
 {
-  "generatedAt": "2026-08-28T10:18:42.661Z",
-  "hitCount": 87,
+  "generatedAt": "2026-08-28T17:47:17.044Z",
+  "hitCount": 86,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:gdspedu:8306",
-      "schoolId": "sen-7130102",
-      "schoolName": "서울가락초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강동송파 구인",
-      "boardUrl": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-08-28T00:00:00+09:00",
-      "title": "3학년 담임+기초학력업무 (기간제)",
-      "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:dgedu:10237",
       "schoolId": null,

@@ -1,54 +1,5 @@
 {
-  "generatedAt": "2026-08-28T10:18:42.661Z",
-  "newCount": 4,
-  "items": [
-    {
-      "id": "seoul:dgedu:10243",
-      "schoolId": "sen-7132085",
-      "schoolName": "서울난향초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-09-02T00:00:00+09:00",
-      "title": "2026학년도 난향초 AR클라이밍 체육협력강사 공고 (강사)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:sbedu:5590",
-      "schoolId": null,
-      "schoolName": "서울어울초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
-      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-09-03T00:00:00+09:00",
-      "title": "5학년 목공교육 협력강사",
-      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:jbedu:3437",
-      "schoolId": null,
-      "schoolName": "서울서빙고초등학교병설유치원",
-      "schoolHomepage": null,
-      "boardLabel": "서울 중부(종로·중구·용산) 구인",
-      "boardUrl": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "방과후 활동 지원인력",
-      "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gnscedu:14243",
-      "schoolId": "sen-7091375",
-      "schoolName": "서울대도초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강남서초 구인",
-      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "정민경 (초등 기초학력 협력강사)",
-      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
-    }
-  ]
+  "generatedAt": "2026-08-28T17:47:17.044Z",
+  "newCount": 0,
+  "items": []
 }
