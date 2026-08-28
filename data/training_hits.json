@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-27T16:56:51.282Z",
-  "hitCount": 4,
+  "generatedAt": "2026-08-28T10:14:05.079Z",
+  "hitCount": 3,
   "errors": [
     "교육부 공고 1p: fetch failed",
     "교육부 공고 2p: fetch failed",
@@ -32,14 +32,6 @@
       "postedAt": "2026-08-19T00:00:00+09:00",
       "deadline": "2026-08-21T00:00:00+09:00",
       "url": "https://sirang-e.goeas.kr/sirang-e/na/ntt/selectNttInfo.do?mi=6656&bbsId=3089&nttSn=1524270"
-    },
-    {
-      "id": "dtjob:https://osan-m.goehs.kr/osan-m/na/ntt/selectNttInfo.do?mi=15491&bbsId=8374&nttSn=1298670",
-      "source": "전국 디지털튜터 채용",
-      "title": "[경기도 · 오산중학교] 2026학년도 오산중학교 AI교육코디네이터 채용 공고 (1명)",
-      "postedAt": "2026-08-18T00:00:00+09:00",
-      "deadline": "2026-08-21T00:00:00+09:00",
-      "url": "https://osan-m.goehs.kr/osan-m/na/ntt/selectNttInfo.do?mi=15491&bbsId=8374&nttSn=1298670"
     }
   ]
 }

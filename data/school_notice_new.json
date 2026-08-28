@@ -1,5 +1,42 @@
 {
-  "generatedAt": "2026-08-27T16:55:57.748Z",
-  "newCount": 0,
-  "items": []
+  "generatedAt": "2026-08-28T10:12:50.870Z",
+  "newCount": 3,
+  "items": [
+    {
+      "id": "sangwon-e:sangwon-e:1951121",
+      "schoolId": "sangwon-e",
+      "schoolName": "상원초등학교",
+      "schoolHomepage": "https://sangwon-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://sangwon-e.goesn.kr/sangwon-e/na/ntt/selectNttList.do?mi=25176&bbsId=11555&listCo=50&currPage=1",
+      "postedAt": "2026-08-27T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026학년도 상원초등학교 돌봄교실 특기적성 강사 채용 재공고",
+      "url": "https://sangwon-e.goesn.kr/sangwon-e/na/ntt/selectNttInfo.do?mi=25176&bbsId=11555&nttSn=1951121"
+    },
+    {
+      "id": "office:goesn:1951067",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-08-27T15:00:00.000Z",
+      "deadline": "2026-09-03T15:00:00.000Z",
+      "title": "2026학년도 중원초 1교 1빛깔 강사 모집(놀이체육, 요리)",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1951067"
+    },
+    {
+      "id": "office:goesn:1950728",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-08-27T15:00:00.000Z",
+      "deadline": "2026-09-03T15:00:00.000Z",
+      "title": "2026 성남미래교육(뉴스포츠&줄넘기)관련 3,6학년 협력 강사 모집",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1950728"
+    }
+  ]
 }
