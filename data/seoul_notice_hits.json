@@ -1,32 +1,8 @@
 {
-  "generatedAt": "2026-08-28T17:47:17.044Z",
-  "hitCount": 86,
+  "generatedAt": "2026-08-29T06:13:32.610Z",
+  "hitCount": 84,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:dgedu:10237",
-      "schoolId": null,
-      "schoolName": "은로초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-08-28T00:00:00+09:00",
-      "title": "(서울은로초)2026학년도 교육공무직원(전일제돌봄전담사) 대체직 채용 공고 (교육공무직원)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:dgedu:10235",
-      "schoolId": "sen-7132080",
-      "schoolName": "서울강남초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-08-28T00:00:00+09:00",
-      "title": "서울강남초등학교 체육활동 외부협력강사(표현활동분야) 모집요강",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:nbedu:11356",
       "schoolId": "sen-7041160",

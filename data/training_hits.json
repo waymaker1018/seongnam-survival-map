@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-28T17:47:04.675Z",
-  "hitCount": 3,
+  "generatedAt": "2026-08-29T06:13:20.094Z",
+  "hitCount": 2,
   "errors": [],
   "items": [
     {
@@ -18,14 +18,6 @@
       "postedAt": "2026-08-20T00:00:00+09:00",
       "deadline": "2026-08-26T00:00:00+09:00",
       "url": "https://icheonhs.goeic.kr/icheonhs/na/ntt/selectNttInfo.do?mi=1560&nttSn=511678&bbsId=1276"
-    },
-    {
-      "id": "dtjob:https://sirang-e.goeas.kr/sirang-e/na/ntt/selectNttInfo.do?mi=6656&bbsId=3089&nttSn=1524270",
-      "source": "전국 디지털튜터 채용",
-      "title": "[경기도 · 시랑초등학교] 2026학년도 경기도 안산 시랑초등학교 디지털튜터 채용공고 (1명)",
-      "postedAt": "2026-08-19T00:00:00+09:00",
-      "deadline": "2026-08-21T00:00:00+09:00",
-      "url": "https://sirang-e.goeas.kr/sirang-e/na/ntt/selectNttInfo.do?mi=6656&bbsId=3089&nttSn=1524270"
     }
   ]
 }
