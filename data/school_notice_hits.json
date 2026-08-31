@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-31T04:25:15.208Z",
+  "generatedAt": "2026-08-31T11:56:49.137Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 23,
+  "hitCount": 25,
   "keywords": [
     "AI",
     "인공지능",
@@ -39,6 +39,42 @@
   ],
   "items": [
     {
+      "id": "sangwon-e:sangwon-e:1951534",
+      "schoolId": "sangwon-e",
+      "schoolName": "상원초등학교",
+      "schoolHomepage": "https://sangwon-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://sangwon-e.goesn.kr/sangwon-e/na/ntt/selectNttList.do?mi=25176&bbsId=11555&listCo=50&currPage=1",
+      "postedAt": "2026-08-30T15:00:00.000Z",
+      "deadline": null,
+      "title": "상원초등학교 돌봄교실 특기적성강사 채용 재공고",
+      "url": "https://sangwon-e.goesn.kr/sangwon-e/na/ntt/selectNttInfo.do?mi=25176&bbsId=11555&nttSn=1951534"
+    },
+    {
+      "id": "sangwon-e:sangwon-e:1951474",
+      "schoolId": "sangwon-e",
+      "schoolName": "상원초등학교",
+      "schoolHomepage": "https://sangwon-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://sangwon-e.goesn.kr/sangwon-e/na/ntt/selectNttList.do?mi=25176&bbsId=11555&listCo=50&currPage=1",
+      "postedAt": "2026-08-30T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026학년도 교육과정 운영 관련 (AI로봇코딩교육) 협력 강사 채용 공고",
+      "url": "https://sangwon-e.goesn.kr/sangwon-e/na/ntt/selectNttInfo.do?mi=25176&bbsId=11555&nttSn=1951474"
+    },
+    {
+      "id": "office:goesn:1951465",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-08-30T15:00:00.000Z",
+      "deadline": "2026-09-10T15:00:00.000Z",
+      "title": "상원초등학교 교육과정 운영 관련 (AI로봇코딩교육) 협력 강사 채용 공고",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1951465"
+    },
+    {
       "id": "office:goesn:1951226",
       "schoolId": null,
       "schoolName": "성남교육지원청 구인",
@@ -49,18 +85,6 @@
       "deadline": "2026-09-03T15:00:00.000Z",
       "title": "2026학년도 초1~2 맞춤형 보조강사 채용",
       "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1951226"
-    },
-    {
-      "id": "sangwon-e:sangwon-e:1951121",
-      "schoolId": "sangwon-e",
-      "schoolName": "상원초등학교",
-      "schoolHomepage": "https://sangwon-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://sangwon-e.goesn.kr/sangwon-e/na/ntt/selectNttList.do?mi=25176&bbsId=11555&listCo=50&currPage=1",
-      "postedAt": "2026-08-27T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026학년도 상원초등학교 돌봄교실 특기적성 강사 채용 재공고",
-      "url": "https://sangwon-e.goesn.kr/sangwon-e/na/ntt/selectNttInfo.do?mi=25176&bbsId=11555&nttSn=1951121"
     },
     {
       "id": "office:goesn:1951067",
