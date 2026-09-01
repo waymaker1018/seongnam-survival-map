@@ -1,20 +1,8 @@
 {
-  "generatedAt": "2026-08-31T12:02:16.355Z",
-  "hitCount": 85,
+  "generatedAt": "2026-09-01T04:10:10.187Z",
+  "hitCount": 88,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:nbedu:11356",
-      "schoolId": "sen-7041160",
-      "schoolName": "서울정심초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-08-31T00:00:00+09:00",
-      "title": "(정심초)2026학년도 초등 놀이 강사 모집 공고 (기타)",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:sbedu:5589",
       "schoolId": null,
@@ -100,6 +88,30 @@
       "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:nbedu:11364",
+      "schoolId": "sen-7041123",
+      "schoolName": "서울독산초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-09-04T00:00:00+09:00",
+      "title": "2026학년도 독산초 럭비수업 협력강사 채용 (시간강사)",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:nbedu:11363",
+      "schoolId": null,
+      "schoolName": "서을문성초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-09-04T00:00:00+09:00",
+      "title": "(문성초) 특수학급 방과후교실 강사 (체육놀이)",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:dgedu:10240",
       "schoolId": "sen-7132085",
       "schoolName": "서울난향초등학교",
@@ -110,6 +122,30 @@
       "deadline": "2026-09-06T00:00:00+09:00",
       "title": "[난향초] 2026학년도 음악극 교육지원 협력강사 개인위탁 공고 (강사)",
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10246",
+      "schoolId": "sen-7132113",
+      "schoolName": "서울원당초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-09-07T00:00:00+09:00",
+      "title": "2026 서울원당초등학교 대안교실 강사 채용 공고 (강사)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:nbedu:11365",
+      "schoolId": null,
+      "schoolName": "개웅초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-09-09T00:00:00+09:00",
+      "title": "(개웅초)2026학년도 2학기 맞춤형교실 개인위탁 외부강사 공고",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:sbedu:5580",

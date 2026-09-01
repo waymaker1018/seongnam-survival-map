@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T11:57:39.379Z",
+  "updatedAt": "2026-09-01T04:09:57.424Z",
   "seenIds": {
     "dtjob:https://www.goepj.kr/goepj/na/ntt/selectNttInfo.do?mi=10838&bbsId=7202&nttSn=1333557": "2026-06-11T14:38:29.988Z",
     "moe:106305": "2026-06-11T14:38:29.988Z",
@@ -27,6 +27,8 @@
     "dtjob:https://osan-m.goehs.kr/osan-m/na/ntt/selectNttInfo.do?mi=15491&bbsId=8374&nttSn=1298670": "2026-08-19T01:22:28.696Z",
     "dtjob:https://sirang-e.goeas.kr/sirang-e/na/ntt/selectNttInfo.do?mi=6656&bbsId=3089&nttSn=1524270": "2026-08-19T06:22:07.065Z",
     "dtjob:https://icheonhs.goeic.kr/icheonhs/na/ntt/selectNttInfo.do?mi=1560&nttSn=511678&bbsId=1276": "2026-08-20T06:22:53.974Z",
-    "dtjob:https://www.goegh.kr/goegh/na/ntt/selectNttInfo.do?mi=8757&bbsId=5091&nttSn=1221272": "2026-08-24T06:31:50.627Z"
+    "dtjob:https://www.goegh.kr/goegh/na/ntt/selectNttInfo.do?mi=8757&bbsId=5091&nttSn=1221272": "2026-08-24T06:31:50.627Z",
+    "dtjob:https://ssgh-h.goesn.kr/ssgh-h/na/ntt/selectNttInfo.do?mi=17003&bbsId=13863&nttSn=1951853": "2026-09-01T04:09:57.424Z",
+    "moe:107088": "2026-09-01T04:09:57.424Z"
   }
 }
