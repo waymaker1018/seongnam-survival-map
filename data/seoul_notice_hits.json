@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-01T04:10:10.187Z",
-  "hitCount": 88,
+  "generatedAt": "2026-09-01T10:38:16.352Z",
+  "hitCount": 92,
   "errors": [],
   "items": [
     {
@@ -76,6 +76,18 @@
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:sbedu:5591",
+      "schoolId": "sen-7031230",
+      "schoolName": "서울수리초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
+      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-09-03T00:00:00+09:00",
+      "title": "학교 내 대안교실 강사 (시간제)",
+      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:sbedu:5590",
       "schoolId": null,
       "schoolName": "서울어울초등학교",
@@ -112,6 +124,18 @@
       "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:nbedu:11366",
+      "schoolId": "sen-7041131",
+      "schoolName": "서울미래초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-09-06T00:00:00+09:00",
+      "title": "(서울미래초등학교)AI·SW 협력강사 채용 공고 (기타)",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:dgedu:10240",
       "schoolId": "sen-7132085",
       "schoolName": "서울난향초등학교",
@@ -134,6 +158,18 @@
       "deadline": "2026-09-07T00:00:00+09:00",
       "title": "2026 서울원당초등학교 대안교실 강사 채용 공고 (강사)",
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:sbgbedu:3045",
+      "schoolId": null,
+      "schoolName": "대광초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 성북강북 구인",
+      "boardUrl": "https://sbgbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-09-07T00:00:00+09:00",
+      "title": "(대광초) 2026학년도 타악기 강사 모집 (시간강사)",
+      "url": "https://sbgbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:nbedu:11365",
@@ -230,6 +266,18 @@
       "deadline": "2027-02-28T00:00:00+09:00",
       "title": "현장체험학습 보조인력",
       "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:jbedu:3439",
+      "schoolId": "sen-7061067",
+      "schoolName": "서울봉래초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 중부(종로·중구·용산) 구인",
+      "boardUrl": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "국악강사",
+      "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:jbedu:3438",

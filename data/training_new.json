@@ -1,22 +1,5 @@
 {
-  "generatedAt": "2026-09-01T04:09:57.424Z",
-  "newCount": 2,
-  "items": [
-    {
-      "id": "dtjob:https://ssgh-h.goesn.kr/ssgh-h/na/ntt/selectNttInfo.do?mi=17003&bbsId=13863&nttSn=1951853",
-      "source": "전국 디지털튜터 채용",
-      "title": "[경기도 · 숭신여자고등학교] [숭신고등학교] 2026년 AI교육 코디네이터 2차 채용 공고 (1명)",
-      "postedAt": "2026-09-01T00:00:00+09:00",
-      "deadline": "2026-09-03T00:00:00+09:00",
-      "url": "https://ssgh-h.goesn.kr/ssgh-h/na/ntt/selectNttInfo.do?mi=17003&bbsId=13863&nttSn=1951853"
-    },
-    {
-      "id": "moe:107088",
-      "source": "교육부 공고",
-      "title": "전국 디지털튜터 양성센터 교육생 모집",
-      "postedAt": "2026-09-01T00:00:00+09:00",
-      "deadline": null,
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107088&lev=0&m=020402&s=moe"
-    }
-  ]
+  "generatedAt": "2026-09-01T10:37:32.537Z",
+  "newCount": 0,
+  "items": []
 }
