@@ -1,68 +1,8 @@
 {
-  "generatedAt": "2026-09-01T10:38:16.352Z",
-  "hitCount": 92,
+  "generatedAt": "2026-09-02T03:32:15.539Z",
+  "hitCount": 87,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:sbedu:5589",
-      "schoolId": null,
-      "schoolName": "서울특별시서부교육지원청",
-      "schoolHomepage": null,
-      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
-      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-09-01T00:00:00+09:00",
-      "title": "중학교 입학 배정 업무 보조인력 (기간제)",
-      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:sbedu:5588",
-      "schoolId": "sen-7031118",
-      "schoolName": "서울녹번초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
-      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-09-01T00:00:00+09:00",
-      "title": "특수학급 연극 협력강사 (기간제)",
-      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:sbedu:5587",
-      "schoolId": "sen-7031136",
-      "schoolName": "서울성산초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
-      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-09-01T00:00:00+09:00",
-      "title": "1학년 종이접기(공예) 협력강사 (시간제)",
-      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:sbedu:5586",
-      "schoolId": "sen-7031136",
-      "schoolName": "서울성산초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
-      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-09-01T00:00:00+09:00",
-      "title": "2학년 놀이체육 협력강사 (시간제)",
-      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:nbedu:11360",
-      "schoolId": "sen-7041266",
-      "schoolName": "서울하늘숲초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-09-01T00:00:00+09:00",
-      "title": "5학년 합창 협력강사 모집 (특기적성외래교사)",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:dgedu:10243",
       "schoolId": "sen-7132085",

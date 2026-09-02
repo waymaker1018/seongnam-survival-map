@@ -1,11 +1,16 @@
 {
-  "generatedAt": "2026-09-01T10:37:32.537Z",
-  "hitCount": 1,
-  "errors": [
-    "디지털튜터 채용: Fetch failed 503: https://dt.kosac.re.kr/dt/empmn/list/454",
-    "디지털튜터 공지: Fetch failed 503: https://dt.kosac.re.kr/brd/board/450/L/menu/458"
-  ],
+  "generatedAt": "2026-09-02T03:32:02.227Z",
+  "hitCount": 4,
+  "errors": [],
   "items": [
+    {
+      "id": "dtjob:https://ssgh-h.goesn.kr/ssgh-h/na/ntt/selectNttInfo.do?mi=17003&bbsId=13863&nttSn=1951853",
+      "source": "전국 디지털튜터 채용",
+      "title": "[경기도 · 숭신여자고등학교] [숭신고등학교] 2026년 AI교육 코디네이터 2차 채용 공고 (1명)",
+      "postedAt": "2026-09-01T00:00:00+09:00",
+      "deadline": "2026-09-03T00:00:00+09:00",
+      "url": "https://ssgh-h.goesn.kr/ssgh-h/na/ntt/selectNttInfo.do?mi=17003&bbsId=13863&nttSn=1951853"
+    },
     {
       "id": "moe:107088",
       "source": "교육부 공고",
@@ -13,6 +18,22 @@
       "postedAt": "2026-09-01T00:00:00+09:00",
       "deadline": null,
       "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107088&lev=0&m=020402&s=moe"
+    },
+    {
+      "id": "dtjob:https://www.goegh.kr/goegh/na/ntt/selectNttInfo.do?mi=8757&bbsId=5091&nttSn=1221272",
+      "source": "전국 디지털튜터 채용",
+      "title": "[경기도 · 만선초등학교] [만선초]2026학년도 디지털튜터 채용공고(2차) (1명)",
+      "postedAt": "2026-08-24T00:00:00+09:00",
+      "deadline": "2026-08-27T00:00:00+09:00",
+      "url": "https://www.goegh.kr/goegh/na/ntt/selectNttInfo.do?mi=8757&bbsId=5091&nttSn=1221272"
+    },
+    {
+      "id": "dtjob:https://icheonhs.goeic.kr/icheonhs/na/ntt/selectNttInfo.do?mi=1560&nttSn=511678&bbsId=1276",
+      "source": "전국 디지털튜터 채용",
+      "title": "[경기도 · 이천고등학교] 이천고등학교 AI교육 코디네이터 채용공고 (1명)",
+      "postedAt": "2026-08-20T00:00:00+09:00",
+      "deadline": "2026-08-26T00:00:00+09:00",
+      "url": "https://icheonhs.goeic.kr/icheonhs/na/ntt/selectNttInfo.do?mi=1560&nttSn=511678&bbsId=1276"
     }
   ]
 }
