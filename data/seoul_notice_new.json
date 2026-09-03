@@ -1,42 +1,30 @@
 {
-  "generatedAt": "2026-09-03T03:33:00.432Z",
-  "newCount": 3,
+  "generatedAt": "2026-09-03T10:13:25.969Z",
+  "newCount": 2,
   "items": [
     {
-      "id": "seoul:dgedu:10250",
-      "schoolId": "sen-7132118",
-      "schoolName": "서울조원초등학교",
+      "id": "seoul:sbedu:5593",
+      "schoolId": "sen-7031126",
+      "schoolName": "서울북가좌초등학교",
       "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
+      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
       "deadline": "2026-09-09T00:00:00+09:00",
-      "title": "2026학년도 창의적체험활동(체스) 협력강사 채용공고 (강사)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+      "title": "뉴스포츠(체육)",
+      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
-      "id": "seoul:gsycedu:15115",
-      "schoolId": "sen-7081437",
-      "schoolName": "서울등현초등학교",
+      "id": "seoul:sbedu:5592",
+      "schoolId": null,
+      "schoolName": "서울어울초등학교",
       "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
+      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
-      "deadline": null,
-      "title": "5학년 체육활성화 프로그램 지도강사",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15114",
-      "schoolId": "sen-7081437",
-      "schoolName": "서울등현초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "4학년 체육활성화 프로그램 지도강사",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+      "deadline": "2026-10-03T00:00:00+09:00",
+      "title": "초등예술하나 연극 강사(6학년)",
+      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
 }

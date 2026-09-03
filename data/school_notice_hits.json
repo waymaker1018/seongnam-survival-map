@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-03T03:31:43.127Z",
+  "generatedAt": "2026-09-03T10:12:20.335Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 20,
+  "hitCount": 18,
   "keywords": [
     "AI",
     "인공지능",
@@ -193,30 +193,6 @@
       "deadline": "2026-08-31T15:00:00.000Z",
       "title": "2026 신백현초 문화예술(연극) 프로그램 강사 모집 공고",
       "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1950692"
-    },
-    {
-      "id": "office:goesn:1950685",
-      "schoolId": null,
-      "schoolName": "성남교육지원청 구인",
-      "schoolHomepage": "https://www.goesn.kr",
-      "boardLabel": "성남교육지원청 구인",
-      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
-      "postedAt": "2026-08-26T15:00:00.000Z",
-      "deadline": "2026-08-30T15:00:00.000Z",
-      "title": "도촌초) 시간강사 채용 공고(2학년) - 마감",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1950685"
-    },
-    {
-      "id": "office:goesn:1950684",
-      "schoolId": null,
-      "schoolName": "성남교육지원청 구인",
-      "schoolHomepage": "https://www.goesn.kr",
-      "boardLabel": "성남교육지원청 구인",
-      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
-      "postedAt": "2026-08-26T15:00:00.000Z",
-      "deadline": "2026-09-02T15:00:00.000Z",
-      "title": "도촌초) 시간강사 채용 공고 (영어)",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1950684"
     },
     {
       "id": "snsonghyeon-e:snsonghyeon-e:1949948",
