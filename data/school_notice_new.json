@@ -1,5 +1,18 @@
 {
-  "generatedAt": "2026-09-03T10:12:20.335Z",
-  "newCount": 0,
-  "items": []
+  "generatedAt": "2026-09-04T03:30:40.986Z",
+  "newCount": 1,
+  "items": [
+    {
+      "id": "snys-e:snys-e:1952898",
+      "schoolId": "snys-e",
+      "schoolName": "성남여수초등학교",
+      "schoolHomepage": "https://snys-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://snys-e.goesn.kr/snys-e/na/ntt/selectNttList.do?mi=13840&bbsId=12070&listCo=50&currPage=1",
+      "postedAt": "2026-09-03T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026학년도 성남여수초 하키 협력강사 선발 공고",
+      "url": "https://snys-e.goesn.kr/snys-e/na/ntt/selectNttInfo.do?mi=13840&bbsId=12070&nttSn=1952898"
+    }
+  ]
 }
