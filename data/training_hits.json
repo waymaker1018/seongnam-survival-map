@@ -1,7 +1,13 @@
 {
-  "generatedAt": "2026-09-04T03:31:45.159Z",
-  "hitCount": 4,
-  "errors": [],
+  "generatedAt": "2026-09-04T10:03:28.259Z",
+  "hitCount": 3,
+  "errors": [
+    "교육부 공고 1p: fetch failed",
+    "교육부 공고 2p: fetch failed",
+    "교육부 공고 3p: fetch failed",
+    "교육부 공고 4p: fetch failed",
+    "교육부 공고 5p: fetch failed"
+  ],
   "items": [
     {
       "id": "dtjob:https://ssgh-h.goesn.kr/ssgh-h/na/ntt/selectNttInfo.do?mi=17003&bbsId=13863&nttSn=1951853",
@@ -10,14 +16,6 @@
       "postedAt": "2026-09-01T00:00:00+09:00",
       "deadline": "2026-09-03T00:00:00+09:00",
       "url": "https://ssgh-h.goesn.kr/ssgh-h/na/ntt/selectNttInfo.do?mi=17003&bbsId=13863&nttSn=1951853"
-    },
-    {
-      "id": "moe:107088",
-      "source": "교육부 공고",
-      "title": "전국 디지털튜터 양성센터 교육생 모집",
-      "postedAt": "2026-09-01T00:00:00+09:00",
-      "deadline": null,
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107088&lev=0&m=020402&s=moe"
     },
     {
       "id": "dtjob:https://www.goegh.kr/goegh/na/ntt/selectNttInfo.do?mi=8757&bbsId=5091&nttSn=1221272",

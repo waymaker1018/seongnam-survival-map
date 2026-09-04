@@ -1,5 +1,30 @@
 {
-  "generatedAt": "2026-09-04T03:32:02.687Z",
-  "newCount": 0,
-  "items": []
+  "generatedAt": "2026-09-04T10:08:06.176Z",
+  "newCount": 2,
+  "items": [
+    {
+      "id": "seoul:nbedu:11372",
+      "schoolId": "sen-7041126",
+      "schoolName": "서울매봉초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-09-13T00:00:00+09:00",
+      "title": "서울매봉초등학교 2026학년도 2학기 특수학급 방과후교실(요리놀이) 강사 채용 공고 (기타)",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10251",
+      "schoolId": null,
+      "schoolName": "원당초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-09-30T00:00:00+09:00",
+      "title": "[관악구]원당초등학교 위클래스 상담수업 강사 모집 (강사)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    }
+  ]
 }
