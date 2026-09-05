@@ -1,32 +1,8 @@
 {
-  "generatedAt": "2026-09-04T10:08:06.176Z",
-  "hitCount": 90,
+  "generatedAt": "2026-09-05T03:33:13.145Z",
+  "hitCount": 88,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:nbedu:11364",
-      "schoolId": "sen-7041123",
-      "schoolName": "서울독산초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-09-04T00:00:00+09:00",
-      "title": "2026학년도 독산초 럭비수업 협력강사 채용 (시간강사)",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:nbedu:11363",
-      "schoolId": null,
-      "schoolName": "서을문성초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-09-04T00:00:00+09:00",
-      "title": "(문성초) 특수학급 방과후교실 강사 (체육놀이)",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:nbedu:11366",
       "schoolId": "sen-7041131",
