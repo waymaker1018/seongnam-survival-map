@@ -1,18 +1,30 @@
 {
-  "generatedAt": "2026-09-07T03:33:47.408Z",
-  "newCount": 1,
+  "generatedAt": "2026-09-07T10:52:03.445Z",
+  "newCount": 2,
   "items": [
     {
-      "id": "seoul:gdspedu:8314",
+      "id": "seoul:nbedu:11373",
       "schoolId": null,
-      "schoolName": "서울위례솔초등학교병설유치원",
+      "schoolName": "서을문성초등학교",
       "schoolHomepage": null,
-      "boardLabel": "서울 강동송파 구인",
-      "boardUrl": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do",
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
-      "deadline": "2026-09-22T00:00:00+09:00",
-      "title": "유치원 에듀케어 강사(기간제)",
-      "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
+      "deadline": "2026-09-10T00:00:00+09:00",
+      "title": "(문성초) 특수학급 방과후교실 강사 (체육놀이)",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:sbedu:5594",
+      "schoolId": "sen-7031155",
+      "schoolName": "서울용강초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
+      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-09-11T00:00:00+09:00",
+      "title": "코딩교육(협력수업)",
+      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
 }

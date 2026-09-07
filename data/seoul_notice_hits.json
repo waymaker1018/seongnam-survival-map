@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T03:33:47.408Z",
+  "generatedAt": "2026-09-07T10:52:03.445Z",
   "hitCount": 87,
   "errors": [],
   "items": [
@@ -85,6 +85,30 @@
       "postedAt": null,
       "deadline": "2026-09-10T00:00:00+09:00",
       "title": "AI디지털 교육 협력강사",
+      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:nbedu:11373",
+      "schoolId": null,
+      "schoolName": "서을문성초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-09-10T00:00:00+09:00",
+      "title": "(문성초) 특수학급 방과후교실 강사 (체육놀이)",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:sbedu:5594",
+      "schoolId": "sen-7031155",
+      "schoolName": "서울용강초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
+      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-09-11T00:00:00+09:00",
+      "title": "코딩교육(협력수업)",
       "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
@@ -472,18 +496,6 @@
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
-      "id": "seoul:jbedu:3377",
-      "schoolId": null,
-      "schoolName": "서울혜화초등학교병설유치원",
-      "schoolHomepage": null,
-      "boardLabel": "서울 중부(종로·중구·용산) 구인",
-      "boardUrl": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "교육과정 보조인력",
-      "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
       "id": "seoul:gsycedu:15115",
       "schoolId": "sen-7081437",
       "schoolName": "서울등현초등학교",
@@ -829,18 +841,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "3,4학년 체육협력강사",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15055",
-      "schoolId": "sen-7081457",
-      "schoolName": "서울신정초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "특수학급 방과후강사",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
