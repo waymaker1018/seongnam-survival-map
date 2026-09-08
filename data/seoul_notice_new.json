@@ -1,5 +1,18 @@
 {
-  "generatedAt": "2026-09-08T03:38:46.281Z",
-  "newCount": 0,
-  "items": []
+  "generatedAt": "2026-09-08T10:15:34.841Z",
+  "newCount": 1,
+  "items": [
+    {
+      "id": "seoul:nbedu:11375",
+      "schoolId": "sen-7041137",
+      "schoolName": "서울신대림초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-09-13T00:00:00+09:00",
+      "title": "이중언어강사채용 공고 (기타)",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+    }
+  ]
 }
