@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-07T10:50:33.709Z",
+  "generatedAt": "2026-09-08T03:37:38.922Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 16,
+  "hitCount": 14,
   "keywords": [
     "AI",
     "인공지능",
@@ -205,30 +205,6 @@
       "deadline": null,
       "title": "은행종합사회복지관 AI 크리에이터 모집",
       "url": "https://sangwon-e.goesn.kr/sangwon-e/na/ntt/selectNttInfo.do?mi=25176&bbsId=11555&nttSn=1950664"
-    },
-    {
-      "id": "snsonghyeon-e:snsonghyeon-e:1949948",
-      "schoolId": "snsonghyeon-e",
-      "schoolName": "성남송현초등학교",
-      "schoolHomepage": "https://snsonghyeon-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://snsonghyeon-e.goesn.kr/snsonghyeon-e/na/ntt/selectNttList.do?mi=13694&bbsId=11987&listCo=50&currPage=1",
-      "postedAt": "2026-08-24T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026년 성남송현초등학교 AI교육 코디네이터 채용 공고",
-      "url": "https://snsonghyeon-e.goesn.kr/snsonghyeon-e/na/ntt/selectNttInfo.do?mi=13694&bbsId=11987&nttSn=1949948"
-    },
-    {
-      "id": "ori-e:ori-e:1949982",
-      "schoolId": "ori-e",
-      "schoolName": "오리초등학교",
-      "schoolHomepage": "https://ori-e.goesn.kr",
-      "boardLabel": "늘봄 · 방과후학교",
-      "boardUrl": "https://ori-e.goesn.kr/ori-e/na/ntt/selectNttList.do?mi=16415&bbsId=13536&listCo=50&currPage=1",
-      "postedAt": "2026-08-24T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026 오리초 방과후 요리탐구 개인위탁강사 모집 재공고",
-      "url": "https://ori-e.goesn.kr/ori-e/na/ntt/selectNttInfo.do?mi=16415&bbsId=13536&nttSn=1949982"
     }
   ]
 }

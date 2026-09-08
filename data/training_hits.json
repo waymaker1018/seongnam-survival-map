@@ -1,8 +1,16 @@
 {
-  "generatedAt": "2026-09-07T10:51:45.079Z",
+  "generatedAt": "2026-09-08T03:38:31.592Z",
   "hitCount": 4,
   "errors": [],
   "items": [
+    {
+      "id": "dtjob:https://yeokdong-e.goegh.kr/yeokdong-e/na/ntt/selectNttInfo.do?mi=5134&nttSn=1223874&bbsId=2881",
+      "source": "전국 디지털튜터 채용",
+      "title": "[경기도 · 역동초등학교] 2026학년도 역동초 4학년 AI디지털교육 강사 채용 공고 (1명)",
+      "postedAt": "2026-09-08T00:00:00+09:00",
+      "deadline": "2026-09-15T00:00:00+09:00",
+      "url": "https://yeokdong-e.goegh.kr/yeokdong-e/na/ntt/selectNttInfo.do?mi=5134&nttSn=1223874&bbsId=2881"
+    },
     {
       "id": "dtjob:https://ssgh-h.goesn.kr/ssgh-h/na/ntt/selectNttInfo.do?mi=17003&bbsId=13863&nttSn=1951853",
       "source": "전국 디지털튜터 채용",
@@ -26,14 +34,6 @@
       "postedAt": "2026-08-24T00:00:00+09:00",
       "deadline": "2026-08-27T00:00:00+09:00",
       "url": "https://www.goegh.kr/goegh/na/ntt/selectNttInfo.do?mi=8757&bbsId=5091&nttSn=1221272"
-    },
-    {
-      "id": "dtjob:https://icheonhs.goeic.kr/icheonhs/na/ntt/selectNttInfo.do?mi=1560&nttSn=511678&bbsId=1276",
-      "source": "전국 디지털튜터 채용",
-      "title": "[경기도 · 이천고등학교] 이천고등학교 AI교육 코디네이터 채용공고 (1명)",
-      "postedAt": "2026-08-20T00:00:00+09:00",
-      "deadline": "2026-08-26T00:00:00+09:00",
-      "url": "https://icheonhs.goeic.kr/icheonhs/na/ntt/selectNttInfo.do?mi=1560&nttSn=511678&bbsId=1276"
     }
   ]
 }

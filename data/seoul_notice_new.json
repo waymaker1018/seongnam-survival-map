@@ -1,30 +1,5 @@
 {
-  "generatedAt": "2026-09-07T10:52:03.445Z",
-  "newCount": 2,
-  "items": [
-    {
-      "id": "seoul:nbedu:11373",
-      "schoolId": null,
-      "schoolName": "서을문성초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-09-10T00:00:00+09:00",
-      "title": "(문성초) 특수학급 방과후교실 강사 (체육놀이)",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:sbedu:5594",
-      "schoolId": "sen-7031155",
-      "schoolName": "서울용강초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
-      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-09-11T00:00:00+09:00",
-      "title": "코딩교육(협력수업)",
-      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
-    }
-  ]
+  "generatedAt": "2026-09-08T03:38:46.281Z",
+  "newCount": 0,
+  "items": []
 }

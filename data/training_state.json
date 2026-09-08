@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T10:51:45.079Z",
+  "updatedAt": "2026-09-08T03:38:31.592Z",
   "seenIds": {
     "dtjob:https://www.goepj.kr/goepj/na/ntt/selectNttInfo.do?mi=10838&bbsId=7202&nttSn=1333557": "2026-06-11T14:38:29.988Z",
     "moe:106305": "2026-06-11T14:38:29.988Z",
@@ -29,6 +29,7 @@
     "dtjob:https://icheonhs.goeic.kr/icheonhs/na/ntt/selectNttInfo.do?mi=1560&nttSn=511678&bbsId=1276": "2026-08-20T06:22:53.974Z",
     "dtjob:https://www.goegh.kr/goegh/na/ntt/selectNttInfo.do?mi=8757&bbsId=5091&nttSn=1221272": "2026-08-24T06:31:50.627Z",
     "dtjob:https://ssgh-h.goesn.kr/ssgh-h/na/ntt/selectNttInfo.do?mi=17003&bbsId=13863&nttSn=1951853": "2026-09-01T04:09:57.424Z",
-    "moe:107088": "2026-09-01T04:09:57.424Z"
+    "moe:107088": "2026-09-01T04:09:57.424Z",
+    "dtjob:https://yeokdong-e.goegh.kr/yeokdong-e/na/ntt/selectNttInfo.do?mi=5134&nttSn=1223874&bbsId=2881": "2026-09-08T03:38:31.592Z"
   }
 }
