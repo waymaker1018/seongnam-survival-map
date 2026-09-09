@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-09T03:43:52.798Z",
-  "hitCount": 84,
+  "generatedAt": "2026-09-09T10:14:21.724Z",
+  "hitCount": 83,
   "errors": [],
   "items": [
     {
@@ -997,18 +997,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "그림책 김경하 (맞춤형교실 강사(그림책놀이))",
-      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gnscedu:14173",
-      "schoolId": "sen-7091400",
-      "schoolName": "서울신중초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강남서초 구인",
-      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "이중언어강사 권현민 (이중언어강사)",
       "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
