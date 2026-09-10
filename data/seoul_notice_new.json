@@ -1,41 +1,29 @@
 {
-  "generatedAt": "2026-09-10T03:41:31.123Z",
-  "newCount": 3,
+  "generatedAt": "2026-09-10T10:13:16.102Z",
+  "newCount": 2,
   "items": [
     {
-      "id": "seoul:gdspedu:8316",
-      "schoolId": "sen-7130118",
-      "schoolName": "서울둔촌초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강동송파 구인",
-      "boardUrl": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-09-15T00:00:00+09:00",
-      "title": "특수학급 미술",
-      "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:dgedu:10257",
-      "schoolId": "sen-7132112",
-      "schoolName": "서울영화초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-09-15T00:00:00+09:00",
-      "title": "(서울영화초) 2026학년도 다문화 코디네이터 채용 공고 (기타)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:nbedu:11376",
-      "schoolId": "sen-7041107",
-      "schoolName": "서울구로남초등학교",
+      "id": "seoul:nbedu:11380",
+      "schoolId": "sen-7041131",
+      "schoolName": "서울미래초등학교(서울남부교육지원청 학교통합지원과)",
       "schoolHomepage": null,
       "boardLabel": "서울 남부(영등포·구로·금천) 구인",
       "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
-      "deadline": "2026-09-16T00:00:00+09:00",
-      "title": "(서울구로남초등학교) 2026학년도 하반기 이중언어강사 채용 공고 (시간강사)",
+      "deadline": "2026-09-15T00:00:00+09:00",
+      "title": "서울미래초등학교 학습지원 튜터 채용계획 공고 (기타)",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:nbedu:11377",
+      "schoolId": "sen-7041160",
+      "schoolName": "서울정심초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-09-15T00:00:00+09:00",
+      "title": "(정심초)기간제교사(1학년담임) 채용 공고 (기간제교사)",
       "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]

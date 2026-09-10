@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-10T03:41:31.123Z",
-  "hitCount": 83,
+  "generatedAt": "2026-09-10T10:13:16.102Z",
+  "hitCount": 85,
   "errors": [],
   "items": [
     {
@@ -86,6 +86,30 @@
       "deadline": "2026-09-14T00:00:00+09:00",
       "title": "2026학년도 서울관악초 기초학력 협력강사 채용 공고 (강사)",
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:nbedu:11380",
+      "schoolId": "sen-7041131",
+      "schoolName": "서울미래초등학교(서울남부교육지원청 학교통합지원과)",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-09-15T00:00:00+09:00",
+      "title": "서울미래초등학교 학습지원 튜터 채용계획 공고 (기타)",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:nbedu:11377",
+      "schoolId": "sen-7041160",
+      "schoolName": "서울정심초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-09-15T00:00:00+09:00",
+      "title": "(정심초)기간제교사(1학년담임) 채용 공고 (기간제교사)",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:gdspedu:8316",
