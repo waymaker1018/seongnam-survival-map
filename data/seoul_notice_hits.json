@@ -1,44 +1,8 @@
 {
-  "generatedAt": "2026-09-09T10:14:21.724Z",
+  "generatedAt": "2026-09-10T03:41:31.123Z",
   "hitCount": 83,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:sbedu:5593",
-      "schoolId": "sen-7031126",
-      "schoolName": "서울북가좌초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
-      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-09-09T00:00:00+09:00",
-      "title": "뉴스포츠(체육)",
-      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:nbedu:11365",
-      "schoolId": null,
-      "schoolName": "개웅초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-09-09T00:00:00+09:00",
-      "title": "(개웅초)2026학년도 2학기 맞춤형교실 개인위탁 외부강사 공고",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:dgedu:10250",
-      "schoolId": "sen-7132118",
-      "schoolName": "서울조원초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-09-09T00:00:00+09:00",
-      "title": "2026학년도 창의적체험활동(체스) 협력강사 채용공고 (강사)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:sbedu:5580",
       "schoolId": null,
@@ -122,6 +86,42 @@
       "deadline": "2026-09-14T00:00:00+09:00",
       "title": "2026학년도 서울관악초 기초학력 협력강사 채용 공고 (강사)",
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gdspedu:8316",
+      "schoolId": "sen-7130118",
+      "schoolName": "서울둔촌초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강동송파 구인",
+      "boardUrl": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-09-15T00:00:00+09:00",
+      "title": "특수학급 미술",
+      "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10257",
+      "schoolId": "sen-7132112",
+      "schoolName": "서울영화초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-09-15T00:00:00+09:00",
+      "title": "(서울영화초) 2026학년도 다문화 코디네이터 채용 공고 (기타)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:nbedu:11376",
+      "schoolId": "sen-7041107",
+      "schoolName": "서울구로남초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-09-16T00:00:00+09:00",
+      "title": "(서울구로남초등학교) 2026학년도 하반기 이중언어강사 채용 공고 (시간강사)",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:dgedu:10211",
