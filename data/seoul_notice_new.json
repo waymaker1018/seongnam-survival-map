@@ -1,29 +1,17 @@
 {
-  "generatedAt": "2026-09-11T03:39:52.361Z",
-  "newCount": 2,
+  "generatedAt": "2026-09-11T10:13:48.221Z",
+  "newCount": 1,
   "items": [
     {
-      "id": "seoul:nbedu:11385",
-      "schoolId": "sen-7041141",
-      "schoolName": "서울신흥초등학교(서울남부교육지원청 학교통합지원과)",
+      "id": "seoul:nbedu:11387",
+      "schoolId": "sen-7041151",
+      "schoolName": "서울영원초등학교",
       "schoolHomepage": null,
       "boardLabel": "서울 남부(영등포·구로·금천) 구인",
       "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
-      "deadline": "2026-09-15T00:00:00+09:00",
-      "title": "서울신흥초등학교 돌봄전담사 대체직원 채용계획 공고 (기타)",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:nbedu:11383",
-      "schoolId": "sen-7041117",
-      "schoolName": "서울대동초등학교(서울남부교육지원청 학교통합지원과)",
-      "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-09-15T00:00:00+09:00",
-      "title": "서울대동초등학교 지역사회교육전문가 대체직원 채용계획 공고 (기타)",
+      "deadline": "2026-09-16T00:00:00+09:00",
+      "title": "서울영원초등학교 2026학년도 육상부 전임코치 채용 공고",
       "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
