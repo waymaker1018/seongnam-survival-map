@@ -1,20 +1,8 @@
 {
-  "generatedAt": "2026-09-11T10:13:48.221Z",
-  "hitCount": 86,
+  "generatedAt": "2026-09-12T03:47:59.742Z",
+  "hitCount": 85,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:sbedu:5594",
-      "schoolId": "sen-7031155",
-      "schoolName": "서울용강초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
-      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-09-11T00:00:00+09:00",
-      "title": "코딩교육(협력수업)",
-      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:nbedu:11375",
       "schoolId": "sen-7041137",
