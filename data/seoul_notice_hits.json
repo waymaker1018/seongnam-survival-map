@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-12T03:47:59.742Z",
-  "hitCount": 85,
+  "generatedAt": "2026-09-12T09:41:44.737Z",
+  "hitCount": 84,
   "errors": [],
   "items": [
     {
@@ -158,18 +158,6 @@
       "deadline": "2026-09-18T00:00:00+09:00",
       "title": "(서울원당초)학습지원 튜터 채용공고",
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gdspedu:8314",
-      "schoolId": null,
-      "schoolName": "서울위례솔초등학교병설유치원",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강동송파 구인",
-      "boardUrl": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-09-22T00:00:00+09:00",
-      "title": "유치원 에듀케어 강사(기간제)",
-      "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:nbedu:11358",
