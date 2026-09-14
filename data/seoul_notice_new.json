@@ -1,5 +1,30 @@
 {
-  "generatedAt": "2026-09-13T10:42:48.121Z",
-  "newCount": 0,
-  "items": []
+  "generatedAt": "2026-09-14T04:03:17.000Z",
+  "newCount": 2,
+  "items": [
+    {
+      "id": "seoul:nbedu:11391",
+      "schoolId": "sen-7041107",
+      "schoolName": "서울구로남초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-09-18T00:00:00+09:00",
+      "title": "(서울구로남초등학교) 2026학년도 기초학력 협력강사 채용 공고 (시간강사)",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:nbedu:11390",
+      "schoolId": null,
+      "schoolName": "개웅초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-10-14T00:00:00+09:00",
+      "title": "(개웅초)2026학년도 2학기 맞춤형교실 개인위탁 외부강사 긴급 공고",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+    }
+  ]
 }

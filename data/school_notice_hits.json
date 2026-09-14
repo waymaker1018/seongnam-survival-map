@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-13T10:41:41.347Z",
+  "generatedAt": "2026-09-14T03:57:48.507Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 15,
+  "hitCount": 13,
   "keywords": [
     "AI",
     "인공지능",
@@ -193,30 +193,6 @@
       "deadline": null,
       "title": "2026년 성남송현초 방과후 AI 기반 학생동아리 운영 강사 채용 공고",
       "url": "https://snsonghyeon-e.goesn.kr/snsonghyeon-e/na/ntt/selectNttInfo.do?mi=13694&bbsId=11987&nttSn=1952643"
-    },
-    {
-      "id": "sangwon-e:sangwon-e:1951534",
-      "schoolId": "sangwon-e",
-      "schoolName": "상원초등학교",
-      "schoolHomepage": "https://sangwon-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://sangwon-e.goesn.kr/sangwon-e/na/ntt/selectNttList.do?mi=25176&bbsId=11555&listCo=50&currPage=1",
-      "postedAt": "2026-08-30T15:00:00.000Z",
-      "deadline": null,
-      "title": "상원초등학교 돌봄교실 특기적성강사 채용 재공고",
-      "url": "https://sangwon-e.goesn.kr/sangwon-e/na/ntt/selectNttInfo.do?mi=25176&bbsId=11555&nttSn=1951534"
-    },
-    {
-      "id": "sangwon-e:sangwon-e:1951474",
-      "schoolId": "sangwon-e",
-      "schoolName": "상원초등학교",
-      "schoolHomepage": "https://sangwon-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://sangwon-e.goesn.kr/sangwon-e/na/ntt/selectNttList.do?mi=25176&bbsId=11555&listCo=50&currPage=1",
-      "postedAt": "2026-08-30T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026학년도 교육과정 운영 관련 (AI로봇코딩교육) 협력 강사 채용 공고",
-      "url": "https://sangwon-e.goesn.kr/sangwon-e/na/ntt/selectNttInfo.do?mi=25176&bbsId=11555&nttSn=1951474"
     }
   ]
 }
