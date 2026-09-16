@@ -1,68 +1,8 @@
 {
-  "generatedAt": "2026-09-15T10:34:36.566Z",
-  "hitCount": 85,
+  "generatedAt": "2026-09-16T03:58:11.406Z",
+  "hitCount": 81,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:nbedu:11385",
-      "schoolId": "sen-7041141",
-      "schoolName": "서울신흥초등학교(서울남부교육지원청 학교통합지원과)",
-      "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-09-15T00:00:00+09:00",
-      "title": "서울신흥초등학교 돌봄전담사 대체직원 채용계획 공고 (기타)",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:nbedu:11380",
-      "schoolId": "sen-7041131",
-      "schoolName": "서울미래초등학교(서울남부교육지원청 학교통합지원과)",
-      "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-09-15T00:00:00+09:00",
-      "title": "서울미래초등학교 학습지원 튜터 채용계획 공고 (기타)",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:nbedu:11377",
-      "schoolId": "sen-7041160",
-      "schoolName": "서울정심초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-09-15T00:00:00+09:00",
-      "title": "(정심초)기간제교사(1학년담임) 채용 공고 (기간제교사)",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gdspedu:8316",
-      "schoolId": "sen-7130118",
-      "schoolName": "서울둔촌초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강동송파 구인",
-      "boardUrl": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-09-15T00:00:00+09:00",
-      "title": "특수학급 미술",
-      "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:dgedu:10257",
-      "schoolId": "sen-7132112",
-      "schoolName": "서울영화초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-09-15T00:00:00+09:00",
-      "title": "(서울영화초) 2026학년도 다문화 코디네이터 채용 공고 (기타)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:nbedu:11387",
       "schoolId": "sen-7041151",
@@ -122,6 +62,18 @@
       "deadline": "2026-09-18T00:00:00+09:00",
       "title": "(서울원당초)학습지원 튜터 채용공고",
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gdspedu:8321",
+      "schoolId": "sen-7130104",
+      "schoolName": "서울가주초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강동송파 구인",
+      "boardUrl": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-09-22T00:00:00+09:00",
+      "title": "코딩교육(5~6학년)",
+      "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:nbedu:11358",
