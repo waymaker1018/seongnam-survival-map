@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-17T04:05:13.740Z",
-  "hitCount": 80,
+  "generatedAt": "2026-09-17T10:36:56.813Z",
+  "hitCount": 81,
   "errors": [],
   "items": [
     {
@@ -49,6 +49,18 @@
       "postedAt": null,
       "deadline": "2026-09-18T00:00:00+09:00",
       "title": "(서울원당초)학습지원 튜터 채용공고",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10261",
+      "schoolId": "sen-7132112",
+      "schoolName": "서울영화초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-09-21T00:00:00+09:00",
+      "title": "(서울영화초) 2026학년도 다문화 코디네이터 채용 공고 (재공고) (기간제근로자)",
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
@@ -772,6 +784,18 @@
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:gnscedu:14251",
+      "schoolId": "sen-7091400",
+      "schoolName": "서울신중초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강남서초 구인",
+      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "돌봄교실 강해란 (2026 전일제 돌봄전담사 대체직 채용 공고)",
+      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:gnscedu:14248",
       "schoolId": "sen-7091370",
       "schoolName": "서울개일초등학교",
@@ -949,18 +973,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "미술놀이 김경하 (맞춤형교실 강사(미술놀이))",
-      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gnscedu:14179",
-      "schoolId": "sen-7091384",
-      "schoolName": "서울매헌초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강남서초 구인",
-      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "체육 권수진 (놀이체육강사)",
       "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
