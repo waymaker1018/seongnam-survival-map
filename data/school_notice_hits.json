@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-16T10:22:04.534Z",
+  "generatedAt": "2026-09-17T03:59:42.579Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 15,
+  "hitCount": 17,
   "keywords": [
     "AI",
     "인공지능",
@@ -38,6 +38,42 @@
     "디지털 새싹"
   ],
   "items": [
+    {
+      "id": "seohyeon-e:seohyeon-e:1956019",
+      "schoolId": "seohyeon-e",
+      "schoolName": "서현초등학교",
+      "schoolHomepage": "https://seohyeon-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://seohyeon-e.goesn.kr/seohyeon-e/na/ntt/selectNttList.do?mi=13287&bbsId=11769&listCo=50&currPage=1",
+      "postedAt": "2026-09-16T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026학년도 서현초등학교 5학년 미술강사 채용 공고",
+      "url": "https://seohyeon-e.goesn.kr/seohyeon-e/na/ntt/selectNttInfo.do?mi=13287&bbsId=11769&nttSn=1956019"
+    },
+    {
+      "id": "office:goesn:1956022",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-09-16T15:00:00.000Z",
+      "deadline": "2026-09-22T15:00:00.000Z",
+      "title": "2026학년도 서현초등학교 5학년 미술강사 채용 공고",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1956022"
+    },
+    {
+      "id": "snb-e:snb-e:1956089",
+      "schoolId": "snb-e",
+      "schoolName": "성남북초등학교",
+      "schoolHomepage": "https://snb-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://snb-e.goesn.kr/snb-e/na/ntt/selectNttList.do?mi=10653&bbsId=10283&listCo=50&currPage=1",
+      "postedAt": "2026-09-16T15:00:00.000Z",
+      "deadline": null,
+      "title": "집단 상담 프로그램 [미술 치료] 강사 모집공고",
+      "url": "https://snb-e.goesn.kr/snb-e/na/ntt/selectNttInfo.do?mi=10653&bbsId=10283&nttSn=1956089"
+    },
     {
       "id": "seodang-e:seodang-e:1955469",
       "schoolId": "seodang-e",
@@ -205,18 +241,6 @@
       "deadline": null,
       "title": "2026학년도 방과후학교 방송댄스부 외부강사 모집 공고",
       "url": "https://chungsol-e.goesn.kr/chungsol-e/na/ntt/selectNttInfo.do?mi=26233&bbsId=20387&nttSn=1953232"
-    },
-    {
-      "id": "snsonghyeon-e:snsonghyeon-e:1952643",
-      "schoolId": "snsonghyeon-e",
-      "schoolName": "성남송현초등학교",
-      "schoolHomepage": "https://snsonghyeon-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://snsonghyeon-e.goesn.kr/snsonghyeon-e/na/ntt/selectNttList.do?mi=13694&bbsId=11987&listCo=50&currPage=1",
-      "postedAt": "2026-09-02T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026년 성남송현초 방과후 AI 기반 학생동아리 운영 강사 채용 공고",
-      "url": "https://snsonghyeon-e.goesn.kr/snsonghyeon-e/na/ntt/selectNttInfo.do?mi=13694&bbsId=11987&nttSn=1952643"
     }
   ]
 }
