@@ -1,20 +1,8 @@
 {
-  "generatedAt": "2026-09-17T10:36:56.813Z",
-  "hitCount": 81,
+  "generatedAt": "2026-09-18T03:48:16.170Z",
+  "hitCount": 80,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:dgedu:10251",
-      "schoolId": null,
-      "schoolName": "원당초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-09-17T00:00:00+09:00",
-      "title": "(마감)[관악구]원당초등학교 위클래스 상담수업 강사 모집 (강사)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:sbedu:5595",
       "schoolId": "sen-7031112",
