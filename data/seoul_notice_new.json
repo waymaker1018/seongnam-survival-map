@@ -1,5 +1,18 @@
 {
-  "generatedAt": "2026-09-18T03:48:16.170Z",
-  "newCount": 0,
-  "items": []
+  "generatedAt": "2026-09-18T10:08:51.862Z",
+  "newCount": 1,
+  "items": [
+    {
+      "id": "seoul:gsycedu:15130",
+      "schoolId": "sen-7081467",
+      "schoolName": "서울염동초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "초등특수 특수학급 담임교사",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    }
+  ]
 }
