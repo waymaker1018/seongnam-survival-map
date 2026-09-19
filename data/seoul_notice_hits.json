@@ -1,44 +1,8 @@
 {
-  "generatedAt": "2026-09-18T10:08:51.862Z",
-  "hitCount": 79,
+  "generatedAt": "2026-09-19T03:49:20.266Z",
+  "hitCount": 76,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:sbedu:5595",
-      "schoolId": "sen-7031112",
-      "schoolName": "서울갈현초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
-      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-09-18T00:00:00+09:00",
-      "title": "초등예술협력강사(연극)",
-      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:nbedu:11391",
-      "schoolId": "sen-7041107",
-      "schoolName": "서울구로남초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-09-18T00:00:00+09:00",
-      "title": "(서울구로남초등학교) 2026학년도 기초학력 협력강사 채용 공고 (시간강사)",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:dgedu:10211",
-      "schoolId": "sen-7132113",
-      "schoolName": "서울원당초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-09-18T00:00:00+09:00",
-      "title": "(서울원당초)학습지원 튜터 채용공고",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:dgedu:10261",
       "schoolId": "sen-7132112",
