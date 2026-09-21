@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-21T04:03:04.205Z",
-  "hitCount": 77,
+  "generatedAt": "2026-09-21T11:14:25.833Z",
+  "hitCount": 79,
   "errors": [],
   "items": [
     {
@@ -40,6 +40,18 @@
       "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:nbedu:11396",
+      "schoolId": "sen-7041112",
+      "schoolName": "서울금천초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-10-01T00:00:00+09:00",
+      "title": "체육협력강사(탁구) 모집공고 (시간강사)",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:sbedu:5592",
       "schoolId": null,
       "schoolName": "서울어울초등학교",
@@ -61,6 +73,18 @@
       "postedAt": null,
       "deadline": "2026-10-14T00:00:00+09:00",
       "title": "(개웅초)2026학년도 2학기 맞춤형교실 개인위탁 외부강사 긴급 공고",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:nbedu:11395",
+      "schoolId": null,
+      "schoolName": "개웅초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-10-21T00:00:00+09:00",
+      "title": "(개웅초)2026학년도 2학기 맞춤형교실 창의놀이 프로그램 외부강사 긴급 공고",
       "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
@@ -350,6 +374,18 @@
       "deadline": null,
       "title": "초등예술하나(예술교육) 강사 종이접기, 난타, 연극",
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gsycedu:15134",
+      "schoolId": null,
+      "schoolName": "학교통합지원과",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "[3차공고] ('26. 10월~12월 채용 예정) 서울특별시강서양천교육지원청 관내 공립 초·중·고·특수학교 시간강사 채용 공고",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:gsycedu:15133",
@@ -721,18 +757,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "지역사회교육전문가 지역사회전문가",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15067",
-      "schoolId": "sen-7081454",
-      "schoolName": "서울신서초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "체육 뉴스포츠",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
