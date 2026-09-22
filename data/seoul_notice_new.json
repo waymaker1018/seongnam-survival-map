@@ -1,42 +1,5 @@
 {
-  "generatedAt": "2026-09-21T11:14:25.833Z",
-  "newCount": 3,
-  "items": [
-    {
-      "id": "seoul:nbedu:11396",
-      "schoolId": "sen-7041112",
-      "schoolName": "서울금천초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-10-01T00:00:00+09:00",
-      "title": "체육협력강사(탁구) 모집공고 (시간강사)",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:nbedu:11395",
-      "schoolId": null,
-      "schoolName": "개웅초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-10-21T00:00:00+09:00",
-      "title": "(개웅초)2026학년도 2학기 맞춤형교실 창의놀이 프로그램 외부강사 긴급 공고",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15134",
-      "schoolId": null,
-      "schoolName": "학교통합지원과",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "[3차공고] ('26. 10월~12월 채용 예정) 서울특별시강서양천교육지원청 관내 공립 초·중·고·특수학교 시간강사 채용 공고",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    }
-  ]
+  "generatedAt": "2026-09-22T03:55:45.872Z",
+  "newCount": 0,
+  "items": []
 }

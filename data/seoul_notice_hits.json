@@ -1,20 +1,8 @@
 {
-  "generatedAt": "2026-09-21T11:14:25.833Z",
-  "hitCount": 79,
+  "generatedAt": "2026-09-22T03:55:45.872Z",
+  "hitCount": 78,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:dgedu:10261",
-      "schoolId": "sen-7132112",
-      "schoolName": "서울영화초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-09-21T00:00:00+09:00",
-      "title": "(서울영화초) 2026학년도 다문화 코디네이터 채용 공고 (재공고) (기간제근로자)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:gdspedu:8321",
       "schoolId": "sen-7130104",
