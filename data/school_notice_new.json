@@ -1,5 +1,30 @@
 {
-  "generatedAt": "2026-09-22T03:54:18.983Z",
-  "newCount": 0,
-  "items": []
+  "generatedAt": "2026-09-22T10:25:42.840Z",
+  "newCount": 2,
+  "items": [
+    {
+      "id": "office:goesn:1957315",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-09-21T15:00:00.000Z",
+      "deadline": "2026-09-29T15:00:00.000Z",
+      "title": "성남장안초 AI 메이커 프로그램 강사 채용(웹툰, STEAM 발명(만들기) 외 2건)",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1957315"
+    },
+    {
+      "id": "office:goesn:1957291",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-09-21T15:00:00.000Z",
+      "deadline": "2026-09-26T15:00:00.000Z",
+      "title": "초1~2 맞춤형 프로그램(음악놀이) 개인위탁 외부강사 채용 공고",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1957291"
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-22T03:55:45.872Z",
-  "hitCount": 78,
+  "generatedAt": "2026-09-22T10:26:49.502Z",
+  "hitCount": 77,
   "errors": [],
   "items": [
     {
@@ -733,18 +733,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "체육 체육 (필드형 및 네트형 스포츠)",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15068",
-      "schoolId": "sen-7081459",
-      "schoolName": "서울양동초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "지역사회교육전문가 지역사회전문가",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
