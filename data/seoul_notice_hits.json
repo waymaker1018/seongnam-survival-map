@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-23T03:58:27.427Z",
-  "hitCount": 76,
+  "generatedAt": "2026-09-23T10:22:46.127Z",
+  "hitCount": 77,
   "errors": [],
   "items": [
     {
@@ -350,6 +350,18 @@
       "deadline": null,
       "title": "초등예술하나(예술교육) 강사 종이접기, 난타, 연극",
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gsycedu:15137",
+      "schoolId": "sen-7081467",
+      "schoolName": "서울염동초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "초등특수 특수학급 담임교사",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:gsycedu:15136",
