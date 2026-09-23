@@ -1,20 +1,8 @@
 {
-  "generatedAt": "2026-09-22T10:26:49.502Z",
-  "hitCount": 77,
+  "generatedAt": "2026-09-23T03:58:27.427Z",
+  "hitCount": 76,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:gdspedu:8321",
-      "schoolId": "sen-7130104",
-      "schoolName": "서울가주초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강동송파 구인",
-      "boardUrl": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-09-22T00:00:00+09:00",
-      "title": "코딩교육(5~6학년)",
-      "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:nbedu:11358",
       "schoolId": null,
@@ -362,6 +350,18 @@
       "deadline": null,
       "title": "초등예술하나(예술교육) 강사 종이접기, 난타, 연극",
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gsycedu:15136",
+      "schoolId": "sen-7081428",
+      "schoolName": "서울공항초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "6학년 영어",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:gsycedu:15134",
@@ -721,18 +721,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "이중언어강사(중국어)",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15069",
-      "schoolId": "sen-7081438",
-      "schoolName": "서울목동초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "체육 체육 (필드형 및 네트형 스포츠)",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {

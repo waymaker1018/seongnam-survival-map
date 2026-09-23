@@ -1,5 +1,18 @@
 {
-  "generatedAt": "2026-09-22T10:26:49.502Z",
-  "newCount": 0,
-  "items": []
+  "generatedAt": "2026-09-23T03:58:27.427Z",
+  "newCount": 1,
+  "items": [
+    {
+      "id": "seoul:gsycedu:15136",
+      "schoolId": "sen-7081428",
+      "schoolName": "서울공항초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "6학년 영어",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    }
+  ]
 }
