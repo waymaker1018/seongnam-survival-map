@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-23T10:21:02.377Z",
+  "generatedAt": "2026-09-24T03:44:43.921Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 18,
+  "hitCount": 17,
   "keywords": [
     "AI",
     "인공지능",
@@ -241,18 +241,6 @@
       "deadline": null,
       "title": "2026학년도 상탑초 6학년 음악교과 국악 강사 채용 공고",
       "url": "https://sangtap-e.goesn.kr/sangtap-e/na/ntt/selectNttInfo.do?mi=13031&bbsId=11618&nttSn=1955402"
-    },
-    {
-      "id": "snb-e:snb-e:1954471",
-      "schoolId": "snb-e",
-      "schoolName": "성남북초등학교",
-      "schoolHomepage": "https://snb-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://snb-e.goesn.kr/snb-e/na/ntt/selectNttList.do?mi=10653&bbsId=10283&listCo=50&currPage=1",
-      "postedAt": "2026-09-09T15:00:00.000Z",
-      "deadline": null,
-      "title": "집단 프로그램 강사 모집 공고",
-      "url": "https://snb-e.goesn.kr/snb-e/na/ntt/selectNttInfo.do?mi=10653&bbsId=10283&nttSn=1954471"
     }
   ]
 }
