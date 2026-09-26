@@ -1,20 +1,8 @@
 {
-  "generatedAt": "2026-09-25T10:40:42.707Z",
-  "hitCount": 77,
+  "generatedAt": "2026-09-26T04:07:33.894Z",
+  "hitCount": 76,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:nbedu:11358",
-      "schoolId": null,
-      "schoolName": "서울대영초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-09-25T00:00:00+09:00",
-      "title": "(대영초) 10.6.(화)~10.8.(목) 특수학급 시간강사 구인 (시간강사)",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:nbedu:11396",
       "schoolId": "sen-7041112",
