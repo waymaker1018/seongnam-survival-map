@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-27T10:54:58.847Z",
+  "generatedAt": "2026-09-28T04:20:29.053Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 17,
+  "hitCount": 16,
   "keywords": [
     "AI",
     "인공지능",
@@ -229,18 +229,6 @@
       "deadline": null,
       "title": "2026학년도 학생맞춤통합 지원 강사 모집 공고(기초학력 협력강사 추가 모집)",
       "url": "https://seodang-e.goesn.kr/seodang-e/na/ntt/selectNttInfo.do?mi=19703&bbsId=15387&nttSn=1955469"
-    },
-    {
-      "id": "sangtap-e:sangtap-e:1955402",
-      "schoolId": "sangtap-e",
-      "schoolName": "상탑초등학교",
-      "schoolHomepage": "https://sangtap-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://sangtap-e.goesn.kr/sangtap-e/na/ntt/selectNttList.do?mi=13031&bbsId=11618&listCo=50&currPage=1",
-      "postedAt": "2026-09-13T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026학년도 상탑초 6학년 음악교과 국악 강사 채용 공고",
-      "url": "https://sangtap-e.goesn.kr/sangtap-e/na/ntt/selectNttInfo.do?mi=13031&bbsId=11618&nttSn=1955402"
     }
   ]
 }
