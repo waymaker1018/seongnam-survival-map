@@ -1,5 +1,18 @@
 {
-  "generatedAt": "2026-09-28T04:21:38.299Z",
-  "newCount": 0,
-  "items": []
+  "generatedAt": "2026-09-28T12:09:13.946Z",
+  "newCount": 1,
+  "items": [
+    {
+      "id": "seoul:sbedu:5597",
+      "schoolId": "sen-7031278",
+      "schoolName": "서울가재울초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
+      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-10-06T00:00:00+09:00",
+      "title": "특수학급 방과후교실 개인위탁 외부강사",
+      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
+    }
+  ]
 }
