@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-28T12:09:13.946Z",
-  "hitCount": 77,
+  "generatedAt": "2026-09-29T04:52:14.147Z",
+  "hitCount": 78,
   "errors": [],
   "items": [
     {
@@ -14,6 +14,18 @@
       "deadline": "2026-10-01T00:00:00+09:00",
       "title": "체육협력강사(탁구) 모집공고 (시간강사)",
       "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:sbedu:5598",
+      "schoolId": null,
+      "schoolName": "서울어울초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
+      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-10-02T00:00:00+09:00",
+      "title": "6학년 전환기 신체활동(체육)",
+      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:sbedu:5592",
@@ -350,6 +362,18 @@
       "deadline": null,
       "title": "초등예술하나(예술교육) 강사 종이접기, 난타, 연극",
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gsycedu:15138",
+      "schoolId": "sen-7081431",
+      "schoolName": "서울등마초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "5~6학년 아침운동(브레인 트레이닝)",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:gsycedu:15137",
@@ -721,18 +745,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "학습지원 튜터",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15071",
-      "schoolId": "sen-7081458",
-      "schoolName": "서울양강초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "이중언어강사(중국어)",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {

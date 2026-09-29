@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T12:07:45.037Z",
+  "generatedAt": "2026-09-29T04:51:00.708Z",
   "lookbackDays": 14,
   "schoolCount": 73,
   "hitCount": 18,
@@ -38,6 +38,18 @@
     "디지털 새싹"
   ],
   "items": [
+    {
+      "id": "snb-e:snb-e:1958276",
+      "schoolId": "snb-e",
+      "schoolName": "성남북초등학교",
+      "schoolHomepage": "https://snb-e.goesn.kr",
+      "boardLabel": "수익자 방과후 공지사항",
+      "boardUrl": "https://snb-e.goesn.kr/snb-e/na/ntt/selectNttList.do?mi=10969&bbsId=10469&listCo=50&currPage=1",
+      "postedAt": "2026-09-28T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026학년도 3분기 수익자 방과후 프로그램 모집 안내",
+      "url": "https://snb-e.goesn.kr/snb-e/na/ntt/selectNttInfo.do?mi=10969&bbsId=10469&nttSn=1958276"
+    },
     {
       "id": "office:goesn:1958150",
       "schoolId": null,
@@ -241,18 +253,6 @@
       "deadline": null,
       "title": "집단 상담 프로그램 [미술 치료] 강사 모집공고",
       "url": "https://snb-e.goesn.kr/snb-e/na/ntt/selectNttInfo.do?mi=10653&bbsId=10283&nttSn=1956089"
-    },
-    {
-      "id": "seodang-e:seodang-e:1955469",
-      "schoolId": "seodang-e",
-      "schoolName": "서당초등학교",
-      "schoolHomepage": "https://seodang-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://seodang-e.goesn.kr/seodang-e/na/ntt/selectNttList.do?mi=19703&bbsId=15387&listCo=50&currPage=1",
-      "postedAt": "2026-09-14T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026학년도 학생맞춤통합 지원 강사 모집 공고(기초학력 협력강사 추가 모집)",
-      "url": "https://seodang-e.goesn.kr/seodang-e/na/ntt/selectNttInfo.do?mi=19703&bbsId=15387&nttSn=1955469"
     }
   ]
 }
