@@ -1,18 +1,5 @@
 {
-  "generatedAt": "2026-09-29T04:51:00.708Z",
-  "newCount": 1,
-  "items": [
-    {
-      "id": "snb-e:snb-e:1958276",
-      "schoolId": "snb-e",
-      "schoolName": "성남북초등학교",
-      "schoolHomepage": "https://snb-e.goesn.kr",
-      "boardLabel": "수익자 방과후 공지사항",
-      "boardUrl": "https://snb-e.goesn.kr/snb-e/na/ntt/selectNttList.do?mi=10969&bbsId=10469&listCo=50&currPage=1",
-      "postedAt": "2026-09-28T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026학년도 3분기 수익자 방과후 프로그램 모집 안내",
-      "url": "https://snb-e.goesn.kr/snb-e/na/ntt/selectNttInfo.do?mi=10969&bbsId=10469&nttSn=1958276"
-    }
-  ]
+  "generatedAt": "2026-09-29T11:39:56.393Z",
+  "newCount": 0,
+  "items": []
 }
