@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-30T04:38:21.372Z",
-  "hitCount": 79,
+  "generatedAt": "2026-09-30T11:28:00.572Z",
+  "hitCount": 80,
   "errors": [],
   "items": [
     {
@@ -40,6 +40,18 @@
       "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:sbedu:5599",
+      "schoolId": "sen-7031155",
+      "schoolName": "서울용강초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
+      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-10-05T00:00:00+09:00",
+      "title": "코딩 협력수업",
+      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:sbedu:5597",
       "schoolId": "sen-7031278",
       "schoolName": "서울가재울초등학교",
@@ -72,7 +84,7 @@
       "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
       "deadline": "2026-10-21T00:00:00+09:00",
-      "title": "(개웅초)2026학년도 2학기 맞춤형교실 창의놀이 프로그램 외부강사 긴급 공고",
+      "title": "(개웅초)2026학년도 2학기 맞춤형교실 창의놀이 프로그램 외부강사 공고",
       "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
