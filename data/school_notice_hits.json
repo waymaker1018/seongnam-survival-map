@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-30T11:26:55.939Z",
+  "generatedAt": "2026-10-01T04:48:39.623Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 14,
+  "hitCount": 9,
   "keywords": [
     "AI",
     "인공지능",
@@ -135,18 +135,6 @@
       "url": "https://sangtap-e.goesn.kr/sangtap-e/na/ntt/selectNttInfo.do?mi=13031&bbsId=11618&nttSn=1957432"
     },
     {
-      "id": "office:goesn:1957683",
-      "schoolId": null,
-      "schoolName": "성남교육지원청 구인",
-      "schoolHomepage": "https://www.goesn.kr",
-      "boardLabel": "성남교육지원청 구인",
-      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
-      "postedAt": "2026-09-22T15:00:00.000Z",
-      "deadline": "2026-09-29T15:00:00.000Z",
-      "title": "특수교육 교육과정 운영 협력강사 채용 공고(대하초)",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1957683"
-    },
-    {
       "id": "snys-e:snys-e:1956780",
       "schoolId": "snys-e",
       "schoolName": "성남여수초등학교",
@@ -157,54 +145,6 @@
       "deadline": null,
       "title": "2026학년도 성남여수초 2,4학년 스피드 컵스택 교육 협력강사 선발공고",
       "url": "https://snys-e.goesn.kr/snys-e/na/ntt/selectNttInfo.do?mi=13840&bbsId=12070&nttSn=1956780"
-    },
-    {
-      "id": "daeha-e:daeha-e:1956282",
-      "schoolId": "daeha-e",
-      "schoolName": "대하초등학교",
-      "schoolHomepage": "https://daeha-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://daeha-e.goesn.kr/daeha-e/na/ntt/selectNttList.do?mi=11904&bbsId=11001&listCo=50&currPage=1",
-      "postedAt": "2026-09-16T15:00:00.000Z",
-      "deadline": null,
-      "title": "「대하초 스쿨런(RUN)」 방과후 달리기 희망 학생 모집 안내",
-      "url": "https://daeha-e.goesn.kr/daeha-e/na/ntt/selectNttInfo.do?mi=11904&bbsId=11001&nttSn=1956282"
-    },
-    {
-      "id": "sangtap-e:sangtap-e:1956279",
-      "schoolId": "sangtap-e",
-      "schoolName": "상탑초등학교",
-      "schoolHomepage": "https://sangtap-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://sangtap-e.goesn.kr/sangtap-e/na/ntt/selectNttList.do?mi=13031&bbsId=11618&listCo=50&currPage=1",
-      "postedAt": "2026-09-16T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026학년도 상탑초등학교 스포츠클럽강사(탁구) 채용공고",
-      "url": "https://sangtap-e.goesn.kr/sangtap-e/na/ntt/selectNttInfo.do?mi=13031&bbsId=11618&nttSn=1956279"
-    },
-    {
-      "id": "seohyeon-e:seohyeon-e:1956019",
-      "schoolId": "seohyeon-e",
-      "schoolName": "서현초등학교",
-      "schoolHomepage": "https://seohyeon-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://seohyeon-e.goesn.kr/seohyeon-e/na/ntt/selectNttList.do?mi=13287&bbsId=11769&listCo=50&currPage=1",
-      "postedAt": "2026-09-16T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026학년도 서현초등학교 5학년 미술강사 채용 공고",
-      "url": "https://seohyeon-e.goesn.kr/seohyeon-e/na/ntt/selectNttInfo.do?mi=13287&bbsId=11769&nttSn=1956019"
-    },
-    {
-      "id": "snb-e:snb-e:1956089",
-      "schoolId": "snb-e",
-      "schoolName": "성남북초등학교",
-      "schoolHomepage": "https://snb-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://snb-e.goesn.kr/snb-e/na/ntt/selectNttList.do?mi=10653&bbsId=10283&listCo=50&currPage=1",
-      "postedAt": "2026-09-16T15:00:00.000Z",
-      "deadline": null,
-      "title": "집단 상담 프로그램 [미술 치료] 강사 모집공고",
-      "url": "https://snb-e.goesn.kr/snb-e/na/ntt/selectNttInfo.do?mi=10653&bbsId=10283&nttSn=1956089"
     }
   ]
 }

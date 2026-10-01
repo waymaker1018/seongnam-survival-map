@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-09-30T11:28:00.572Z",
+  "generatedAt": "2026-10-01T04:50:28.603Z",
   "newCount": 1,
   "items": [
     {
-      "id": "seoul:sbedu:5599",
-      "schoolId": "sen-7031155",
-      "schoolName": "서울용강초등학교",
+      "id": "seoul:nbedu:11404",
+      "schoolId": "sen-7041160",
+      "schoolName": "서울정심초등학교",
       "schoolHomepage": null,
-      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
-      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
-      "deadline": "2026-10-05T00:00:00+09:00",
-      "title": "코딩 협력수업",
-      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
+      "deadline": "2026-10-07T00:00:00+09:00",
+      "title": "(정심초)기초학력 협력강사 모집 공고 (기타)",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
 }
