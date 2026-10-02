@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T04:39:48.048Z",
+  "generatedAt": "2026-10-02T11:26:33.988Z",
   "lookbackDays": 14,
   "schoolCount": 73,
   "hitCount": 14,
@@ -38,6 +38,18 @@
     "디지털 새싹"
   ],
   "items": [
+    {
+      "id": "office:goesn:1959794",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-10-01T15:00:00.000Z",
+      "deadline": "2026-10-04T15:00:00.000Z",
+      "title": "성남초등학교 시간강사(특수교사) 채용 공고",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1959794"
+    },
     {
       "id": "office:goesn:1959575",
       "schoolId": null,
@@ -145,18 +157,6 @@
       "deadline": null,
       "title": "2026학년도 3분기 수익자 방과후 프로그램 모집 안내",
       "url": "https://snb-e.goesn.kr/snb-e/na/ntt/selectNttInfo.do?mi=10969&bbsId=10469&nttSn=1958276"
-    },
-    {
-      "id": "office:goesn:1958150",
-      "schoolId": null,
-      "schoolName": "성남교육지원청 구인",
-      "schoolHomepage": "https://www.goesn.kr",
-      "boardLabel": "성남교육지원청 구인",
-      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
-      "postedAt": "2026-09-27T15:00:00.000Z",
-      "deadline": "2026-10-01T15:00:00.000Z",
-      "title": "2026학년도 2학기 성남초등학교 특수교육 협력강사 채용 공고",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1958150"
     },
     {
       "id": "sangtap-e:sangtap-e:1957668",
