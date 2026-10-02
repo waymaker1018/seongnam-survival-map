@@ -1,20 +1,8 @@
 {
-  "generatedAt": "2026-10-01T11:56:05.040Z",
-  "hitCount": 80,
+  "generatedAt": "2026-10-02T04:40:57.001Z",
+  "hitCount": 79,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:nbedu:11396",
-      "schoolId": "sen-7041112",
-      "schoolName": "서울금천초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-10-01T00:00:00+09:00",
-      "title": "체육협력강사(탁구) 모집공고 (시간강사)",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:sbedu:5598",
       "schoolId": null,
