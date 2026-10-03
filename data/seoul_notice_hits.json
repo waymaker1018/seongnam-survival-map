@@ -1,20 +1,8 @@
 {
-  "generatedAt": "2026-10-02T11:27:52.932Z",
-  "hitCount": 79,
+  "generatedAt": "2026-10-03T04:27:38.322Z",
+  "hitCount": 78,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:sbedu:5598",
-      "schoolId": null,
-      "schoolName": "서울어울초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
-      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-10-02T00:00:00+09:00",
-      "title": "6학년 전환기 신체활동(체육)",
-      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:sbedu:5592",
       "schoolId": null,
