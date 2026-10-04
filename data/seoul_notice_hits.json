@@ -1,20 +1,8 @@
 {
-  "generatedAt": "2026-10-03T10:44:19.652Z",
-  "hitCount": 78,
+  "generatedAt": "2026-10-04T04:54:56.252Z",
+  "hitCount": 77,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:sbedu:5592",
-      "schoolId": null,
-      "schoolName": "서울어울초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
-      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-10-03T00:00:00+09:00",
-      "title": "초등예술하나 연극 강사(6학년)",
-      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:sbedu:5599",
       "schoolId": "sen-7031155",
