@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-10-06T05:28:30.176Z",
+  "generatedAt": "2026-10-06T12:18:52.417Z",
   "newCount": 1,
   "items": [
     {
-      "id": "seoul:nbedu:11409",
-      "schoolId": "sen-7041143",
-      "schoolName": "서울여의도초등학교",
+      "id": "seoul:gsycedu:15141",
+      "schoolId": null,
+      "schoolName": "학교통합지원과",
       "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
-      "deadline": "2026-10-21T00:00:00+09:00",
-      "title": "휠체어 이용 학생 휠체어 이동 도와주실 분 구인합니다.(10.23(금), 10.30(금) 양일 08:50~10:50) (기타)",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+      "deadline": null,
+      "title": "[4차공고] ('26. 10월~12월 채용 예정) 서울특별시강서양천교육지원청 관내 공립 초·중학교 시간강사 채용 공고",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
 }
