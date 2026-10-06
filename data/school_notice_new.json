@@ -1,5 +1,18 @@
 {
-  "generatedAt": "2026-10-05T12:48:12.687Z",
-  "newCount": 0,
-  "items": []
+  "generatedAt": "2026-10-06T05:27:17.847Z",
+  "newCount": 1,
+  "items": [
+    {
+      "id": "snb-e:snb-e:1959955",
+      "schoolId": "snb-e",
+      "schoolName": "성남북초등학교",
+      "schoolHomepage": "https://snb-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://snb-e.goesn.kr/snb-e/na/ntt/selectNttList.do?mi=10653&bbsId=10283&listCo=50&currPage=1",
+      "postedAt": "2026-10-05T15:00:00.000Z",
+      "deadline": null,
+      "title": "집단 상담 프로그램 [인형극] 강사 모집 공고",
+      "url": "https://snb-e.goesn.kr/snb-e/na/ntt/selectNttInfo.do?mi=10653&bbsId=10283&nttSn=1959955"
+    }
+  ]
 }

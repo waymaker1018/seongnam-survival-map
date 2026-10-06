@@ -1,8 +1,16 @@
 {
-  "generatedAt": "2026-10-05T12:49:15.236Z",
-  "hitCount": 4,
+  "generatedAt": "2026-10-06T05:28:14.255Z",
+  "hitCount": 3,
   "errors": [],
   "items": [
+    {
+      "id": "dtjob:https://www.goebc.kr/puchon-m/na/ntt/selectNttInfo.do?mi=7998&bbsId=4420&nttSn=1234962",
+      "source": "전국 디지털튜터 채용",
+      "title": "[경기도 · 부천중학교] 2026학년도 디지털튜터 추가 채용 공고 (1명)",
+      "postedAt": "2026-10-06T00:00:00+09:00",
+      "deadline": "2026-10-08T00:00:00+09:00",
+      "url": "https://www.goebc.kr/puchon-m/na/ntt/selectNttInfo.do?mi=7998&bbsId=4420&nttSn=1234962"
+    },
     {
       "id": "dtjob:https://moowon-h.goegy.kr/moowon-h/na/ntt/selectNttInfo.do?mi=5710&bbsId=2667&nttSn=1228624",
       "source": "전국 디지털튜터 채용",
@@ -18,22 +26,6 @@
       "postedAt": "2026-09-08T00:00:00+09:00",
       "deadline": "2026-09-15T00:00:00+09:00",
       "url": "https://yeokdong-e.goegh.kr/yeokdong-e/na/ntt/selectNttInfo.do?mi=5134&nttSn=1223874&bbsId=2881"
-    },
-    {
-      "id": "dtjob:https://ssgh-h.goesn.kr/ssgh-h/na/ntt/selectNttInfo.do?mi=17003&bbsId=13863&nttSn=1951853",
-      "source": "전국 디지털튜터 채용",
-      "title": "[경기도 · 숭신여자고등학교] [숭신고등학교] 2026년 AI교육 코디네이터 2차 채용 공고 (1명)",
-      "postedAt": "2026-09-01T00:00:00+09:00",
-      "deadline": "2026-09-03T00:00:00+09:00",
-      "url": "https://ssgh-h.goesn.kr/ssgh-h/na/ntt/selectNttInfo.do?mi=17003&bbsId=13863&nttSn=1951853"
-    },
-    {
-      "id": "moe:107088",
-      "source": "교육부 공고",
-      "title": "전국 디지털튜터 양성센터 교육생 모집",
-      "postedAt": "2026-09-01T00:00:00+09:00",
-      "deadline": null,
-      "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107088&lev=0&m=020402&s=moe"
     }
   ]
 }

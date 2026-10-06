@@ -1,20 +1,8 @@
 {
-  "generatedAt": "2026-10-05T12:49:32.343Z",
+  "generatedAt": "2026-10-06T05:28:30.176Z",
   "hitCount": 77,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:sbedu:5599",
-      "schoolId": "sen-7031155",
-      "schoolName": "서울용강초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
-      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-10-05T00:00:00+09:00",
-      "title": "코딩 협력수업",
-      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:sbedu:5597",
       "schoolId": "sen-7031278",
@@ -49,6 +37,18 @@
       "postedAt": null,
       "deadline": "2026-10-14T00:00:00+09:00",
       "title": "(개웅초)2026학년도 2학기 맞춤형교실 개인위탁 외부강사 긴급 공고",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:nbedu:11409",
+      "schoolId": "sen-7041143",
+      "schoolName": "서울여의도초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-10-21T00:00:00+09:00",
+      "title": "휠체어 이용 학생 휠체어 이동 도와주실 분 구인합니다.(10.23(금), 10.30(금) 양일 08:50~10:50) (기타)",
       "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
