@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-06T12:17:40.845Z",
+  "generatedAt": "2026-10-07T04:56:31.348Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 15,
+  "hitCount": 14,
   "keywords": [
     "AI",
     "인공지능",
@@ -39,16 +39,52 @@
   ],
   "items": [
     {
-      "id": "office:goesn:1960153",
+      "id": "naksaeng-e:naksaeng-e:1960392",
+      "schoolId": "naksaeng-e",
+      "schoolName": "낙생초등학교",
+      "schoolHomepage": "https://naksaeng-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://naksaeng-e.goesn.kr/naksaeng-e/na/ntt/selectNttList.do?mi=24045&bbsId=18371&listCo=50&currPage=1",
+      "postedAt": "2026-10-06T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026학년도 낙생초 방과후 해금 프로그램 강사 모집 공고",
+      "url": "https://naksaeng-e.goesn.kr/naksaeng-e/na/ntt/selectNttInfo.do?mi=24045&bbsId=18371&nttSn=1960392"
+    },
+    {
+      "id": "office:goesn:1960453",
       "schoolId": null,
       "schoolName": "성남교육지원청 구인",
       "schoolHomepage": "https://www.goesn.kr",
       "boardLabel": "성남교육지원청 구인",
       "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
-      "postedAt": "2026-10-05T15:00:00.000Z",
-      "deadline": "2026-10-10T15:00:00.000Z",
-      "title": "성남중앙초)2026년 특수학급 강사 채용 공고 (2차)",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1960153"
+      "postedAt": "2026-10-06T15:00:00.000Z",
+      "deadline": "2026-10-11T15:00:00.000Z",
+      "title": "성남초등학교 특수학급 시간강사 2차 채용 공고",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1960453"
+    },
+    {
+      "id": "office:goesn:1960393",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-10-06T15:00:00.000Z",
+      "deadline": "2026-10-11T15:00:00.000Z",
+      "title": "중원초등학교 특수 시간강사 채용공고",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1960393"
+    },
+    {
+      "id": "office:goesn:1960389",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-10-06T15:00:00.000Z",
+      "deadline": "2026-10-13T15:00:00.000Z",
+      "title": "2026학년도 낙생초 방과후 해금 프로그램 강사 모집 공고",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1960389"
     },
     {
       "id": "snb-e:snb-e:1959955",
@@ -147,18 +183,6 @@
       "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1959399"
     },
     {
-      "id": "office:goesn:1958697",
-      "schoolId": null,
-      "schoolName": "성남교육지원청 구인",
-      "schoolHomepage": "https://www.goesn.kr",
-      "boardLabel": "성남교육지원청 구인",
-      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
-      "postedAt": "2026-09-29T15:00:00.000Z",
-      "deadline": "2026-10-04T15:00:00.000Z",
-      "title": "(급)성남서초등학교 1~2학년 뉴스포츠 협력 강사 채용 공고",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1958697"
-    },
-    {
       "id": "seongnamseo-e:seongnamseo-e:1958699",
       "schoolId": "seongnamseo-e",
       "schoolName": "성남서초등학교",
@@ -181,42 +205,6 @@
       "deadline": null,
       "title": "2026학년도 3분기 수익자 방과후 프로그램 모집 안내",
       "url": "https://snb-e.goesn.kr/snb-e/na/ntt/selectNttInfo.do?mi=10969&bbsId=10469&nttSn=1958276"
-    },
-    {
-      "id": "sangtap-e:sangtap-e:1957668",
-      "schoolId": "sangtap-e",
-      "schoolName": "상탑초등학교",
-      "schoolHomepage": "https://sangtap-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://sangtap-e.goesn.kr/sangtap-e/na/ntt/selectNttList.do?mi=13031&bbsId=11618&listCo=50&currPage=1",
-      "postedAt": "2026-09-22T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026학년도 상탑초 1, 2학년 치어리딩 강사 채용 공고",
-      "url": "https://sangtap-e.goesn.kr/sangtap-e/na/ntt/selectNttInfo.do?mi=13031&bbsId=11618&nttSn=1957668"
-    },
-    {
-      "id": "sangtap-e:sangtap-e:1957667",
-      "schoolId": "sangtap-e",
-      "schoolName": "상탑초등학교",
-      "schoolHomepage": "https://sangtap-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://sangtap-e.goesn.kr/sangtap-e/na/ntt/selectNttList.do?mi=13031&bbsId=11618&listCo=50&currPage=1",
-      "postedAt": "2026-09-22T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026학년도 상탑초등학교 스포츠클럽강사(탁구 전국대회 준비) 채용공고",
-      "url": "https://sangtap-e.goesn.kr/sangtap-e/na/ntt/selectNttInfo.do?mi=13031&bbsId=11618&nttSn=1957667"
-    },
-    {
-      "id": "sangtap-e:sangtap-e:1957432",
-      "schoolId": "sangtap-e",
-      "schoolName": "상탑초등학교",
-      "schoolHomepage": "https://sangtap-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://sangtap-e.goesn.kr/sangtap-e/na/ntt/selectNttList.do?mi=13031&bbsId=11618&listCo=50&currPage=1",
-      "postedAt": "2026-09-22T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026학년도 상탑초 6학년 실과교과 코딩 강사 채용 공고",
-      "url": "https://sangtap-e.goesn.kr/sangtap-e/na/ntt/selectNttInfo.do?mi=13031&bbsId=11618&nttSn=1957432"
     }
   ]
 }

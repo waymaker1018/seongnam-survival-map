@@ -1,18 +1,30 @@
 {
-  "generatedAt": "2026-10-06T12:18:52.417Z",
-  "newCount": 1,
+  "generatedAt": "2026-10-07T04:58:01.106Z",
+  "newCount": 2,
   "items": [
     {
-      "id": "seoul:gsycedu:15141",
-      "schoolId": null,
-      "schoolName": "학교통합지원과",
+      "id": "seoul:nbedu:11411",
+      "schoolId": "sen-7041260",
+      "schoolName": "서울금나래초등학교",
       "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-10-12T00:00:00+09:00",
+      "title": "(서울금나래초)5학년 스포츠 수업 협력강사(시간강사) 채용 공고 (기타)",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gnscedu:14255",
+      "schoolId": "sen-7091409",
+      "schoolName": "서울왕북초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강남서초 구인",
+      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
       "deadline": null,
-      "title": "[4차공고] ('26. 10월~12월 채용 예정) 서울특별시강서양천교육지원청 관내 공립 초·중학교 시간강사 채용 공고",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+      "title": "유인선 (2026 강남형 스쿨존 교통안전지킴이 모집 재공고)",
+      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
 }

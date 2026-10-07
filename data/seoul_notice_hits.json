@@ -1,20 +1,8 @@
 {
-  "generatedAt": "2026-10-06T12:18:52.417Z",
+  "generatedAt": "2026-10-07T04:58:01.106Z",
   "hitCount": 78,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:sbedu:5597",
-      "schoolId": "sen-7031278",
-      "schoolName": "서울가재울초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
-      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-10-06T00:00:00+09:00",
-      "title": "특수학급 방과후교실 개인위탁 외부강사",
-      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:nbedu:11404",
       "schoolId": "sen-7041160",
@@ -25,6 +13,18 @@
       "postedAt": null,
       "deadline": "2026-10-07T00:00:00+09:00",
       "title": "(정심초)기초학력 협력강사 모집 공고 (기타)",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:nbedu:11411",
+      "schoolId": "sen-7041260",
+      "schoolName": "서울금나래초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-10-12T00:00:00+09:00",
+      "title": "(서울금나래초)5학년 스포츠 수업 협력강사(시간강사) 채용 공고 (기타)",
       "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
@@ -736,6 +736,18 @@
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:gnscedu:14255",
+      "schoolId": "sen-7091409",
+      "schoolName": "서울왕북초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강남서초 구인",
+      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "유인선 (2026 강남형 스쿨존 교통안전지킴이 모집 재공고)",
+      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:gnscedu:14252",
       "schoolId": null,
       "schoolName": "서울청담초",
@@ -925,18 +937,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "돌봄교실 김혜진 (돌봄교실 프로그램 강사)",
-      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gnscedu:14187",
-      "schoolId": "sen-7091460",
-      "schoolName": "서울우솔초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강남서초 구인",
-      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "미술놀이 김경하 (맞춤형교실 강사(미술놀이))",
       "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
