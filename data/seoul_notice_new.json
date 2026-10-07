@@ -1,30 +1,18 @@
 {
-  "generatedAt": "2026-10-07T04:58:01.106Z",
-  "newCount": 2,
+  "generatedAt": "2026-10-07T12:10:00.263Z",
+  "newCount": 1,
   "items": [
     {
-      "id": "seoul:nbedu:11411",
-      "schoolId": "sen-7041260",
-      "schoolName": "서울금나래초등학교",
+      "id": "seoul:gdspedu:8332",
+      "schoolId": "sen-7130160",
+      "schoolName": "서울토성초등학교",
       "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "boardLabel": "서울 강동송파 구인",
+      "boardUrl": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
-      "deadline": "2026-10-12T00:00:00+09:00",
-      "title": "(서울금나래초)5학년 스포츠 수업 협력강사(시간강사) 채용 공고 (기타)",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gnscedu:14255",
-      "schoolId": "sen-7091409",
-      "schoolName": "서울왕북초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강남서초 구인",
-      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "유인선 (2026 강남형 스쿨존 교통안전지킴이 모집 재공고)",
-      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
+      "deadline": "2026-10-14T00:00:00+09:00",
+      "title": "대안교실 전담강사 (시간제)",
+      "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
 }

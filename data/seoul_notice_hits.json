@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-07T04:58:01.106Z",
-  "hitCount": 78,
+  "generatedAt": "2026-10-07T12:10:00.263Z",
+  "hitCount": 79,
   "errors": [],
   "items": [
     {
@@ -38,6 +38,18 @@
       "deadline": "2026-10-14T00:00:00+09:00",
       "title": "(개웅초)2026학년도 2학기 맞춤형교실 개인위탁 외부강사 긴급 공고",
       "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gdspedu:8332",
+      "schoolId": "sen-7130160",
+      "schoolName": "서울토성초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강동송파 구인",
+      "boardUrl": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-10-14T00:00:00+09:00",
+      "title": "대안교실 전담강사 (시간제)",
+      "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:nbedu:11409",
