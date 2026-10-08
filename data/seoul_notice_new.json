@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-10-07T12:10:00.263Z",
+  "generatedAt": "2026-10-08T05:08:01.460Z",
   "newCount": 1,
   "items": [
     {
-      "id": "seoul:gdspedu:8332",
-      "schoolId": "sen-7130160",
-      "schoolName": "서울토성초등학교",
+      "id": "seoul:dgedu:10270",
+      "schoolId": "sen-7132088",
+      "schoolName": "서울남성초등학교",
       "schoolHomepage": null,
-      "boardLabel": "서울 강동송파 구인",
-      "boardUrl": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do",
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
-      "deadline": "2026-10-14T00:00:00+09:00",
-      "title": "대안교실 전담강사 (시간제)",
-      "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
+      "deadline": "2026-10-12T00:00:00+09:00",
+      "title": "(동작관악 관내 공립학교) 기간제근로자(지방공무원(교육행정) 대체직원) 채용 공고 (기간제근로자)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
 }

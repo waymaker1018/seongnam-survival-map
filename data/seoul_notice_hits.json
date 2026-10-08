@@ -1,20 +1,8 @@
 {
-  "generatedAt": "2026-10-07T12:10:00.263Z",
+  "generatedAt": "2026-10-08T05:08:01.460Z",
   "hitCount": 79,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:nbedu:11404",
-      "schoolId": "sen-7041160",
-      "schoolName": "서울정심초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-10-07T00:00:00+09:00",
-      "title": "(정심초)기초학력 협력강사 모집 공고 (기타)",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:nbedu:11411",
       "schoolId": "sen-7041260",
@@ -26,6 +14,18 @@
       "deadline": "2026-10-12T00:00:00+09:00",
       "title": "(서울금나래초)5학년 스포츠 수업 협력강사(시간강사) 채용 공고 (기타)",
       "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10270",
+      "schoolId": "sen-7132088",
+      "schoolName": "서울남성초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-10-12T00:00:00+09:00",
+      "title": "(동작관악 관내 공립학교) 기간제근로자(지방공무원(교육행정) 대체직원) 채용 공고 (기간제근로자)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:nbedu:11390",
