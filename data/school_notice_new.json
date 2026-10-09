@@ -1,18 +1,5 @@
 {
-  "generatedAt": "2026-10-08T12:19:27.438Z",
-  "newCount": 1,
-  "items": [
-    {
-      "id": "sn-e:sn-e:1960923",
-      "schoolId": "sn-e",
-      "schoolName": "성남초등학교",
-      "schoolHomepage": "https://sn-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://sn-e.goesn.kr/sn-e/na/ntt/selectNttList.do?mi=15144&bbsId=12839&listCo=50&currPage=1",
-      "postedAt": "2026-10-07T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026 1교1빛깔 교육과정브랜드 강사모집 공고",
-      "url": "https://sn-e.goesn.kr/sn-e/na/ntt/selectNttInfo.do?mi=15144&bbsId=12839&nttSn=1960923"
-    }
-  ]
+  "generatedAt": "2026-10-09T05:09:59.530Z",
+  "newCount": 0,
+  "items": []
 }
