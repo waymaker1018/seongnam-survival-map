@@ -1,18 +1,54 @@
 {
-  "generatedAt": "2026-10-12T04:59:09.658Z",
-  "newCount": 1,
+  "generatedAt": "2026-10-12T13:44:57.992Z",
+  "newCount": 4,
   "items": [
     {
-      "id": "seoul:nbedu:11423",
-      "schoolId": "sen-7041260",
-      "schoolName": "서울금나래초등학교",
+      "id": "seoul:sbedu:5600",
+      "schoolId": null,
+      "schoolName": "서울어울초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
+      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-10-15T00:00:00+09:00",
+      "title": "6학년 전환기 신체활동(체육)",
+      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:nbedu:11427",
+      "schoolId": "sen-7041130",
+      "schoolName": "서울문성초등학교",
       "schoolHomepage": null,
       "boardLabel": "서울 남부(영등포·구로·금천) 구인",
       "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
       "deadline": "2026-10-16T00:00:00+09:00",
-      "title": "(서울금나래초)3학년 수묵화 수업 협력강사(시간강사) 채용 공고",
+      "title": "(문성초) 2026학년도 기간제교사(2학년 담임교사) 채용 공고",
       "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:nbedu:11426",
+      "schoolId": "sen-7041143",
+      "schoolName": "서울여의도초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-10-22T00:00:00+09:00",
+      "title": "휠체어 이용 학생 휠체어 이동 도와주실 분 구인합니다.(10.23(금), 10.30(금) 양일 08:50~10:50)",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:jbedu:3445",
+      "schoolId": null,
+      "schoolName": "서울혜화초등학교병설유치원",
+      "schoolHomepage": null,
+      "boardLabel": "서울 중부(종로·중구·용산) 구인",
+      "boardUrl": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "방과후 과정 에듀케어 운영 및 돌봄",
+      "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
 }
