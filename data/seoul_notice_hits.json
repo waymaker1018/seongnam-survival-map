@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-11T11:42:25.202Z",
-  "hitCount": 79,
+  "generatedAt": "2026-10-12T04:59:09.658Z",
+  "hitCount": 80,
   "errors": [],
   "items": [
     {
@@ -50,6 +50,18 @@
       "deadline": "2026-10-14T00:00:00+09:00",
       "title": "대안교실 전담강사 (시간제)",
       "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:nbedu:11423",
+      "schoolId": "sen-7041260",
+      "schoolName": "서울금나래초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-10-16T00:00:00+09:00",
+      "title": "(서울금나래초)3학년 수묵화 수업 협력강사(시간강사) 채용 공고",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:nbedu:11409",
