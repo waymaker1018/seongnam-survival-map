@@ -1,5 +1,30 @@
 {
-  "generatedAt": "2026-10-13T13:03:06.958Z",
-  "newCount": 0,
-  "items": []
+  "generatedAt": "2026-10-14T04:03:06.651Z",
+  "newCount": 2,
+  "items": [
+    {
+      "id": "seoul:dgedu:10276",
+      "schoolId": "sen-7132091",
+      "schoolName": "서울대림초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-10-19T00:00:00+09:00",
+      "title": "(대림초) 2026학년도 3~4학년 디지털 시민 소양교육 협력강사 공고 (강사)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10277",
+      "schoolId": "sen-7132091",
+      "schoolName": "서울대림초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-10-20T00:00:00+09:00",
+      "title": "(대림초) 2026학년도 3학년 교육연극 협력강사 공고 (강사)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    }
+  ]
 }
