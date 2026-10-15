@@ -1,18 +1,30 @@
 {
-  "generatedAt": "2026-10-15T03:45:25.602Z",
-  "newCount": 1,
+  "generatedAt": "2026-10-15T10:27:09.138Z",
+  "newCount": 2,
   "items": [
     {
-      "id": "seoul:dgedu:10278",
-      "schoolId": "sen-7132091",
-      "schoolName": "서울대림초등학교",
+      "id": "seoul:dgedu:10279",
+      "schoolId": "sen-7132103",
+      "schoolName": "서울상현초등학교",
       "schoolHomepage": null,
       "boardLabel": "서울 동작관악 구인",
       "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
-      "deadline": "2026-10-21T00:00:00+09:00",
-      "title": "(대림초) 2026학년도 5학년 국악(단소) 강사 공고 (강사)",
+      "deadline": "2026-10-22T00:00:00+09:00",
+      "title": "AI교육 협력강사 채용 공고 (강사)",
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:nbedu:11430",
+      "schoolId": "sen-7041143",
+      "schoolName": "서울여의도초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-11-15T00:00:00+09:00",
+      "title": "6학년 현장체험학습 _ 특수교육대상학생 지원해주실 선생님 구인합니다.(11.3) (기타)",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
 }

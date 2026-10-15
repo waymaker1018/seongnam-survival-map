@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-15T03:45:25.602Z",
-  "hitCount": 83,
+  "generatedAt": "2026-10-15T10:27:09.138Z",
+  "hitCount": 85,
   "errors": [],
   "items": [
     {
@@ -112,6 +112,18 @@
       "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:dgedu:10279",
+      "schoolId": "sen-7132103",
+      "schoolName": "서울상현초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-10-22T00:00:00+09:00",
+      "title": "AI교육 협력강사 채용 공고 (강사)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:nbedu:11429",
       "schoolId": "sen-7041122",
       "schoolName": "서울도신초등학교",
@@ -121,6 +133,18 @@
       "postedAt": null,
       "deadline": "2026-11-13T00:00:00+09:00",
       "title": "(도신초)맞춤형 및 돌봄 프로그램 강사 채용공고 (특기적성외래교사)",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:nbedu:11430",
+      "schoolId": "sen-7041143",
+      "schoolName": "서울여의도초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-11-15T00:00:00+09:00",
+      "title": "6학년 현장체험학습 _ 특수교육대상학생 지원해주실 선생님 구인합니다.(11.3) (기타)",
       "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
