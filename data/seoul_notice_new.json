@@ -1,5 +1,18 @@
 {
-  "generatedAt": "2026-10-14T10:48:11.356Z",
-  "newCount": 0,
-  "items": []
+  "generatedAt": "2026-10-15T03:45:25.602Z",
+  "newCount": 1,
+  "items": [
+    {
+      "id": "seoul:dgedu:10278",
+      "schoolId": "sen-7132091",
+      "schoolName": "서울대림초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-10-21T00:00:00+09:00",
+      "title": "(대림초) 2026학년도 5학년 국악(단소) 강사 공고 (강사)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    }
+  ]
 }
