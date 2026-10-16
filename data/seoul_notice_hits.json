@@ -1,20 +1,8 @@
 {
-  "generatedAt": "2026-10-15T10:27:09.138Z",
-  "hitCount": 85,
+  "generatedAt": "2026-10-16T03:41:15.891Z",
+  "hitCount": 83,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:sbedu:5600",
-      "schoolId": null,
-      "schoolName": "서울어울초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
-      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-10-15T00:00:00+09:00",
-      "title": "6학년 전환기 신체활동(체육)",
-      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:nbedu:11427",
       "schoolId": "sen-7041130",
@@ -805,18 +793,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "체육신체활동",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15081",
-      "schoolId": "sen-7081440",
-      "schoolName": "서울목원초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "AI 협력강사",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
