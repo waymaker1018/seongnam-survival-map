@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T03:41:15.891Z",
+  "generatedAt": "2026-10-16T10:14:52.311Z",
   "hitCount": 83,
   "errors": [],
   "items": [
@@ -436,6 +436,18 @@
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:gsycedu:15148",
+      "schoolId": null,
+      "schoolName": "학교통합지원과",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "[서울특별시강서양천교육지원청] 관내 서울염경초등학교 지방공무원 대체직원(교육행정) 채용계획 공고",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:gsycedu:15141",
       "schoolId": null,
       "schoolName": "학교통합지원과",
@@ -781,18 +793,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "시간제돌봄전담사",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15083",
-      "schoolId": "sen-7081418",
-      "schoolName": "서울가곡초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "체육신체활동",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
