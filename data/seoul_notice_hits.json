@@ -1,32 +1,8 @@
 {
-  "generatedAt": "2026-10-16T10:14:52.311Z",
-  "hitCount": 83,
+  "generatedAt": "2026-10-17T03:31:27.322Z",
+  "hitCount": 81,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:nbedu:11427",
-      "schoolId": "sen-7041130",
-      "schoolName": "서울문성초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-10-16T00:00:00+09:00",
-      "title": "(문성초) 2026학년도 기간제교사(2학년 담임교사) 채용 공고",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:nbedu:11423",
-      "schoolId": "sen-7041260",
-      "schoolName": "서울금나래초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-10-16T00:00:00+09:00",
-      "title": "(서울금나래초)3학년 수묵화 수업 협력강사(시간강사) 채용 공고",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:dgedu:10276",
       "schoolId": "sen-7132091",
