@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T10:00:45.776Z",
+  "generatedAt": "2026-10-19T03:48:26.338Z",
   "hitCount": 81,
   "errors": [],
   "items": [
@@ -760,16 +760,16 @@
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
-      "id": "seoul:gsycedu:15084",
-      "schoolId": "sen-7081437",
-      "schoolName": "서울등현초등학교",
+      "id": "seoul:gnscedu:14258",
+      "schoolId": "sen-7091405",
+      "schoolName": "서울언북초등학교",
       "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "boardLabel": "서울 강남서초 구인",
+      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
       "deadline": null,
-      "title": "시간제돌봄전담사",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+      "title": "오케스트라(바이올린) 권유미 (방과후 오케스트라 (바이올린) 외부 강사)",
+      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:gnscedu:14255",
