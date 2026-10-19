@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-19T03:48:26.338Z",
-  "hitCount": 81,
+  "generatedAt": "2026-10-19T11:23:40.166Z",
+  "hitCount": 80,
   "errors": [],
   "items": [
     {
@@ -745,18 +745,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "학교특색교육활동무용",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15085",
-      "schoolId": "sen-7081434",
-      "schoolName": "서울등양초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "AI교육 코디네이터",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
