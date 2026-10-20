@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-20T03:59:29.473Z",
-  "hitCount": 79,
+  "generatedAt": "2026-10-20T10:31:23.726Z",
+  "hitCount": 80,
   "errors": [],
   "items": [
     {
@@ -74,6 +74,18 @@
       "deadline": "2026-10-22T00:00:00+09:00",
       "title": "AI교육 협력강사 채용 공고 (강사)",
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gdspedu:8336",
+      "schoolId": "sen-7130145",
+      "schoolName": "서울아주초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강동송파 구인",
+      "boardUrl": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-10-27T00:00:00+09:00",
+      "title": "학교 내 대안교실 전담강사 (시간제)",
+      "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:nbedu:11429",
@@ -400,6 +412,30 @@
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:gsycedu:15154",
+      "schoolId": null,
+      "schoolName": "학교통합지원과",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "서울특별시강서양천교육지원청 2026년 5차 지방공무원 대체직원 채용지원 학교별 중간 응시현황 공개",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gsycedu:15153",
+      "schoolId": null,
+      "schoolName": "학교통합지원과",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "서울특별시강서양천교육지원청 2026학년도 5차 교육공무직원 대체직원 채용지원 학교별 중간 응시현황 공개",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:gsycedu:15148",
       "schoolId": null,
       "schoolName": "학교통합지원과",
@@ -724,18 +760,6 @@
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
-      "id": "seoul:gsycedu:15087",
-      "schoolId": "sen-7081434",
-      "schoolName": "서울등양초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "학교특색교육활동무용",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
       "id": "seoul:gnscedu:14258",
       "schoolId": "sen-7091405",
       "schoolName": "서울언북초등학교",
@@ -937,18 +961,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "늘봄학교 강사 김효중 (늘봄학교 맞춤형 교실 강사(특수체육,예술신체놀이,미술))",
-      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gnscedu:14195",
-      "schoolId": "sen-7091385",
-      "schoolName": "서울반원초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강남서초 구인",
-      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "돌봄교실 김혜진 (돌봄교실 프로그램 강사)",
       "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
