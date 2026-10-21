@@ -1,42 +1,18 @@
 {
-  "generatedAt": "2026-10-20T10:31:23.726Z",
-  "newCount": 3,
+  "generatedAt": "2026-10-21T03:53:17.685Z",
+  "newCount": 1,
   "items": [
     {
-      "id": "seoul:gdspedu:8336",
-      "schoolId": "sen-7130145",
-      "schoolName": "서울아주초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강동송파 구인",
-      "boardUrl": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-10-27T00:00:00+09:00",
-      "title": "학교 내 대안교실 전담강사 (시간제)",
-      "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15154",
+      "id": "seoul:jbedu:3446",
       "schoolId": null,
-      "schoolName": "학교통합지원과",
+      "schoolName": "서울서빙고초등학교병설유치원",
       "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "boardLabel": "서울 중부(종로·중구·용산) 구인",
+      "boardUrl": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
       "deadline": null,
-      "title": "서울특별시강서양천교육지원청 2026년 5차 지방공무원 대체직원 채용지원 학교별 중간 응시현황 공개",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15153",
-      "schoolId": null,
-      "schoolName": "학교통합지원과",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "서울특별시강서양천교육지원청 2026학년도 5차 교육공무직원 대체직원 채용지원 학교별 중간 응시현황 공개",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+      "title": "시간강사",
+      "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
 }

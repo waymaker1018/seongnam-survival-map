@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-20T10:29:57.288Z",
+  "generatedAt": "2026-10-21T03:47:48.378Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 13,
+  "hitCount": 18,
   "keywords": [
     "AI",
     "인공지능",
@@ -38,6 +38,90 @@
     "디지털 새싹"
   ],
   "items": [
+    {
+      "id": "office:goesn:1963327",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-10-20T15:00:00.000Z",
+      "deadline": "2026-10-25T15:00:00.000Z",
+      "title": "방과후 개인위탁 외부강사 공고",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1963327"
+    },
+    {
+      "id": "office:goesn:1963326",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-10-20T15:00:00.000Z",
+      "deadline": "2026-10-25T15:00:00.000Z",
+      "title": "방과후 (오케스트라) 개인위탁 외부강사 공고",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1963326"
+    },
+    {
+      "id": "office:goesn:1963325",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-10-20T15:00:00.000Z",
+      "deadline": "2026-10-25T15:00:00.000Z",
+      "title": "방과후 (합창) 개인위탁 외부강사 공고",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1963325"
+    },
+    {
+      "id": "office:goesn:1963313",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-10-20T15:00:00.000Z",
+      "deadline": "2026-10-22T15:00:00.000Z",
+      "title": "수진초등학교 특수 시간강사 채용 공고",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1963313"
+    },
+    {
+      "id": "snjj-e:snjj-e:1963262",
+      "schoolId": "snjj-e",
+      "schoolName": "성남정자초등학교",
+      "schoolHomepage": "https://snjj-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://snjj-e.goesn.kr/snjj-e/na/ntt/selectNttList.do?mi=14296&bbsId=12354&listCo=50&currPage=1",
+      "postedAt": "2026-10-20T15:00:00.000Z",
+      "deadline": null,
+      "title": "방과후 개인위탁 외부강사 공고(수익자방과후)",
+      "url": "https://snjj-e.goesn.kr/snjj-e/na/ntt/selectNttInfo.do?mi=14296&bbsId=12354&nttSn=1963262"
+    },
+    {
+      "id": "snjj-e:snjj-e:1963253",
+      "schoolId": "snjj-e",
+      "schoolName": "성남정자초등학교",
+      "schoolHomepage": "https://snjj-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://snjj-e.goesn.kr/snjj-e/na/ntt/selectNttList.do?mi=14296&bbsId=12354&listCo=50&currPage=1",
+      "postedAt": "2026-10-20T15:00:00.000Z",
+      "deadline": null,
+      "title": "방과후 (오케스트라) 개인위탁 외부강사 공고",
+      "url": "https://snjj-e.goesn.kr/snjj-e/na/ntt/selectNttInfo.do?mi=14296&bbsId=12354&nttSn=1963253"
+    },
+    {
+      "id": "snjj-e:snjj-e:1963251",
+      "schoolId": "snjj-e",
+      "schoolName": "성남정자초등학교",
+      "schoolHomepage": "https://snjj-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://snjj-e.goesn.kr/snjj-e/na/ntt/selectNttList.do?mi=14296&bbsId=12354&listCo=50&currPage=1",
+      "postedAt": "2026-10-20T15:00:00.000Z",
+      "deadline": null,
+      "title": "방과후 (합창) 개인위탁 외부강사 공고",
+      "url": "https://snjj-e.goesn.kr/snjj-e/na/ntt/selectNttInfo.do?mi=14296&bbsId=12354&nttSn=1963251"
+    },
     {
       "id": "bundang-e:bundang-e:1962985",
       "schoolId": "bundang-e",
@@ -147,18 +231,6 @@
       "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1962367"
     },
     {
-      "id": "office:goesn:1961711",
-      "schoolId": null,
-      "schoolName": "성남교육지원청 구인",
-      "schoolHomepage": "https://www.goesn.kr",
-      "boardLabel": "성남교육지원청 구인",
-      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
-      "postedAt": "2026-10-13T15:00:00.000Z",
-      "deadline": "2026-10-19T15:00:00.000Z",
-      "title": "2026학년도 1학년 문화예술교육 협력강사(오카리나) 채용 공고",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1961711"
-    },
-    {
       "id": "snys-e:snys-e:1961664",
       "schoolId": "snys-e",
       "schoolName": "성남여수초등학교",
@@ -181,18 +253,6 @@
       "deadline": null,
       "title": "2026 1교1빛깔 교육과정브랜드 강사모집 공고",
       "url": "https://sn-e.goesn.kr/sn-e/na/ntt/selectNttInfo.do?mi=15144&bbsId=12839&nttSn=1960923"
-    },
-    {
-      "id": "naksaeng-e:naksaeng-e:1960392",
-      "schoolId": "naksaeng-e",
-      "schoolName": "낙생초등학교",
-      "schoolHomepage": "https://naksaeng-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://naksaeng-e.goesn.kr/naksaeng-e/na/ntt/selectNttList.do?mi=24045&bbsId=18371&listCo=50&currPage=1",
-      "postedAt": "2026-10-06T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026학년도 낙생초 방과후 해금 프로그램 강사 모집 공고",
-      "url": "https://naksaeng-e.goesn.kr/naksaeng-e/na/ntt/selectNttInfo.do?mi=24045&bbsId=18371&nttSn=1960392"
     }
   ]
 }
