@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T03:53:17.685Z",
+  "generatedAt": "2026-10-21T10:43:11.414Z",
   "hitCount": 80,
   "errors": [],
   "items": [
@@ -74,6 +74,18 @@
       "deadline": "2026-10-27T00:00:00+09:00",
       "title": "학교 내 대안교실 전담강사 (시간제)",
       "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10287",
+      "schoolId": null,
+      "schoolName": "보라매초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-11-05T00:00:00+09:00",
+      "title": "(서울 보라매초)특수학급 시간강사 채용 공고 (11/6, 금) (강사)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:nbedu:11429",
@@ -769,18 +781,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "오케스트라(바이올린) 권유미 (방과후 오케스트라 (바이올린) 외부 강사)",
-      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gnscedu:14255",
-      "schoolId": "sen-7091409",
-      "schoolName": "서울왕북초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강남서초 구인",
-      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "유인선 (2026 강남형 스쿨존 교통안전지킴이 모집 재공고)",
       "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {

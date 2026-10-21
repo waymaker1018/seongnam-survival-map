@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-10-21T03:53:17.685Z",
+  "generatedAt": "2026-10-21T10:43:11.414Z",
   "newCount": 1,
   "items": [
     {
-      "id": "seoul:jbedu:3446",
+      "id": "seoul:dgedu:10287",
       "schoolId": null,
-      "schoolName": "서울서빙고초등학교병설유치원",
+      "schoolName": "보라매초등학교",
       "schoolHomepage": null,
-      "boardLabel": "서울 중부(종로·중구·용산) 구인",
-      "boardUrl": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
-      "deadline": null,
-      "title": "시간강사",
-      "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
+      "deadline": "2026-11-05T00:00:00+09:00",
+      "title": "(서울 보라매초)특수학급 시간강사 채용 공고 (11/6, 금) (강사)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
 }
