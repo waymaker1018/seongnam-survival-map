@@ -1,44 +1,8 @@
 {
-  "generatedAt": "2026-10-21T10:43:11.414Z",
-  "hitCount": 80,
+  "generatedAt": "2026-10-22T03:48:55.432Z",
+  "hitCount": 76,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:nbedu:11409",
-      "schoolId": "sen-7041143",
-      "schoolName": "서울여의도초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-10-21T00:00:00+09:00",
-      "title": "휠체어 이용 학생 휠체어 이동 도와주실 분 구인합니다.(10.23(금), 10.30(금) 양일 08:50~10:50) (기타)",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:nbedu:11395",
-      "schoolId": null,
-      "schoolName": "개웅초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-10-21T00:00:00+09:00",
-      "title": "(개웅초)2026학년도 2학기 맞춤형교실 창의놀이 프로그램 외부강사 공고",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:dgedu:10278",
-      "schoolId": "sen-7132091",
-      "schoolName": "서울대림초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-10-21T00:00:00+09:00",
-      "title": "(대림초) 2026학년도 5학년 국악(단소) 강사 공고 (강사)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:nbedu:11426",
       "schoolId": "sen-7041143",
@@ -72,7 +36,7 @@
       "boardUrl": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
       "deadline": "2026-10-27T00:00:00+09:00",
-      "title": "학교 내 대안교실 전담강사 (시간제)",
+      "title": "아주도담교실 전담강사 (시간제)",
       "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
@@ -757,18 +721,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "초등돌봄교실 단체활동강사 채용 하브루타",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15089",
-      "schoolId": null,
-      "schoolName": "학교통합지원과",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "[서울특별시강서양천교육지원청] 관내 공립 유·초·중학교 교육공무직원 대체직원 채용계획 공고",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
