@@ -1,5 +1,18 @@
 {
-  "generatedAt": "2026-10-22T03:48:55.432Z",
-  "newCount": 0,
-  "items": []
+  "generatedAt": "2026-10-22T10:44:51.618Z",
+  "newCount": 1,
+  "items": [
+    {
+      "id": "seoul:gsycedu:15157",
+      "schoolId": "sen-7081432",
+      "schoolName": "서울등명초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "초등학교 1:1 맞춤학습지도 강사",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    }
+  ]
 }
