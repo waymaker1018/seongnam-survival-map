@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-23T03:52:00.473Z",
+  "generatedAt": "2026-10-23T10:35:37.903Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 19,
+  "hitCount": 20,
   "keywords": [
     "AI",
     "인공지능",
@@ -38,6 +38,18 @@
     "디지털 새싹"
   ],
   "items": [
+    {
+      "id": "snsj-e:snsj-e:1963999",
+      "schoolId": "snsj-e",
+      "schoolName": "성남수정초등학교",
+      "schoolHomepage": "https://snsj-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://snsj-e.goesn.kr/snsj-e/na/ntt/selectNttList.do?mi=14009&bbsId=12175&listCo=50&currPage=1",
+      "postedAt": "2026-10-22T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026학년도 겨울방학 중 방과후 과정 운영인력 채용 공고",
+      "url": "https://snsj-e.goesn.kr/snsj-e/na/ntt/selectNttInfo.do?mi=14009&bbsId=12175&nttSn=1963999"
+    },
     {
       "id": "office:goesn:1963724",
       "schoolId": null,

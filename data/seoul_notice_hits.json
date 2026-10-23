@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-23T03:53:30.671Z",
-  "hitCount": 73,
+  "generatedAt": "2026-10-23T10:41:19.518Z",
+  "hitCount": 72,
   "errors": [],
   "items": [
     {
@@ -865,18 +865,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "방과후학교 강사 김효중 (2학기 방과후학교 강사(특수체육))",
-      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gnscedu:14198",
-      "schoolId": null,
-      "schoolName": "밀알학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강남서초 구인",
-      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "늘봄학교 강사 김효중 (늘봄학교 맞춤형 교실 강사(특수체육,예술신체놀이,미술))",
       "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
