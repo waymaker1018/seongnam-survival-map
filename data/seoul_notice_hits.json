@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T10:16:08.516Z",
+  "generatedAt": "2026-10-26T03:49:42.179Z",
   "hitCount": 72,
   "errors": [],
   "items": [
@@ -688,6 +688,18 @@
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:gnscedu:14265",
+      "schoolId": "sen-7091388",
+      "schoolName": "서울방일초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강남서초 구인",
+      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "김현지 ((방일초)서초 안심등굣길 교통 도우미)",
+      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:gnscedu:14258",
       "schoolId": "sen-7091405",
       "schoolName": "서울언북초등학교",
@@ -853,18 +865,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "뉴스포츠 나광연 (맞춤형교실 프로그램 외부강사 (뉴스포츠))",
-      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gnscedu:14199",
-      "schoolId": null,
-      "schoolName": "밀알학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강남서초 구인",
-      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "방과후학교 강사 김효중 (2학기 방과후학교 강사(특수체육))",
       "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
