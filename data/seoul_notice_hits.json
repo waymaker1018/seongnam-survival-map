@@ -1,20 +1,8 @@
 {
-  "generatedAt": "2026-10-27T11:09:42.994Z",
-  "hitCount": 72,
+  "generatedAt": "2026-10-28T04:41:22.331Z",
+  "hitCount": 69,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:gdspedu:8336",
-      "schoolId": "sen-7130145",
-      "schoolName": "서울아주초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강동송파 구인",
-      "boardUrl": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-10-27T00:00:00+09:00",
-      "title": "아주도담교실 전담강사 (시간제)",
-      "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:dgedu:10287",
       "schoolId": null,
@@ -676,18 +664,6 @@
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
-      "id": "seoul:gsycedu:15094",
-      "schoolId": "sen-7081454",
-      "schoolName": "서울신서초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "사서",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
       "id": "seoul:gnscedu:14265",
       "schoolId": "sen-7091388",
       "schoolName": "서울방일초등학교",
@@ -853,18 +829,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "방과후학교 강사 김효중 (2학기 방과후학교 강사(특수체육))",
-      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gnscedu:14201",
-      "schoolId": "sen-7091417",
-      "schoolName": "서울포이초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강남서초 구인",
-      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "뉴스포츠 나광연 (맞춤형교실 프로그램 외부강사 (뉴스포츠))",
       "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
