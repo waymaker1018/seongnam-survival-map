@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-28T11:43:22.228Z",
+  "generatedAt": "2026-10-29T04:52:50.631Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 22,
+  "hitCount": 26,
   "keywords": [
     "AI",
     "인공지능",
@@ -38,6 +38,54 @@
     "디지털 새싹"
   ],
   "items": [
+    {
+      "id": "bundang-e:bundang-e:1965489",
+      "schoolId": "bundang-e",
+      "schoolName": "분당초등학교",
+      "schoolHomepage": "https://bundang-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://bundang-e.goesn.kr/bundang-e/na/ntt/selectNttList.do?mi=12203&bbsId=11151&listCo=50&currPage=1",
+      "postedAt": "2026-10-28T15:00:00.000Z",
+      "deadline": null,
+      "title": "돌봄교실 단체활동 프로그램[보드게임] 강사 공모 최종 합격자 공고",
+      "url": "https://bundang-e.goesn.kr/bundang-e/na/ntt/selectNttInfo.do?mi=12203&bbsId=11151&nttSn=1965489"
+    },
+    {
+      "id": "office:goesn:1965543",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-10-28T15:00:00.000Z",
+      "deadline": "2026-11-01T15:00:00.000Z",
+      "title": "성남화랑초 방과후학교 컴퓨터부 외부강사 모집 공고",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1965543"
+    },
+    {
+      "id": "office:goesn:1965525",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-10-28T15:00:00.000Z",
+      "deadline": "2026-11-05T15:00:00.000Z",
+      "title": "2026학년도 단대초 1-2학년 전래 놀이 / 신체 놀이 강사 채용 공고",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1965525"
+    },
+    {
+      "id": "hwarang-e:hwarang-e:1965539",
+      "schoolId": "hwarang-e",
+      "schoolName": "성남화랑초등학교",
+      "schoolHomepage": "https://hwarang-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://hwarang-e.goesn.kr/hwarang-e/na/ntt/selectNttList.do?mi=15038&bbsId=12766&listCo=50&currPage=1",
+      "postedAt": "2026-10-28T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026학년도 성남화랑초 방과후학교 개인위탁 외부강사 공고(컴퓨터)",
+      "url": "https://hwarang-e.goesn.kr/hwarang-e/na/ntt/selectNttInfo.do?mi=15038&bbsId=12766&nttSn=1965539"
+    },
     {
       "id": "office:goesn:1965293",
       "schoolId": null,

@@ -1,5 +1,30 @@
 {
-  "generatedAt": "2026-10-28T11:44:36.842Z",
-  "newCount": 0,
-  "items": []
+  "generatedAt": "2026-10-29T04:54:14.683Z",
+  "newCount": 2,
+  "items": [
+    {
+      "id": "seoul:dgedu:10292",
+      "schoolId": null,
+      "schoolName": "서울원당초증학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-11-05T00:00:00+09:00",
+      "title": "(원당초)2026학년도 더 좋은 맞춤형 방과후교실(리코더, 칼림바) 개인위탁 외부강사 모집 공고 (강사)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gsycedu:15164",
+      "schoolId": "sen-7081428",
+      "schoolName": "서울공항초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "(시간강사) 1학년 담임",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    }
+  ]
 }
