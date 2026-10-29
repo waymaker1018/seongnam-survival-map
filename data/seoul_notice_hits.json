@@ -1,8 +1,20 @@
 {
-  "generatedAt": "2026-10-29T04:54:14.683Z",
-  "hitCount": 68,
+  "generatedAt": "2026-10-29T11:57:00.354Z",
+  "hitCount": 67,
   "errors": [],
   "items": [
+    {
+      "id": "seoul:sbedu:5602",
+      "schoolId": null,
+      "schoolName": "서울창천초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
+      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-11-03T00:00:00+09:00",
+      "title": "특수체육 (시간제)",
+      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
     {
       "id": "seoul:dgedu:10292",
       "schoolId": null,
@@ -625,30 +637,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "4,5학년 체육활성화 프로그램",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15100",
-      "schoolId": "sen-7081467",
-      "schoolName": "서울염동초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "체육수업 협력강사 3,5학년 뉴스포츠 협력강사",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15099",
-      "schoolId": "sen-7081454",
-      "schoolName": "서울신서초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "시간제돌봄전담사 돌봄",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
