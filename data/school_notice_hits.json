@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-30T11:44:35.321Z",
+  "generatedAt": "2026-10-31T04:38:32.108Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 33,
+  "hitCount": 32,
   "keywords": [
     "AI",
     "인공지능",
@@ -325,18 +325,6 @@
       "deadline": null,
       "title": "2026학년도 오리초등학교 도서관 겨울방학 독서교실 외부강사 채용 공고",
       "url": "https://ori-e.goesn.kr/ori-e/na/ntt/selectNttInfo.do?mi=16331&bbsId=13505&nttSn=1964242"
-    },
-    {
-      "id": "snsj-e:snsj-e:1963999",
-      "schoolId": "snsj-e",
-      "schoolName": "성남수정초등학교",
-      "schoolHomepage": "https://snsj-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://snsj-e.goesn.kr/snsj-e/na/ntt/selectNttList.do?mi=14009&bbsId=12175&listCo=50&currPage=1",
-      "postedAt": "2026-10-22T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026학년도 겨울방학 중 방과후 과정 운영인력 채용 공고",
-      "url": "https://snsj-e.goesn.kr/snsj-e/na/ntt/selectNttInfo.do?mi=14009&bbsId=12175&nttSn=1963999"
     },
     {
       "id": "bulgok-e:bulgok-e:1963463",
