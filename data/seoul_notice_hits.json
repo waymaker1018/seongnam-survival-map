@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-02T13:58:40.798Z",
-  "hitCount": 68,
+  "generatedAt": "2026-11-03T05:49:34.481Z",
+  "hitCount": 71,
   "errors": [],
   "items": [
     {
@@ -52,6 +52,18 @@
       "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:dgedu:10295",
+      "schoolId": "sen-7132091",
+      "schoolName": "서울대림초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-11-09T00:00:00+09:00",
+      "title": "(대림초) 2026학년도 5학년 교육연극 협력강사 모집 공고 (강사)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:nbedu:11429",
       "schoolId": "sen-7041122",
       "schoolName": "서울도신초등학교",
@@ -61,6 +73,30 @@
       "postedAt": null,
       "deadline": "2026-11-13T00:00:00+09:00",
       "title": "(도신초)맞춤형 및 돌봄 프로그램 강사 채용공고 (특기적성외래교사)",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10296",
+      "schoolId": null,
+      "schoolName": "봉천초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-11-16T00:00:00+09:00",
+      "title": "봉천초등학교 1학년 담임수업 시간강사 (강사)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:nbedu:11447",
+      "schoolId": "sen-7041106",
+      "schoolName": "서울고척초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-12-07T00:00:00+09:00",
+      "title": "(고척초)2026 맞춤형(키성장요가&체조_월수) 개인위탁 외부강사 모집 공고",
       "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
@@ -376,6 +412,18 @@
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:gsycedu:15179",
+      "schoolId": "sen-7081439",
+      "schoolName": "서울목운초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "방과후.맞춤형교실 행정업무 보조 봉사",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:gsycedu:15174",
       "schoolId": null,
       "schoolName": "서울탑산초등학교병설유치원",
@@ -637,18 +685,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "4학년 체육활성화 프로그램 지도강사",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15113",
-      "schoolId": null,
-      "schoolName": "학교통합지원과",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "('26. 10월~12월 채용 예정) 서울특별시강서양천교육지원청 관내 공립 초·중·고·특수학교 시간강사 채용 공고",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
