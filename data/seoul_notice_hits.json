@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-03T05:49:34.481Z",
-  "hitCount": 71,
+  "generatedAt": "2026-11-03T13:07:14.442Z",
+  "hitCount": 72,
   "errors": [],
   "items": [
     {
@@ -37,6 +37,42 @@
       "postedAt": null,
       "deadline": "2026-11-05T00:00:00+09:00",
       "title": "(서울 보라매초)특수학급 시간강사 채용 공고 (11/6, 금) (강사)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:nbedu:11448",
+      "schoolId": "sen-7041105",
+      "schoolName": "서울고원초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-11-06T00:00:00+09:00",
+      "title": "구로구청 초등맞춤형 프로그램(1, 5학년) 협력강사 채용 공고문",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10299",
+      "schoolId": "sen-7132095",
+      "schoolName": "서울보라매초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-11-07T00:00:00+09:00",
+      "title": "초 1학년 기초학력 협력강사 채용 공고 (기타)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10300",
+      "schoolId": "sen-7132095",
+      "schoolName": "서울보라매초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-11-08T00:00:00+09:00",
+      "title": "초 1학년 방과후 한글 지도 강사 채용 공고 (기타)",
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
@@ -676,18 +712,6 @@
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
-      "id": "seoul:gsycedu:15114",
-      "schoolId": "sen-7081437",
-      "schoolName": "서울등현초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "4학년 체육활성화 프로그램 지도강사",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
       "id": "seoul:gnscedu:14265",
       "schoolId": "sen-7091388",
       "schoolName": "서울방일초등학교",
@@ -841,18 +865,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "노지영 (AI 교육 코디네이터)",
-      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gnscedu:14206",
-      "schoolId": null,
-      "schoolName": "밀알학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강남서초 구인",
-      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "방과후학교 강사 김효중 (2학기 방과후학교 강사(특수체육))",
       "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]

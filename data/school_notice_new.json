@@ -1,5 +1,30 @@
 {
-  "generatedAt": "2026-11-03T05:47:55.522Z",
-  "newCount": 0,
-  "items": []
+  "generatedAt": "2026-11-03T13:05:36.596Z",
+  "newCount": 2,
+  "items": [
+    {
+      "id": "snjj-e:snjj-e:1966878",
+      "schoolId": "snjj-e",
+      "schoolName": "성남정자초등학교",
+      "schoolHomepage": "https://snjj-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://snjj-e.goesn.kr/snjj-e/na/ntt/selectNttList.do?mi=14296&bbsId=12354&listCo=50&currPage=1",
+      "postedAt": "2026-11-02T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026학년도 성남정자초등학교병설유치원 겨울방학 중 방과후과정 운영 인력 채용 공고",
+      "url": "https://snjj-e.goesn.kr/snjj-e/na/ntt/selectNttInfo.do?mi=14296&bbsId=12354&nttSn=1966878"
+    },
+    {
+      "id": "hmd-e:hmd-e:1966892",
+      "schoolId": "hmd-e",
+      "schoolName": "희망대초등학교",
+      "schoolHomepage": "https://hmd-e.goesn.kr",
+      "boardLabel": "방과후/돌봄",
+      "boardUrl": "https://hmd-e.goesn.kr/hmd-e/na/ntt/selectNttList.do?mi=15994&bbsId=13306&listCo=50&currPage=1",
+      "postedAt": "2026-11-02T15:00:00.000Z",
+      "deadline": null,
+      "title": "2026학년도 제4기 수익자 방과후 프로그램 강좌 모집 안내",
+      "url": "https://hmd-e.goesn.kr/hmd-e/na/ntt/selectNttInfo.do?mi=15994&bbsId=13306&nttSn=1966892"
+    }
+  ]
 }
