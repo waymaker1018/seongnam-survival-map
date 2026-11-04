@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-11-04T05:23:55.332Z",
+  "generatedAt": "2026-11-04T13:22:26.790Z",
   "newCount": 1,
   "items": [
     {
-      "id": "seoul:gsycedu:15184",
-      "schoolId": null,
-      "schoolName": "서울월정초등학교병설유치원",
+      "id": "seoul:nbedu:11456",
+      "schoolId": "sen-7041101",
+      "schoolName": "서울개명초등학교(서울남부교육지원청 학교통합지원과)",
       "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
-      "deadline": null,
-      "title": "2026 겨울 및 학년말 방학 중 에듀케어 대체강사",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+      "deadline": "2026-11-09T00:00:00+09:00",
+      "title": "서울개명초등학교 사서 대체직원 채용계획 공고 (기타)",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
 }
