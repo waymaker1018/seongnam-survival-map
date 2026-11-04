@@ -1,20 +1,8 @@
 {
-  "generatedAt": "2026-11-03T13:07:14.442Z",
-  "hitCount": 72,
+  "generatedAt": "2026-11-04T05:23:55.332Z",
+  "hitCount": 69,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:sbedu:5602",
-      "schoolId": null,
-      "schoolName": "서울창천초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 서부(은평·서대문·마포) 구인",
-      "boardUrl": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-11-03T00:00:00+09:00",
-      "title": "특수체육 (시간제)",
-      "url": "https://sbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:dgedu:10292",
       "schoolId": null,
@@ -436,16 +424,16 @@
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
-      "id": "seoul:jbedu:3386",
-      "schoolId": "sen-7061067",
-      "schoolName": "서울봉래초등학교",
+      "id": "seoul:gsycedu:15184",
+      "schoolId": null,
+      "schoolName": "서울월정초등학교병설유치원",
       "schoolHomepage": null,
-      "boardLabel": "서울 중부(종로·중구·용산) 구인",
-      "boardUrl": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
       "deadline": null,
-      "title": "초등예술하나(예술교육) 강사 종이접기, 난타, 연극",
-      "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
+      "title": "2026 겨울 및 학년말 방학 중 에듀케어 대체강사",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:gsycedu:15179",
@@ -457,18 +445,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "방과후.맞춤형교실 행정업무 보조 봉사",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15174",
-      "schoolId": null,
-      "schoolName": "서울탑산초등학교병설유치원",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "수업지원 순회 시간강사",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
@@ -697,18 +673,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "돌봄교실 외부강사 블럭놀이 외부강사",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15115",
-      "schoolId": "sen-7081437",
-      "schoolName": "서울등현초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "5학년 체육활성화 프로그램 지도강사",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {

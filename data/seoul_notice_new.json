@@ -1,42 +1,18 @@
 {
-  "generatedAt": "2026-11-03T13:07:14.442Z",
-  "newCount": 3,
+  "generatedAt": "2026-11-04T05:23:55.332Z",
+  "newCount": 1,
   "items": [
     {
-      "id": "seoul:nbedu:11448",
-      "schoolId": "sen-7041105",
-      "schoolName": "서울고원초등학교",
+      "id": "seoul:gsycedu:15184",
+      "schoolId": null,
+      "schoolName": "서울월정초등학교병설유치원",
       "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
-      "deadline": "2026-11-06T00:00:00+09:00",
-      "title": "구로구청 초등맞춤형 프로그램(1, 5학년) 협력강사 채용 공고문",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:dgedu:10299",
-      "schoolId": "sen-7132095",
-      "schoolName": "서울보라매초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-11-07T00:00:00+09:00",
-      "title": "초 1학년 기초학력 협력강사 채용 공고 (기타)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:dgedu:10300",
-      "schoolId": "sen-7132095",
-      "schoolName": "서울보라매초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-11-08T00:00:00+09:00",
-      "title": "초 1학년 방과후 한글 지도 강사 채용 공고 (기타)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+      "deadline": null,
+      "title": "2026 겨울 및 학년말 방학 중 에듀케어 대체강사",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
 }
