@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-04T13:22:26.790Z",
-  "hitCount": 70,
+  "generatedAt": "2026-11-05T05:44:09.960Z",
+  "hitCount": 71,
   "errors": [],
   "items": [
     {
@@ -122,6 +122,18 @@
       "deadline": "2026-11-16T00:00:00+09:00",
       "title": "봉천초등학교 1학년 담임수업 시간강사 (강사)",
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:nbedu:11458",
+      "schoolId": null,
+      "schoolName": "서울매봉초등학교병설유치원",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-12-05T00:00:00+09:00",
+      "title": "(매봉병유) 2026년 학년말 방학 중 에듀케어 강사 채용",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:nbedu:11447",
