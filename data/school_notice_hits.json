@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-05T13:34:41.460Z",
+  "generatedAt": "2026-11-06T05:39:20.240Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 30,
+  "hitCount": 31,
   "keywords": [
     "AI",
     "인공지능",
@@ -38,6 +38,78 @@
     "디지털 새싹"
   ],
   "items": [
+    {
+      "id": "naejeong-e:naejeong-e:1967576",
+      "schoolId": "naejeong-e",
+      "schoolName": "내정초등학교",
+      "schoolHomepage": "https://naejeong-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://naejeong-e.goesn.kr/naejeong-e/na/ntt/selectNttList.do?mi=11424&bbsId=10721&listCo=50&currPage=1",
+      "postedAt": "2026-11-05T15:00:00.000Z",
+      "deadline": null,
+      "title": "2027학년도 내정초 방과후학교[합창부] 개인위탁 외부강사 모집 공고",
+      "url": "https://naejeong-e.goesn.kr/naejeong-e/na/ntt/selectNttInfo.do?mi=11424&bbsId=10721&nttSn=1967576"
+    },
+    {
+      "id": "bulgok-e:bulgok-e:1967665",
+      "schoolId": "bulgok-e",
+      "schoolName": "불곡초등학교",
+      "schoolHomepage": "https://bulgok-e.goesn.kr",
+      "boardLabel": "방과후,돌봄",
+      "boardUrl": "https://bulgok-e.goesn.kr/bulgok-e/na/ntt/selectNttList.do?mi=12318&bbsId=11218&listCo=50&currPage=1",
+      "postedAt": "2026-11-05T15:00:00.000Z",
+      "deadline": null,
+      "title": "2027학년 방과후 개인위탁강사 채용 공고",
+      "url": "https://bulgok-e.goesn.kr/bulgok-e/na/ntt/selectNttInfo.do?mi=12318&bbsId=11218&nttSn=1967665"
+    },
+    {
+      "id": "office:goesn:1967771",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-11-05T15:00:00.000Z",
+      "deadline": "2026-11-12T15:00:00.000Z",
+      "title": "성남여수초 2026학년도 겨울방학 중 돌봄교실 특기적성 프로그램 강사 채용 공고",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1967771"
+    },
+    {
+      "id": "office:goesn:1967637",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-11-05T15:00:00.000Z",
+      "deadline": "2026-11-12T15:00:00.000Z",
+      "title": "2027학년도 불곡초 방과후 강사 채용 공고문(수익자방과후, 초1~2맞춤형)",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1967637"
+    },
+    {
+      "id": "office:goesn:1967582",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-11-05T15:00:00.000Z",
+      "deadline": "2026-11-18T15:00:00.000Z",
+      "title": "2027학년도 내정초 방과후학교[합창부] 개인위탁 외부강사 모집 공고",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1967582"
+    },
+    {
+      "id": "snys-e:snys-e:1967770",
+      "schoolId": "snys-e",
+      "schoolName": "성남여수초등학교",
+      "schoolHomepage": "https://snys-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://snys-e.goesn.kr/snys-e/na/ntt/selectNttList.do?mi=13840&bbsId=12070&listCo=50&currPage=1",
+      "postedAt": "2026-11-05T15:00:00.000Z",
+      "deadline": null,
+      "title": "성남여수초 2026학년도 겨울방학 중 돌봄교실 특기적성 프로그램 강사 채용 공고",
+      "url": "https://snys-e.goesn.kr/snys-e/na/ntt/selectNttInfo.do?mi=13840&bbsId=12070&nttSn=1967770"
+    },
     {
       "id": "office:goesn:1967368",
       "schoolId": null,
@@ -169,66 +241,6 @@
       "deadline": null,
       "title": "2027학년도 초등 돌봄교실 적성 강사 채용 공고",
       "url": "https://sangtap-e.goesn.kr/sangtap-e/na/ntt/selectNttInfo.do?mi=25581&bbsId=19795&nttSn=1966388"
-    },
-    {
-      "id": "office:goesn:1966525",
-      "schoolId": null,
-      "schoolName": "성남교육지원청 구인",
-      "schoolHomepage": "https://www.goesn.kr",
-      "boardLabel": "성남교육지원청 구인",
-      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
-      "postedAt": "2026-11-01T15:00:00.000Z",
-      "deadline": "2026-11-05T15:00:00.000Z",
-      "title": "성남장안초 기초학력 협력강사 채용 공고",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1966525"
-    },
-    {
-      "id": "office:goesn:1966391",
-      "schoolId": null,
-      "schoolName": "성남교육지원청 구인",
-      "schoolHomepage": "https://www.goesn.kr",
-      "boardLabel": "성남교육지원청 구인",
-      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
-      "postedAt": "2026-11-01T15:00:00.000Z",
-      "deadline": "2026-11-08T15:00:00.000Z",
-      "title": "2027학년도 상탑초등학교 초등 돌봄교실 특기적성 강사 채용 공고",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1966391"
-    },
-    {
-      "id": "office:goesn:1966386",
-      "schoolId": null,
-      "schoolName": "성남교육지원청 구인",
-      "schoolHomepage": "https://www.goesn.kr",
-      "boardLabel": "성남교육지원청 구인",
-      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
-      "postedAt": "2026-11-01T15:00:00.000Z",
-      "deadline": "2026-11-04T15:00:00.000Z",
-      "title": "기간제교원 채용 공고(유치원 방과후과정)",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1966386"
-    },
-    {
-      "id": "office:goesn:1966369",
-      "schoolId": null,
-      "schoolName": "성남교육지원청 구인",
-      "schoolHomepage": "https://www.goesn.kr",
-      "boardLabel": "성남교육지원청 구인",
-      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
-      "postedAt": "2026-11-01T15:00:00.000Z",
-      "deadline": "2026-11-05T15:00:00.000Z",
-      "title": "성남초등학교 특수학급 시간강사 채용 공고(3차)",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1966369"
-    },
-    {
-      "id": "office:goesn:1966359",
-      "schoolId": null,
-      "schoolName": "성남교육지원청 구인",
-      "schoolHomepage": "https://www.goesn.kr",
-      "boardLabel": "성남교육지원청 구인",
-      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
-      "postedAt": "2026-11-01T15:00:00.000Z",
-      "deadline": "2026-11-07T15:00:00.000Z",
-      "title": "2027학년도 성남신흥초 초등돌봄교실 특기적성 프로그램 강사 모집공고",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1966359"
     },
     {
       "id": "snsh-e:snsh-e:1966340",

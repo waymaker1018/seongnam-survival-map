@@ -1,32 +1,8 @@
 {
-  "generatedAt": "2026-11-05T13:36:14.778Z",
-  "hitCount": 71,
+  "generatedAt": "2026-11-06T05:40:47.988Z",
+  "hitCount": 70,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:dgedu:10292",
-      "schoolId": null,
-      "schoolName": "서울원당초증학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-11-05T00:00:00+09:00",
-      "title": "(원당초)2026학년도 더 좋은 맞춤형 방과후교실(리코더, 칼림바) 개인위탁 외부강사 모집 공고 (강사)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:dgedu:10287",
-      "schoolId": null,
-      "schoolName": "보라매초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-11-05T00:00:00+09:00",
-      "title": "(서울 보라매초)특수학급 시간강사 채용 공고 (11/6, 금) (강사)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:nbedu:11448",
       "schoolId": "sen-7041105",
@@ -97,6 +73,18 @@
       "postedAt": null,
       "deadline": "2026-11-09T00:00:00+09:00",
       "title": "(대림초) 2026학년도 5학년 교육연극 협력강사 모집 공고 (강사)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10304",
+      "schoolId": "sen-7132094",
+      "schoolName": "서울미성초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-11-12T00:00:00+09:00",
+      "title": "미성초-초등돌봄교실 학년말 방학 중 특별활동 프로그램 강사 채용 공고 (강사)",
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
@@ -446,6 +434,18 @@
       "deadline": null,
       "title": "에듀케어 대체강사",
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gsycedu:15188",
+      "schoolId": null,
+      "schoolName": "서울송정초등학교병설유치원",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "수업지원 순회시간강사",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:gsycedu:15184",
@@ -841,18 +841,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "허정민 (돌봄교실 독서하브루타 강사)",
-      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gnscedu:14208",
-      "schoolId": "sen-7091370",
-      "schoolName": "서울개일초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강남서초 구인",
-      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "노지영 (AI 교육 코디네이터)",
       "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
