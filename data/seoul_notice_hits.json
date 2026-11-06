@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-06T05:40:47.988Z",
-  "hitCount": 70,
+  "generatedAt": "2026-11-06T13:20:14.508Z",
+  "hitCount": 71,
   "errors": [],
   "items": [
     {
@@ -434,6 +434,18 @@
       "deadline": null,
       "title": "에듀케어 대체강사",
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gsycedu:15189",
+      "schoolId": "sen-7081481",
+      "schoolName": "서울화일초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "대안교실강사",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:gsycedu:15188",
