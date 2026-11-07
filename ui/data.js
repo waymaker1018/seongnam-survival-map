@@ -31,9 +31,14 @@ function homepage(value) {
   return safeUrl(text.includes('://') ? text : `https://${text}`);
 }
 
-export function adaptData(schools, history, hits, training, meta) {
+export function adaptData(schools, history, hits, training, meta, digitalTutors = []) {
   const normalizedSchools = schools.map(s => ({...s, level:'초등학교', address:s.fullAddress || s.address || '', homepage:homepage(s.homepage)}));
   const records = [
+    ...digitalTutors.map(r => ({...r, id:`digital-tutor:${r.sourceUrl}`, url:r.sourceUrl,
+      schoolId:schools.find(s=>s.name===r.school)?.id || null, schoolName:r.school,
+      source:safeUrl(r.sourceUrl) && new URL(r.sourceUrl).pathname.startsWith('/goesn/') ? '성남교육지원청' : '학교 게시판',
+      startDate:r.applyStart?.replaceAll('.','-'), deadlineDate:r.applyEnd?.replaceAll('.','-'),
+      recruitmentYear:Number(r.applyStart?.slice(0,4)) || null})),
     ...history.map(r => ({...r, url:r.sourceUrl, source:'성남교육지원청', checkedAt:r.sourceCheckedAt})),
     ...hits.items.map(r => ({...r, postedDate:r.postedAt, deadlineDate:r.deadline,
       source:r.schoolId ? '학교 게시판' : '성남교육지원청', checkedAt:hits.generatedAt}))
@@ -76,7 +81,7 @@ export async function loadData() {
       return fallback;
     }
   }
-  const input = await Promise.all([read('schools',[]),read('recruitments',[]),read('school_notice_hits',{items:[]}),read('training_hits',{items:[]}),read('meta',{})]);
+  const input = await Promise.all([read('schools',[]),read('recruitments',[]),read('school_notice_hits',{items:[]}),read('training_hits',{items:[]}),read('meta',{}),read('seongnam_digital_tutor_2026',[])]);
   const data = adaptData(...input);
   try {
     const response=await fetch('./data/attachment_previews.json');

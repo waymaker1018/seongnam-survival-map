@@ -57,7 +57,7 @@ export async function collectPreviews({all=false}={}) {
   const read=async name=>JSON.parse(await readFile(new URL(`data/${name}.json`,root),'utf8'));
   const hits=await read('school_notice_hits');
   // shortcut: 과거 모집 이력은 --all로 보충한다. 기본 갱신은 최근 탐색 공고에 집중한다.
-  const records=all ? [...hits.items,...await read('recruitments')] : hits.items;
+  const records=[...hits.items,...await read('seongnam_digital_tutor_2026'),...(all ? await read('recruitments') : [])];
   const targets=[...new Set(records.map(p=>p.url||p.sourceUrl).filter(schoolUrl).map(noticeKey))];
   let previous={items:{}};
   try { previous=await read('attachment_previews'); } catch {}

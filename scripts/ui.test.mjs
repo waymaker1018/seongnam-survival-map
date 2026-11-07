@@ -1,10 +1,29 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
-import { adaptData, dateOnly } from '../ui/data.js';
+import { adaptData, dateOnly, loadData } from '../ui/data.js';
 import { filteredPosts, statusOf, safeUrl, csvCell } from '../ui/core.js';
 
 const read = name => JSON.parse(readFileSync(new URL(`../data/${name}.json`, import.meta.url)));
+test('별도 디지털튜터 자료도 실제 로더에서 읽고 학교·접수 종료·분야 필터에 반영한다', async t => {
+  t.mock.method(globalThis,'fetch',async url=>({ok:true,json:async()=>read(String(url).split('/').pop().replace('.json',''))}));
+  const data=await loadData(), tutors=read('seongnam_digital_tutor_2026');
+  assert.deepEqual(data.loadErrors,[]);
+  const posts=filteredPosts(data.posts,data.schools,{category:'디지털튜터',year:'2026'});
+  for(const row of tutors) {
+    const post=posts.find(p=>p.sources.some(s=>s.url===row.sourceUrl));
+    assert.ok(post,row.title);
+    assert.equal(statusOf(post,'2026-11-08').key,'closed');
+    assert.equal(post.startDate,row.applyStart.replaceAll('.','-'));
+    const school=data.schools.find(s=>s.name===row.school);
+    if(school)assert.equal(post.schoolId,school.id);
+  }
+  assert.equal(new Set(data.posts.map(p=>p.id)).size,data.posts.length);
+  const row=tutors[0];
+  const duplicate=adaptData(data.schools,[{id:'duplicate',title:row.title,sourceUrl:row.sourceUrl}],{items:[]},{items:[]},{},[row]);
+  assert.equal(duplicate.posts.length,1);
+  assert.equal(duplicate.posts[0].deadlineDate,row.applyEnd.replaceAll('.','-'));
+});
 test('기존 자료의 학교와 공고를 보존하고 전국 자료를 분리한다', () => {
   const schools=read('schools'), history=read('recruitments'), hits=read('school_notice_hits'), training=read('training_hits');
   const data=adaptData(schools,history,hits,training,read('meta'));
