@@ -1,4 +1,4 @@
-import { loadData } from './data.js';
+import { loadData } from './data.js?v=20261108';
 import { attachmentFiles, attachmentSection, openAttachment, setupPreview } from './preview.js';
 import { CATEGORIES, DISTRICTS, statusOf, seoulDate, escapeHtml as h, safeUrl, filteredPosts, csvCell } from './core.js';
 const $ = id => document.getElementById(id);
