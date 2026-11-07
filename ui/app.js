@@ -1,4 +1,5 @@
 import { loadData } from './data.js';
+import { attachmentFiles, attachmentSection, openAttachment, setupPreview } from './preview.js';
 import { CATEGORIES, DISTRICTS, statusOf, seoulDate, escapeHtml as h, safeUrl, filteredPosts, csvCell } from './core.js';
 const $ = id => document.getElementById(id);
 const state = { data: null, tab: 'jobs', selected: null, selectedSchool: null, limit: 30, filters: { query: '', category: '', district: '', dong: '', year: '', favoriteSchools: null, status: '', source: '', sort: 'recent', schoolId: '', saved: false }, favorites: [] };
@@ -51,7 +52,7 @@ function detail(p) {
   if (!p) { $('detail').innerHTML = '<p class="detail-kicker">공고 상세</p><div class="empty"><strong>관심 있는 공고를<br>선택해 보세요.</strong>학교 정보와 접수기간,<br>공고 원문을 여기서 확인합니다.</div>'; return; }
   const school = schoolById(p.schoolId), status = statusOf(p);
   const query = encodeURIComponent(`${school?.address || '성남시'} ${p.schoolName || ''}`);
-  $('detail').innerHTML = `<p class="detail-kicker">RECRUITMENT DETAIL</p><span class="status ${status.tone}">${status.label}</span><h3>${h(p.schoolName || '기관 통합 모집')}</h3><p class="detail-address">${h(school?.address || '원문에서 모집 대상 학교를 확인하세요.')}</p><p class="detail-title">${h(p.title)}</p><div class="tags">${p.categories.map(tag).join('')}</div><dl><div><dt>학교급</dt><dd>${h(school?.level || '원문 확인')}</dd></div><div><dt>게시일</dt><dd>${dateText(p.postedDate)}</dd></div><div><dt>접수 시작</dt><dd>${dateText(p.startDate)}</dd></div><div><dt>접수 마감</dt><dd>${p.deadlineDate ? `${dateText(p.deadlineDate)} · 시간은 원문 확인` : '원문에서 확인 필요'}</dd></div><div><dt>수집 확인</dt><dd>${dateText(p.checkedAt)}</dd></div></dl>${link(p.url,'모집 공고 원문 보기 ↗','primary-button')}<div class="detail-links">${school ? link(school.homepage,'학교 홈페이지 ↗') + link(`https://map.naver.com/p/search/${query}`,'네이버지도 ↗') : ''}</div>${p.sources.length > 1 ? '<p class="detail-note">같은 제목으로 확인한 다른 출처</p>' + p.sources.slice(1).map(s => link(s.url, `${s.name} ↗`, 'secondary-source')).join('') : ''}<p class="detail-note">채용 인원, 자격요건, 제출 서류와 접수 마감 시각은 원문 및 첨부파일에서 확인해 주세요. 일정이 없는 공고는 모집 중 여부를 확정하지 않았습니다.</p>${school ? `<button class="outline school-save" data-school-save="${h(school.id)}" aria-pressed="${favoriteSchools.includes(school.id)}">${favoriteSchools.includes(school.id)?'★ 관심 학교':'☆ 관심 학교 저장'}</button><button class="text-button" style="margin-top:14px" data-school-jobs="${h(school.id)}">이 학교의 모집 이력 모아 보기 →</button>` : ''}`;
+  $('detail').innerHTML = `<p class="detail-kicker">RECRUITMENT DETAIL</p><span class="status ${status.tone}">${status.label}</span><h3>${h(p.schoolName || '기관 통합 모집')}</h3><p class="detail-address">${h(school?.address || '원문에서 모집 대상 학교를 확인하세요.')}</p><p class="detail-title">${h(p.title)}</p><div class="tags">${p.categories.map(tag).join('')}</div><dl><div><dt>학교급</dt><dd>${h(school?.level || '원문 확인')}</dd></div><div><dt>게시일</dt><dd>${dateText(p.postedDate)}</dd></div><div><dt>접수 시작</dt><dd>${dateText(p.startDate)}</dd></div><div><dt>접수 마감</dt><dd>${p.deadlineDate ? `${dateText(p.deadlineDate)} · 시간은 원문 확인` : '원문에서 확인 필요'}</dd></div><div><dt>수집 확인</dt><dd>${dateText(p.checkedAt)}</dd></div></dl>${attachmentSection(p,state.data.attachmentPreviews)}${link(p.url,'모집 공고 원문 보기 ↗','primary-button')}<div class="detail-links">${school ? link(school.homepage,'학교 홈페이지 ↗') + link(`https://map.naver.com/p/search/${query}`,'네이버지도 ↗') : ''}</div>${p.sources.length > 1 ? '<p class="detail-note">같은 제목으로 확인한 다른 출처</p>' + p.sources.slice(1).map(s => link(s.url, `${s.name} ↗`, 'secondary-source')).join('') : ''}<p class="detail-note">채용 인원, 자격요건, 제출 서류와 접수 마감 시각은 원문 및 첨부파일에서 확인해 주세요. 일정이 없는 공고는 모집 중 여부를 확정하지 않았습니다.</p>${school ? `<button class="outline school-save" data-school-save="${h(school.id)}" aria-pressed="${favoriteSchools.includes(school.id)}">${favoriteSchools.includes(school.id)?'★ 관심 학교':'☆ 관심 학교 저장'}</button><button class="text-button" style="margin-top:14px" data-school-jobs="${h(school.id)}">이 학교의 모집 이력 모아 보기 →</button>` : ''}`;
 }
 function renderJobs(posts) {
   if (!posts.some(p => p.id === state.selected)) state.selected = posts[0]?.id || null;
@@ -127,6 +128,7 @@ document.addEventListener('click',event=>{
   else if(b.hasAttribute('data-map-district'))setFilter('dong','');
   else if(b.dataset.openSchool){state.tab='map';state.selectedSchool=b.dataset.openSchool;render();showSchool(b.dataset.openSchool,true);}
   else if(b.dataset.category!==undefined)setFilter('category',b.dataset.category);
+  else if(b.dataset.preview!==undefined){const post=allPosts().find(p=>p.id===state.selected);if(post)openAttachment(attachmentFiles(post,state.data.attachmentPreviews)[Number(b.dataset.preview)],post.url);}
   else if(b.dataset.post){state.selected=b.dataset.post;render();if(innerWidth<=1150)$('detail').scrollIntoView({behavior:'smooth',block:'start'});}
   else if(b.dataset.save){const id=b.dataset.save;state.favorites=state.favorites.includes(id)?state.favorites.filter(v=>v!==id):[...state.favorites,id];try{localStorage.setItem('seongnam-map-post-favorites',JSON.stringify(state.favorites));}catch{toast('브라우저 저장이 제한되어 이번 화면에서만 유지됩니다.');}render();}
   else if(b.dataset.school)showSchool(b.dataset.school,true);
@@ -140,6 +142,7 @@ document.addEventListener('click',event=>{
   else if(b.id==='dataBtn')download(JSON.stringify(state.data,null,2),`성남-강사채용맵-${seoulDate()}.json`,'application/json');
 });
 $('query').addEventListener('input',e=>setFilter('query',e.target.value));
+setupPreview();
 ['district','dong','year','status','source','sort'].forEach(key=>$(key).addEventListener('change',e=>setFilter(key,e.target.value)));
 try { state.data=await loadData(); $('updatedAt').textContent=dateText(state.data.meta.collectedDate);stats();render(); }
 catch(error){$('notice').textContent='데이터를 불러오지 못했습니다. 새로고침해 다시 시도해 주세요.';$('notice').classList.add('warn');console.error(error);}

@@ -41,6 +41,13 @@
   <footer><span>성남 채용 생존맵 <b>·</b> 공식 출처를 연결하는 학교별 모집 정보</span><button id="dataBtn" class="text-button">전체 데이터 내려받기 ↓</button><a href="https://github.com/waymaker1018/seongnam-survival-map" target="_blank" rel="noopener noreferrer">소스 코드 · 기능 제안 ↗</a><span>대한민국 표준시 기준 · 자동 수집 후 확인이 필요한 정보가 포함됩니다.</span></footer>
 </main>
 <div id="toast" role="status" class="toast" hidden></div>
+<dialog id="previewDialog" class="preview-dialog" aria-labelledby="previewTitle">
+  <div class="preview-shell">
+    <header class="preview-header"><div><p>첨부파일 미리보기</p><h2 id="previewTitle">첨부 문서</h2></div><button id="previewClose" class="outline" autofocus>닫기 ✕</button></header>
+    <div class="preview-tools"><span>문서가 표시되지 않으면 새 창이나 공고 원문에서 확인해 주세요.</span><a id="previewNewTab" target="_blank" rel="noopener noreferrer">새 창에서 보기 ↗</a><a id="previewOriginal" target="_blank" rel="noopener noreferrer">공고 원문 ↗</a></div>
+    <iframe id="previewFrame" title="첨부파일 미리보기" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox" referrerpolicy="no-referrer"></iframe>
+  </div>
+</dialog>
 <script src="./ui/vendor/leaflet.js"></script><script type="module" src="./ui/app.js"></script>
 </body>
 </html>

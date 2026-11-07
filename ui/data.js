@@ -78,6 +78,11 @@ export async function loadData() {
   }
   const input = await Promise.all([read('schools',[]),read('recruitments',[]),read('school_notice_hits',{items:[]}),read('training_hits',{items:[]}),read('meta',{})]);
   const data = adaptData(...input);
+  try {
+    const response=await fetch('./data/attachment_previews.json');
+    const previews=response.ok ? await response.json() : {};
+    data.attachmentPreviews=previews.items && typeof previews.items==='object' ? previews.items : {};
+  } catch { data.attachmentPreviews={}; }
   data.loadErrors = errors;
   return data;
 }
