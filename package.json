@@ -6,6 +6,7 @@
   "scripts": {
     "test": "node --test scripts/ui.test.mjs scripts/previews.test.mjs",
     "collect:previews": "node scripts/collect_attachment_previews.mjs",
+    "collect:establishments": "node scripts/collect_school_establishments.mjs",
     "enrich": "node scripts/enrich_schools.mjs",
     "monitor": "node scripts/monitor_seongnam_school_sites.mjs",
     "monitor:seoul": "node scripts/monitor_seoul_jobs.mjs",

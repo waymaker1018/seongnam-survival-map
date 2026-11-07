@@ -1,4 +1,5 @@
 import { seoulDate, safeUrl, CATEGORIES } from './core.js';
+import { establishmentInfo } from './school-info.js';
 
 export function dateOnly(value) {
   if (!value) return null;
@@ -31,8 +32,8 @@ function homepage(value) {
   return safeUrl(text.includes('://') ? text : `https://${text}`);
 }
 
-export function adaptData(schools, history, hits, training, meta, digitalTutors = []) {
-  const normalizedSchools = schools.map(s => ({...s, level:'초등학교', address:s.fullAddress || s.address || '', homepage:homepage(s.homepage)}));
+export function adaptData(schools, history, hits, training, meta, digitalTutors = [], establishments = []) {
+  const normalizedSchools = schools.map(s => ({...s, ...establishmentInfo({schoolId:s.id},schools,establishments), level:'초등학교', address:s.fullAddress || s.address || '', homepage:homepage(s.homepage)}));
   const records = [
     ...digitalTutors.map(r => ({...r, id:`digital-tutor:${r.sourceUrl}`, url:r.sourceUrl,
       schoolId:schools.find(s=>s.name===r.school)?.id || null, schoolName:r.school,
@@ -62,7 +63,7 @@ export function adaptData(schools, history, hits, training, meta, digitalTutors 
     url:safeUrl(r.url), postedDate:dateOnly(r.postedAt), startDate:dateOnly(r.startDate), deadlineDate:dateOnly(r.deadline),
     year:Number(dateOnly(r.postedAt)?.slice(0,4)) || null, categories:categoriesFor(r.title),
     sources:[{name:r.source || '양성교육·전국 채용',url:safeUrl(r.url)}],checkedAt:training.generatedAt}));
-  return {schools:normalizedSchools, posts:[...merged.values()], training:trainingPosts,
+  return {schools:normalizedSchools, posts:[...merged.values()].map(p=>({...p,...establishmentInfo(p,schools,establishments)})), training:trainingPosts,
     meta:{...meta,collectedDate:dateOnly(hits.generatedAt),historyDate:dateOnly(meta.generatedAt),trainingDate:dateOnly(training.generatedAt)},
     hits, trainingScan:training, loadErrors:[]};
 }
@@ -81,7 +82,7 @@ export async function loadData() {
       return fallback;
     }
   }
-  const input = await Promise.all([read('schools',[]),read('recruitments',[]),read('school_notice_hits',{items:[]}),read('training_hits',{items:[]}),read('meta',{}),read('seongnam_digital_tutor_2026',[])]);
+  const input = await Promise.all([read('schools',[]),read('recruitments',[]),read('school_notice_hits',{items:[]}),read('training_hits',{items:[]}),read('meta',{}),read('seongnam_digital_tutor_2026',[]),read('school_establishments',[])]);
   const data = adaptData(...input);
   try {
     const response=await fetch('./data/attachment_previews.json');

@@ -3,12 +3,17 @@ import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import { adaptData, dateOnly, loadData } from '../ui/data.js';
 import { filteredPosts, statusOf, safeUrl, csvCell } from '../ui/core.js';
+import { establishmentInfo } from '../ui/school-info.js';
+import { schoolMetadata } from './collect_school_establishments.mjs';
 
 const read = name => JSON.parse(readFileSync(new URL(`../data/${name}.json`, import.meta.url)));
 test('별도 디지털튜터 자료도 실제 로더에서 읽고 학교·접수 종료·분야 필터에 반영한다', async t => {
   t.mock.method(globalThis,'fetch',async url=>({ok:true,json:async()=>read(String(url).split('/').pop().replace('.json',''))}));
   const data=await loadData(), tutors=read('seongnam_digital_tutor_2026');
   assert.deepEqual(data.loadErrors,[]);
+  assert.equal(data.posts.find(p=>p.schoolName==='성일중학교').establishment,'사립');
+  assert.equal(data.posts.find(p=>p.schoolNames?.length===19).establishment,'공립·사립 혼합');
+  assert.ok(data.schools.every(s=>s.establishment==='공립'));
   const posts=filteredPosts(data.posts,data.schools,{category:'디지털튜터',year:'2026'});
   for(const row of tutors) {
     const post=posts.find(p=>p.sources.some(s=>s.url===row.sourceUrl));
@@ -23,6 +28,26 @@ test('별도 디지털튜터 자료도 실제 로더에서 읽고 학교·접수
   const duplicate=adaptData(data.schools,[{id:'duplicate',title:row.title,sourceUrl:row.sourceUrl}],{items:[]},{items:[]},{},[row]);
   assert.equal(duplicate.posts.length,1);
   assert.equal(duplicate.posts[0].deadlineDate,row.applyEnd.replaceAll('.','-'));
+});
+
+test('설립 구분은 동일 지역의 정확한 학교만 사용하고 모호한 응답은 미확인으로 둔다', () => {
+  const row={SCHUL_NM:'성일중학교',ATPT_OFCDC_SC_CODE:'J10',ORG_RDNMA:'경기도 성남시 중원구 시민로',FOND_SC_NM:'사립',SCHUL_KND_SC_NM:'중학교'};
+  assert.equal(schoolMetadata([row],'성일중학교','https://open.neis.go.kr/','2026-11-08').establishment,'사립');
+  assert.equal(schoolMetadata([{...row,ORG_RDNMA:'경기도 수원시'}],'성일중학교').establishment,null);
+  assert.equal(schoolMetadata([row,row],'성일중학교').establishment,null);
+  assert.equal(schoolMetadata([{...row,SCHUL_NM:'성일고등학교'}],'성일중학교').establishment,null);
+  assert.equal(schoolMetadata([{...row,ORG_RDNMA:'경기 성남시 중원구'}],'성일중학교').establishment,'사립');
+});
+test('학교 ID·학교명·제목을 연결하고 통합 모집과 미확인을 구분한다', () => {
+  const registry=[{name:'금상초등학교',establishment:'공립'},{name:'성일중학교',establishment:'사립'}];
+  const schools=[{id:'gumsang',name:'금상초등학교'}];
+  assert.equal(establishmentInfo({schoolId:'gumsang'},schools,registry).establishment,'공립');
+  assert.equal(establishmentInfo({title:'(금상초) 강사 모집'},schools,registry).establishment,'공립');
+  assert.equal(establishmentInfo({schoolName:'성일중학교'},schools,registry).establishment,'사립');
+  assert.equal(establishmentInfo({title:'가짜금상초 강사 모집'},schools,registry).establishment,'설립 구분 미확인');
+  assert.equal(establishmentInfo({schoolNames:['금상초등학교','성일중학교']},schools,registry).establishment,'공립·사립 혼합');
+  assert.equal(establishmentInfo({schoolNames:['금상초등학교','미등록학교']},schools,registry).establishment,'설립 구분 미확인');
+  assert.equal(establishmentInfo({schoolId:'gumsang'},schools,[]).establishment,'설립 구분 미확인');
 });
 test('기존 자료의 학교와 공고를 보존하고 전국 자료를 분리한다', () => {
   const schools=read('schools'), history=read('recruitments'), hits=read('school_notice_hits'), training=read('training_hits');

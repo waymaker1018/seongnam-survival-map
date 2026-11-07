@@ -119,7 +119,28 @@
     "applyEnd": "2026.02.20",
     "postedDate": "2026-02-12",
     "checkedAt": "2026-11-08",
-    "sourceUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1899470"
+    "sourceUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1899470",
+    "schoolNames": [
+      "단대초등학교",
+      "대일초등학교",
+      "분당초등학교",
+      "성남미금초등학교",
+      "성남송현초등학교",
+      "성남신흥초등학교",
+      "성남정자초등학교",
+      "성남화랑초등학교",
+      "위례한빛초등학교",
+      "초림초등학교",
+      "삼평중학교",
+      "성일중학교",
+      "야탑중학교",
+      "창성중학교",
+      "복정고등학교",
+      "성남외국어고등학교",
+      "숭신고등학교",
+      "풍생고등학교",
+      "성은학교"
+    ]
   },
   {
     "school": "성일중학교",

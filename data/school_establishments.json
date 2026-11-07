@@ -1,0 +1,583 @@
+[
+  {
+    "name": "검단초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EA%B2%80%EB%8B%A8%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.216Z"
+  },
+  {
+    "name": "구미초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EA%B5%AC%EB%AF%B8%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.227Z"
+  },
+  {
+    "name": "금빛초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EA%B8%88%EB%B9%9B%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.229Z"
+  },
+  {
+    "name": "금상초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EA%B8%88%EC%83%81%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.221Z"
+  },
+  {
+    "name": "낙생초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EB%82%99%EC%83%9D%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.294Z"
+  },
+  {
+    "name": "내정초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EB%82%B4%EC%A0%95%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.290Z"
+  },
+  {
+    "name": "늘푸른초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EB%8A%98%ED%91%B8%EB%A5%B8%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.265Z"
+  },
+  {
+    "name": "단남초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EB%8B%A8%EB%82%A8%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.263Z"
+  },
+  {
+    "name": "단대초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EB%8B%A8%EB%8C%80%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.300Z"
+  },
+  {
+    "name": "당촌초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EB%8B%B9%EC%B4%8C%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.301Z"
+  },
+  {
+    "name": "대원초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EB%8C%80%EC%9B%90%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.328Z"
+  },
+  {
+    "name": "대일초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EB%8C%80%EC%9D%BC%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.333Z"
+  },
+  {
+    "name": "대하초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EB%8C%80%ED%95%98%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.336Z"
+  },
+  {
+    "name": "도촌초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EB%8F%84%EC%B4%8C%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.337Z"
+  },
+  {
+    "name": "돌마초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EB%8F%8C%EB%A7%88%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.372Z"
+  },
+  {
+    "name": "백현초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EB%B0%B1%ED%98%84%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.366Z"
+  },
+  {
+    "name": "보평초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EB%B3%B4%ED%8F%89%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.376Z"
+  },
+  {
+    "name": "복정고등학교",
+    "establishment": "공립",
+    "level": "고등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EB%B3%B5%EC%A0%95%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.968Z"
+  },
+  {
+    "name": "복정초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EB%B3%B5%EC%A0%95%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.372Z"
+  },
+  {
+    "name": "분당초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EB%B6%84%EB%8B%B9%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.407Z"
+  },
+  {
+    "name": "불곡초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EB%B6%88%EA%B3%A1%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.405Z"
+  },
+  {
+    "name": "불정초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EB%B6%88%EC%A0%95%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.411Z"
+  },
+  {
+    "name": "산운초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%82%B0%EC%9A%B4%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.412Z"
+  },
+  {
+    "name": "삼평중학교",
+    "establishment": "공립",
+    "level": "중학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%82%BC%ED%8F%89%EC%A4%91%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.937Z"
+  },
+  {
+    "name": "상대원초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%83%81%EB%8C%80%EC%9B%90%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.441Z"
+  },
+  {
+    "name": "상원초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%83%81%EC%9B%90%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.442Z"
+  },
+  {
+    "name": "상탑초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%83%81%ED%83%91%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.447Z"
+  },
+  {
+    "name": "서당초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%84%9C%EB%8B%B9%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.446Z"
+  },
+  {
+    "name": "서현초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%84%9C%ED%98%84%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.478Z"
+  },
+  {
+    "name": "성남동초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%84%B1%EB%82%A8%EB%8F%99%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.477Z"
+  },
+  {
+    "name": "성남매송초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%84%B1%EB%82%A8%EB%A7%A4%EC%86%A1%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.479Z"
+  },
+  {
+    "name": "성남미금초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%84%B1%EB%82%A8%EB%AF%B8%EA%B8%88%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.480Z"
+  },
+  {
+    "name": "성남북초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%84%B1%EB%82%A8%EB%B6%81%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.517Z"
+  },
+  {
+    "name": "성남서초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%84%B1%EB%82%A8%EC%84%9C%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.515Z"
+  },
+  {
+    "name": "성남송현초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%84%B1%EB%82%A8%EC%86%A1%ED%98%84%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.519Z"
+  },
+  {
+    "name": "성남수정초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%84%B1%EB%82%A8%EC%88%98%EC%A0%95%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.517Z"
+  },
+  {
+    "name": "성남신기초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%84%B1%EB%82%A8%EC%8B%A0%EA%B8%B0%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.557Z"
+  },
+  {
+    "name": "성남신흥초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%84%B1%EB%82%A8%EC%8B%A0%ED%9D%A5%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.556Z"
+  },
+  {
+    "name": "성남양지초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%84%B1%EB%82%A8%EC%96%91%EC%A7%80%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.564Z"
+  },
+  {
+    "name": "성남여수초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%84%B1%EB%82%A8%EC%97%AC%EC%88%98%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.563Z"
+  },
+  {
+    "name": "성남외국어고등학교",
+    "establishment": "공립",
+    "level": "고등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%84%B1%EB%82%A8%EC%99%B8%EA%B5%AD%EC%96%B4%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.972Z"
+  },
+  {
+    "name": "성남은행초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%84%B1%EB%82%A8%EC%9D%80%ED%96%89%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.598Z"
+  },
+  {
+    "name": "성남장안초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%84%B1%EB%82%A8%EC%9E%A5%EC%95%88%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.592Z"
+  },
+  {
+    "name": "성남정자초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%84%B1%EB%82%A8%EC%A0%95%EC%9E%90%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.597Z"
+  },
+  {
+    "name": "성남제일초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%84%B1%EB%82%A8%EC%A0%9C%EC%9D%BC%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.600Z"
+  },
+  {
+    "name": "성남중앙초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%84%B1%EB%82%A8%EC%A4%91%EC%95%99%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.629Z"
+  },
+  {
+    "name": "성남초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%84%B1%EB%82%A8%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.632Z"
+  },
+  {
+    "name": "성남화랑초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%84%B1%EB%82%A8%ED%99%94%EB%9E%91%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.636Z"
+  },
+  {
+    "name": "성수초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%84%B1%EC%88%98%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.634Z"
+  },
+  {
+    "name": "성은학교",
+    "establishment": "공립",
+    "level": "특수학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%84%B1%EC%9D%80%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:33.052Z"
+  },
+  {
+    "name": "성일중학교",
+    "establishment": "사립",
+    "level": "중학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%84%B1%EC%9D%BC%EC%A4%91%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.934Z"
+  },
+  {
+    "name": "수내초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%88%98%EB%82%B4%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.666Z"
+  },
+  {
+    "name": "수진초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%88%98%EC%A7%84%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.671Z"
+  },
+  {
+    "name": "숭신고등학교",
+    "establishment": "사립",
+    "level": "고등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%88%AD%EC%8B%A0%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.970Z"
+  },
+  {
+    "name": "신백현초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%8B%A0%EB%B0%B1%ED%98%84%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.672Z"
+  },
+  {
+    "name": "안말초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%95%88%EB%A7%90%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.670Z"
+  },
+  {
+    "name": "야탑중학교",
+    "establishment": "공립",
+    "level": "중학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%95%BC%ED%83%91%EC%A4%91%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.939Z"
+  },
+  {
+    "name": "야탑초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%95%BC%ED%83%91%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.698Z"
+  },
+  {
+    "name": "양영초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%96%91%EC%98%81%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.705Z"
+  },
+  {
+    "name": "오리초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%98%A4%EB%A6%AC%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.708Z"
+  },
+  {
+    "name": "왕남초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%99%95%EB%82%A8%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.707Z"
+  },
+  {
+    "name": "운중초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%9A%B4%EC%A4%91%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.739Z"
+  },
+  {
+    "name": "위례고운초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%9C%84%EB%A1%80%EA%B3%A0%EC%9A%B4%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.739Z"
+  },
+  {
+    "name": "위례중앙초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%9C%84%EB%A1%80%EC%A4%91%EC%95%99%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.744Z"
+  },
+  {
+    "name": "위례푸른초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%9C%84%EB%A1%80%ED%91%B8%EB%A5%B8%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.745Z"
+  },
+  {
+    "name": "위례한빛초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%9C%84%EB%A1%80%ED%95%9C%EB%B9%9B%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.773Z"
+  },
+  {
+    "name": "위례해솔초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%9C%84%EB%A1%80%ED%95%B4%EC%86%94%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.778Z"
+  },
+  {
+    "name": "이매초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%9D%B4%EB%A7%A4%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.781Z"
+  },
+  {
+    "name": "중부초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%A4%91%EB%B6%80%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.782Z"
+  },
+  {
+    "name": "중원초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%A4%91%EC%9B%90%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.817Z"
+  },
+  {
+    "name": "중탑초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%A4%91%ED%83%91%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.816Z"
+  },
+  {
+    "name": "창성중학교",
+    "establishment": "공립",
+    "level": "중학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%B0%BD%EC%84%B1%EC%A4%91%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.971Z"
+  },
+  {
+    "name": "청솔초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%B2%AD%EC%86%94%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.818Z"
+  },
+  {
+    "name": "초림초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%EC%B4%88%EB%A6%BC%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.826Z"
+  },
+  {
+    "name": "탄천초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%ED%83%84%EC%B2%9C%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.867Z"
+  },
+  {
+    "name": "태평초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%ED%83%9C%ED%8F%89%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.863Z"
+  },
+  {
+    "name": "판교대장초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%ED%8C%90%EA%B5%90%EB%8C%80%EC%9E%A5%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.899Z"
+  },
+  {
+    "name": "판교초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%ED%8C%90%EA%B5%90%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.862Z"
+  },
+  {
+    "name": "풍생고등학교",
+    "establishment": "사립",
+    "level": "고등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%ED%92%8D%EC%83%9D%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:33.052Z"
+  },
+  {
+    "name": "하원초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%ED%95%98%EC%9B%90%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.899Z"
+  },
+  {
+    "name": "하탑초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%ED%95%98%ED%83%91%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.896Z"
+  },
+  {
+    "name": "한솔초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%ED%95%9C%EC%86%94%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.904Z"
+  },
+  {
+    "name": "희망대초등학교",
+    "establishment": "공립",
+    "level": "초등학교",
+    "sourceUrl": "https://open.neis.go.kr/hub/schoolInfo?Type=json&ATPT_OFCDC_SC_CODE=J10&SCHUL_NM=%ED%9D%AC%EB%A7%9D%EB%8C%80%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90",
+    "checkedAt": "2026-11-07T17:15:32.929Z"
+  }
+]
