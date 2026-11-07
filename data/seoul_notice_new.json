@@ -1,18 +1,5 @@
 {
-  "generatedAt": "2026-11-06T13:20:14.508Z",
-  "newCount": 1,
-  "items": [
-    {
-      "id": "seoul:gsycedu:15189",
-      "schoolId": "sen-7081481",
-      "schoolName": "서울화일초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "대안교실강사",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    }
-  ]
+  "generatedAt": "2026-11-07T05:10:14.515Z",
+  "newCount": 0,
+  "items": []
 }

@@ -1,20 +1,8 @@
 {
-  "generatedAt": "2026-11-06T13:20:14.508Z",
-  "hitCount": 71,
+  "generatedAt": "2026-11-07T05:10:14.515Z",
+  "hitCount": 70,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:nbedu:11448",
-      "schoolId": "sen-7041105",
-      "schoolName": "서울고원초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-11-06T00:00:00+09:00",
-      "title": "구로구청 초등맞춤형 프로그램(1, 5학년) 협력강사 채용 공고문",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:dgedu:10299",
       "schoolId": "sen-7132095",
