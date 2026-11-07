@@ -4,6 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "test": "node --test scripts/ui.test.mjs",
     "enrich": "node scripts/enrich_schools.mjs",
     "monitor": "node scripts/monitor_seongnam_school_sites.mjs",
     "monitor:seoul": "node scripts/monitor_seoul_jobs.mjs",
