@@ -1,20 +1,8 @@
 {
-  "generatedAt": "2026-11-07T11:59:44.386Z",
-  "hitCount": 70,
+  "generatedAt": "2026-11-08T05:04:20.322Z",
+  "hitCount": 69,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:dgedu:10299",
-      "schoolId": "sen-7132095",
-      "schoolName": "서울보라매초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-11-07T00:00:00+09:00",
-      "title": "초 1학년 기초학력 협력강사 채용 공고 (기타)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:dgedu:10300",
       "schoolId": "sen-7132095",
