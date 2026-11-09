@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-09T05:15:12.098Z",
-  "hitCount": 67,
+  "generatedAt": "2026-11-09T14:31:24.284Z",
+  "hitCount": 65,
   "errors": [],
   "items": [
     {
@@ -637,30 +637,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "1~2학년 전래놀이 강사",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15132",
-      "schoolId": "sen-7081422",
-      "schoolName": "서울강신초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "학교 내 대안교실(기초학력) 학교 내 대안교실(진로직업)",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15131",
-      "schoolId": "sen-7081478",
-      "schoolName": "서울치현초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "특수학급 학생 통합학급 시간 지원",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
