@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T12:19:43.995Z",
+  "generatedAt": "2026-11-09T05:15:12.046Z",
   "items": {
     "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&nttSn=1967891": {
       "checkedAt": "2026-11-08T12:19:04.055Z",
@@ -22,7 +22,7 @@
       ]
     },
     "https://bulgok-e.goesn.kr/bulgok-e/na/ntt/selectNttInfo.do?bbsId=11218&nttSn=1967665": {
-      "checkedAt": "2026-11-08T12:19:07.618Z",
+      "checkedAt": "2026-11-09T05:15:09.299Z",
       "status": "unavailable",
       "files": []
     },
@@ -171,7 +171,7 @@
       ]
     },
     "https://whb-e.goesn.kr/whb-e/na/ntt/selectNttInfo.do?bbsId=10450&nttSn=1967137": {
-      "checkedAt": "2026-11-08T12:19:19.720Z",
+      "checkedAt": "2026-11-09T05:15:09.433Z",
       "status": "unavailable",
       "files": []
     },
@@ -190,7 +190,7 @@
       ]
     },
     "https://hmd-e.goesn.kr/hmd-e/na/ntt/selectNttInfo.do?bbsId=13306&nttSn=1966892": {
-      "checkedAt": "2026-11-08T12:19:20.858Z",
+      "checkedAt": "2026-11-09T05:15:10.058Z",
       "status": "unavailable",
       "files": []
     },
@@ -205,7 +205,7 @@
       ]
     },
     "https://sangtap-e.goesn.kr/sangtap-e/na/ntt/selectNttInfo.do?bbsId=19795&nttSn=1966388": {
-      "checkedAt": "2026-11-08T12:19:22.375Z",
+      "checkedAt": "2026-11-09T05:15:10.371Z",
       "status": "unavailable",
       "files": []
     },
@@ -240,7 +240,7 @@
       ]
     },
     "https://pangyo-e.goesn.kr/pangyo-e/na/ntt/selectNttInfo.do?bbsId=12112&nttSn=1966495": {
-      "checkedAt": "2026-11-08T12:19:24.082Z",
+      "checkedAt": "2026-11-09T05:15:10.495Z",
       "status": "unavailable",
       "files": []
     },
@@ -289,7 +289,7 @@
       ]
     },
     "https://bundang-e.goesn.kr/bundang-e/na/ntt/selectNttInfo.do?bbsId=11151&nttSn=1965489": {
-      "checkedAt": "2026-11-08T12:19:29.046Z",
+      "checkedAt": "2026-11-09T05:15:11.078Z",
       "status": "unavailable",
       "files": []
     },
@@ -467,6 +467,36 @@
         {
           "name": "3.2026지털튜터 채용 공고 및 관련 서류.hwpx",
           "previewUrl": "https://ub01.viewstory.net/external/resources/upload/goesn/convert/2026/11/08/hwpx96af1bea-917f-4fdc-9137-3d67b81bc805.html/hwpx96af1bea-917f-4fdc-9137-3d67b81bc805.html"
+        }
+      ]
+    },
+    "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&nttSn=1968030": {
+      "checkedAt": "2026-11-09T05:15:06.592Z",
+      "status": "ready",
+      "files": [
+        {
+          "name": "2026학년도 성수초 초등돌봄  겨울방학 단체활동 강사 선발 공고문.hwp",
+          "previewUrl": "https://ub01.viewstory.net/external/resources/upload/goesn/convert/2026/11/09/hwpee3b9ce9-709c-49ff-b012-63c0c87f5209.html/hwpee3b9ce9-709c-49ff-b012-63c0c87f5209.html"
+        }
+      ]
+    },
+    "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&nttSn=1967951": {
+      "checkedAt": "2026-11-09T05:15:06.629Z",
+      "status": "ready",
+      "files": [
+        {
+          "name": "2026 12.1.자 기간제교사(시간강사) 채용공고문(특수교사).hwp",
+          "previewUrl": "https://ub01.viewstory.net/external/resources/upload/goesn/convert/2026/11/09/hwp1a245a71-5d68-464d-a2c8-7402f3392346.html/hwp1a245a71-5d68-464d-a2c8-7402f3392346.html"
+        }
+      ]
+    },
+    "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&nttSn=1967995": {
+      "checkedAt": "2026-11-09T05:15:06.628Z",
+      "status": "ready",
+      "files": [
+        {
+          "name": "2026 계약제교원(시간강사) 채용 공고 및 응시원서(2학년 담임,11.23~11.25.).hwp",
+          "previewUrl": "https://ub01.viewstory.net/external/resources/upload/goesn/convert/2026/11/09/hwpe77e721d-07c4-4d9c-bd4a-767ebb618ddf.html/hwpe77e721d-07c4-4d9c-bd4a-767ebb618ddf.html"
         }
       ]
     }

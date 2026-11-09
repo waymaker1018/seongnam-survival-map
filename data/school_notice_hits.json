@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T12:17:19.725Z",
+  "generatedAt": "2026-11-09T05:13:40.461Z",
   "lookbackDays": 14,
   "schoolCount": 73,
   "hitCount": 38,
@@ -38,6 +38,42 @@
     "디지털 새싹"
   ],
   "items": [
+    {
+      "id": "office:goesn:1968030",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-11-08T15:00:00.000Z",
+      "deadline": "2026-11-12T15:00:00.000Z",
+      "title": "2026학년도 성수초등학교 겨울방학 초등돌봄교실 단체활동 강사 채용 공고",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1968030"
+    },
+    {
+      "id": "office:goesn:1967995",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-11-08T15:00:00.000Z",
+      "deadline": "2026-11-12T15:00:00.000Z",
+      "title": "2026학년도 돌마초등학교 시간강사 채용 공고(2학년 담임)",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1967995"
+    },
+    {
+      "id": "office:goesn:1967951",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-11-08T15:00:00.000Z",
+      "deadline": "2026-11-11T15:00:00.000Z",
+      "title": "2026학년도 산운초등학교 기간제교원(특수 시간강사) 채용 공고",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1967951"
+    },
     {
       "id": "gumsang-e:gumsang-e:1967892",
       "schoolId": "gumsang-e",
@@ -255,18 +291,6 @@
       "url": "https://baekhyeon-e.goesn.kr/baekhyeon-e/na/ntt/selectNttInfo.do?mi=11977&bbsId=11032&nttSn=1966941"
     },
     {
-      "id": "office:goesn:1967136",
-      "schoolId": null,
-      "schoolName": "성남교육지원청 구인",
-      "schoolHomepage": "https://www.goesn.kr",
-      "boardLabel": "성남교육지원청 구인",
-      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
-      "postedAt": "2026-11-03T15:00:00.000Z",
-      "deadline": "2026-11-09T15:00:00.000Z",
-      "title": "2026학년 방과후돌봄 수익자 방과후 [창의과학] 강사 채용 공고",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1967136"
-    },
-    {
       "id": "whb-e:whb-e:1967137",
       "schoolId": "whb-e",
       "schoolName": "위례한빛초등학교",
@@ -469,30 +493,6 @@
       "deadline": null,
       "title": "퍼스널 이미지 브랜딩, AI로 단편 영화 만들기 참가 모집",
       "url": "https://hmd-e.goesn.kr/hmd-e/na/ntt/selectNttInfo.do?mi=15851&bbsId=13226&nttSn=1964835"
-    },
-    {
-      "id": "dandae-e:dandae-e:1964326",
-      "schoolId": "dandae-e",
-      "schoolName": "단대초등학교",
-      "schoolHomepage": "https://dandae-e.goesn.kr",
-      "boardLabel": "수익자 방과후",
-      "boardUrl": "https://dandae-e.goesn.kr/dandae-e/na/ntt/selectNttList.do?mi=11776&bbsId=10926&listCo=50&currPage=1",
-      "postedAt": "2026-10-25T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026학년도 방과후학교 4분기 모집 안내",
-      "url": "https://dandae-e.goesn.kr/dandae-e/na/ntt/selectNttInfo.do?mi=11776&bbsId=10926&nttSn=1964326"
-    },
-    {
-      "id": "ori-e:ori-e:1964242",
-      "schoolId": "ori-e",
-      "schoolName": "오리초등학교",
-      "schoolHomepage": "https://ori-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://ori-e.goesn.kr/ori-e/na/ntt/selectNttList.do?mi=16331&bbsId=13505&listCo=50&currPage=1",
-      "postedAt": "2026-10-25T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026학년도 오리초등학교 도서관 겨울방학 독서교실 외부강사 채용 공고",
-      "url": "https://ori-e.goesn.kr/ori-e/na/ntt/selectNttInfo.do?mi=16331&bbsId=13505&nttSn=1964242"
     }
   ]
 }
