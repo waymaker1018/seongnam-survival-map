@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-10T06:29:15.807Z",
-  "hitCount": 66,
+  "generatedAt": "2026-11-10T13:53:23.001Z",
+  "hitCount": 65,
   "errors": [],
   "items": [
     {
@@ -424,6 +424,18 @@
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:gsycedu:15202",
+      "schoolId": null,
+      "schoolName": "서울염경초등학교병설유치원",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "방학 중 방과후과정 보조인력 방과후과정 보조인력",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:gsycedu:15197",
       "schoolId": null,
       "schoolName": "서울탑산초등학교병설유치원",
@@ -625,30 +637,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "초등특수 특수학급 담임교사",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15136",
-      "schoolId": "sen-7081428",
-      "schoolName": "서울공항초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "6학년 영어",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15134",
-      "schoolId": null,
-      "schoolName": "학교통합지원과",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "[3차공고] ('26. 10월~12월 채용 예정) 서울특별시강서양천교육지원청 관내 공립 초·중·고·특수학교 시간강사 채용 공고",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
