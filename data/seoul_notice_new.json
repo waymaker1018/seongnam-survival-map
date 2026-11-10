@@ -1,5 +1,66 @@
 {
-  "generatedAt": "2026-11-09T14:31:24.284Z",
-  "newCount": 0,
-  "items": []
+  "generatedAt": "2026-11-10T06:29:15.807Z",
+  "newCount": 5,
+  "items": [
+    {
+      "id": "seoul:nbedu:11463",
+      "schoolId": "sen-7041143",
+      "schoolName": "서울여의도초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-11-12T00:00:00+09:00",
+      "title": "11.13(금) 09:00~13:40 특수교육대상학생 수업 지원(보조) 구인합니다.",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gdspedu:8367",
+      "schoolId": "sen-7130113",
+      "schoolName": "서울고명초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강동송파 구인",
+      "boardUrl": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-11-12T00:00:00+09:00",
+      "title": "학교운동부지도자(야구) (특기적성)",
+      "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10309",
+      "schoolId": null,
+      "schoolName": "봉천초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-11-15T00:00:00+09:00",
+      "title": "봉천초등학교 5학년담수업 시간강사",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10308",
+      "schoolId": "sen-7132091",
+      "schoolName": "서울대림초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-11-16T00:00:00+09:00",
+      "title": "(대림초) 2026학년도 6학년 교육연극 협력강사 모집 공고 (강사)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10310",
+      "schoolId": "sen-7132117",
+      "schoolName": "서울인헌초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-11-17T00:00:00+09:00",
+      "title": "서울인헌초등학교 5학년 AI·코딩강사 모집 공고 (강사)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    }
+  ]
 }
