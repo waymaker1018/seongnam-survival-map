@@ -1,18 +1,54 @@
 {
-  "generatedAt": "2026-11-10T13:53:23.001Z",
-  "newCount": 1,
+  "generatedAt": "2026-11-11T05:15:58.692Z",
+  "newCount": 4,
   "items": [
     {
-      "id": "seoul:gsycedu:15202",
+      "id": "seoul:nbedu:11473",
       "schoolId": null,
-      "schoolName": "서울염경초등학교병설유치원",
+      "schoolName": "서울영중초등학교병설유치원(서울남부교육지원청 학교통합지원과)",
       "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
-      "deadline": null,
-      "title": "방학 중 방과후과정 보조인력 방과후과정 보조인력",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+      "deadline": "2026-11-12T00:00:00+09:00",
+      "title": "(2차) 서울영중초등학교병설유치원 2026학년도 겨울방학 중 유치원에듀케어강사·특수에듀케어강사 채용계획 공고 (업무보조)",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10313",
+      "schoolId": null,
+      "schoolName": "봉천초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-11-15T00:00:00+09:00",
+      "title": "봉천초등학교 6학년담수업 시간강사",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gdspedu:8370",
+      "schoolId": "sen-7130114",
+      "schoolName": "서울고일초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강동송파 구인",
+      "boardUrl": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-11-16T00:00:00+09:00",
+      "title": "돌봄교실 방학 봉사인력 (비정규직)",
+      "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10314",
+      "schoolId": null,
+      "schoolName": "봉천초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-11-26T00:00:00+09:00",
+      "title": "봉천초등학교(4학년담임수업))",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
 }
