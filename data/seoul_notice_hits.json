@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T06:20:08.303Z",
+  "generatedAt": "2026-11-12T14:05:43.617Z",
   "hitCount": 66,
   "errors": [],
   "items": [
@@ -460,6 +460,18 @@
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:gsycedu:15207",
+      "schoolId": "sen-7081481",
+      "schoolName": "서울화일초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "대안교실강사",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:gsycedu:15202",
       "schoolId": null,
       "schoolName": "서울염경초등학교병설유치원",
@@ -637,18 +649,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "[4차공고] ('26. 10월~12월 채용 예정) 서울특별시강서양천교육지원청 관내 공립 초·중학교 시간강사 채용 공고",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15139",
-      "schoolId": "sen-7081467",
-      "schoolName": "서울염동초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "초등특수 특수학급 담임교사",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
