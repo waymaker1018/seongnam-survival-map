@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-13T05:41:04.928Z",
-  "hitCount": 63,
+  "generatedAt": "2026-11-13T13:31:19.006Z",
+  "hitCount": 61,
   "errors": [],
   "items": [
     {
@@ -424,6 +424,30 @@
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:gsycedu:15226",
+      "schoolId": null,
+      "schoolName": "서울공진초등학교병설유치원",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "오후에듀케어운영인력",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gsycedu:15225",
+      "schoolId": null,
+      "schoolName": "서울탑산초등학교병설유치원",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "방과후 과정반 방학 중 오전운영인력",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:gsycedu:15211",
       "schoolId": "sen-7081451",
       "schoolName": "서울신기초등학교",
@@ -565,54 +589,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "(시간강사) 1학년 담임",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15157",
-      "schoolId": "sen-7081432",
-      "schoolName": "서울등명초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "초등학교 1:1 맞춤학습지도 강사",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15154",
-      "schoolId": null,
-      "schoolName": "학교통합지원과",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "서울특별시강서양천교육지원청 2026년 5차 지방공무원 대체직원 채용지원 학교별 중간 응시현황 공개",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15153",
-      "schoolId": null,
-      "schoolName": "학교통합지원과",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "서울특별시강서양천교육지원청 2026학년도 5차 교육공무직원 대체직원 채용지원 학교별 중간 응시현황 공개",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15148",
-      "schoolId": null,
-      "schoolName": "학교통합지원과",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "[서울특별시강서양천교육지원청] 관내 서울염경초등학교 지방공무원 대체직원(교육행정) 채용계획 공고",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
