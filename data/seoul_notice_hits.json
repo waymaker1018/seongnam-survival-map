@@ -1,32 +1,8 @@
 {
-  "generatedAt": "2026-11-15T13:02:48.928Z",
-  "hitCount": 60,
+  "generatedAt": "2026-11-16T05:27:05.590Z",
+  "hitCount": 55,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:dgedu:10313",
-      "schoolId": null,
-      "schoolName": "봉천초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-11-15T00:00:00+09:00",
-      "title": "봉천초등학교 6학년담수업 시간강사",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:dgedu:10309",
-      "schoolId": null,
-      "schoolName": "봉천초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-11-15T00:00:00+09:00",
-      "title": "봉천초등학교 5학년담수업 시간강사",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:gdspedu:8370",
       "schoolId": "sen-7130114",
@@ -88,18 +64,6 @@
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
-      "id": "seoul:nbedu:11458",
-      "schoolId": null,
-      "schoolName": "서울매봉초등학교병설유치원",
-      "schoolHomepage": null,
-      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
-      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-12-05T00:00:00+09:00",
-      "title": "(매봉병유) 2026년 학년말 방학 중 에듀케어 강사 채용",
-      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
       "id": "seoul:nbedu:11447",
       "schoolId": "sen-7041106",
       "schoolName": "서울고척초등학교",
@@ -109,6 +73,18 @@
       "postedAt": null,
       "deadline": "2026-12-07T00:00:00+09:00",
       "title": "(고척초)2026 맞춤형(키성장요가&체조_월수) 개인위탁 외부강사 모집 공고",
+      "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:nbedu:11513",
+      "schoolId": null,
+      "schoolName": "서울매봉초등학교병설유치원",
+      "schoolHomepage": null,
+      "boardLabel": "서울 남부(영등포·구로·금천) 구인",
+      "boardUrl": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-12-16T00:00:00+09:00",
+      "title": "(매봉병유) 2026년 학년말 방학 중 에듀케어 강사 채용",
       "url": "https://nbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
@@ -412,6 +388,18 @@
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:gsycedu:15232",
+      "schoolId": null,
+      "schoolName": "서울공진초등학교병설유치원",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "오후에듀케어운영인력",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:gsycedu:15226",
       "schoolId": null,
       "schoolName": "서울공진초등학교병설유치원",
@@ -568,18 +556,6 @@
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
-      "id": "seoul:gsycedu:15164",
-      "schoolId": "sen-7081428",
-      "schoolName": "서울공항초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "(시간강사) 1학년 담임",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
       "id": "seoul:gnscedu:14277",
       "schoolId": "sen-7091400",
       "schoolName": "서울신중초등학교",
@@ -685,42 +661,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "체육 권수진 (놀이체육강사)",
-      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gnscedu:14225",
-      "schoolId": null,
-      "schoolName": "밀알학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강남서초 구인",
-      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "늘봄학교 강사 김효중 (늘봄학교 맞춤형 교실 강사(특수체육,예술신체놀이))",
-      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gnscedu:14223",
-      "schoolId": null,
-      "schoolName": "언주초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강남서초 구인",
-      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "박윤미 (기간제 돌봄전담사(전일제))",
-      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gnscedu:14222",
-      "schoolId": null,
-      "schoolName": "언주초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강남서초 구인",
-      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "박윤미 (기간제 돌봄 전담사(시간제))",
       "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]

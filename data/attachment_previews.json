@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T13:02:48.880Z",
+  "generatedAt": "2026-11-16T05:27:05.545Z",
   "items": {
     "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&nttSn=1967891": {
       "checkedAt": "2026-11-12T14:05:26.099Z",
@@ -22,7 +22,7 @@
       ]
     },
     "https://bulgok-e.goesn.kr/bulgok-e/na/ntt/selectNttInfo.do?bbsId=11218&nttSn=1967665": {
-      "checkedAt": "2026-11-15T13:02:33.849Z",
+      "checkedAt": "2026-11-16T05:27:03.765Z",
       "status": "unavailable",
       "files": []
     },
@@ -171,7 +171,7 @@
       ]
     },
     "https://whb-e.goesn.kr/whb-e/na/ntt/selectNttInfo.do?bbsId=10450&nttSn=1967137": {
-      "checkedAt": "2026-11-15T13:02:38.968Z",
+      "checkedAt": "2026-11-16T05:27:03.836Z",
       "status": "unavailable",
       "files": []
     },
@@ -190,7 +190,7 @@
       ]
     },
     "https://hmd-e.goesn.kr/hmd-e/na/ntt/selectNttInfo.do?bbsId=13306&nttSn=1966892": {
-      "checkedAt": "2026-11-15T13:02:39.829Z",
+      "checkedAt": "2026-11-16T05:27:04.662Z",
       "status": "unavailable",
       "files": []
     },
@@ -511,7 +511,7 @@
       ]
     },
     "https://yy-e.goesn.kr/yy-e/na/ntt/selectNttInfo.do?bbsId=13266&nttSn=1968391": {
-      "checkedAt": "2026-11-15T13:02:32.832Z",
+      "checkedAt": "2026-11-16T05:27:02.962Z",
       "status": "unavailable",
       "files": []
     },
@@ -536,7 +536,7 @@
       ]
     },
     "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&nttSn=1968408": {
-      "checkedAt": "2026-11-15T05:28:41.844Z",
+      "checkedAt": "2026-11-16T05:27:02.202Z",
       "status": "ready",
       "files": [
         {
@@ -550,7 +550,7 @@
       ]
     },
     "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&nttSn=1968463": {
-      "checkedAt": "2026-11-15T05:28:41.345Z",
+      "checkedAt": "2026-11-16T05:27:01.617Z",
       "status": "ready",
       "files": [
         {
@@ -560,7 +560,7 @@
       ]
     },
     "https://snjj-e.goesn.kr/snjj-e/na/ntt/selectNttInfo.do?bbsId=12354&nttSn=1968412": {
-      "checkedAt": "2026-11-15T05:28:42.027Z",
+      "checkedAt": "2026-11-16T05:27:02.799Z",
       "status": "ready",
       "files": [
         {
@@ -594,7 +594,7 @@
       ]
     },
     "https://gumsang-e.goesn.kr/gumsang-e/na/ntt/selectNttInfo.do?bbsId=10700&nttSn=1968691": {
-      "checkedAt": "2026-11-15T05:28:34.055Z",
+      "checkedAt": "2026-11-16T05:26:55.907Z",
       "status": "ready",
       "files": [
         {
@@ -620,7 +620,7 @@
       ]
     },
     "https://daeil-e.goesn.kr/daeil-e/na/ntt/selectNttInfo.do?bbsId=10965&nttSn=1968806": {
-      "checkedAt": "2026-11-15T05:28:34.594Z",
+      "checkedAt": "2026-11-16T05:26:56.977Z",
       "status": "ready",
       "files": [
         {
@@ -630,7 +630,7 @@
       ]
     },
     "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&nttSn=1968803": {
-      "checkedAt": "2026-11-15T05:28:35.830Z",
+      "checkedAt": "2026-11-16T05:26:57.384Z",
       "status": "ready",
       "files": [
         {
@@ -640,7 +640,7 @@
       ]
     },
     "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&nttSn=1968760": {
-      "checkedAt": "2026-11-15T05:28:38.138Z",
+      "checkedAt": "2026-11-16T05:26:58.695Z",
       "status": "ready",
       "files": [
         {
@@ -650,7 +650,7 @@
       ]
     },
     "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&nttSn=1968785": {
-      "checkedAt": "2026-11-15T05:28:36.965Z",
+      "checkedAt": "2026-11-16T05:26:58.574Z",
       "status": "ready",
       "files": [
         {
@@ -660,7 +660,7 @@
       ]
     },
     "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&nttSn=1968661": {
-      "checkedAt": "2026-11-15T05:28:39.075Z",
+      "checkedAt": "2026-11-16T05:26:59.752Z",
       "status": "ready",
       "files": [
         {
@@ -674,7 +674,7 @@
       ]
     },
     "https://tanchun-e.goesn.kr/tanchun-e/na/ntt/selectNttInfo.do?bbsId=11090&nttSn=1968789": {
-      "checkedAt": "2026-11-15T05:28:39.899Z",
+      "checkedAt": "2026-11-16T05:27:00.510Z",
       "status": "ready",
       "files": [
         {
@@ -684,7 +684,7 @@
       ]
     },
     "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&nttSn=1968660": {
-      "checkedAt": "2026-11-15T05:28:39.193Z",
+      "checkedAt": "2026-11-16T05:27:00.237Z",
       "status": "ready",
       "files": [
         {
@@ -722,12 +722,12 @@
       ]
     },
     "https://daeil-e.goesn.kr/daeil-e/na/ntt/selectNttInfo.do?bbsId=10945&nttSn=1968963": {
-      "checkedAt": "2026-11-15T13:02:25.857Z",
+      "checkedAt": "2026-11-16T05:26:50.035Z",
       "status": "unavailable",
       "files": []
     },
     "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&nttSn=1968960": {
-      "checkedAt": "2026-11-15T05:28:27.991Z",
+      "checkedAt": "2026-11-16T05:26:51.823Z",
       "status": "ready",
       "files": [
         {
@@ -737,7 +737,7 @@
       ]
     },
     "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&nttSn=1969003": {
-      "checkedAt": "2026-11-15T05:28:26.576Z",
+      "checkedAt": "2026-11-16T05:26:51.186Z",
       "status": "ready",
       "files": [
         {
@@ -747,7 +747,7 @@
       ]
     },
     "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&nttSn=1968933": {
-      "checkedAt": "2026-11-15T05:28:29.539Z",
+      "checkedAt": "2026-11-16T05:26:52.469Z",
       "status": "ready",
       "files": [
         {
@@ -757,7 +757,7 @@
       ]
     },
     "https://seodang-e.goesn.kr/seodang-e/na/ntt/selectNttInfo.do?bbsId=15387&nttSn=1968992": {
-      "checkedAt": "2026-11-15T05:28:26.575Z",
+      "checkedAt": "2026-11-16T05:26:50.389Z",
       "status": "ready",
       "files": [
         {
@@ -767,7 +767,7 @@
       ]
     },
     "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&nttSn=1968895": {
-      "checkedAt": "2026-11-15T05:28:30.775Z",
+      "checkedAt": "2026-11-16T05:26:53.640Z",
       "status": "ready",
       "files": [
         {
@@ -777,7 +777,7 @@
       ]
     },
     "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&nttSn=1968907": {
-      "checkedAt": "2026-11-15T05:28:30.412Z",
+      "checkedAt": "2026-11-16T05:26:53.543Z",
       "status": "ready",
       "files": [
         {
@@ -787,22 +787,22 @@
       ]
     },
     "https://snsg-e.goesn.kr/snsg-e/na/ntt/selectNttInfo.do?bbsId=17145&nttSn=1968946": {
-      "checkedAt": "2026-11-15T13:02:27.092Z",
+      "checkedAt": "2026-11-16T05:26:54.735Z",
       "status": "unavailable",
       "files": []
     },
     "https://snji-e.goesn.kr/snji-e/na/ntt/selectNttInfo.do?bbsId=12683&nttSn=1968994": {
-      "checkedAt": "2026-11-15T13:02:28.299Z",
+      "checkedAt": "2026-11-16T05:26:54.778Z",
       "status": "unavailable",
       "files": []
     },
     "https://shinbh-e.goesn.kr/shinbh-e/na/ntt/selectNttInfo.do?bbsId=13107&nttSn=1968914": {
-      "checkedAt": "2026-11-15T13:02:28.867Z",
+      "checkedAt": "2026-11-16T05:26:55.814Z",
       "status": "unavailable",
       "files": []
     },
     "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&nttSn=1968917": {
-      "checkedAt": "2026-11-15T05:28:30.289Z",
+      "checkedAt": "2026-11-16T05:26:52.630Z",
       "status": "ready",
       "files": [
         {
@@ -820,7 +820,7 @@
       ]
     },
     "https://wrjungang-e.goesn.kr/wrjungang-e/na/ntt/selectNttInfo.do?bbsId=10130&nttSn=1968889": {
-      "checkedAt": "2026-11-15T05:28:33.803Z",
+      "checkedAt": "2026-11-16T05:26:55.821Z",
       "status": "ready",
       "files": [
         {
@@ -846,6 +846,73 @@
         {
           "name": "방과후학교 개인위탁 외부강사 지원 양식.hwp",
           "previewUrl": "https://ub01.viewstory.net/external/resources/upload/goesn/convert/2026/11/13/hwpa5217835-654c-437c-b7b0-246a33f567f7.html/hwpa5217835-654c-437c-b7b0-246a33f567f7.html"
+        }
+      ]
+    },
+    "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&nttSn=1969281": {
+      "checkedAt": "2026-11-16T05:26:40.840Z",
+      "status": "ready",
+      "files": [
+        {
+          "name": "2027학년 방과후돌봄 개인위탁강사 채용 공고(위례한빛초).hwpx",
+          "previewUrl": "https://ub01.viewstory.net/external/resources/upload/goesn/convert/2026/11/16/hwpxe83edf22-c0e5-420b-9e33-0ba97e32a247.html/hwpxe83edf22-c0e5-420b-9e33-0ba97e32a247.html"
+        }
+      ]
+    },
+    "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&nttSn=1969287": {
+      "checkedAt": "2026-11-16T05:26:40.809Z",
+      "status": "ready",
+      "files": [
+        {
+          "name": "2027학년 위례중앙초 초등돌봄교실 강사 채용 공고.hwp",
+          "previewUrl": "https://ub01.viewstory.net/external/resources/upload/goesn/convert/2026/11/16/hwp644c2927-eb5c-4839-aaab-1cef2a5b0d1f.html/hwp644c2927-eb5c-4839-aaab-1cef2a5b0d1f.html"
+        },
+        {
+          "name": "2027학년 위례중앙초 초등돌봄교실 강사 채용 공고(서식).hwp",
+          "previewUrl": "https://ub01.viewstory.net/external/resources/upload/goesn/convert/2026/11/16/hwpf5b72910-8a40-42d1-a02f-91b19faf324f.html/hwpf5b72910-8a40-42d1-a02f-91b19faf324f.html"
+        }
+      ]
+    },
+    "https://whb-e.goesn.kr/whb-e/na/ntt/selectNttInfo.do?bbsId=10456&nttSn=1969324": {
+      "checkedAt": "2026-11-16T05:26:47.463Z",
+      "status": "unavailable",
+      "files": []
+    },
+    "https://whb-e.goesn.kr/whb-e/na/ntt/selectNttInfo.do?bbsId=10450&nttSn=1969278": {
+      "checkedAt": "2026-11-16T05:26:48.482Z",
+      "status": "unavailable",
+      "files": []
+    },
+    "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&nttSn=1969259": {
+      "checkedAt": "2026-11-16T05:26:40.841Z",
+      "status": "ready",
+      "files": [
+        {
+          "name": "2027학년도 청솔초 방과후학교 강사 채용 공고문.hwp",
+          "previewUrl": "https://ub01.viewstory.net/external/resources/upload/goesn/convert/2026/11/16/hwpdec75a4f-b7d6-4b5f-bebe-4a4b5cdbce6e.html/hwpdec75a4f-b7d6-4b5f-bebe-4a4b5cdbce6e.html"
+        },
+        {
+          "name": "방과후돌봄 프로그램 운영 제안서(서식).hwp",
+          "previewUrl": "https://ub01.viewstory.net/external/resources/upload/goesn/convert/2026/11/16/hwp59f61b6e-a664-403e-bf11-3a0b665cb606.html/hwp59f61b6e-a664-403e-bf11-3a0b665cb606.html"
+        },
+        {
+          "name": "개인정보 수집이용동의서 및 성범죄아동학대조회 동의서.hwp",
+          "previewUrl": "https://ub01.viewstory.net/external/resources/upload/goesn/convert/2026/11/16/hwp09e9964f-7dfa-4f22-913a-923c261287f4.html/hwp09e9964f-7dfa-4f22-913a-923c261287f4.html"
+        }
+      ]
+    },
+    "https://chungsol-e.goesn.kr/chungsol-e/na/ntt/selectNttInfo.do?bbsId=20387&nttSn=1969260": {
+      "checkedAt": "2026-11-16T05:26:49.495Z",
+      "status": "unavailable",
+      "files": []
+    },
+    "https://wrjungang-e.goesn.kr/wrjungang-e/na/ntt/selectNttInfo.do?bbsId=10130&nttSn=1969295": {
+      "checkedAt": "2026-11-16T05:26:44.171Z",
+      "status": "ready",
+      "files": [
+        {
+          "name": "2027학년 위례중앙초 초등돌봄교실 강사 채용 공고.hwp",
+          "previewUrl": "https://ub01.viewstory.net/external/resources/upload/goesn/convert/2026/11/16/hwpb78675fa-a718-44a0-9cef-bb2dfb6f73ba.html/hwpb78675fa-a718-44a0-9cef-bb2dfb6f73ba.html"
         }
       ]
     }
