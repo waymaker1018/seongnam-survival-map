@@ -1,90 +1,30 @@
 {
-  "generatedAt": "2026-11-16T05:25:29.833Z",
-  "newCount": 7,
+  "generatedAt": "2026-11-16T14:05:41.387Z",
+  "newCount": 2,
   "items": [
     {
-      "id": "office:goesn:1969287",
+      "id": "office:goesn:1969411",
       "schoolId": null,
       "schoolName": "성남교육지원청 구인",
       "schoolHomepage": "https://www.goesn.kr",
       "boardLabel": "성남교육지원청 구인",
       "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
       "postedAt": "2026-11-15T15:00:00.000Z",
-      "deadline": "2026-11-22T15:00:00.000Z",
-      "title": "2027학년 위례중앙초 초등돌봄교실 강사 채용 공고",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1969287"
+      "deadline": "2026-11-18T15:00:00.000Z",
+      "title": "2026학년도 수익자 방과후 개인위탁 외부강사 '타악합주' 공개모집(재공고)",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1969411"
     },
     {
-      "id": "office:goesn:1969281",
-      "schoolId": null,
-      "schoolName": "성남교육지원청 구인",
-      "schoolHomepage": "https://www.goesn.kr",
-      "boardLabel": "성남교육지원청 구인",
-      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
-      "postedAt": "2026-11-15T15:00:00.000Z",
-      "deadline": "2026-11-22T15:00:00.000Z",
-      "title": "[위례한빛초] 2027학년 수익자방과후 및 초1~2맞춤형 개인위탁강사 채용 공고",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1969281"
-    },
-    {
-      "id": "office:goesn:1969259",
-      "schoolId": null,
-      "schoolName": "성남교육지원청 구인",
-      "schoolHomepage": "https://www.goesn.kr",
-      "boardLabel": "성남교육지원청 구인",
-      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
-      "postedAt": "2026-11-15T15:00:00.000Z",
-      "deadline": "2026-11-22T15:00:00.000Z",
-      "title": "2027학년도 청솔초 방과후학교 개인위탁 외부강사 모집 공고",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1969259"
-    },
-    {
-      "id": "wrjungang-e:wrjungang-e:1969295",
-      "schoolId": "wrjungang-e",
-      "schoolName": "위례중앙초등학교",
-      "schoolHomepage": "https://wrjungang-e.goesn.kr",
+      "id": "snji-e:snji-e:1969405",
+      "schoolId": "snji-e",
+      "schoolName": "성남제일초등학교",
+      "schoolHomepage": "https://snji-e.goesn.kr",
       "boardLabel": "공지사항",
-      "boardUrl": "https://wrjungang-e.goesn.kr/wrjungang-e/na/ntt/selectNttList.do?mi=10356&bbsId=10130&listCo=50&currPage=1",
+      "boardUrl": "https://snji-e.goesn.kr/snji-e/na/ntt/selectNttList.do?mi=14889&bbsId=12683&listCo=50&currPage=1",
       "postedAt": "2026-11-15T15:00:00.000Z",
       "deadline": null,
-      "title": "2027학년 초등돌봄교실 강사 채용 공고",
-      "url": "https://wrjungang-e.goesn.kr/wrjungang-e/na/ntt/selectNttInfo.do?mi=10356&bbsId=10130&nttSn=1969295"
-    },
-    {
-      "id": "whb-e:whb-e:1969324",
-      "schoolId": "whb-e",
-      "schoolName": "위례한빛초등학교",
-      "schoolHomepage": "https://whb-e.goesn.kr",
-      "boardLabel": "방과후 학교",
-      "boardUrl": "https://whb-e.goesn.kr/whb-e/na/ntt/selectNttList.do?mi=10952&bbsId=10456&listCo=50&currPage=1",
-      "postedAt": "2026-11-15T15:00:00.000Z",
-      "deadline": null,
-      "title": "2027학년 수익자 방과후 및 초1~2맞춤형 강사 채용 공고",
-      "url": "https://whb-e.goesn.kr/whb-e/na/ntt/selectNttInfo.do?mi=10952&bbsId=10456&nttSn=1969324"
-    },
-    {
-      "id": "whb-e:whb-e:1969278",
-      "schoolId": "whb-e",
-      "schoolName": "위례한빛초등학교",
-      "schoolHomepage": "https://whb-e.goesn.kr",
-      "boardLabel": "방과후 학교",
-      "boardUrl": "https://whb-e.goesn.kr/whb-e/na/ntt/selectNttList.do?mi=10944&bbsId=10450&listCo=50&currPage=1",
-      "postedAt": "2026-11-15T15:00:00.000Z",
-      "deadline": null,
-      "title": "2027학년 방과후돌봄 수익자 방과후 및 초1~2맞춤형 강사 채용 공고",
-      "url": "https://whb-e.goesn.kr/whb-e/na/ntt/selectNttInfo.do?mi=10944&bbsId=10450&nttSn=1969278"
-    },
-    {
-      "id": "chungsol-e:chungsol-e:1969260",
-      "schoolId": "chungsol-e",
-      "schoolName": "청솔초등학교",
-      "schoolHomepage": "https://chungsol-e.goesn.kr",
-      "boardLabel": "방과후·돌봄",
-      "boardUrl": "https://chungsol-e.goesn.kr/chungsol-e/na/ntt/selectNttList.do?mi=26233&bbsId=20387&listCo=50&currPage=1",
-      "postedAt": "2026-11-15T15:00:00.000Z",
-      "deadline": null,
-      "title": "2027학년도 청솔초 방과후학교 개인위탁 외부강사 모집 공고",
-      "url": "https://chungsol-e.goesn.kr/chungsol-e/na/ntt/selectNttInfo.do?mi=26233&bbsId=20387&nttSn=1969260"
+      "title": "2026학년도 성남제일초등학교병설유치원 겨울 방학(1~2월) 특성화 프로그램(영어) 단기 강사 채용 공고",
+      "url": "https://snji-e.goesn.kr/snji-e/na/ntt/selectNttInfo.do?mi=14889&bbsId=12683&nttSn=1969405"
     }
   ]
 }
