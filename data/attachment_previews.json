@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T07:05:51.091Z",
+  "generatedAt": "2026-11-17T15:00:50.455Z",
   "items": {
     "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&nttSn=1967891": {
       "checkedAt": "2026-11-12T14:05:26.099Z",
@@ -12,7 +12,7 @@
       ]
     },
     "https://gumsang-e.goesn.kr/gumsang-e/na/ntt/selectNttInfo.do?bbsId=10700&nttSn=1967892": {
-      "checkedAt": "2026-11-16T14:06:53.715Z",
+      "checkedAt": "2026-11-17T15:00:38.103Z",
       "status": "ready",
       "files": [
         {
@@ -22,7 +22,7 @@
       ]
     },
     "https://bulgok-e.goesn.kr/bulgok-e/na/ntt/selectNttInfo.do?bbsId=11218&nttSn=1967665": {
-      "checkedAt": "2026-11-17T07:05:49.574Z",
+      "checkedAt": "2026-11-17T15:00:38.745Z",
       "status": "unavailable",
       "files": []
     },
@@ -67,7 +67,7 @@
       ]
     },
     "https://naejeong-e.goesn.kr/naejeong-e/na/ntt/selectNttInfo.do?bbsId=10721&nttSn=1967576": {
-      "checkedAt": "2026-11-16T14:06:54.249Z",
+      "checkedAt": "2026-11-17T15:00:38.143Z",
       "status": "ready",
       "files": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     "https://snd-e.goesn.kr/snd-e/na/ntt/selectNttInfo.do?bbsId=11619&nttSn=1967822": {
-      "checkedAt": "2026-11-16T14:06:55.750Z",
+      "checkedAt": "2026-11-17T15:00:39.745Z",
       "status": "ready",
       "files": [
         {
@@ -101,7 +101,7 @@
       ]
     },
     "https://buljung-e.goesn.kr/buljung-e/na/ntt/selectNttInfo.do?bbsId=11390&nttSn=1967827": {
-      "checkedAt": "2026-11-16T14:06:55.290Z",
+      "checkedAt": "2026-11-17T15:00:39.641Z",
       "status": "ready",
       "files": [
         {
@@ -131,7 +131,7 @@
       ]
     },
     "https://snjungang-e.goesn.kr/snjungang-e/na/ntt/selectNttInfo.do?bbsId=12583&nttSn=1967507": {
-      "checkedAt": "2026-11-16T14:06:57.366Z",
+      "checkedAt": "2026-11-17T15:00:41.282Z",
       "status": "ready",
       "files": [
         {
@@ -141,7 +141,7 @@
       ]
     },
     "https://snd-e.goesn.kr/snd-e/na/ntt/selectNttInfo.do?bbsId=11619&nttSn=1967820": {
-      "checkedAt": "2026-11-16T14:06:55.893Z",
+      "checkedAt": "2026-11-17T15:00:39.807Z",
       "status": "ready",
       "files": [
         {
@@ -151,7 +151,7 @@
       ]
     },
     "https://snys-e.goesn.kr/snys-e/na/ntt/selectNttInfo.do?bbsId=12070&nttSn=1967770": {
-      "checkedAt": "2026-11-16T14:06:56.894Z",
+      "checkedAt": "2026-11-17T15:00:41.257Z",
       "status": "ready",
       "files": [
         {
@@ -161,7 +161,7 @@
       ]
     },
     "https://baekhyeon-e.goesn.kr/baekhyeon-e/na/ntt/selectNttInfo.do?bbsId=11032&nttSn=1966942": {
-      "checkedAt": "2026-11-16T14:06:57.462Z",
+      "checkedAt": "2026-11-17T15:00:41.831Z",
       "status": "ready",
       "files": [
         {
@@ -171,7 +171,7 @@
       ]
     },
     "https://whb-e.goesn.kr/whb-e/na/ntt/selectNttInfo.do?bbsId=10450&nttSn=1967137": {
-      "checkedAt": "2026-11-17T07:05:49.954Z",
+      "checkedAt": "2026-11-17T15:00:43.028Z",
       "status": "unavailable",
       "files": []
     },
@@ -195,7 +195,7 @@
       "files": []
     },
     "https://baekhyeon-e.goesn.kr/baekhyeon-e/na/ntt/selectNttInfo.do?bbsId=11032&nttSn=1966941": {
-      "checkedAt": "2026-11-16T14:06:58.498Z",
+      "checkedAt": "2026-11-17T15:00:43.025Z",
       "status": "ready",
       "files": [
         {
@@ -363,7 +363,7 @@
       ]
     },
     "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&nttSn=1899584": {
-      "checkedAt": "2026-11-16T14:07:00.228Z",
+      "checkedAt": "2026-11-17T15:00:44.284Z",
       "status": "ready",
       "files": [
         {
@@ -373,7 +373,7 @@
       ]
     },
     "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&nttSn=1899041": {
-      "checkedAt": "2026-11-16T14:06:59.896Z",
+      "checkedAt": "2026-11-17T15:00:43.744Z",
       "status": "ready",
       "files": [
         {
@@ -383,7 +383,7 @@
       ]
     },
     "https://npr-e.goesn.kr/npr-e/na/ntt/selectNttInfo.do?bbsId=10776&nttSn=1899721": {
-      "checkedAt": "2026-11-16T14:07:00.198Z",
+      "checkedAt": "2026-11-17T15:00:43.935Z",
       "status": "ready",
       "files": [
         {
@@ -393,7 +393,7 @@
       ]
     },
     "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&nttSn=1901501": {
-      "checkedAt": "2026-11-16T14:07:01.736Z",
+      "checkedAt": "2026-11-17T15:00:45.530Z",
       "status": "ready",
       "files": [
         {
@@ -407,7 +407,7 @@
       ]
     },
     "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&nttSn=1907610": {
-      "checkedAt": "2026-11-16T14:07:03.009Z",
+      "checkedAt": "2026-11-17T15:00:47.128Z",
       "status": "ready",
       "files": [
         {
@@ -417,7 +417,7 @@
       ]
     },
     "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&nttSn=1908379": {
-      "checkedAt": "2026-11-16T14:07:03.266Z",
+      "checkedAt": "2026-11-17T15:00:47.182Z",
       "status": "ready",
       "files": [
         {
@@ -427,7 +427,7 @@
       ]
     },
     "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&nttSn=1899470": {
-      "checkedAt": "2026-11-16T14:07:03.557Z",
+      "checkedAt": "2026-11-17T15:00:47.497Z",
       "status": "ready",
       "files": [
         {
@@ -441,7 +441,7 @@
       ]
     },
     "https://sangtap-e.goesn.kr/sangtap-e/na/ntt/selectNttInfo.do?bbsId=11618&nttSn=1902720": {
-      "checkedAt": "2026-11-16T14:07:01.794Z",
+      "checkedAt": "2026-11-17T15:00:45.609Z",
       "status": "ready",
       "files": [
         {
@@ -451,7 +451,7 @@
       ]
     },
     "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&nttSn=1909891": {
-      "checkedAt": "2026-11-16T14:07:04.153Z",
+      "checkedAt": "2026-11-17T15:00:48.408Z",
       "status": "ready",
       "files": [
         {
@@ -461,7 +461,7 @@
       ]
     },
     "https://www.goesn.kr/wang-e/na/ntt/selectNttInfo.do?bbsId=13523&nttSn=1902066": {
-      "checkedAt": "2026-11-16T14:07:01.915Z",
+      "checkedAt": "2026-11-17T15:00:45.979Z",
       "status": "ready",
       "files": [
         {
@@ -511,7 +511,7 @@
       ]
     },
     "https://yy-e.goesn.kr/yy-e/na/ntt/selectNttInfo.do?bbsId=13266&nttSn=1968391": {
-      "checkedAt": "2026-11-17T07:05:48.432Z",
+      "checkedAt": "2026-11-17T15:00:37.313Z",
       "status": "unavailable",
       "files": []
     },
@@ -584,7 +584,7 @@
       ]
     },
     "https://tanchun-e.goesn.kr/tanchun-e/na/ntt/selectNttInfo.do?bbsId=11090&nttSn=1968633": {
-      "checkedAt": "2026-11-16T14:06:53.368Z",
+      "checkedAt": "2026-11-17T15:00:36.527Z",
       "status": "ready",
       "files": [
         {
@@ -712,7 +712,7 @@
       ]
     },
     "https://snjangan-e.goesn.kr/snjangan-e/na/ntt/selectNttInfo.do?bbsId=12792&nttSn=1968823": {
-      "checkedAt": "2026-11-16T14:06:51.868Z",
+      "checkedAt": "2026-11-17T15:00:36.365Z",
       "status": "ready",
       "files": [
         {
@@ -722,7 +722,7 @@
       ]
     },
     "https://daeil-e.goesn.kr/daeil-e/na/ntt/selectNttInfo.do?bbsId=10945&nttSn=1968963": {
-      "checkedAt": "2026-11-17T07:05:38.238Z",
+      "checkedAt": "2026-11-17T15:00:34.316Z",
       "status": "unavailable",
       "files": []
     },
@@ -787,17 +787,17 @@
       ]
     },
     "https://snsg-e.goesn.kr/snsg-e/na/ntt/selectNttInfo.do?bbsId=17145&nttSn=1968946": {
-      "checkedAt": "2026-11-17T07:05:43.209Z",
+      "checkedAt": "2026-11-17T15:00:35.281Z",
       "status": "unavailable",
       "files": []
     },
     "https://snji-e.goesn.kr/snji-e/na/ntt/selectNttInfo.do?bbsId=12683&nttSn=1968994": {
-      "checkedAt": "2026-11-17T07:05:43.444Z",
+      "checkedAt": "2026-11-17T15:00:35.724Z",
       "status": "unavailable",
       "files": []
     },
     "https://shinbh-e.goesn.kr/shinbh-e/na/ntt/selectNttInfo.do?bbsId=13107&nttSn=1968914": {
-      "checkedAt": "2026-11-17T07:05:44.115Z",
+      "checkedAt": "2026-11-17T15:00:36.182Z",
       "status": "unavailable",
       "files": []
     },
@@ -830,7 +830,7 @@
       ]
     },
     "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&nttSn=1969114": {
-      "checkedAt": "2026-11-16T14:06:50.279Z",
+      "checkedAt": "2026-11-17T15:00:34.920Z",
       "status": "ready",
       "files": [
         {
@@ -840,7 +840,7 @@
       ]
     },
     "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&nttSn=1969116": {
-      "checkedAt": "2026-11-16T14:06:49.484Z",
+      "checkedAt": "2026-11-17T15:00:34.443Z",
       "status": "ready",
       "files": [
         {
@@ -874,12 +874,12 @@
       ]
     },
     "https://whb-e.goesn.kr/whb-e/na/ntt/selectNttInfo.do?bbsId=10456&nttSn=1969324": {
-      "checkedAt": "2026-11-17T07:05:37.116Z",
+      "checkedAt": "2026-11-17T15:00:32.787Z",
       "status": "unavailable",
       "files": []
     },
     "https://whb-e.goesn.kr/whb-e/na/ntt/selectNttInfo.do?bbsId=10450&nttSn=1969278": {
-      "checkedAt": "2026-11-17T07:05:37.384Z",
+      "checkedAt": "2026-11-17T15:00:33.585Z",
       "status": "unavailable",
       "files": []
     },
@@ -902,7 +902,7 @@
       ]
     },
     "https://chungsol-e.goesn.kr/chungsol-e/na/ntt/selectNttInfo.do?bbsId=20387&nttSn=1969260": {
-      "checkedAt": "2026-11-17T07:05:37.877Z",
+      "checkedAt": "2026-11-17T15:00:33.682Z",
       "status": "unavailable",
       "files": []
     },
@@ -917,12 +917,12 @@
       ]
     },
     "https://snji-e.goesn.kr/snji-e/na/ntt/selectNttInfo.do?bbsId=12683&nttSn=1969405": {
-      "checkedAt": "2026-11-17T07:05:34.763Z",
+      "checkedAt": "2026-11-17T15:00:32.630Z",
       "status": "unavailable",
       "files": []
     },
     "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&nttSn=1969411": {
-      "checkedAt": "2026-11-16T14:06:47.704Z",
+      "checkedAt": "2026-11-17T15:00:31.857Z",
       "status": "ready",
       "files": [
         {
@@ -932,7 +932,7 @@
       ]
     },
     "https://naksaeng-e.goesn.kr/naksaeng-e/na/ntt/selectNttInfo.do?bbsId=18371&nttSn=1969591": {
-      "checkedAt": "2026-11-17T07:05:26.346Z",
+      "checkedAt": "2026-11-17T15:00:31.830Z",
       "status": "unavailable",
       "files": []
     },
@@ -975,7 +975,7 @@
       ]
     },
     "https://pangyo-e.goesn.kr/pangyo-e/na/ntt/selectNttInfo.do?bbsId=12112&nttSn=1969556": {
-      "checkedAt": "2026-11-17T07:05:30.894Z",
+      "checkedAt": "2026-11-17T15:00:31.856Z",
       "status": "unavailable",
       "files": []
     },
