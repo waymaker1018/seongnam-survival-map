@@ -1,44 +1,8 @@
 {
-  "generatedAt": "2026-11-16T14:07:05.366Z",
-  "hitCount": 55,
+  "generatedAt": "2026-11-17T07:05:51.128Z",
+  "hitCount": 54,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:gdspedu:8370",
-      "schoolId": "sen-7130114",
-      "schoolName": "서울고일초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강동송파 구인",
-      "boardUrl": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-11-16T00:00:00+09:00",
-      "title": "돌봄교실 방학 봉사인력 (비정규직)",
-      "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:dgedu:10308",
-      "schoolId": "sen-7132091",
-      "schoolName": "서울대림초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-11-16T00:00:00+09:00",
-      "title": "(대림초) 2026학년도 6학년 교육연극 협력강사 모집 공고 (강사)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:dgedu:10296",
-      "schoolId": null,
-      "schoolName": "봉천초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-11-16T00:00:00+09:00",
-      "title": "봉천초등학교 1학년 담임수업 시간강사 (강사)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:dgedu:10310",
       "schoolId": "sen-7132117",
@@ -49,6 +13,18 @@
       "postedAt": null,
       "deadline": "2026-11-17T00:00:00+09:00",
       "title": "서울인헌초등학교 5학년 AI·코딩강사 모집 공고 (강사)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10328",
+      "schoolId": "sen-7132083",
+      "schoolName": "서울난곡초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-11-19T00:00:00+09:00",
+      "title": "(난곡초) 11/20(금), 6학년 담임교사",
       "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
@@ -661,6 +637,18 @@
       "postedAt": null,
       "deadline": null,
       "title": "체육 권수진 (놀이체육강사)",
+      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gnscedu:14225",
+      "schoolId": null,
+      "schoolName": "밀알학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강남서초 구인",
+      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "늘봄학교 강사 김효중 (늘봄학교 맞춤형 교실 강사(특수체육,예술신체놀이))",
       "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
