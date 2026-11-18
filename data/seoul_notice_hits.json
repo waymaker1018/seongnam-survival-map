@@ -1,20 +1,8 @@
 {
-  "generatedAt": "2026-11-17T15:00:50.494Z",
-  "hitCount": 54,
+  "generatedAt": "2026-11-18T06:29:24.397Z",
+  "hitCount": 53,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:dgedu:10310",
-      "schoolId": "sen-7132117",
-      "schoolName": "서울인헌초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-11-17T00:00:00+09:00",
-      "title": "서울인헌초등학교 5학년 AI·코딩강사 모집 공고 (강사)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:dgedu:10328",
       "schoolId": "sen-7132083",
@@ -364,6 +352,18 @@
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:gsycedu:15235",
+      "schoolId": null,
+      "schoolName": "서울공진초등학교병설유치원",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "오후에듀케어운영인력",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:gsycedu:15232",
       "schoolId": null,
       "schoolName": "서울공진초등학교병설유치원",
@@ -637,18 +637,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "체육 권수진 (놀이체육강사)",
-      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gnscedu:14225",
-      "schoolId": null,
-      "schoolName": "밀알학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강남서초 구인",
-      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "늘봄학교 강사 김효중 (늘봄학교 맞춤형 교실 강사(특수체육,예술신체놀이))",
       "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]

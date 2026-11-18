@@ -1,5 +1,18 @@
 {
-  "generatedAt": "2026-11-17T15:00:50.494Z",
-  "newCount": 0,
-  "items": []
+  "generatedAt": "2026-11-18T06:29:24.397Z",
+  "newCount": 1,
+  "items": [
+    {
+      "id": "seoul:gsycedu:15235",
+      "schoolId": null,
+      "schoolName": "서울공진초등학교병설유치원",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "오후에듀케어운영인력",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    }
+  ]
 }
