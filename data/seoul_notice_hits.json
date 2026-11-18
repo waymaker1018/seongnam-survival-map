@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-18T06:29:24.397Z",
-  "hitCount": 53,
+  "generatedAt": "2026-11-18T14:41:57.430Z",
+  "hitCount": 54,
   "errors": [],
   "items": [
     {
@@ -350,6 +350,18 @@
       "deadline": null,
       "title": "에듀케어 대체강사",
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gsycedu:15238",
+      "schoolId": null,
+      "schoolName": "서울가양초등학교 병설유치원",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "오후에듀케어 강사 에듀케어 대체강사",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:gsycedu:15235",
