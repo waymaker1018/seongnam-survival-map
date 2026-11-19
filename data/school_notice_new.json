@@ -1,30 +1,78 @@
 {
-  "generatedAt": "2026-11-18T14:40:12.049Z",
-  "newCount": 2,
+  "generatedAt": "2026-11-19T06:29:15.368Z",
+  "newCount": 6,
   "items": [
     {
-      "id": "office:goesn:1969916",
+      "id": "buljung-e:buljung-e:1970039",
+      "schoolId": "buljung-e",
+      "schoolName": "불정초등학교",
+      "schoolHomepage": "https://buljung-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://buljung-e.goesn.kr/buljung-e/na/ntt/selectNttList.do?mi=12636&bbsId=11390&listCo=50&currPage=1",
+      "postedAt": "2026-11-18T15:00:00.000Z",
+      "deadline": null,
+      "title": "2027학년도 초1-2 맞춤형 프로그램 개인위탁 강사 모집 공고",
+      "url": "https://buljung-e.goesn.kr/buljung-e/na/ntt/selectNttInfo.do?mi=12636&bbsId=11390&nttSn=1970039"
+    },
+    {
+      "id": "buljung-e:buljung-e:1970038",
+      "schoolId": "buljung-e",
+      "schoolName": "불정초등학교",
+      "schoolHomepage": "https://buljung-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://buljung-e.goesn.kr/buljung-e/na/ntt/selectNttList.do?mi=12636&bbsId=11390&listCo=50&currPage=1",
+      "postedAt": "2026-11-18T15:00:00.000Z",
+      "deadline": null,
+      "title": "2027학년도 수익자 방과후 프로그램 개인 위탁 강사 모집 공고",
+      "url": "https://buljung-e.goesn.kr/buljung-e/na/ntt/selectNttInfo.do?mi=12636&bbsId=11390&nttSn=1970038"
+    },
+    {
+      "id": "office:goesn:1970004",
       "schoolId": null,
       "schoolName": "성남교육지원청 구인",
       "schoolHomepage": "https://www.goesn.kr",
       "boardLabel": "성남교육지원청 구인",
       "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
-      "postedAt": "2026-11-17T15:00:00.000Z",
-      "deadline": "2026-11-24T15:00:00.000Z",
-      "title": "2027학년도 수익자 방과후 개인위탁 외부강사 채용공고",
-      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1969916"
+      "postedAt": "2026-11-18T15:00:00.000Z",
+      "deadline": "2026-11-26T15:00:00.000Z",
+      "title": "2027 태평초 음악줄넘기 수익자방과후 강사모집 재공고",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1970004"
     },
     {
-      "id": "seongsu-e:seongsu-e:1969920",
-      "schoolId": "seongsu-e",
-      "schoolName": "성수초등학교",
-      "schoolHomepage": "https://seongsu-e.goesn.kr",
+      "id": "office:goesn:1969986",
+      "schoolId": null,
+      "schoolName": "성남교육지원청 구인",
+      "schoolHomepage": "https://www.goesn.kr",
+      "boardLabel": "성남교육지원청 구인",
+      "boardUrl": "https://www.goesn.kr/goesn/na/ntt/selectNttList.do?bbsId=17872&mi=23603&listCo=50&currPage=1",
+      "postedAt": "2026-11-18T15:00:00.000Z",
+      "deadline": "2026-11-26T15:00:00.000Z",
+      "title": "2027학년도 희망대 초1~2맞춤형 강사 모집",
+      "url": "https://www.goesn.kr/goesn/na/ntt/selectNttInfo.do?bbsId=17872&mi=23603&nttSn=1969986"
+    },
+    {
+      "id": "tp-e:tp-e:1970006",
+      "schoolId": "tp-e",
+      "schoolName": "태평초등학교",
+      "schoolHomepage": "https://tp-e.goesn.kr",
       "boardLabel": "공지사항",
-      "boardUrl": "https://seongsu-e.goesn.kr/seongsu-e/na/ntt/selectNttList.do?mi=15588&bbsId=13092&listCo=50&currPage=1",
-      "postedAt": "2026-11-17T15:00:00.000Z",
+      "boardUrl": "https://tp-e.goesn.kr/tp-e/na/ntt/selectNttList.do?mi=12666&bbsId=11410&listCo=50&currPage=1",
+      "postedAt": "2026-11-18T15:00:00.000Z",
       "deadline": null,
-      "title": "2027학년도 수익자 방과후 개인위탁 외부강사 채용공고",
-      "url": "https://seongsu-e.goesn.kr/seongsu-e/na/ntt/selectNttInfo.do?mi=15588&bbsId=13092&nttSn=1969920"
+      "title": "2027 태평초 음악줄넘기 수익자방과후 강사모집 재공고",
+      "url": "https://tp-e.goesn.kr/tp-e/na/ntt/selectNttInfo.do?mi=12666&bbsId=11410&nttSn=1970006"
+    },
+    {
+      "id": "hmd-e:hmd-e:1969980",
+      "schoolId": "hmd-e",
+      "schoolName": "희망대초등학교",
+      "schoolHomepage": "https://hmd-e.goesn.kr",
+      "boardLabel": "공지사항",
+      "boardUrl": "https://hmd-e.goesn.kr/hmd-e/na/ntt/selectNttList.do?mi=15851&bbsId=13226&listCo=50&currPage=1",
+      "postedAt": "2026-11-18T15:00:00.000Z",
+      "deadline": null,
+      "title": "2027학년도 희망대초 맞춤형 강사 모집 공고",
+      "url": "https://hmd-e.goesn.kr/hmd-e/na/ntt/selectNttInfo.do?mi=15851&bbsId=13226&nttSn=1969980"
     }
   ]
 }
