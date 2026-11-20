@@ -1,20 +1,8 @@
 {
-  "generatedAt": "2026-11-19T14:48:09.765Z",
-  "hitCount": 54,
+  "generatedAt": "2026-11-20T06:17:51.305Z",
+  "hitCount": 53,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:dgedu:10328",
-      "schoolId": "sen-7132083",
-      "schoolName": "서울난곡초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-11-19T00:00:00+09:00",
-      "title": "(난곡초) 11/20(금), 6학년 담임교사",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:dgedu:10314",
       "schoolId": null,
