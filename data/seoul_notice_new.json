@@ -1,5 +1,18 @@
 {
-  "generatedAt": "2026-11-20T06:17:51.305Z",
-  "newCount": 0,
-  "items": []
+  "generatedAt": "2026-11-20T14:29:38.966Z",
+  "newCount": 1,
+  "items": [
+    {
+      "id": "seoul:gsycedu:15246",
+      "schoolId": null,
+      "schoolName": "서울탑산초등학교병설유치원",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "방학 중 방과후 과정반 오전운영인력",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    }
+  ]
 }

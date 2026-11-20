@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T06:17:51.305Z",
+  "generatedAt": "2026-11-20T14:29:38.966Z",
   "hitCount": 53,
   "errors": [],
   "items": [
@@ -340,6 +340,18 @@
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:gsycedu:15246",
+      "schoolId": null,
+      "schoolName": "서울탑산초등학교병설유치원",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "방학 중 방과후 과정반 오전운영인력",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:gsycedu:15240",
       "schoolId": null,
       "schoolName": "서울강신초등학교병설유치원",
@@ -397,18 +409,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "오후에듀케어운영인력",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15225",
-      "schoolId": null,
-      "schoolName": "서울탑산초등학교병설유치원",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "방과후 과정반 방학 중 오전운영인력",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
