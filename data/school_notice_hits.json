@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-20T14:27:55.319Z",
+  "generatedAt": "2026-11-21T06:06:04.798Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 49,
+  "hitCount": 48,
   "keywords": [
     "AI",
     "인공지능",
@@ -613,18 +613,6 @@
       "deadline": null,
       "title": "2027학년도 돌봄교실 프로그램 강사 모집 공고",
       "url": "https://yy-e.goesn.kr/yy-e/na/ntt/selectNttInfo.do?mi=15932&bbsId=13266&nttSn=1968391"
-    },
-    {
-      "id": "gumsang-e:gumsang-e:1967892",
-      "schoolId": "gumsang-e",
-      "schoolName": "금상초등학교",
-      "schoolHomepage": "https://gumsang-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://gumsang-e.goesn.kr/gumsang-e/na/ntt/selectNttList.do?mi=11389&bbsId=10700&listCo=50&currPage=1",
-      "postedAt": "2026-11-06T15:00:00.000Z",
-      "deadline": null,
-      "title": "2026학년도 겨울방학 및 2027학년도 초등돌봄교실 특기 적성 강사 모집",
-      "url": "https://gumsang-e.goesn.kr/gumsang-e/na/ntt/selectNttInfo.do?mi=11389&bbsId=10700&nttSn=1967892"
     }
   ]
 }
