@@ -1,13 +1,13 @@
-import { loadData } from './data.js?v=20261123-preview';
+import { loadData } from './data.js?v=20261123-school-links';
 import { attachmentFiles, attachmentSection, openAttachment, setupPreview } from './preview.js?v=20261123-preview';
-import { CATEGORIES, DISTRICTS, statusOf, seoulDate, escapeHtml as h, safeUrl, filteredPosts, csvCell } from './core.js';
+import { CATEGORIES, DISTRICTS, statusOf, seoulDate, escapeHtml as h, safeUrl, filteredPosts, csvCell, sourcePostCount } from './core.js?v=20261123-school-links';
 const $ = id => document.getElementById(id);
-const state = { data: null, tab: 'jobs', selected: null, selectedSchool: null, limit: 30, filters: { query: '', category: '', district: '', dong: '', year: '', favoriteSchools: null, status: '', source: '', sort: 'recent', schoolId: '', saved: false }, favorites: [] };
+const state = { data: null, tab: 'jobs', selected: null, selectedSchool: null, limit: 30, filters: { query: '', category: '', district: '', dong: '', level: '', year: '', favoriteSchools: null, status: '', source: '', sort: 'recent', schoolId: '', saved: false }, favorites: [] };
 let map, markers, boundaries, toastTimer;
 let favoriteSchools = [];
 try { const saved=JSON.parse(localStorage.getItem('survivalmap.favorites') || '[]'); if(Array.isArray(saved)) favoriteSchools=saved.filter(id=>typeof id==='string'); } catch {}
-const allPosts = () => [...state.data.posts, ...state.data.training];
-const postPool = () => state.filters.saved ? allPosts() : state.tab === 'training' ? state.data.training : state.data.posts;
+const allPosts = () => [...state.data.postEntries, ...state.data.training];
+const postPool = () => state.filters.saved ? allPosts() : state.tab === 'training' ? state.data.training : state.data.postEntries;
 const currentPosts = () => filteredPosts(postPool(),state.data.schools,state.filters,state.favorites);
 try { const saved = JSON.parse(localStorage.getItem('seongnam-map-post-favorites') || '[]'); state.favorites = Array.isArray(saved) ? saved.filter(x => typeof x === 'string') : []; } catch { /* Storage can be unavailable in private browsing. */ }
 const link = (url, label, cls = '') => safeUrl(url) ? `<a class="${h(cls)}" href="${h(safeUrl(url))}" target="_blank" rel="noopener noreferrer">${h(label)}</a>` : '';
@@ -20,6 +20,10 @@ function establishmentSources(item) {
 const shortLevel = value => ({ 초등학교: '초등', 중학교: '중등', 고등학교: '고등' }[value] || value || '학교 확인');
 const dateText = value => value ? (value.includes('T') ? seoulDate(new Date(value)) : value.slice(0, 10)).replaceAll('-', '.') : '미확인';
 const schoolById = id => state.data.schools.find(s => s.id === id);
+function groupNotice(post) {
+  if (!post.groupSchoolNames) return '';
+  return `<section class="detail-note"><strong>${h(post.schoolName)} 모집이 포함된 통합 공고입니다.</strong><p>총 ${post.groupSchoolNames.length}개교${post.groupHireCount ? ` · ${h(post.groupHireCount)}명` : ''}${post.hireCount ? `, 이 학교 ${h(post.hireCount)}명` : ''}. 학교별로 나눠 표시했으며 원문과 첨부파일은 같은 통합 공고입니다.</p><details><summary>통합 모집 대상 학교 보기</summary><p>${post.groupSchoolNames.map(h).join(', ')}</p></details></section>`;
+}
 function toast(message) { $('toast').textContent = message; $('toast').hidden = false; clearTimeout(toastTimer); toastTimer = setTimeout(() => $('toast').hidden = true, 3000); }
 function setFilter(key, value) { if(key==='district')state.filters.dong=''; state.filters[key] = value; state.limit = 30; state.selected = null; render(); }
 function stats() {
@@ -30,8 +34,8 @@ function stats() {
   $('stats').innerHTML = [
     ['접수기간 내', open, '건', '공고에 적힌 접수일 기준', 'open', true],
     ['마감 임박', urgent, '건', '오늘부터 3일 이내 마감', 'urgent'],
-    ['수집한 모집 공고', posts.length, '건', `접수일 확인 필요 ${unknown}건 포함`, ''],
-    ['성남 학교', schools.length, '개교', '공식 명부의 초등학교 · 휴교 포함', 'map']
+    ['수집한 원문 공고', posts.length, '건', `접수일 확인 필요 ${unknown}건 포함`, ''],
+    ['성남 학교', schools.length, '개교', '초등 명부 + 통합 공고 대상 중·고·특수', 'map']
   ].map(([label, count, unit, sub, filter, primary]) => `<button class="stat ${primary ? 'primary' : ''}" data-stat="${h(filter)}"><span class="stat-label">${label}</span><strong class="stat-number">${count.toLocaleString()}<span class="stat-unit">${unit}</span></strong><span class="stat-sub">${sub}</span><span class="stat-arrow" aria-hidden="true">↗</span></button>`).join('');
 }
 function renderFilters() {
@@ -41,23 +45,23 @@ function renderFilters() {
   $('source').innerHTML='<option value="">모든 출처</option>'+[...new Set(postPool().flatMap(p=>p.sources.map(s=>s.name)))].map(n=>`<option>${h(n)}</option>`).join('');
   $('schoolSavedCount').textContent=favoriteSchools.filter(id=>schoolById(id)).length;
   $('schoolSavedToggle').setAttribute('aria-pressed',String(!!f.favoriteSchools));
-  ['district','dong','schoolSavedToggle'].forEach(id=>$(id).disabled=state.tab==='training');
-  $('categoryFilters').innerHTML = ['', ...CATEGORIES].map((c,i) => `<button class="category-button ${f.category === c ? 'active' : ''}" data-category="${h(c)}" aria-pressed="${f.category === c}"><span class="category-icon" aria-hidden="true">${['▦','▱','☀','◇','✧','⌘','♫','▤'][i]}</span>${c || '전체 분야'}<span>${c ? postPool().filter(p => p.categories.includes(c)).length : postPool().length}</span></button>`).join('');
-  ['district','dong','year','status','source','sort'].forEach(key => $(key).value = f[key]);
+  ['district','dong','level','schoolSavedToggle'].forEach(id=>$(id).disabled=state.tab==='training');
+  $('categoryFilters').innerHTML = ['', ...CATEGORIES].map((c,i) => `<button class="category-button ${f.category === c ? 'active' : ''}" data-category="${h(c)}" aria-pressed="${f.category === c}"><span class="category-icon" aria-hidden="true">${['▦','▱','☀','◇','✧','⌘','♫','▤'][i]}</span>${c || '전체 분야'}<span>${c ? sourcePostCount(postPool().filter(p => p.categories.includes(c))) : sourcePostCount(postPool())}</span></button>`).join('');
+  ['district','dong','level','year','status','source','sort'].forEach(key => $(key).value = f[key]);
   $('savedToggle').setAttribute('aria-pressed', String(f.saved));
   $('savedCount').textContent = state.favorites.filter(id => allPosts().some(p => p.id === id)).length;
-  const labels = { query: f.query ? `검색: ${f.query}` : '', category: f.category, district: f.district, dong: f.dong, year: f.year ? `${f.year}년` : '', favoriteSchools:f.favoriteSchools?'관심 학교':'', source: f.source, schoolId: schoolById(f.schoolId)?.name, saved: f.saved ? '관심 공고' : '', status: ({open:'접수기간 내',closed:'접수 종료',unknown:'접수일 확인',upcoming:'접수 예정',urgent:'마감 임박'})[f.status] };
+  const labels = { query: f.query ? `검색: ${f.query}` : '', category: f.category, district: f.district, dong: f.dong, level: f.level, year: f.year ? `${f.year}년` : '', favoriteSchools:f.favoriteSchools?'관심 학교':'', source: f.source, schoolId: schoolById(f.schoolId)?.name, saved: f.saved ? '관심 공고' : '', status: ({open:'접수기간 내',closed:'접수 종료',unknown:'접수일 확인',upcoming:'접수 예정',urgent:'마감 임박'})[f.status] };
   $('activeFilters').innerHTML = Object.entries(labels).filter(([,v]) => v).map(([key,value]) => `<button class="filter-chip" data-clear="${key}">${h(value)} ×</button>`).join('');
 }
 function card(p) {
   const school = schoolById(p.schoolId), status = statusOf(p);
-  return `<article class="job-card ${state.selected === p.id ? 'selected' : ''}" data-card="${h(p.id)}"><button class="bookmark" data-save="${h(p.id)}" aria-label="${h(p.title)} 관심 공고 ${state.favorites.includes(p.id) ? '해제' : '저장'}" aria-pressed="${state.favorites.includes(p.id)}">${state.favorites.includes(p.id) ? '★' : '☆'}</button><div class="card-top"><span class="school-name">${h(p.schoolName || '기관 통합 모집')}<small>${h(school ? `${school.district} · ${shortLevel(school.level)}` : state.tab==='training' ? '전국 정보 · 대상 지역 확인' : '학교별 확인 필요')}</small></span></div><button class="job-title" data-post="${h(p.id)}" aria-controls="detail">${h(p.title)}</button><div class="tags">${establishmentBadge(p)}${p.categories.map(tag).join('')}<span class="tag source">${h(p.sources[0]?.name || '')}${p.sources.length > 1 ? ` 외 ${p.sources.length-1}` : ''}</span></div><div class="card-bottom"><span class="status ${status.tone}">${status.label}</span><span>${p.deadlineDate ? `마감 ${dateText(p.deadlineDate)}` : `게시 ${dateText(p.postedDate)}`}</span></div></article>`;
+  return `<article class="job-card ${state.selected === p.id ? 'selected' : ''}" data-card="${h(p.id)}"><button class="bookmark" data-save="${h(p.id)}" aria-label="${h(p.title)} 관심 공고 ${state.favorites.includes(p.id) ? '해제' : '저장'}" aria-pressed="${state.favorites.includes(p.id)}">${state.favorites.includes(p.id) ? '★' : '☆'}</button><div class="card-top"><span class="school-name">${h(p.schoolName || '기관 통합 모집')}<small>${h(school ? `${school.district} · ${shortLevel(school.level)}` : state.tab==='training' ? '전국 정보 · 대상 지역 확인' : '학교별 확인 필요')}</small></span></div><button class="job-title" data-post="${h(p.id)}" aria-controls="detail">${h(p.title)}</button><div class="tags">${establishmentBadge(p)}${p.groupSchoolNames ? tag('통합 공고 · 학교별 표시') : ''}${p.categories.map(tag).join('')}<span class="tag source">${h(p.sources[0]?.name || '')}${p.sources.length > 1 ? ` 외 ${p.sources.length-1}` : ''}</span></div><div class="card-bottom"><span class="status ${status.tone}">${status.label}</span><span>${p.deadlineDate ? `마감 ${dateText(p.deadlineDate)}` : `게시 ${dateText(p.postedDate)}`}</span></div></article>`;
 }
 function detail(p) {
   if (!p) { $('detail').innerHTML = '<p class="detail-kicker">공고 상세</p><div class="empty"><strong>관심 있는 공고를<br>선택해 보세요.</strong>학교 정보와 접수기간,<br>공고 원문을 여기서 확인합니다.</div>'; return; }
   const school = schoolById(p.schoolId), status = statusOf(p);
   const query = encodeURIComponent(`${school?.address || '성남시'} ${p.schoolName || ''}`);
-  $('detail').innerHTML = `<p class="detail-kicker">RECRUITMENT DETAIL</p><span class="status ${status.tone}">${status.label}</span><h3>${h(p.schoolName || '기관 통합 모집')}</h3><p class="detail-address">${h(school?.address || '원문에서 모집 대상 학교를 확인하세요.')}</p><p class="detail-title">${h(p.title)}</p><div class="tags">${establishmentBadge(p)}${p.categories.map(tag).join('')}</div><dl><div><dt>학교급</dt><dd>${h(school?.level || p.schoolLevel || '원문 확인')}</dd></div><div><dt>설립 구분</dt><dd>${h(p.establishment || '설립 구분 미확인')}</dd></div><div><dt>게시일</dt><dd>${dateText(p.postedDate)}</dd></div><div><dt>접수 시작</dt><dd>${dateText(p.startDate)}</dd></div><div><dt>접수 마감</dt><dd>${p.deadlineDate ? `${dateText(p.deadlineDate)} · 시간은 원문 확인` : '원문에서 확인 필요'}</dd></div><div><dt>수집 확인</dt><dd>${dateText(p.checkedAt)}</dd></div></dl>${establishmentSources(p)}<p class="detail-note">학교의 설립 구분만으로 겸직 가능 여부를 판단할 수 없습니다. 계약 상대방(학교·위탁업체), 합산 대상 근무시간과 공고 조건을 확인하세요.</p>${attachmentSection(p,state.data.attachmentPreviews,state.data.previewService)}${link(p.url,'모집 공고 원문 보기 ↗','primary-button')}<div class="detail-links">${school ? link(school.homepage,'학교 홈페이지 ↗') + link(`https://map.naver.com/p/search/${query}`,'네이버지도 ↗') : ''}</div>${p.sources.length > 1 ? '<p class="detail-note">같은 제목으로 확인한 다른 출처</p>' + p.sources.slice(1).map(s => link(s.url, `${s.name} ↗`, 'secondary-source')).join('') : ''}<p class="detail-note">채용 인원, 자격요건, 제출 서류와 접수 마감 시각은 원문 및 첨부파일에서 확인해 주세요. 일정이 없는 공고는 모집 중 여부를 확정하지 않았습니다.</p>${school ? `<button class="outline school-save" data-school-save="${h(school.id)}" aria-pressed="${favoriteSchools.includes(school.id)}">${favoriteSchools.includes(school.id)?'★ 관심 학교':'☆ 관심 학교 저장'}</button><button class="text-button" style="margin-top:14px" data-school-jobs="${h(school.id)}">이 학교의 모집 이력 모아 보기 →</button>` : ''}`;
+  $('detail').innerHTML = `<p class="detail-kicker">RECRUITMENT DETAIL</p><span class="status ${status.tone}">${status.label}</span><h3>${h(p.schoolName || '기관 통합 모집')}</h3><p class="detail-address">${h(school?.address || '원문에서 모집 대상 학교를 확인하세요.')}</p><p class="detail-title">${h(p.title)}</p><div class="tags">${establishmentBadge(p)}${p.groupSchoolNames ? tag('통합 공고 · 학교별 표시') : ''}${p.categories.map(tag).join('')}</div><dl><div><dt>학교급</dt><dd>${h(school?.level || p.schoolLevel || '원문 확인')}</dd></div><div><dt>설립 구분</dt><dd>${h(p.establishment || '설립 구분 미확인')}</dd></div><div><dt>게시일</dt><dd>${dateText(p.postedDate)}</dd></div><div><dt>접수 시작</dt><dd>${dateText(p.startDate)}</dd></div><div><dt>접수 마감</dt><dd>${p.deadlineDate ? `${dateText(p.deadlineDate)} · 시간은 원문 확인` : '원문에서 확인 필요'}</dd></div><div><dt>수집 확인</dt><dd>${dateText(p.checkedAt)}</dd></div></dl>${groupNotice(p)}${establishmentSources(p)}<p class="detail-note">학교의 설립 구분만으로 겸직 가능 여부를 판단할 수 없습니다. 계약 상대방(학교·위탁업체), 합산 대상 근무시간과 공고 조건을 확인하세요.</p>${attachmentSection(p,state.data.attachmentPreviews,state.data.previewService)}${link(p.url,'모집 공고 원문 보기 ↗','primary-button')}<div class="detail-links">${school ? link(school.homepage,'학교 홈페이지 ↗') + link(`https://map.naver.com/p/search/${query}`,'네이버지도 ↗') : ''}</div>${p.sources.length > 1 ? '<p class="detail-note">같은 제목으로 확인한 다른 출처</p>' + p.sources.slice(1).map(s => link(s.url, `${s.name} ↗`, 'secondary-source')).join('') : ''}<p class="detail-note">채용 인원, 자격요건, 제출 서류와 접수 마감 시각은 원문 및 첨부파일에서 확인해 주세요. 일정이 없는 공고는 모집 중 여부를 확정하지 않았습니다.</p>${school ? `<button class="outline school-save" data-school-save="${h(school.id)}" aria-pressed="${favoriteSchools.includes(school.id)}">${favoriteSchools.includes(school.id)?'★ 관심 학교':'☆ 관심 학교 저장'}</button><button class="text-button" style="margin-top:14px" data-school-jobs="${h(school.id)}">이 학교의 모집 이력 모아 보기 →</button>` : ''}`;
 }
 function renderJobs(posts) {
   if (!posts.some(p => p.id === state.selected)) state.selected = posts[0]?.id || null;
@@ -67,22 +71,22 @@ function renderJobs(posts) {
 function relevantSchools(posts) {
   const f = state.filters, ids = new Set(posts.map(p => p.schoolId));
   return state.data.schools.filter(s => (!f.district || s.district === f.district) && (!f.dong || (s.dong||'동 미상') === f.dong) && (!f.favoriteSchools || f.favoriteSchools.includes(s.id))
-    && (!f.schoolId || s.id === f.schoolId) && (!f.query || `${s.name} ${s.address} ${s.dong || ''}`.toLowerCase().includes(f.query.trim().toLowerCase()) || ids.has(s.id)));
+    && (!f.level || s.level === f.level) && (!f.schoolId || s.id === f.schoolId) && (!f.query || `${s.name} ${s.address} ${s.dong || ''}`.toLowerCase().includes(f.query.trim().toLowerCase()) || ids.has(s.id)));
 }
 
 function showSchool(id, scroll = false) {
   state.selectedSchool=id;
   const school=schoolById(id); if(!school)return;
-  const posts=state.data.posts.filter(p=>p.schoolId===id), query=encodeURIComponent(school.address+' '+school.name);
+  const posts=state.data.postEntries.filter(p=>p.schoolId===id), query=encodeURIComponent(school.address+' '+school.name);
   const boards=[...new Map(state.data.hits.items.filter(p=>p.schoolId===id&&p.boardUrl).map(p=>[p.boardUrl,p])).values()];
-  $('schoolPreview').innerHTML=`<section class="school-preview"><div class="school-heading"><h3>${h(school.name)}</h3><button class="outline" data-school-save="${h(id)}" aria-pressed="${favoriteSchools.includes(id)}">${favoriteSchools.includes(id)?'★ 관심 학교':'☆ 관심 학교 저장'}</button></div><div class="tags">${establishmentBadge(school)}</div>${establishmentSources(school)}<p>${h(school.level)} · ${h(school.district)} · ${h(school.dong || '동 미상')} · ${h(school.status || '')}</p><p>${h(school.address)}</p><p>전화 ${h(school.phone || '미확인')} · 팩스 ${h(school.fax || '미확인')} · 수집한 공고 ${posts.length}건</p>${school.geoApprox || school.dongApprox ? '<p class="detail-note">위치·동 정보는 근사값입니다. 실제 위치를 지도 링크에서 확인하세요.</p>' : ''}<div class="detail-links">${link(school.homepage,'학교 홈페이지 ↗')}${link('https://map.naver.com/p/search/'+query,'네이버지도 ↗')}${link(school.kakaoMapUrl,'카카오맵 ↗')}</div>${boards.map(b=>link(b.boardUrl,b.boardLabel+' ↗','secondary-source')).join('')}<button class="primary-button" data-school-jobs="${h(id)}">이 학교의 모집 이력 보기 →</button></section>`;
+  $('schoolPreview').innerHTML=`<section class="school-preview"><div class="school-heading"><h3>${h(school.name)}</h3><button class="outline" data-school-save="${h(id)}" aria-pressed="${favoriteSchools.includes(id)}">${favoriteSchools.includes(id)?'★ 관심 학교':'☆ 관심 학교 저장'}</button></div><div class="tags">${establishmentBadge(school)}</div>${establishmentSources(school)}<p>${h(school.level)} · ${h(school.district)} · ${h(school.dong || '동 미상')} · ${h(school.status || '')}</p><p>${h(school.address)}</p><p>전화 ${h(school.phone || '미확인')} · 팩스 ${h(school.fax || '미확인')} · 수집한 공고 ${posts.length}건</p>${!Number.isFinite(school.lat)||!Number.isFinite(school.lng) ? '<p class="detail-note">위치 좌표가 확인되지 않아 지도에 핀을 표시하지 않았습니다. 아래 네이버지도 링크로 확인하세요.</p>' : ''}${school.geoApprox || school.dongApprox ? '<p class="detail-note">위치·동 정보는 근사값입니다. 실제 위치를 지도 링크에서 확인하세요.</p>' : ''}<div class="detail-links">${link(school.homepage,'학교 홈페이지 ↗')}${link('https://map.naver.com/p/search/'+query,'네이버지도 ↗')}${link(school.kakaoMapUrl,'카카오맵 ↗')}</div>${boards.map(b=>link(b.boardUrl,b.boardLabel+' ↗','secondary-source')).join('')}<button class="primary-button" data-school-jobs="${h(id)}">이 학교의 모집 이력 보기 →</button></section>`;
   if(scroll)$('schoolPreview').scrollIntoView({behavior:'smooth',block:'nearest'});
 }
 function renderMap(posts) {
   const schools = relevantSchools(posts), counts = new Map();
   $('mapBreadcrumb').innerHTML='<button data-map-reset>성남 전체</button>'+ (state.filters.district?`<span>›</span><button data-map-district>${h(state.filters.district)}</button>`:'')+(state.filters.dong?`<span>› ${h(state.filters.dong)}</span>`:'');
   posts.forEach(p => counts.set(p.schoolId, (counts.get(p.schoolId)||0)+1));
-  $('mapSummary').textContent = `${schools.length}개교 · 지도와 아래 학교 목록에 같은 필터가 적용됩니다.`;
+  $('mapSummary').textContent = `${schools.length}개교 · 좌표 미확인 ${schools.filter(s=>!Number.isFinite(s.lat)||!Number.isFinite(s.lng)).length}개교는 아래 학교 목록과 지도 링크에서 확인하세요.`;
   $('schoolGrid').innerHTML = `<div class="district-grid">${DISTRICTS.map(d => { const list = schools.filter(s => s.district === d); return `<section class="district-block"><div class="district-heading"><h3>${d}</h3><span>${list.length}개교</span></div><div class="school-grid">${list.map(s => `<button class="school-tile ${counts.get(s.id) ? 'has-posts' : ''}" data-school="${h(s.id)}"><strong>${h(s.name)}</strong>${establishmentBadge(s)}<small>${h(s.dong||'동 미상')}${favoriteSchools.includes(s.id)?' · ★':''} · <span class="tile-count">${counts.get(s.id) || 0}건</span></small></button>`).join('') || '<p class="detail-note">조건에 맞는 학교가 없습니다.</p>'}</div></section>`; }).join('')}</div>`;
   if (!window.L) { $('geoMap').innerHTML = '<p class="empty">지도를 불러오지 못했습니다. 아래 학교 목록을 이용해 주세요.</p>'; return; }
   if (!map) {
@@ -105,7 +109,7 @@ function renderMap(posts) {
 }
 function renderCoverage() {
   const data=state.data, hits=data.hits, meta=data.meta;
-  $('coverageView').innerHTML=`<div class="source-card"><h3>출처와 수집 범위</h3><p>기존 자동 수집 파일을 그대로 읽어 표시합니다. 최근 게시판 탐색 결과와 과거 모집 이력을 함께 볼 수 있습니다. 같은 원문 주소는 묶고, 다른 원문 주소는 각각 표시합니다. 제목의 키워드로 찾은 자료에는 채용과 무관한 안내도 포함될 수 있습니다.</p><p>학교별 성공·실패 내역은 현재 수집 파일에 없습니다. 공고가 없다는 이유만으로 해당 학교의 조회에 성공했다고 판단하지 않습니다.</p></div><div class="coverage-summary"><span>학교 명부 ${data.schools.length}개교</span><span>최근 탐색 대상 ${hits.schoolCount ?? '미확인'}개교</span><span>최근 발견 ${hits.items.length}건</span><span>모집 이력 ${data.posts.length}건</span></div><div class="source-card"><h3>성남교육지원청 · 학교 게시판</h3><p>최근 탐색 결과: ${dateText(meta.collectedDate)} · 최근 ${hits.lookbackDays ?? '미확인'}일 범위</p><p>과거 모집 자료: ${dateText(meta.historyDate)} · 학교별 조사 성공 여부는 원문에서 확인해 주세요.</p>${link(meta.recruitmentSource,'교육지원청 구인 게시판 ↗')} · ${link(meta.schoolSource,'공식 학교 명부 ↗')}</div><div class="source-card"><h3>양성교육 · 전국 디지털튜터</h3><p>확인: ${dateText(meta.trainingDate)} · ${data.training.length}건. 성남 외 지역도 포함되며 별도 탭에서 확인할 수 있습니다.</p>${(data.trainingScan.errors||[]).map(e=>'<p class="scan-fail">'+h(typeof e==='string'?e:JSON.stringify(e))+'</p>').join('')}</div><div class="coverage-table-wrap"><table class="coverage-table"><thead><tr><th>학교</th><th>설립 구분</th><th>지역</th><th>수집한 공고</th><th>원문 확인</th></tr></thead><tbody>${relevantSchools(data.posts).map(s=>`<tr><td><button class="text-button" data-open-school="${h(s.id)}">${h(s.name)}</button></td><td>${establishmentBadge(s)}</td><td>${h(s.district)} · ${h(s.dong || '동 미상')}</td><td>${data.posts.filter(p=>p.schoolId===s.id).length}건</td><td>${link(s.homepage,'학교 홈페이지 ↗')}</td></tr>`).join('')}</tbody></table></div>`;
+  $('coverageView').innerHTML=`<div class="source-card"><h3>출처와 수집 범위</h3><p>기존 자동 수집 파일을 그대로 읽어 표시합니다. 최근 게시판 탐색 결과와 과거 모집 이력을 함께 볼 수 있습니다. 같은 원문 주소는 묶고, 통합 공고는 대상 학교별 항목으로 표시합니다. 원문 공고 수와 학교별 항목 수는 다릅니다. 초등학교 명부에 통합 공고의 중·고·특수학교만 보충했으며 성남 전체 학교 명부는 아닙니다. 제목의 키워드로 찾은 자료에는 채용과 무관한 안내도 포함될 수 있습니다.</p><p>학교별 성공·실패 내역은 현재 수집 파일에 없습니다. 공고가 없다는 이유만으로 해당 학교의 조회에 성공했다고 판단하지 않습니다.</p></div><div class="coverage-summary"><span>학교 명부 ${data.schools.length}개교</span><span>최근 탐색 대상 ${hits.schoolCount ?? '미확인'}개교</span><span>최근 발견 ${hits.items.length}건</span><span>모집 이력 ${data.posts.length}건</span></div><div class="source-card"><h3>성남교육지원청 · 학교 게시판</h3><p>최근 탐색 결과: ${dateText(meta.collectedDate)} · 최근 ${hits.lookbackDays ?? '미확인'}일 범위</p><p>과거 모집 자료: ${dateText(meta.historyDate)} · 학교별 조사 성공 여부는 원문에서 확인해 주세요.</p>${link(meta.recruitmentSource,'교육지원청 구인 게시판 ↗')} · ${link(meta.schoolSource,'공식 학교 명부 ↗')}</div><div class="source-card"><h3>양성교육 · 전국 디지털튜터</h3><p>확인: ${dateText(meta.trainingDate)} · ${data.training.length}건. 성남 외 지역도 포함되며 별도 탭에서 확인할 수 있습니다.</p>${(data.trainingScan.errors||[]).map(e=>'<p class="scan-fail">'+h(typeof e==='string'?e:JSON.stringify(e))+'</p>').join('')}</div><div class="coverage-table-wrap"><table class="coverage-table"><thead><tr><th>학교</th><th>설립 구분</th><th>지역</th><th>수집한 공고</th><th>원문 확인</th></tr></thead><tbody>${relevantSchools(data.postEntries).map(s=>`<tr><td><button class="text-button" data-open-school="${h(s.id)}">${h(s.name)}</button></td><td>${establishmentBadge(s)}</td><td>${h(s.district)} · ${h(s.dong || '동 미상')}</td><td>${data.postEntries.filter(p=>p.schoolId===s.id).length}건</td><td>${link(s.homepage,'학교 홈페이지 ↗')}</td></tr>`).join('')}</tbody></table></div>`;
 }
 function render() {
   if (!state.data) return;
@@ -114,7 +118,7 @@ function render() {
   document.querySelectorAll('[data-tab]').forEach(b=>{b.classList.toggle('active',b.dataset.tab===state.tab);if(b.dataset.tab===state.tab)b.setAttribute('aria-current','page');else b.removeAttribute('aria-current');});
   $('jobsView').hidden=!['jobs','training'].includes(state.tab); $('mapView').hidden=state.tab!=='map'; $('coverageView').hidden=state.tab!=='coverage'; $('sortLabel').hidden=!['jobs','training'].includes(state.tab);
   $('viewTitle').textContent=({jobs:state.filters.saved?'관심 공고':'모집 공고',map:'학교 한눈맵',coverage:'수집 현황',training:'양성교육·전국 채용'})[state.tab];
-  $('resultCount').textContent=['jobs','training'].includes(state.tab)?`${posts.length.toLocaleString()}건`:state.tab==='map'?`${relevantSchools(posts).length}개교`:'';
+  $('resultCount').textContent=['jobs','training'].includes(state.tab)?(posts.length===sourcePostCount(posts)?`${posts.length.toLocaleString()}건`:`학교별 항목 ${posts.length.toLocaleString()}개 · 원문 ${sourcePostCount(posts)}건`):state.tab==='map'?`${relevantSchools(posts).length}개교`:'';
   const age = Math.floor((Date.parse(seoulDate()) - Date.parse(state.data.meta.collectedDate))/86400000);
   $('notice').classList.toggle('warn',age>2);
   $('notice').textContent = age>2 ? `${age}일 전 수집한 자료입니다. 현재 채용 여부와 변경된 접수기간을 원문에서 확인해 주세요.` : '최근 게시판 탐색 결과와 과거 모집 이력을 함께 표시합니다. 키워드 탐색 결과이므로 모집 대상과 접수기간은 원문을 확인하세요.';
@@ -122,7 +126,7 @@ function render() {
   if(state.data.loadErrors.length){$('notice').classList.add('warn');$('notice').textContent='일부 자료를 불러오지 못했습니다: '+state.data.loadErrors.join(', ')+'. 새로고침해 다시 시도해 주세요.';}
   if (['jobs','training'].includes(state.tab)) renderJobs(posts); else if(state.tab==='map') renderMap(posts); else renderCoverage();
 }
-function reset() { state.filters={query:'',category:'',district:'',dong:'',year:'',favoriteSchools:null,status:'',source:'',sort:'recent',schoolId:'',saved:false}; $('query').value=''; state.limit=30; state.selected=null; render(); }
+function reset() { state.filters={query:'',category:'',district:'',dong:'',level:'',year:'',favoriteSchools:null,status:'',source:'',sort:'recent',schoolId:'',saved:false}; $('query').value=''; state.limit=30; state.selected=null; render(); }
 function download(text,name,type) {const url=URL.createObjectURL(new Blob([text],{type}));const a=document.createElement('a');a.href=url;a.download=name;a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);}
 document.addEventListener('click',event=>{
   const b=event.target.closest('button');if(!b||!state.data)return;
@@ -143,11 +147,11 @@ document.addEventListener('click',event=>{
   else if(b.id==='resetBtn'||b.hasAttribute('data-reset'))reset();
   else if(b.id==='savedToggle'){state.tab='jobs';setFilter('saved',!state.filters.saved);}
   else if(b.id==='loadMore'){state.limit+=30;render();}
-  else if(b.id==='exportBtn'){const rows=currentPosts();download('\uFEFF'+[['학교','학교급','설립 구분','지역','제목','분야','게시일','접수시작','접수마감','상태','출처','원문'],...rows.map(p=>{const s=schoolById(p.schoolId);return[p.schoolName,s?.level || p.schoolLevel,p.establishment || '설립 구분 미확인',s?.district,p.title,p.categories.join(' / '),p.postedDate,p.startDate,p.deadlineDate,statusOf(p).label,p.sources.map(s=>s.name).join(' / '),p.url];})].map(r=>r.map(csvCell).join(',')).join('\r\n'),`성남-강사공고-${seoulDate()}.csv`,'text/csv;charset=utf-8');toast(`${rows.length}건의 공고를 내려받았습니다.`);}
+  else if(b.id==='exportBtn'){const rows=currentPosts();download('\uFEFF'+[['학교','학교급','설립 구분','지역','제목','분야','게시일','접수시작','접수마감','상태','출처','원문'],...rows.map(p=>{const s=schoolById(p.schoolId);return[p.schoolName,s?.level || p.schoolLevel,p.establishment || '설립 구분 미확인',s?.district,p.title,p.categories.join(' / '),p.postedDate,p.startDate,p.deadlineDate,statusOf(p).label,p.sources.map(s=>s.name).join(' / '),p.url];})].map(r=>r.map(csvCell).join(',')).join('\r\n'),`성남-강사공고-${seoulDate()}.csv`,'text/csv;charset=utf-8');toast(`${rows.length}개의 모집 항목을 내려받았습니다.`);}
   else if(b.id==='dataBtn')download(JSON.stringify(state.data,null,2),`성남-강사채용맵-${seoulDate()}.json`,'application/json');
 });
 $('query').addEventListener('input',e=>setFilter('query',e.target.value));
 setupPreview();
-['district','dong','year','status','source','sort'].forEach(key=>$(key).addEventListener('change',e=>setFilter(key,e.target.value)));
-try { state.data=await loadData(); $('updatedAt').textContent=dateText(state.data.meta.collectedDate);stats();render(); }
+['district','dong','level','year','status','source','sort'].forEach(key=>$(key).addEventListener('change',e=>setFilter(key,e.target.value)));
+try { state.data=await loadData(); state.favorites=[...new Set(state.favorites.flatMap(id=>{const entries=state.data.postEntries.filter(p=>p.sourcePostId===id);return entries.length?entries.map(p=>p.id):[id];}))]; $('updatedAt').textContent=dateText(state.data.meta.collectedDate);stats();render(); }
 catch(error){$('notice').textContent='데이터를 불러오지 못했습니다. 새로고침해 다시 시도해 주세요.';$('notice').classList.add('warn');console.error(error);}

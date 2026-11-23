@@ -24,7 +24,7 @@ export function filteredPosts(posts, schools, filters, favorites = []) {
   return posts.filter(p => {
     const school = index.get(p.schoolId);
     const status = statusOf(p);
-    return (!query || [p.title, p.schoolName, school?.address, school?.dong, ...(p.categories || [])].join(' ').toLocaleLowerCase('ko').includes(query))
+    return (!query || [p.title, p.schoolName, ...(p.schoolNames || []), school?.address, school?.dong, ...(p.categories || [])].join(' ').toLocaleLowerCase('ko').includes(query))
       && (!filters.district || school?.district === filters.district)
       && (!filters.dong || (school?.dong || '동 미상') === filters.dong)
       && (!filters.year || String(p.year) === filters.year)
@@ -38,6 +38,9 @@ export function filteredPosts(posts, schools, filters, favorites = []) {
   }).sort((a, b) => filters.sort === 'deadline'
     ? deadlineRank(a) - deadlineRank(b) || (deadlineRank(a) === 0 ? a.deadlineDate.localeCompare(b.deadlineDate) : 0) || (b.postedDate || '').localeCompare(a.postedDate || '')
     : (b.postedDate || '').localeCompare(a.postedDate || '') || a.title.localeCompare(b.title, 'ko'));
+}
+export function sourcePostCount(posts) {
+  return new Set(posts.map(p=>p.sourcePostId || p.id)).size;
 }
 export function csvCell(value) {
   let text = String(value ?? '');

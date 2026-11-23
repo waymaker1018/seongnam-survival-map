@@ -1,4 +1,4 @@
-import { seoulDate, safeUrl, CATEGORIES } from './core.js';
+import { seoulDate, safeUrl, CATEGORIES } from './core.js?v=20261123-school-links';
 import { establishmentInfo } from './school-info.js';
 
 export function dateOnly(value) {
@@ -32,11 +32,28 @@ function homepage(value) {
   return safeUrl(text.includes('://') ? text : `https://${text}`);
 }
 
-export function adaptData(schools, history, hits, training, meta, digitalTutors = [], establishments = []) {
-  const normalizedSchools = schools.map(s => ({...s, ...establishmentInfo({schoolId:s.id},schools,establishments), level:'초등학교', address:s.fullAddress || s.address || '', homepage:homepage(s.homepage)}));
+export function schoolPostEntries(posts, schools, establishments) {
+  return posts.flatMap(post => {
+    const names = [...new Set(post.schoolNames || [])];
+    if (names.length < 2) return [post];
+    return names.map(name => {
+      const school = schools.find(s => s.name === name);
+      const entry = {...post, id:`${post.id}:school:${encodeURIComponent(name)}`, sourcePostId:post.id,
+        schoolId:school?.id || null, schoolName:name, schoolNames:[name],
+        title:`${name} · ${post.title}`,
+        groupTitle:post.title, groupSchoolNames:names, groupHireCount:post.hireCount,
+        hireCount:post.hireCountPerSchool || null};
+      return {...entry, ...establishmentInfo(entry, schools, establishments)};
+    });
+  });
+}
+
+export function adaptData(schools, history, hits, training, meta, digitalTutors = [], establishments = [], additionalSchools = []) {
+  const schoolRows = [...schools, ...additionalSchools.filter(s => !schools.some(original => original.name === s.name))];
+  const normalizedSchools = schoolRows.map(s => ({...s, ...establishmentInfo({schoolId:s.id},schoolRows,establishments), level:s.level || establishments.find(r=>r.name===s.name)?.level || '초등학교', address:s.fullAddress || s.address || '', homepage:homepage(s.homepage)}));
   const records = [
     ...digitalTutors.map(r => ({...r, id:`digital-tutor:${r.sourceUrl}`, url:r.sourceUrl,
-      schoolId:schools.find(s=>s.name===r.school)?.id || null, schoolName:r.school,
+      schoolId:normalizedSchools.find(s=>s.name===r.school)?.id || null, schoolName:r.school,
       source:safeUrl(r.sourceUrl) && new URL(r.sourceUrl).pathname.startsWith('/goesn/') ? '성남교육지원청' : '학교 게시판',
       startDate:r.applyStart?.replaceAll('.','-'), deadlineDate:r.applyEnd?.replaceAll('.','-'),
       recruitmentYear:Number(r.applyStart?.slice(0,4)) || null})),
@@ -47,7 +64,7 @@ export function adaptData(schools, history, hits, training, meta, digitalTutors 
   const merged = new Map();
   for (const r of records) {
     const url = safeUrl(r.url), key = sourceKey(url) || String(r.id);
-    const post = { ...r, id:String(r.id), url, schoolId:r.schoolId || null, schoolName:r.schoolName || '기관 통합 모집',
+    const post = { ...r, id:String(r.id), url, schoolId:r.schoolId || normalizedSchools.find(s=>s.name===r.schoolName)?.id || null, schoolName:r.schoolName || '기관 통합 모집',
       postedDate:dateOnly(r.postedDate), startDate:dateOnly(r.startDate), deadlineDate:dateOnly(r.deadlineDate),
       year:r.recruitmentYear || Number(dateOnly(r.postedDate)?.slice(0,4)) || null,
       categories:categoriesFor(r.title), sources:[{name:r.source, url}] };
@@ -63,7 +80,8 @@ export function adaptData(schools, history, hits, training, meta, digitalTutors 
     url:safeUrl(r.url), postedDate:dateOnly(r.postedAt), startDate:dateOnly(r.startDate), deadlineDate:dateOnly(r.deadline),
     year:Number(dateOnly(r.postedAt)?.slice(0,4)) || null, categories:categoriesFor(r.title),
     sources:[{name:r.source || '양성교육·전국 채용',url:safeUrl(r.url)}],checkedAt:training.generatedAt}));
-  return {schools:normalizedSchools, posts:[...merged.values()].map(p=>({...p,...establishmentInfo(p,schools,establishments)})), training:trainingPosts,
+  const posts = [...merged.values()].map(p=>({...p,...establishmentInfo(p,normalizedSchools,establishments)}));
+  return {schools:normalizedSchools, posts, postEntries:schoolPostEntries(posts,normalizedSchools,establishments), training:trainingPosts,
     meta:{...meta,collectedDate:dateOnly(hits.generatedAt),historyDate:dateOnly(meta.generatedAt),trainingDate:dateOnly(training.generatedAt)},
     hits, trainingScan:training, loadErrors:[]};
 }
@@ -82,7 +100,7 @@ export async function loadData() {
       return fallback;
     }
   }
-  const input = await Promise.all([read('schools',[]),read('recruitments',[]),read('school_notice_hits',{items:[]}),read('training_hits',{items:[]}),read('meta',{}),read('seongnam_digital_tutor_2026',[]),read('school_establishments',[])]);
+  const input = await Promise.all([read('schools',[]),read('recruitments',[]),read('school_notice_hits',{items:[]}),read('training_hits',{items:[]}),read('meta',{}),read('seongnam_digital_tutor_2026',[]),read('school_establishments',[]),read('digital_tutor_schools',[])]);
   const data = adaptData(...input);
   try {
     const response=await fetch('./data/attachment_previews.json',{cache:'no-store'});

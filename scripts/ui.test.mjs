@@ -2,7 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import { adaptData, dateOnly, loadData } from '../ui/data.js';
-import { filteredPosts, statusOf, safeUrl, csvCell } from '../ui/core.js';
+import { filteredPosts, statusOf, safeUrl, csvCell, sourcePostCount } from '../ui/core.js';
 import { establishmentInfo } from '../ui/school-info.js';
 import { schoolMetadata } from './collect_school_establishments.mjs';
 
@@ -13,7 +13,7 @@ test('별도 디지털튜터 자료도 실제 로더에서 읽고 학교·접수
   assert.deepEqual(data.loadErrors,[]);
   assert.equal(data.posts.find(p=>p.schoolName==='성일중학교').establishment,'사립');
   assert.equal(data.posts.find(p=>p.schoolNames?.length===19).establishment,'공립·사립 혼합');
-  assert.ok(data.schools.every(s=>s.establishment==='공립'));
+  assert.ok(data.schools.filter(s=>s.level==='초등학교').every(s=>s.establishment==='공립'));
   const posts=filteredPosts(data.posts,data.schools,{category:'디지털튜터',year:'2026'});
   for(const row of tutors) {
     const post=posts.find(p=>p.sources.some(s=>s.url===row.sourceUrl));
@@ -37,6 +37,40 @@ test('설립 구분은 동일 지역의 정확한 학교만 사용하고 모호�
   assert.equal(schoolMetadata([row,row],'성일중학교').establishment,null);
   assert.equal(schoolMetadata([{...row,SCHUL_NM:'성일고등학교'}],'성일중학교').establishment,null);
   assert.equal(schoolMetadata([{...row,ORG_RDNMA:'경기 성남시 중원구'}],'성일중학교').establishment,'사립');
+});
+
+test('통합 공고의 모든 학교를 개별 검색·학교급·지역·학교 이력에서 찾고 원문 수를 보존한다', async t => {
+  t.mock.method(globalThis,'fetch',async url=>({ok:true,json:async()=>read(String(url).split('/').pop().replace('.json',''))}));
+  const data=await loadData();
+  const source=data.posts.find(p=>p.schoolNames?.length===19);
+  const entries=data.postEntries.filter(p=>p.sourcePostId===source.id);
+  assert.equal(entries.length,19);
+  assert.equal(sourcePostCount(entries),1);
+  assert.equal(new Set(data.postEntries.map(p=>p.id)).size,data.postEntries.length);
+  for(const name of source.schoolNames){
+    const school=data.schools.find(s=>s.name===name);
+    assert.ok(school,`${name} school directory`);
+    const options={query:name,schoolId:school.id,category:'디지털튜터',year:'2026',level:school.level,district:school.district};
+    const matches=filteredPosts(data.postEntries,data.schools,options);
+    const post=matches.find(p=>p.sourcePostId===source.id);
+    assert.ok(post,`${name} search and filters`);
+    assert.equal(post.url,source.url);
+    assert.equal(post.deadlineDate,'2026-02-20');
+    assert.equal(post.hireCount,'1');
+    assert.equal(post.groupHireCount,'19');
+    assert.equal(statusOf(post,'2026-11-23').key,'closed');
+    assert.deepEqual(post.schoolNames,[name]);
+    assert.notEqual(post.establishment,'공립·사립 혼합');
+  }
+  const tutors=filteredPosts(data.postEntries,data.schools,{category:'디지털튜터',year:'2026'});
+  assert.equal(tutors.length,28);
+  assert.equal(sourcePostCount(tutors),10);
+  const bokjeong=filteredPosts(data.postEntries,data.schools,{query:'복정고'});
+  assert.equal(bokjeong.length,1);
+  assert.equal(bokjeong[0].schoolName,'복정고등학교');
+  assert.equal(filteredPosts(data.postEntries,data.schools,{query:'복정고',level:'초등학교'}).length,0);
+  assert.equal(filteredPosts(data.postEntries,data.schools,{query:'복정고',status:'open'}).length,0);
+  assert.equal(filteredPosts(data.postEntries,data.schools,{saved:true},[bokjeong[0].id]).length,1);
 });
 test('학교 ID·학교명·제목을 연결하고 통합 모집과 미확인을 구분한다', () => {
   const registry=[{name:'금상초등학교',establishment:'공립'},{name:'성일중학교',establishment:'사립'}];
