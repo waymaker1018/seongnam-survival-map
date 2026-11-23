@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-22T13:42:14.799Z",
-  "hitCount": 53,
+  "generatedAt": "2026-11-23T06:27:19.429Z",
+  "hitCount": 52,
   "errors": [],
   "items": [
     {
@@ -340,6 +340,30 @@
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
+      "id": "seoul:gsycedu:15250",
+      "schoolId": null,
+      "schoolName": "서울신기초등학교병설유치원",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "에듀케어 오전 대체 [에듀케어] 강사 채용 공고 에듀케어 오전 대체 [에듀케어] 강사 채용 공고",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gsycedu:15249",
+      "schoolId": null,
+      "schoolName": "서울신기초등학교병설유치원",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "에듀케어 연가 대체 강사 채용 공고 에듀케어 연가 대체 강사 채용 공고",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
       "id": "seoul:gsycedu:15246",
       "schoolId": null,
       "schoolName": "서울탑산초등학교병설유치원",
@@ -508,30 +532,6 @@
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
-      "id": "seoul:gsycedu:15188",
-      "schoolId": null,
-      "schoolName": "서울송정초등학교병설유치원",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "수업지원 순회시간강사",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15184",
-      "schoolId": null,
-      "schoolName": "서울월정초등학교병설유치원",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "2026 겨울 및 학년말 방학 중 에듀케어 대체강사",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
       "id": "seoul:gnscedu:14277",
       "schoolId": "sen-7091400",
       "schoolName": "서울신중초등학교",
@@ -625,18 +625,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "장애아동학습도우미 임상민 (장애아동 학습도우미)",
-      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gnscedu:14228",
-      "schoolId": "sen-7091384",
-      "schoolName": "서울매헌초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강남서초 구인",
-      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "체육 권수진 (놀이체육강사)",
       "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]
