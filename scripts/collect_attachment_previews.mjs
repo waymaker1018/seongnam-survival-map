@@ -43,6 +43,16 @@ async function text(url, options={}) {
   if(!response.ok) throw Error(`HTTP ${response.status}`);
   return response.text();
 }
+export async function checkPreviewService() {
+  const checkedAt=new Date().toISOString();
+  try {
+    await text(viewerOrigin+'/resources/js/view-req.js');
+    return {status:'ready',checkedAt};
+  } catch(error) {
+    const code=error.cause?.code || error.code;
+    return {status:'unavailable',reason:code==='CERT_HAS_EXPIRED' ? 'certificate_expired' : 'connection_failed',checkedAt};
+  }
+}
 async function convert(file, sourceHtml) {
   const key=sourceHtml.match(/var apiKey\s*=\s*"([^"]+)"/)?.[1];
   const cc=sourceHtml.match(/var cc\s*=\s*"([^"]+)"/)?.[1];
@@ -58,24 +68,27 @@ export async function collectPreviews({all=false}={}) {
   const hits=await read('school_notice_hits');
   // shortcut: 과거 모집 이력은 --all로 보충한다. 기본 갱신은 최근 탐색 공고에 집중한다.
   const records=[...hits.items,...await read('seongnam_digital_tutor_2026'),...(all ? await read('recruitments') : [])];
-  const targets=[...new Set(records.map(p=>p.url||p.sourceUrl).filter(schoolUrl).map(noticeKey))];
   let previous={items:{}};
   try { previous=await read('attachment_previews'); } catch {}
+  // 최근 검색 범위에서 벗어난 공고도 저장된 미리보기 주소가 오래된 채 남지 않게 갱신한다.
+  const targets=[...new Set([...records.map(p=>p.url||p.sourceUrl),...Object.keys(previous.items || {})].filter(schoolUrl).map(noticeKey))];
+  const service=await checkPreviewService();
+  console.log(`Preview service: ${service.status}${service.reason ? ' ('+service.reason+')' : ''}`);
   const items={...previous.items}, queue=[...targets];
   let done=0,ready=0;
   await Promise.all(Array.from({length:3},async()=>{
     while(queue.length) {
       const url=queue.shift(), old=items[url];
       // 저장된 뷰어 링크는 매일 재확인한다. 실패한 조회로 기존 링크를 성공 상태로 유지하지 않는다.
-      if(old?.status==='ready' && Date.now()-Date.parse(old.checkedAt)<20*60*60*1000){done++;ready++;continue;}
+      if(service.status==='ready' && old?.status==='ready' && old.files?.every(f=>f.downloadUrl) && Date.now()-Date.parse(old.checkedAt)<20*60*60*1000){done++;ready++;continue;}
       const entry={checkedAt:new Date().toISOString(),status:'failed',files:[]};
       try {
         const html=await text(url), files=parseAttachments(html);
         entry.status=files.length?'ready':'unavailable';
         for(const file of files) {
           let previewUrl='';
-          try { previewUrl=await convert(file,html); } catch {}
-          entry.files.push({name:file.name,previewUrl});
+          if(service.status==='ready')try { previewUrl=await convert(file,html); } catch {}
+          entry.files.push({name:file.name,previewUrl,downloadUrl:file.url});
         }
         if(files.length && !entry.files.some(f=>f.previewUrl))entry.status='unavailable';
         if(entry.files.some(f=>f.previewUrl))ready++;
@@ -84,7 +97,7 @@ export async function collectPreviews({all=false}={}) {
       if(done%10===0)console.log(`Attachment previews: ${done}/${targets.length} notices checked`);
     }
   }));
-  await writeFile(new URL('data/attachment_previews.json',root),JSON.stringify({generatedAt:new Date().toISOString(),items},null,2)+'\n');
+  await writeFile(new URL('data/attachment_previews.json',root),JSON.stringify({generatedAt:new Date().toISOString(),service,items},null,2)+'\n');
   console.log(`Attachment previews: ${ready}/${targets.length} notices have a viewer link`);
 }
 if(process.argv[1] && import.meta.url===pathToFileURL(process.argv[1]).href) {

@@ -1,9 +1,30 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { parseAttachments, viewerRequest, convertedUrl, noticeKey } from './collect_attachment_previews.mjs';
-import { safePreviewUrl, previewFrameUrl, attachmentFiles, attachmentSection } from '../ui/preview.js';
+import { parseAttachments, viewerRequest, convertedUrl, noticeKey, checkPreviewService } from './collect_attachment_previews.mjs';
+import { safePreviewUrl, safeDownloadUrl, previewFrameUrl, attachmentFiles, attachmentSection } from '../ui/preview.js';
 
 const preview='https://ub01.viewstory.net/external/resources/upload/goesn/convert/document.html/document.html';
+test('인증서 만료와 연결 실패를 알리고 서버 복구 후 미리보기를 다시 허용한다',async t=>{
+  const post={sources:[{url:'https://www.goesn.kr/read?nttSn=1'}]};
+  const downloadUrl='https://www.goesn.kr/upload/document.hwp';
+  const index={'https://www.goesn.kr/read?nttSn=1':{files:[{name:'공고.hwp',previewUrl:preview,downloadUrl}]}};
+  const mock=t.mock.method(globalThis,'fetch',async()=>{throw new TypeError('fetch failed',{cause:{code:'CERT_HAS_EXPIRED'}});});
+  const service=await checkPreviewService();
+  assert.equal(service.reason,'certificate_expired');
+  const markup=attachmentSection(post,index,service);
+  assert.ok(markup.includes('보안 인증서가 만료'));
+  assert.ok(markup.includes(downloadUrl));
+  assert.ok(!markup.includes('data-preview='));
+  assert.equal(attachmentFiles(post,index,service)[0].previewUrl,'');
+  mock.mock.mockImplementation(async()=>{throw Error('connection failed');});
+  assert.equal((await checkPreviewService()).reason,'connection_failed');
+  mock.mock.mockImplementation(async()=>({ok:true,text:async()=>''}));
+  assert.ok(attachmentSection(post,index,await checkPreviewService()).includes('data-preview='));
+});
+test('원본 파일 링크는 HTTPS 교육청 첨부파일 경로만 허용한다',()=>{
+  assert.equal(safeDownloadUrl('https://school.goesn.kr/upload/a.pdf'),'https://school.goesn.kr/upload/a.pdf');
+  for(const url of ['http://www.goesn.kr/upload/a.hwp','https://www.goesn.kr.evil.test/upload/a.hwp','https://www.goesn.kr/admin/a.hwp','https://user@www.goesn.kr/upload/a.hwp','javascript:alert(1)'])assert.equal(safeDownloadUrl(url),'');
+});
 test('공식 첨부파일만 추출하고 중복·다른 호스트를 제외한다',()=>{
   const html=`previewAjax('https://www.goesn.kr/upload/file.hwp','강사 &amp; 안내.hwp')
     previewAjax('https://www.goesn.kr/upload/file.hwp','강사 &amp; 안내.hwp')
