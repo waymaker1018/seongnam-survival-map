@@ -90,7 +90,7 @@ export async function loadData() {
   const errors = [];
   async function read(name, fallback) {
     try {
-      const response = await fetch(`./data/${name}.json`);
+      const response = await fetch(`./data/${name}.json`, {cache:'no-cache'});
       if (!response.ok) throw Error(`HTTP ${response.status}`);
       const data = await response.json();
       if (Array.isArray(fallback) ? !Array.isArray(data) : name !== 'meta' && !Array.isArray(data.items)) throw Error('자료 형식 오류');

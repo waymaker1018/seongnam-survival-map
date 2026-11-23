@@ -1,4 +1,4 @@
-import { loadData } from './data.js?v=20261123-school-links';
+import { loadData } from './data.js?v=20261123-school-links-2';
 import { attachmentFiles, attachmentSection, openAttachment, setupPreview } from './preview.js?v=20261123-preview';
 import { CATEGORIES, DISTRICTS, statusOf, seoulDate, escapeHtml as h, safeUrl, filteredPosts, csvCell, sourcePostCount } from './core.js?v=20261123-school-links';
 const $ = id => document.getElementById(id);
