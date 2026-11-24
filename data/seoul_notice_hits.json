@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-24T09:00:52.788Z",
-  "hitCount": 56,
+  "generatedAt": "2026-11-24T16:35:09.440Z",
+  "hitCount": 54,
   "errors": [],
   "items": [
     {
@@ -544,18 +544,6 @@
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
-      "id": "seoul:gsycedu:15189",
-      "schoolId": "sen-7081481",
-      "schoolName": "서울화일초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "대안교실강사",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
       "id": "seoul:gnscedu:14301",
       "schoolId": null,
       "schoolName": "밀알학교",
@@ -661,18 +649,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "정민경 (초등 기초학력 협력강사)",
-      "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gnscedu:14234",
-      "schoolId": "sen-7091393",
-      "schoolName": "서울서원초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강남서초 구인",
-      "boardUrl": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "장애아동학습도우미 임상민 (장애아동 학습도우미)",
       "url": "https://gnscedu.sen.go.kr/FUS/JO/JOL11.do"
     }
   ]

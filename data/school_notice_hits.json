@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-24T08:57:07.031Z",
+  "generatedAt": "2026-11-24T16:33:55.738Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 70,
+  "hitCount": 68,
   "keywords": [
     "AI",
     "인공지능",
@@ -853,30 +853,6 @@
       "deadline": null,
       "title": "2027학년도 방과후·돌봄 개인위탁 외부강사 채용 공고 [수익자 방과후, 초1-2 맞춤형 프로그램]",
       "url": "https://tanchun-e.goesn.kr/tanchun-e/na/ntt/selectNttInfo.do?mi=12071&bbsId=11090&nttSn=1968789"
-    },
-    {
-      "id": "snjj-e:snjj-e:1968412",
-      "schoolId": "snjj-e",
-      "schoolName": "성남정자초등학교",
-      "schoolHomepage": "https://snjj-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://snjj-e.goesn.kr/snjj-e/na/ntt/selectNttList.do?mi=14296&bbsId=12354&listCo=50&currPage=1",
-      "postedAt": "2026-11-10T15:00:00.000Z",
-      "deadline": null,
-      "title": "방과후(초1~2맞춤형) 개인위탁 외부강사 모집 공고",
-      "url": "https://snjj-e.goesn.kr/snjj-e/na/ntt/selectNttInfo.do?mi=14296&bbsId=12354&nttSn=1968412"
-    },
-    {
-      "id": "tanchun-e:tanchun-e:1968633",
-      "schoolId": "tanchun-e",
-      "schoolName": "탄천초등학교",
-      "schoolHomepage": "https://tanchun-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://tanchun-e.goesn.kr/tanchun-e/na/ntt/selectNttList.do?mi=12071&bbsId=11090&listCo=50&currPage=1",
-      "postedAt": "2026-11-10T15:00:00.000Z",
-      "deadline": null,
-      "title": "2027학년도 돌봄교실 특기강사 모집",
-      "url": "https://tanchun-e.goesn.kr/tanchun-e/na/ntt/selectNttInfo.do?mi=12071&bbsId=11090&nttSn=1968633"
     }
   ]
 }
