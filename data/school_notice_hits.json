@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-25T07:34:05.092Z",
+  "generatedAt": "2026-11-25T16:16:46.006Z",
   "lookbackDays": 14,
   "schoolCount": 73,
-  "hitCount": 69,
+  "hitCount": 65,
   "keywords": [
     "AI",
     "인공지능",
@@ -817,54 +817,6 @@
       "deadline": null,
       "title": "2027학년 위례중앙초 방과후 및 초1~2맞춤형 강사 채용 공고",
       "url": "https://wrjungang-e.goesn.kr/wrjungang-e/na/ntt/selectNttInfo.do?mi=10356&bbsId=10130&nttSn=1968889"
-    },
-    {
-      "id": "gumsang-e:gumsang-e:1968691",
-      "schoolId": "gumsang-e",
-      "schoolName": "금상초등학교",
-      "schoolHomepage": "https://gumsang-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://gumsang-e.goesn.kr/gumsang-e/na/ntt/selectNttList.do?mi=11389&bbsId=10700&listCo=50&currPage=1",
-      "postedAt": "2026-11-11T15:00:00.000Z",
-      "deadline": null,
-      "title": "2027학년도 아침돌봄 및 초1~2 맞춤형 프로그램 강사 모집",
-      "url": "https://gumsang-e.goesn.kr/gumsang-e/na/ntt/selectNttInfo.do?mi=11389&bbsId=10700&nttSn=1968691"
-    },
-    {
-      "id": "daeil-e:daeil-e:1968806",
-      "schoolId": "daeil-e",
-      "schoolName": "대일초등학교",
-      "schoolHomepage": "https://daeil-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://daeil-e.goesn.kr/daeil-e/na/ntt/selectNttList.do?mi=11836&bbsId=10965&listCo=50&currPage=1",
-      "postedAt": "2026-11-11T15:00:00.000Z",
-      "deadline": null,
-      "title": "2027학년도 수익자 방과후 개인위탁 외부강사 2차 모집(주산)",
-      "url": "https://daeil-e.goesn.kr/daeil-e/na/ntt/selectNttInfo.do?mi=11836&bbsId=10965&nttSn=1968806"
-    },
-    {
-      "id": "snjangan-e:snjangan-e:1968823",
-      "schoolId": "snjangan-e",
-      "schoolName": "성남장안초등학교",
-      "schoolHomepage": "https://snjangan-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://snjangan-e.goesn.kr/snjangan-e/na/ntt/selectNttList.do?mi=15082&bbsId=12792&listCo=50&currPage=1",
-      "postedAt": "2026-11-11T15:00:00.000Z",
-      "deadline": null,
-      "title": "성남장안초병설유치원 겨울방학 중 방과후 과정 운영인력 채용 공고",
-      "url": "https://snjangan-e.goesn.kr/snjangan-e/na/ntt/selectNttInfo.do?mi=15082&bbsId=12792&nttSn=1968823"
-    },
-    {
-      "id": "tanchun-e:tanchun-e:1968789",
-      "schoolId": "tanchun-e",
-      "schoolName": "탄천초등학교",
-      "schoolHomepage": "https://tanchun-e.goesn.kr",
-      "boardLabel": "공지사항",
-      "boardUrl": "https://tanchun-e.goesn.kr/tanchun-e/na/ntt/selectNttList.do?mi=12071&bbsId=11090&listCo=50&currPage=1",
-      "postedAt": "2026-11-11T15:00:00.000Z",
-      "deadline": null,
-      "title": "2027학년도 방과후·돌봄 개인위탁 외부강사 채용 공고 [수익자 방과후, 초1-2 맞춤형 프로그램]",
-      "url": "https://tanchun-e.goesn.kr/tanchun-e/na/ntt/selectNttInfo.do?mi=12071&bbsId=11090&nttSn=1968789"
     }
   ]
 }
