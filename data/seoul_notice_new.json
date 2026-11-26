@@ -1,30 +1,5 @@
 {
-  "generatedAt": "2026-11-26T07:26:49.926Z",
-  "newCount": 2,
-  "items": [
-    {
-      "id": "seoul:dgedu:10349",
-      "schoolId": "sen-7132104",
-      "schoolName": "서울신길초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-12-02T00:00:00+09:00",
-      "title": "(신길초) 2027학년도 초등돌봄교실 봉사인력 위촉 공고 (교육공무직원)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:dgedu:10348",
-      "schoolId": "sen-7132104",
-      "schoolName": "서울신길초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-12-02T00:00:00+09:00",
-      "title": "(신길초) 2027학년도 초등돌봄교실 대체전담사 채용 공고 (교육공무직원)",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    }
-  ]
+  "generatedAt": "2026-11-26T15:55:04.508Z",
+  "newCount": 0,
+  "items": []
 }
