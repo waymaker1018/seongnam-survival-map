@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T16:18:04.342Z",
+  "generatedAt": "2026-11-26T07:26:49.926Z",
   "hitCount": 54,
   "errors": [],
   "items": [
@@ -26,6 +26,30 @@
       "deadline": "2026-11-30T00:00:00+09:00",
       "title": "미술 및 체육 (시간제)",
       "url": "https://gdspedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10349",
+      "schoolId": "sen-7132104",
+      "schoolName": "서울신길초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-12-02T00:00:00+09:00",
+      "title": "(신길초) 2027학년도 초등돌봄교실 봉사인력 위촉 공고 (교육공무직원)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:dgedu:10348",
+      "schoolId": "sen-7132104",
+      "schoolName": "서울신길초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 동작관악 구인",
+      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": "2026-12-02T00:00:00+09:00",
+      "title": "(신길초) 2027학년도 초등돌봄교실 대체전담사 채용 공고 (교육공무직원)",
+      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
       "id": "seoul:nbedu:11447",
@@ -352,18 +376,6 @@
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
-      "id": "seoul:jbedu:3393",
-      "schoolId": null,
-      "schoolName": "서울남정초등학교병설유치원",
-      "schoolHomepage": null,
-      "boardLabel": "서울 중부(종로·중구·용산) 구인",
-      "boardUrl": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "에듀케어 대체강사",
-      "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
       "id": "seoul:gsycedu:15254",
       "schoolId": null,
       "schoolName": "서울강신초등학교병설유치원",
@@ -529,18 +541,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "방과후과정 학년말 방학중 운영인력",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15193",
-      "schoolId": "sen-7081459",
-      "schoolName": "서울양동초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "시간제돌봄전담사 돌봄",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
