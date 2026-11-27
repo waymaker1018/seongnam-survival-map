@@ -1,20 +1,8 @@
 {
-  "generatedAt": "2026-11-26T15:55:04.508Z",
-  "hitCount": 54,
+  "generatedAt": "2026-11-27T07:23:02.657Z",
+  "hitCount": 52,
   "errors": [],
   "items": [
-    {
-      "id": "seoul:dgedu:10314",
-      "schoolId": null,
-      "schoolName": "봉천초등학교",
-      "schoolHomepage": null,
-      "boardLabel": "서울 동작관악 구인",
-      "boardUrl": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": "2026-11-26T00:00:00+09:00",
-      "title": "봉천초등학교(4학년담임수업))",
-      "url": "https://dgedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
     {
       "id": "seoul:gdspedu:8411",
       "schoolId": null,
@@ -376,15 +364,15 @@
       "url": "https://jbedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
-      "id": "seoul:gsycedu:15254",
+      "id": "seoul:gsycedu:15257",
       "schoolId": null,
-      "schoolName": "서울강신초등학교병설유치원",
+      "schoolName": "서울탑산초등학교병설유치원",
       "schoolHomepage": null,
       "boardLabel": "서울 강서양천 구인",
       "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
       "postedAt": null,
       "deadline": null,
-      "title": "방학중 오후에듀케어강사",
+      "title": "방과후 과정반 방학 중 오전운영인력",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
@@ -397,30 +385,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "에듀케어 연가 대체 강사 채용 공고 에듀케어 연가 대체 강사 채용 공고",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15246",
-      "schoolId": null,
-      "schoolName": "서울탑산초등학교병설유치원",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "방학 중 방과후 과정반 오전운영인력",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15240",
-      "schoolId": null,
-      "schoolName": "서울강신초등학교병설유치원",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "방학중 오후에듀케어강사",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
@@ -541,6 +505,18 @@
       "postedAt": null,
       "deadline": null,
       "title": "방과후과정 학년말 방학중 운영인력",
+      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
+    },
+    {
+      "id": "seoul:gsycedu:15193",
+      "schoolId": "sen-7081459",
+      "schoolName": "서울양동초등학교",
+      "schoolHomepage": null,
+      "boardLabel": "서울 강서양천 구인",
+      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
+      "postedAt": null,
+      "deadline": null,
+      "title": "시간제돌봄전담사 돌봄",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
