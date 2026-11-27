@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-27T07:23:02.657Z",
-  "hitCount": 52,
+  "generatedAt": "2026-11-27T15:42:45.492Z",
+  "hitCount": 51,
   "errors": [],
   "items": [
     {
@@ -457,18 +457,6 @@
       "postedAt": null,
       "deadline": null,
       "title": "대안교실강사",
-      "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
-    },
-    {
-      "id": "seoul:gsycedu:15202",
-      "schoolId": null,
-      "schoolName": "서울염경초등학교병설유치원",
-      "schoolHomepage": null,
-      "boardLabel": "서울 강서양천 구인",
-      "boardUrl": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do",
-      "postedAt": null,
-      "deadline": null,
-      "title": "방학 중 방과후과정 보조인력 방과후과정 보조인력",
       "url": "https://gsycedu.sen.go.kr/FUS/JO/JOL11.do"
     },
     {
